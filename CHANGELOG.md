@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.0 — 2026-09-09
+
+- Added seven launch-inspired bilingual edit recipes, P061–P067, with 14 original input/output images.
+- Added official scenario attribution, before/after walkthroughs, exact prompts and observed limitations.
+- Expanded to 79 recipes, 12 packs and 21 recorded images; refreshed README and SEO counts.
+- Clarified the announcement’s model claims separately from developer-guide wording and local observations.
+
+
 ## 1.0.2 — 2026-09-09
 
 - Reorganized the default English README around quick start, prompt packs, examples, API access and community resources.

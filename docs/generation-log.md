@@ -1,10 +1,10 @@
 # Generation log · 图片生成记录
 
-Seven new images were generated on **2026-09-09** with the Codex built-in image tool. No external reference images were supplied. The two lamp edits use earlier outputs from this repository.
+21 original images were generated on **2026-09-09** with the Codex built-in image tool: one cover, six earlier examples and seven new input/output pairs. No external reference images were supplied; all edits use earlier outputs from this repository.
 
-The tool did not expose its underlying model ID, quality setting or seed. Consequently these examples cannot establish a Flare/Sunburst performance comparison. PNGs are retained as generated, without post-processing or metadata stripping. Each exact executed prompt is saved separately from the reusable recipe.
+工具未返回底层模型ID、质量设置或种子，不补写推断值。这21张图保留原始PNG；每个文件记录真实执行提示词、输入关系和人工目测结果。不可将这些图片视为Flare或Sunburst的已验证评测。
 
-本次7张图均新生成：1张封面、4张场景图、2张台灯连续修改图。未传入第三方参考图片，编辑仅使用本项目先前输出。工具未返回底层型号、质量参数或种子，不推断补写。保留原始PNG，配方与实际执行提示词分别记录。
+Exact prompts and inputs enable another attempt, not deterministic reproduction. Reusable recipes can differ from the executed prompt. Follow-up suggestions are unrendered unless a separate output is logged.
 
 ## Library cover
 
@@ -90,8 +90,170 @@ The tool did not expose its underlying model ID, quality setting or seed. Conseq
 
 **Review:** Main arrangement and four chairs visible. Added cup/vase and illegible book-spine marks; circulation and construction not validated.
 
-## Reproducibility limits
+## Terrier cape makeover — input
 
-Prompts and inputs enable another attempt, not deterministic reproduction. No seed was exposed. Changes in model routing, model version or generation randomness can change results. Only the listed images were rendered; the rest of the recipe collection remains a template library.
+![Terrier cape makeover: original input image by flaq.ai](../assets/images/launch-dog-input.png)
 
-For new contributions, record actual model metadata if available, the exact prompt, source-image relationships and honest review notes. Do not infer a specific model from the project title.
+- Recipe: `P061`
+- Dimensions: 1254 × 1254
+- [Exact executed prompt](../assets/generation/launch-dog-input.txt)
+- SHA-256: `a58f4c8d7151a23ea081b669284e2474e9c8b5a9cd68b6db33baad73335088ac`
+- Inputs: None / 无
+
+**Review:** Newly generated fictional input; no official example image was supplied. Inspect this input before editing.
+
+## Terrier cape makeover — edit
+
+![Terrier cape makeover: original edit image by flaq.ai](../assets/images/launch-dog-edit.png)
+
+- Recipe: `P061`
+- Dimensions: 1254 × 1254
+- [Exact executed prompt](../assets/generation/launch-dog-edit.txt)
+- SHA-256: `416e047e608211d21a421ee906fb47904d90e6a86545abbd3f2f03e2ec980db5`
+- Inputs: [launch-dog-input.png](../assets/images/launch-dog-input.png)
+
+**Review:** Green cape and tie added; eye patch, ears and paws remain recognizable. Fine fur detail changes.
+
+## Synthetic child portrait wardrobe edit — input
+
+![Synthetic child portrait wardrobe edit: original input image by flaq.ai](../assets/images/launch-child-input.png)
+
+- Recipe: `P062`
+- Dimensions: 1024 × 1536
+- [Exact executed prompt](../assets/generation/launch-child-input.txt)
+- SHA-256: `c783863a49c5ca2cf65dd65746437dd86a599e5b91997f2c7e8e0d25f1ce241b`
+- Inputs: None / 无
+
+**Review:** Newly generated fictional input; no official example image was supplied. The child is fully synthetic.
+
+## Synthetic child portrait wardrobe edit — edit
+
+![Synthetic child portrait wardrobe edit: original edit image by flaq.ai](../assets/images/launch-child-edit.png)
+
+- Recipe: `P062`
+- Dimensions: 1024 × 1536
+- [Exact executed prompt](../assets/generation/launch-child-edit.txt)
+- SHA-256: `8e5b4ef923f98b0560f268a70dd7c19aa3c1611ff3efcd49ffc1ffa03283c84c`
+- Inputs: [launch-child-input.png](../assets/images/launch-child-input.png)
+
+**Review:** Cardigan and cream shirt appear as requested; face, hands and pose remain visually similar. Fine texture is not identical. Subject is fully synthetic.
+
+## Duvet pattern swap — input
+
+![Duvet pattern swap: original input image by flaq.ai](../assets/images/launch-bed-input.png)
+
+- Recipe: `P063`
+- Dimensions: 1536 × 1024
+- [Exact executed prompt](../assets/generation/launch-bed-input.txt)
+- SHA-256: `d8a6afb258a81239a3de3eefeb5f3baee73789599bf8b9e385f95a0923875ba5`
+- Inputs: None / 无
+
+**Review:** Newly generated fictional input; no official example image was supplied. Inspect this input before editing.
+
+## Duvet pattern swap — edit
+
+![Duvet pattern swap: original edit image by flaq.ai](../assets/images/launch-bed-edit.png)
+
+- Recipe: `P063`
+- Dimensions: 1536 × 1024
+- [Exact executed prompt](../assets/generation/launch-bed-edit.txt)
+- SHA-256: `f2e253f57da09c5de0cd3186acc13745472a558dc83dfd1466e8ea1f8d7d4ac4`
+- Inputs: [launch-bed-input.png](../assets/images/launch-bed-input.png)
+
+**Review:** Striped duvet and two oatmeal pillows are present; room arrangement remains similar. Duvet folds drift slightly.
+
+## Souvenir city-name replacement — input
+
+![Souvenir city-name replacement: original input image by flaq.ai](../assets/images/launch-ticket-input.png)
+
+- Recipe: `P064`
+- Dimensions: 1536 × 1024
+- [Exact executed prompt](../assets/generation/launch-ticket-input.txt)
+- SHA-256: `04b59634b3119c0a383e989b67153fb9c074729cbb27cdf81c16bcd0cc9e045e`
+- Inputs: None / 无
+
+**Review:** Newly generated fictional input; no official example image was supplied. Inspect this input before editing.
+
+## Souvenir city-name replacement — edit
+
+![Souvenir city-name replacement: original edit image by flaq.ai](../assets/images/launch-ticket-edit.png)
+
+- Recipe: `P064`
+- Dimensions: 1536 × 1024
+- [Exact executed prompt](../assets/generation/launch-ticket-edit.txt)
+- SHA-256: `b9635545ed47cac69bf8920472877f76adb495b271d4ce89d093421ec1b9bfa4`
+- Inputs: [launch-ticket-input.png](../assets/images/launch-ticket-input.png)
+
+**Review:** LISBON and the other required strings visually match. Illustration details drift slightly. This is a fictional souvenir, not a valid ticket.
+
+## Symbol-marked cube rotation — input
+
+![Symbol-marked cube rotation: original input image by flaq.ai](../assets/images/launch-cube-input.png)
+
+- Recipe: `P065`
+- Dimensions: 1254 × 1254
+- [Exact executed prompt](../assets/generation/launch-cube-input.txt)
+- SHA-256: `7b29e4516720b4888cc2de57849b7eca9bbcdd4d482ae99476f28b661e8ab805`
+- Inputs: None / 无
+
+**Review:** Newly generated fictional input; no official example image was supplied. Inspect this input before editing.
+
+## Symbol-marked cube rotation — edit
+
+![Symbol-marked cube rotation: original edit image by flaq.ai](../assets/images/launch-cube-edit.png)
+
+- Recipe: `P065`
+- Dimensions: 1254 × 1254
+- [Exact executed prompt](../assets/generation/launch-cube-edit.txt)
+- SHA-256: `13f8b4e05e5d7bd7ea729d2f01a07d25e4e407249ed0cd759aabc5f6738f52a2`
+- Inputs: [launch-cube-input.png](../assets/images/launch-cube-input.png)
+
+**Review:** Partial result: face identities follow the intended arrangement, but a rigid 90-degree rotation is not established. The top outline has a visible kink. Do not use as validated geometry.
+
+## One-column itinerary revision — input
+
+![One-column itinerary revision: original input image by flaq.ai](../assets/images/launch-travel-input.png)
+
+- Recipe: `P066`
+- Dimensions: 1536 × 1024
+- [Exact executed prompt](../assets/generation/launch-travel-input.txt)
+- SHA-256: `aaa761b7c96a972fde34795ffbed0d4969145cf4e1bac70e91d3e3daa15fcd5e`
+- Inputs: None / 无
+
+**Review:** Newly generated fictional input; no official example image was supplied. Inspect this input before editing.
+
+## One-column itinerary revision — edit
+
+![One-column itinerary revision: original edit image by flaq.ai](../assets/images/launch-travel-edit.png)
+
+- Recipe: `P066`
+- Dimensions: 1536 × 1024
+- [Exact executed prompt](../assets/generation/launch-travel-edit.txt)
+- SHA-256: `8b1f2b6589d2b23b1321edd93ec789cb1056e6f10de010a0e21554c069f9e4a1`
+- Inputs: [launch-travel-input.png](../assets/images/launch-travel-input.png)
+
+**Review:** Middle time and heading match; three bowls appear on the workbench. Extra vessels appear on the shelf. Outer columns remain recognizable but fine illustration details drift.
+
+## Birthday candle count edit — input
+
+![Birthday candle count edit: original input image by flaq.ai](../assets/images/launch-cake-input.png)
+
+- Recipe: `P067`
+- Dimensions: 1254 × 1254
+- [Exact executed prompt](../assets/generation/launch-cake-input.txt)
+- SHA-256: `3ccfe58184f73c8ececee50b4bd1f9228f93eaf679de826813b441a8ba5244d2`
+- Inputs: None / 无
+
+**Review:** Newly generated fictional input; no official example image was supplied. Inspect this input before editing.
+
+## Birthday candle count edit — edit
+
+![Birthday candle count edit: original edit image by flaq.ai](../assets/images/launch-cake-edit.png)
+
+- Recipe: `P067`
+- Dimensions: 1254 × 1254
+- [Exact executed prompt](../assets/generation/launch-cake-edit.txt)
+- SHA-256: `24d7c809a3ada4a0816001a38ce7a0fe949e1b81fc9d54969f0e267b8327b5e0`
+- Inputs: [launch-cake-input.png](../assets/images/launch-cake-input.png)
+
+**Review:** Exactly five unlit orange candles are visible. Cake, plate and composition are similar; frosting texture changes slightly.

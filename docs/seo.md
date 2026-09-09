@@ -5,7 +5,7 @@ This repository uses descriptive titles, stable recipe IDs, readable links, usef
 ## GitHub About description
 
 ```text
-72 original ChatGPT Images 2.5 prompt recipes by flaq.ai: product photos, precise edits, ads, portraits and multilingual design, with new examples.
+79 original ChatGPT Images 2.5 prompt recipes by flaq.ai: product photos, precise edits, ads, portraits and multilingual design, with new examples.
 ```
 
 ## Suggested topics
@@ -20,8 +20,8 @@ ai-design, flaq-ai
 
 | Language | Title | Description |
 | --- | --- | --- |
-| English | ChatGPT Images 2.5 Prompts: 72 Original Recipes by flaq.ai | Explore original prompts for product photography, precise edits, ads, portraits and multilingual design, with examples and review notes. |
-| 简体中文 | ChatGPT Images 2.5 提示词：flaq.ai 原创72例 | 电商产品图、精准修图、人像宠物、广告海报和多语言设计提示词，附中英双语配方、新生成图片与验收记录。 |
+| English | ChatGPT Images 2.5 Prompts: 79 Original Recipes by flaq.ai | Explore original prompts for product photography, precise edits, ads, portraits and multilingual design, with examples and review notes. |
+| 简体中文 | ChatGPT Images 2.5 提示词：flaq.ai 原创79例 | 电商产品图、精准修图、人像宠物、广告海报和多语言设计提示词，附中英双语配方、新生成图片与验收记录。 |
 | 日本語 | ChatGPT Images 2.5 プロンプト集 — flaq.ai | 商品画像、画像編集、ポスターや多言語デザインのためのオリジナルプロンプトと作例。 |
 | Español | Prompts de ChatGPT Images 2.5 — flaq.ai | Recetas originales para fotos de producto, edición de imágenes, carteles y diseño multilingüe con ejemplos. |
 | Français | Prompts ChatGPT Images 2.5 — flaq.ai | Des briefs originaux pour les images produit, les retouches, les affiches et le design multilingue. |

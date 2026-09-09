@@ -3,7 +3,7 @@
 **A practical, multilingual prompt library for image generation and editing — product photos, ads, portraits, typography, UI concepts, infographics and storyboards.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Recipes: 72](https://img.shields.io/badge/Original_recipes-72-0f766e)](prompts/README.md)
+[![Recipes: 79](https://img.shields.io/badge/Original_recipes-79-0f766e)](prompts/README.md)
 [![Core: EN + Chinese](https://img.shields.io/badge/Core_prompts-EN_%2B_Chinese-f97316)](prompts/README.md)
 
 **English** · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [العربية](README_ar.md)
@@ -18,7 +18,7 @@
 
 A useful prompt says what the image must accomplish, which details can change, and what must survive the next edit. This collection turns everyday creative jobs into concrete briefs with composition, materials, exact copy, constraints, follow-up edits and review criteria.
 
-**72 recipes across 11 packs:** 60 core recipes with complete English and Simplified Chinese prompts, plus 12 language-specific briefs. Seven newly generated images include a library cover and six example outputs. Most recipes are authored templates awaiting rendering; individual entries disclose their status. Translations and follow-up edits are not counted as extra recipes.
+**79 recipes across 12 packs:** 67 core recipes with complete English and Simplified Chinese prompts, plus 12 language-specific briefs. 21 newly generated images include a library cover, six earlier examples and seven input/output pairs. Most recipes are authored templates awaiting rendering; individual entries disclose their status. Translations and follow-up edits are not counted as extra recipes.
 
 The library is for independent brands, online shops, designers, creators, educators and small production teams. Start with a lamp campaign, repair a poster headline, preserve a pet’s distinctive features, or build a consistent illustrated story.
 
@@ -70,6 +70,7 @@ The [full recipe](prompts/01-product.md#p001) and [exact executed prompt](assets
 | [Publishing & illustration](prompts/09-publishing.md) | Book cover, cookbook spread, annual review, editorial metaphor, ink print, zine | 6 |
 | [Series & production handoff](prompts/10-production.md) | Seasonal variants, aspect-ratio adaptation, localization, three-image composite, restoration, shot expansion | 6 |
 | [Multilingual briefs](prompts/11-multilingual.md) | Script-aware posters in English, Chinese, Japanese, Korean, Spanish, French, German, Portuguese, Arabic, Hindi, Thai and Russian | 12 |
+| [Launch-inspired editing examples](prompts/12-launch-examples.md) | Pet costume, child wardrobe, duvet pattern, souvenir text, cube rotation, itinerary revision, candle count | 7 |
 
 ## Featured examples
 
@@ -84,6 +85,18 @@ The [full recipe](prompts/01-product.md#p001) and [exact executed prompt](assets
 | [P037 · Story brief](prompts/07-stories-games.md#p037) | [P043 · Interior brief](prompts/08-spaces.md#p043) |
 
 These images were generated for this repository using Codex’s built-in image tool. Its underlying model ID was not returned, so they are **not verified Flare or Sunburst benchmarks**. The story has a visible continuity issue in panel three; the room contains extra styling objects. Read the [honest review notes](docs/generation-log.md) before using an example as a production reference.
+
+## New: seven launch-inspired before-and-after examples
+
+Explore original adaptations of scenarios in [OpenAI’s Images 2.5 launch article](https://openai.com/index/introducing-chatgpt-images-2-5/), with bilingual recipes and 14 newly generated images.
+
+| Before: three candles | After: five candles |
+| --- | --- |
+| ![Ivory birthday cake with three unlit orange candles](assets/images/launch-cake-input.png) | ![The cake edited to show five unlit orange candles](assets/images/launch-cake-edit.png) |
+
+Try pet styling, a synthetic child’s outfit change, a duvet pattern swap, city-name replacement, cube rotation or a single-column itinerary edit. Each pair includes exact prompts and an honest review. The cube result has a geometry defect; none of these outputs is a verified model benchmark.
+
+**[Browse all seven editing pairs →](docs/launch-examples.md)** · [Copy P061–P067](prompts/12-launch-examples.md)
 
 ## One campaign, two targeted edits
 
@@ -121,7 +134,7 @@ Start with an approved brief, test it in the playground, then follow the documen
 
 ## Multilingual prompting
 
-All 60 core recipes have complete English and Simplified Chinese versions. The [multilingual pack](prompts/11-multilingual.md) adds 12 language-specific briefs, including Japanese, Korean, Spanish, French, German, Portuguese, Arabic, Hindi, Thai and Russian alongside English and Chinese.
+All 67 core recipes have complete English and Simplified Chinese versions. The [multilingual pack](prompts/11-multilingual.md) adds 12 language-specific briefs, including Japanese, Korean, Spanish, French, German, Portuguese, Arabic, Hindi, Thai and Russian alongside English and Chinese.
 
 Separate the language of your instructions from the text printed in the image. Provide approved copy, preserve brand names deliberately, and allow appropriate line wrapping. The [localization guide](docs/localization-guide.md) covers script-aware checks. Localized README pages are entry points; they do not imply that every recipe has been translated into every language.
 
@@ -141,7 +154,7 @@ The repository’s original material is offered under the [MIT License](LICENSE)
 
 No. This is an independent open-source project created and maintained by the **flaq.ai team**, without OpenAI affiliation or endorsement.
 
-### Are all 72 prompts tested on Images 2.5?
+### Are all 79 prompts tested on Images 2.5?
 
 No. We publish authored templates alongside a small, explicitly logged set of newly generated examples. The built-in generation tool did not expose its model ID. There are no claimed model comparison scores or universal success rates.
 

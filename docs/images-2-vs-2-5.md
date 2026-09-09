@@ -20,6 +20,12 @@ Images 2.5 的选择重点是：日常生成考虑 Flare；复杂画质和编辑
 
 前两行依据上述模型页；画质、编辑与速度定位依据官方 [Images 2.5 prompting guide](https://developers.openai.com/api/docs/guides/image-prompting)。这些是官方描述，不是本仓库测得的胜率、耗时或像素误差。
 
+## 发布文章补充
+
+官方[2026年9月8日发布文章](https://openai.com/index/introducing-chatgpt-images-2-5/)将Flare描述为画质高于GPT Image 2、延迟降低50%；其表述比上表引用的开发者指南更强。这里分别注明来源，不把厂商描述换成本库实测结论。不同任务的画质与耗时仍需按同一输入评估。
+
+本库新增[7组原创前后对照](launch-examples.md)，用于观察局部编辑、主体保留和数量约束。工具未暴露底层模型ID，这些图不用于证明2.5相对2的提升幅度。
+
 ## 哪些变化最值得实际尝试？
 
 以下是 flaq.ai 的应用建议。每项都给出可验收的任务，方便判断升级是否对你的工作有用。

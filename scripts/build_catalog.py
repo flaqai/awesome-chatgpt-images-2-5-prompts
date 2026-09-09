@@ -7,11 +7,12 @@ def build():
     data = json.loads((ROOT/'data/catalog.json').read_text())
     manifest = json.loads((ROOT/'assets/manifest.json').read_text())
     examples = {}
+    core_count = sum(len(pack['recipes']) for pack in data['packs'])
     for asset in manifest['assets']:
         examples.setdefault(asset['recipe_id'], []).append(asset)
     index = ['# Prompt index · 提示词索引', '', '[English](../README.md) · [简体中文](../README_zh.md)', '',
-             '60 bilingual core recipes + 12 language-specific recipes. Translations and follow-ups are not counted as separate recipes.', '',
-             '60 条中英双语核心配方 + 12 条语言专用配方；翻译和后续修改不重复计数。', '',
+             f'{core_count} bilingual core recipes + 12 language-specific recipes. Translations and follow-ups are not counted as separate recipes.', '',
+             f'{core_count} 条中英双语核心配方 + 12 条语言专用配方；翻译和后续修改不重复计数。', '',
              '| ID | English | 中文 | Mode | Ratio |', '| --- | --- | --- | --- | --- |']
     full=[]
     for pack in data['packs']:
@@ -19,6 +20,8 @@ def build():
                f'Images 2.5 workflow focus: **{pack["focus"]}**.', '',
                'Copy one language block. For edits, attach the images named in the prompt in that order. Requested ratios are creative targets; verify actual output dimensions.', '',
                '任选一种语言复制。编辑任务须按提示顺序附参考图；比例为创作目标，输出后核对实际尺寸。', '']
+        if pack.get('source_url'):
+            lines += [f'Scenario inspiration: [OpenAI launch article]({pack["source_url"]}). Original flaq.ai prompts and newly generated images; not copied official demonstrations. [Before/after guide](../docs/launch-examples.md).', '']
         lines += [f'- [{r["id"]} · {r["title"]["en"]}](#{r["id"].lower()})' for r in pack['recipes']]
         for r in pack['recipes']:
             index.append(f'| {r["id"]} | [{r["title"]["en"]}]({pack["slug"]}.md#{r["id"].lower()}) | {r["title"]["zh"]} | {r["mode"]} | {r["ratio"]} |')

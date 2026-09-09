@@ -2,9 +2,9 @@
 
 [English](../README.md) · [简体中文](../README_zh.md)
 
-60 bilingual core recipes + 12 language-specific recipes. Translations and follow-ups are not counted as separate recipes.
+67 bilingual core recipes + 12 language-specific recipes. Translations and follow-ups are not counted as separate recipes.
 
-60 条中英双语核心配方 + 12 条语言专用配方；翻译和后续修改不重复计数。
+67 条中英双语核心配方 + 12 条语言专用配方；翻译和后续修改不重复计数。
 
 | ID | English | 中文 | Mode | Ratio |
 | --- | --- | --- | --- | --- |
@@ -68,6 +68,13 @@
 | P058 | [Three-reference product composite](10-production.md#p058) | 三参考图商品合成 | edit | 3:2 |
 | P059 | [Vintage-photo gentle restoration](10-production.md#p059) | 老照片轻度修复 | edit | 3:2 |
 | P060 | [Approved storyboard shot expansion](10-production.md#p060) | 确认分镜扩展单镜头 | edit | 16:9 |
+| P061 | [Terrier cape makeover](12-launch-examples.md#p061) | 梗犬披风换装 | edit | 1:1 |
+| P062 | [Synthetic child portrait wardrobe edit](12-launch-examples.md#p062) | 虚构儿童人像换装 | edit | 2:3 |
+| P063 | [Duvet pattern swap](12-launch-examples.md#p063) | 卧室被套花色替换 | edit | 3:2 |
+| P064 | [Souvenir city-name replacement](12-launch-examples.md#p064) | 纪念卡城市文字替换 | edit | 3:2 |
+| P065 | [Symbol-marked cube rotation](12-launch-examples.md#p065) | 带符号立方体旋转 | edit | 1:1 |
+| P066 | [One-column itinerary revision](12-launch-examples.md#p066) | 旅行信息图单栏修改 | edit | 3:2 |
+| P067 | [Birthday candle count edit](12-launch-examples.md#p067) | 生日蜡烛数量修改 | edit | 1:1 |
 | L001 | [English · Repair workshop flyer](11-multilingual.md#l001) | en | generate | 2:3 |
 | L002 | [简体中文 · 城市慢生活海报](11-multilingual.md#l002) | zh-Hans | generate | 2:3 |
 | L003 | [日本語 · ベーカリーポスター](11-multilingual.md#l003) | ja | generate | 2:3 |

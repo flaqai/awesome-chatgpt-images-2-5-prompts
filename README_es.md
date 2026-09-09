@@ -6,7 +6,7 @@ Proyecto independiente de código abierto creado y mantenido por el equipo de [f
 
 ![flaq.ai — ChatGPT Images 2.5](assets/images/cover.png)
 
-72 recetas: 60 con instrucciones completas en inglés y chino simplificado, más 12 recetas específicas por idioma. Incluye siete imágenes nuevas. Esta página es una introducción en español, no una traducción completa de la biblioteca.
+79 recetas: 67 con instrucciones completas en inglés y chino simplificado, más 12 recetas específicas por idioma. Incluye 21 imágenes nuevas. Esta página es una introducción en español, no una traducción completa de la biblioteca.
 
 ## Cómo empezar
 

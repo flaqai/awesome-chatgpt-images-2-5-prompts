@@ -6,7 +6,7 @@ This is an independent flaq.ai open-source collection. We organize familiar crea
 
 - Scenario planning used general work categories such as product photography, posters, portraits, education and image editing.
 - Prompt wording, fictional briefs, composition decisions, copy and review criteria were composed for this repository. No third-party prompt corpus or image collection was imported.
-- Seven images were newly generated from the exact prompts saved under [assets/generation](../assets/generation). Later lamp edits use this project’s own preceding output.
+- 21 images were newly generated from the exact prompts saved under [assets/generation](../assets/generation). All edits use this project’s own preceding outputs. Launch-inspired exercises cite the official scenario source; their prompts and images are newly authored.
 - The [manifest](../assets/manifest.json) records each output’s input relationships, dimensions, hash and review notes. The generation tool did not expose the underlying model ID.
 - Official model documentation is linked for factual API claims. The project is neither affiliated with nor endorsed by OpenAI.
 
