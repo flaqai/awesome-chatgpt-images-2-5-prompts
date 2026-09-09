@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.1 — 2026-09-09
+
+- Added 10 README entry pages: Traditional Chinese, Korean, German, Brazilian Portuguese, Italian, Russian, Hindi, Thai, Indonesian and Vietnamese.
+- Unified navigation across 16 language and regional versions, keeping English as default.
+- Refined Flaq.ai platform and team introductions, with GPT Image 2 API and affiliate links in localized pages.
+- Documented translation scope and locale metadata; recipe and image totals remain 79 and 21.
+
+
 ## 1.1.0 — 2026-09-09
 
 - Added seven launch-inspired bilingual edit recipes, P061–P067, with 14 original input/output images.

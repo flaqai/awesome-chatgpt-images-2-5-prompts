@@ -40,3 +40,30 @@ Do not use an image model to determine current prices, event details or translat
 ## 中文说明
 
 指令语言和图中文字语言是两件事。先确定译文，再要求渲染；品牌可保持原文，正文按目标语言重排。不要强行沿用英文换行导致中文挤压或阿拉伯文方向错误。每种语言单独生成和审校，未审校的版本不要标成母语校对完成。
+
+## README language coverage
+
+The project has **16 README language and regional versions**. English is the default. English and Simplified Chinese contain the full project overview; the other versions are localized entry pages with a sample prompt, usage guidance, example limitations and Flaq.ai links. Linked guides and recipes retain their own languages.
+
+README availability, recipe translation and on-image text quality are separate concerns. The 67 core recipes remain bilingual in English and Simplified Chinese, with 12 additional language-specific recipes. New Italian, Indonesian, Vietnamese and Traditional Chinese README examples adapt existing recipes; they do not increase the 79-recipe total and have not been rendered. Independent native-language editorial review has not been recorded.
+
+| README | Locale | Scope |
+| --- | --- | --- |
+| [English](../README.md) | `en` | Full project overview |
+| [简体中文](../README_zh.md) | `zh-Hans` | Full project overview |
+| [繁體中文](../README_tw.md) | `zh-Hant` | Localized entry page + sample prompt |
+| [日本語](../README_ja.md) | `ja` | Localized entry page + sample prompt |
+| [한국어](../README_ko.md) | `ko` | Localized entry page + sample prompt |
+| [Español](../README_es.md) | `es` | Localized entry page + sample prompt |
+| [Français](../README_fr.md) | `fr` | Localized entry page + sample prompt |
+| [Deutsch](../README_de.md) | `de` | Localized entry page + sample prompt |
+| [Português (Brasil)](../README_pt.md) | `pt-BR` | Localized entry page + sample prompt |
+| [Italiano](../README_it.md) | `it` | Localized entry page + sample prompt |
+| [Русский](../README_ru.md) | `ru` | Localized entry page + sample prompt |
+| [العربية](../README_ar.md) | `ar` | Localized entry page + sample prompt |
+| [हिन्दी](../README_hi.md) | `hi` | Localized entry page + sample prompt |
+| [ไทย](../README_th.md) | `th` | Localized entry page + sample prompt |
+| [Bahasa Indonesia](../README_id.md) | `id` | Localized entry page + sample prompt |
+| [Tiếng Việt](../README_vi.md) | `vi` | Localized entry page + sample prompt |
+
+For translation contributions, preserve recipe counts and model distinctions, verify every local link, and request fluent editorial review before labeling a version as reviewed. Do not count a translated README example as a new recipe.

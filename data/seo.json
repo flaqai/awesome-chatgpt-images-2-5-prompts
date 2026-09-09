@@ -36,5 +36,23 @@
     "ai-design",
     "flaq-ai"
   ],
-  "publication_status": "Prepared locally; no hosted site or GitHub metadata settings changed."
+  "publication_status": "Prepared locally; no hosted site or GitHub metadata settings changed.",
+  "readme_locales": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "ja",
+    "ko",
+    "es",
+    "fr",
+    "de",
+    "pt-BR",
+    "it",
+    "ru",
+    "ar",
+    "hi",
+    "th",
+    "id",
+    "vi"
+  ]
 }

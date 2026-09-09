@@ -2,7 +2,7 @@
 
 **面向电商产品图、精准修图、人物宠物、广告海报、故事分镜与多语言设计的实用提示词。由 [flaq.ai](https://flaq.ai) 团队创作、维护并开源。**
 
-[English](README.md) · 简体中文 · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [العربية](README_ar.md)
+[English](README.md) · **简体中文** · [繁體中文](README_tw.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
 
 ![flaq.ai 原创 ChatGPT Images 2.5 提示词库封面：Make ideas visible](assets/images/cover.png)
 
@@ -26,6 +26,8 @@
 - [GPT Image 2 与 Images 2.5 升级对比](docs/images-2-vs-2-5.md)：解释Flare、Sunburst的区别，以及哪些能力属于改进而非首次支持。
 
 两份指南复用现有配方和图片，不增加配方计数，不冒充模型对比实测。
+
+README现提供 **16个语言／地区版本**，默认英文。各语言入口包含使用指引、示例提示词和平台资源；核心配方仍为完整中英双语。[查看语言覆盖范围](docs/localization-guide.md#readme-language-coverage)。
 
 ## 三步开始
 
@@ -137,9 +139,11 @@
 
 ## 关于 flaq.ai 团队
 
-[flaq.ai](https://flaq.ai) 团队建设面向开发者和创作者的统一模型 API 平台，覆盖图像、视频、音乐和语言模型。通过模型市场、创作体验和接口文档，帮助用户把创意尝试逐步接入应用。
+[flaq.ai](https://flaq.ai) 是面向 AI Agent、创意应用和内容生产流程的统一 API 平台，覆盖图像、视频、音乐与语言模型。开发者可以从[模型市场](https://flaq.ai/model-market/)选择模型，通过[接口文档](https://flaq.ai/docs/)把已经验证的创作流程接入应用。
 
-本开源项目由 flaq.ai 团队输出，专注于具体创作简报、多语言工作流、原创示例和透明验收记录，让提示词更方便学习、改造与分享。
+对于本提示词库，可以先选配方、生成并检查效果，再将确认后的流程用于产品。上方提供 flaq.ai 的 GPT Image 2 生成与编辑入口；Images 2.5 的 OpenAI 直连方式见独立 API 指南。
+
+本开源项目由 flaq.ai 团队创作和维护，将提示词、原创示例与修改经验整理为可复用资源。欢迎补充实用场景、修正翻译，并提交带真实提示词和结果记录的案例。
 
 - [访问 flaq.ai](https://flaq.ai)
 - [查看 API 文档](https://flaq.ai/docs/)

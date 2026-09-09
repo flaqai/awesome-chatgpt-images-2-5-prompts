@@ -6,11 +6,11 @@
 [![Recipes: 79](https://img.shields.io/badge/Original_recipes-79-0f766e)](prompts/README.md)
 [![Core: EN + Chinese](https://img.shields.io/badge/Core_prompts-EN_%2B_Chinese-f97316)](prompts/README.md)
 
-**English** · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [العربية](README_ar.md)
+**English** · [简体中文](README_zh.md) · [繁體中文](README_tw.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
 
 ![ChatGPT Images 2.5 prompt library by flaq.ai: Make ideas visible, with original tactile paper and ceramic objects](assets/images/cover.png)
 
-> Created and maintained by the [flaq.ai](https://flaq.ai) team. Flaq.ai brings image, video, music and language models together through a unified API platform for developers and creators.
+> Created and maintained by the [flaq.ai](https://flaq.ai) team. Flaq.ai gives developers building AI agents and creative applications a unified API for image, video, music and language models.
 
 [Start with a prompt](#quick-start) · [Browse use cases](#prompt-library) · [View examples](#featured-examples) · [Use the Flaq.ai API](#gpt-image-2-api-on-flaqai) · [Join the affiliate program](#flaqai-affiliate-program)
 
@@ -134,6 +134,8 @@ Start with an approved brief, test it in the playground, then follow the documen
 
 ## Multilingual prompting
 
+**16 README language and regional versions** help readers get started in their preferred language. English remains the default; localized entry pages include a practical prompt, usage guidance and Flaq.ai resources. See the [language coverage table](docs/localization-guide.md#readme-language-coverage) for the exact scope.
+
 All 67 core recipes have complete English and Simplified Chinese versions. The [multilingual pack](prompts/11-multilingual.md) adds 12 language-specific briefs, including Japanese, Korean, Spanish, French, German, Portuguese, Arabic, Hindi, Thai and Russian alongside English and Chinese.
 
 Separate the language of your instructions from the text printed in the image. Provide approved copy, preserve brand names deliberately, and allow appropriate line wrapping. The [localization guide](docs/localization-guide.md) covers script-aware checks. Localized README pages are entry points; they do not imply that every recipe has been translated into every language.
@@ -176,9 +178,11 @@ Help expand the library with an original practical brief, a language correction 
 
 ## About the Flaq.ai team
 
-The [flaq.ai](https://flaq.ai) team builds a unified API platform for people creating with image, video, music and language models. Developers can explore the model market, try creative directions and use model-specific documentation to bring generation workflows into their products.
+[Flaq.ai](https://flaq.ai) is a unified API platform for developers building AI agents, creative applications and repeatable production workflows. It brings image, video, music and language models into a shared platform, with a [model market](https://flaq.ai/model-market/) for discovery and [API documentation](https://flaq.ai/docs/) for integration.
 
-We publish this open-source library to turn creative experiments into useful, shareable recipes. Our focus here is concrete briefs, multilingual workflows, original examples and transparent review notes that help creators adapt a prompt to their own work.
+For this library, the practical path is simple: choose a creative brief, try a model, inspect the result, then bring the approved workflow into your application. The GPT Image 2 generation and editing links above provide starting points on Flaq.ai; the Images 2.5 guide covers the separate direct OpenAI workflow.
+
+The flaq.ai team creates and maintains this open-source collection so that prompts, examples and lessons from each edit can be reused and improved by the community. Contributions can add a practical use case, correct a translation or document a result with its exact prompt.
 
 - [Explore Flaq.ai](https://flaq.ai)
 - [Browse the model market](https://flaq.ai/model-market/)

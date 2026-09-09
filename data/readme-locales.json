@@ -1,0 +1,87 @@
+{
+  "default": "en",
+  "scope": "Localized entry pages; English and Simplified Chinese remain the complete core recipe languages.",
+  "review_status": "Authored translations; independent native-language editorial review is not recorded.",
+  "versions": [
+    {
+      "locale": "en",
+      "label": "English",
+      "path": "README.md"
+    },
+    {
+      "locale": "zh-Hans",
+      "label": "简体中文",
+      "path": "README_zh.md"
+    },
+    {
+      "locale": "zh-Hant",
+      "label": "繁體中文",
+      "path": "README_tw.md"
+    },
+    {
+      "locale": "ja",
+      "label": "日本語",
+      "path": "README_ja.md"
+    },
+    {
+      "locale": "ko",
+      "label": "한국어",
+      "path": "README_ko.md"
+    },
+    {
+      "locale": "es",
+      "label": "Español",
+      "path": "README_es.md"
+    },
+    {
+      "locale": "fr",
+      "label": "Français",
+      "path": "README_fr.md"
+    },
+    {
+      "locale": "de",
+      "label": "Deutsch",
+      "path": "README_de.md"
+    },
+    {
+      "locale": "pt-BR",
+      "label": "Português (Brasil)",
+      "path": "README_pt.md"
+    },
+    {
+      "locale": "it",
+      "label": "Italiano",
+      "path": "README_it.md"
+    },
+    {
+      "locale": "ru",
+      "label": "Русский",
+      "path": "README_ru.md"
+    },
+    {
+      "locale": "ar",
+      "label": "العربية",
+      "path": "README_ar.md"
+    },
+    {
+      "locale": "hi",
+      "label": "हिन्दी",
+      "path": "README_hi.md"
+    },
+    {
+      "locale": "th",
+      "label": "ไทย",
+      "path": "README_th.md"
+    },
+    {
+      "locale": "id",
+      "label": "Bahasa Indonesia",
+      "path": "README_id.md"
+    },
+    {
+      "locale": "vi",
+      "label": "Tiếng Việt",
+      "path": "README_vi.md"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 مشروع مستقل ومفتوح المصدر، أنشأه ويحافظ عليه فريق [flaq.ai](https://flaq.ai). يشمل صور المنتجات والتحرير الدقيق والصور الشخصية والحيوانات الأليفة والملصقات والقصص المصورة والتصميم متعدد اللغات.
 
-[English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [العربية](README_ar.md)
+[English](README.md) · [简体中文](README_zh.md) · [繁體中文](README_tw.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · **العربية** · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
 
 ![flaq.ai — ChatGPT Images 2.5](assets/images/cover.png)
 
@@ -29,3 +29,11 @@
 [سجل التوليد](docs/generation-log.md) · [دراسة التحرير](docs/editing-case-study.md) · [دليل API](docs/api-guide.md) · [المكتبة](prompts/README.md)
 
 المشروع غير تابع لـ OpenAI. يُقدَّم المحتوى الأصلي وفق [ترخيص MIT](LICENSE). للمشاركة، راجع [دليل المساهمة](CONTRIBUTING.md).
+
+## حول flaq.ai
+
+توفّر [flaq.ai](https://flaq.ai) واجهة API موحّدة لنماذج الصور والفيديو والموسيقى واللغة، لمطوّري وكلاء الذكاء الاصطناعي والتطبيقات. ينشر الفريق هذه المكتبة لمشاركة مطالبات قابلة لإعادة الاستخدام وأمثلة أصلية وملاحظات عن النتائج.
+
+روابط Flaq.ai التالية تخص GPT Image 2. لاستخدام Images 2.5 مباشرة عبر OpenAI، راجع [دليل API](docs/api-guide.md).
+
+[GPT Image 2 API](https://flaq.ai/models/openai/gpt-image-2/) · [GPT Image 2 Edit API](https://flaq.ai/models/openai/gpt-image-2-edit/) · [API docs](https://flaq.ai/docs/) · [Model market](https://flaq.ai/model-market/) · [Affiliate program](https://flaq.ai/affiliate-program/)

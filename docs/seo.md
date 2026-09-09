@@ -42,3 +42,7 @@ Write headings around real use cases. Link each example to a recipe and exact pr
 ## 中文发布说明
 
 SEO资料已经准备好，但不会自动修改GitHub简介、主题和分享图。首页通过清晰标题、场景长尾词、目录、语言入口和图片说明组织内容；不保证搜索排名，不堆砌关键词，不伪造评价。若以后另建网站，再根据真实域名配置canonical、语言链接与结构化数据，不能直接假设某个域名已上线。
+
+## README language navigation
+
+The repository offers 16 language and regional README versions, documented in the [coverage table](localization-guide.md#readme-language-coverage) and [locale manifest](../data/readme-locales.json). Keep this separate from the 12 language-specific prompt recipes. Localized entry pages are not full translations of every recipe. English remains the default landing page.

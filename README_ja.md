@@ -2,7 +2,7 @@
 
 [flaq.ai](https://flaq.ai) チームが制作・公開する独立したオープンソースプロジェクトです。商品写真、部分編集、人物・ペット、ポスター、ストーリーボード、多言語デザインを扱います。
 
-[English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [العربية](README_ar.md)
+[English](README.md) · [简体中文](README_zh.md) · [繁體中文](README_tw.md) · **日本語** · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
 
 ![flaq.ai — ChatGPT Images 2.5](assets/images/cover.png)
 
@@ -29,3 +29,11 @@
 [生成記録](docs/generation-log.md) · [編集事例](docs/editing-case-study.md) · [APIガイド](docs/api-guide.md) · [全プロンプト](prompts/README.md)
 
 この独立プロジェクトはOpenAIの公式プロジェクトではありません。独自コンテンツは[MITライセンス](LICENSE)で提供します。投稿は[貢献ガイド](CONTRIBUTING.md)をご覧ください。
+
+## flaq.aiについて
+
+[flaq.ai](https://flaq.ai) は、AIエージェントやアプリの開発者向けに、画像・動画・音楽・言語モデルを統合APIで提供するプラットフォームです。チームはこのオープンソース集を通じて、再利用できるプロンプトと作例の検証記録を共有しています。
+
+以下のFlaq.aiリンクはGPT Image 2向けです。Images 2.5のOpenAI直接利用については[APIガイド](docs/api-guide.md)をご覧ください。
+
+[GPT Image 2 API](https://flaq.ai/models/openai/gpt-image-2/) · [GPT Image 2 Edit API](https://flaq.ai/models/openai/gpt-image-2-edit/) · [API docs](https://flaq.ai/docs/) · [Model market](https://flaq.ai/model-market/) · [Affiliate program](https://flaq.ai/affiliate-program/)
