@@ -1,0 +1,40 @@
+{
+  "repository": "https://github.com/flaqai/awesome-chatgpt-images-2-5-prompts",
+  "title": "ChatGPT Images 2.5 Prompts: 72 Original Recipes by flaq.ai",
+  "description": "72 original ChatGPT Images 2.5 prompt recipes by flaq.ai: product photos, precise edits, ads, portraits and multilingual design, with new examples.",
+  "author": "flaq.ai team",
+  "author_url": "https://flaq.ai",
+  "image": "assets/images/cover.png",
+  "updated": "2026-09-09",
+  "core_languages": [
+    "en",
+    "zh-Hans"
+  ],
+  "localized_recipe_languages": [
+    "en",
+    "zh-Hans",
+    "ja",
+    "ko",
+    "es",
+    "fr",
+    "de",
+    "pt-BR",
+    "ar",
+    "hi",
+    "th",
+    "ru"
+  ],
+  "topics": [
+    "chatgpt-images-2-5",
+    "gpt-image-2-5",
+    "image-generation",
+    "image-editing",
+    "prompt-library",
+    "awesome-list",
+    "product-photography",
+    "multilingual",
+    "ai-design",
+    "flaq-ai"
+  ],
+  "publication_status": "Prepared locally; no hosted site or GitHub metadata settings changed."
+}

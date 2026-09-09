@@ -1,0 +1,2031 @@
+{
+  "core": [
+    {
+      "id": "P001",
+      "title": {
+        "en": "Portable lamp campaign",
+        "zh": "无线台灯广告主图"
+      },
+      "ratio": "3:2",
+      "mode": "generate",
+      "brief": {
+        "en": "Art-direct an original TIDELINE portable lamp campaign. Put a squat midnight-blue metal base with an ivory disc shade and orange fabric pull tab on a coral stepped plinth. Light the underside warmly against a deep navy backdrop. Product occupies the right 60%; use spacious white typography at left: \"LIGHT, UNPLUGGED.\" and \"TIDELINE\". Photograph plausible anodized metal texture and soft shadows.",
+        "zh": "为虚构品牌 TIDELINE 创作无线台灯广告。午夜蓝金属矮圆柱底座搭配象牙白圆盘灯罩和橙色织物拉环，放在珊瑚色阶梯展台上。深蓝背景，灯罩底部暖光，右侧产品占六成；左侧白字仅为“LIGHT, UNPLUGGED.”与“TIDELINE”。呈现真实金属微纹理及柔和阴影。"
+      },
+      "constraints": {
+        "en": "One lamp; no invented battery claims or extra text.",
+        "zh": "仅一盏灯，不编造续航参数，不添加文字。"
+      },
+      "revision": {
+        "en": "Change only the base finish to muted jade; preserve shade, pull tab, framing and copy.",
+        "zh": "只将底座改为低饱和玉绿色，保留灯罩、拉环、构图和文字。"
+      },
+      "review": {
+        "en": "Check text character by character and compare shade outline and tab placement.",
+        "zh": "逐字检查文案，比较灯罩轮廓及拉环位置。"
+      },
+      "status": "related-example-available",
+      "pack": "01-product",
+      "prompt": {
+        "en": "Asset: Portable lamp campaign. Target aspect ratio: 3:2. Mode: generate.\nArt-direct an original TIDELINE portable lamp campaign. Put a squat midnight-blue metal base with an ivory disc shade and orange fabric pull tab on a coral stepped plinth. Light the underside warmly against a deep navy backdrop. Product occupies the right 60%; use spacious white typography at left: \"LIGHT, UNPLUGGED.\" and \"TIDELINE\". Photograph plausible anodized metal texture and soft shadows.\nConstraints: One lamp; no invented battery claims or extra text.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：无线台灯广告主图。目标比例：3:2。模式：新建。\n为虚构品牌 TIDELINE 创作无线台灯广告。午夜蓝金属矮圆柱底座搭配象牙白圆盘灯罩和橙色织物拉环，放在珊瑚色阶梯展台上。深蓝背景，灯罩底部暖光，右侧产品占六成；左侧白字仅为“LIGHT, UNPLUGGED.”与“TIDELINE”。呈现真实金属微纹理及柔和阴影。\n约束：仅一盏灯，不编造续航参数，不添加文字。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": [
+        "assets/images/tideline-lamp.png"
+      ]
+    },
+    {
+      "id": "P002",
+      "title": {
+        "en": "Ceramic cup catalog",
+        "zh": "陶瓷杯白底商品图"
+      },
+      "ratio": "1:1",
+      "mode": "edit",
+      "brief": {
+        "en": "Image 1 is the seller-owned cup photograph. Place this exact cup on a clean white seamless background, centered with 12% margins. Keep the full handle visible; retain speckled glaze, small handmade asymmetries and believable contact shadow. Use neutral studio illumination suitable for a catalog. No props or text.",
+        "zh": "图1为商家自有陶瓷杯照片。将同一只杯子放在纯白无缝背景中央，四周留白12%，完整露出把手。保留斑点釉面、手作不对称及自然接触阴影，采用中性影棚光，不添加道具和文字。"
+      },
+      "constraints": {
+        "en": "Preserve silhouette, handle opening, glaze pattern and scale; do not repair intentional imperfections.",
+        "zh": "保留轮廓、把手开口、釉面纹路和比例，不抹除刻意保留的手作痕迹。"
+      },
+      "revision": {
+        "en": "Soften only the floor shadow; keep all cup pixels as close to the source as possible.",
+        "zh": "只柔化落地阴影，杯体尽可能贴近原图。"
+      },
+      "review": {
+        "en": "Inspect rim continuity, handle interior and white balance against the input.",
+        "zh": "对比原图检查杯口、把手内部与白平衡。"
+      },
+      "status": "template-not-rendered",
+      "pack": "01-product",
+      "prompt": {
+        "en": "Asset: Ceramic cup catalog. Target aspect ratio: 1:1. Mode: edit.\nImage 1 is the seller-owned cup photograph. Place this exact cup on a clean white seamless background, centered with 12% margins. Keep the full handle visible; retain speckled glaze, small handmade asymmetries and believable contact shadow. Use neutral studio illumination suitable for a catalog. No props or text.\nConstraints: Preserve silhouette, handle opening, glaze pattern and scale; do not repair intentional imperfections.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：陶瓷杯白底商品图。目标比例：1:1。模式：编辑。\n图1为商家自有陶瓷杯照片。将同一只杯子放在纯白无缝背景中央，四周留白12%，完整露出把手。保留斑点釉面、手作不对称及自然接触阴影，采用中性影棚光，不添加道具和文字。\n约束：保留轮廓、把手开口、釉面纹路和比例，不抹除刻意保留的手作痕迹。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P003",
+      "title": {
+        "en": "Skincare ingredient still life",
+        "zh": "护肤品成分氛围图"
+      },
+      "ratio": "4:5",
+      "mode": "generate",
+      "brief": {
+        "en": "Create a still life for fictional MOSS HOUR face oil: an amber bottle with a cream label reading \"MOSS HOUR\" and \"FACE OIL\", one folded linen cloth and two olive leaves on limestone. Use a close three-quarter angle, soft side daylight and controlled glass highlights. Leave the upper quarter calm for later layout.",
+        "zh": "为虚构 MOSS HOUR 面部护理油拍摄静物：琥珀玻璃瓶、奶油色标签“MOSS HOUR”和“FACE OIL”、一块折叠亚麻布、两片橄榄叶，置于石灰岩台面。近距离四分之三视角，柔和侧面日光，控制玻璃高光，上方四分之一留白。"
+      },
+      "constraints": {
+        "en": "No medical benefits, certification seals or invented ingredient percentages; exactly one bottle.",
+        "zh": "不添加医疗功效、认证标章或成分比例，仅一个瓶子。"
+      },
+      "revision": {
+        "en": "Replace only the linen with a pale sage cotton cloth, keeping folds similarly positioned.",
+        "zh": "仅将亚麻布换成浅鼠尾草绿棉布，折叠位置相近。"
+      },
+      "review": {
+        "en": "Check label spelling, bottle-neck geometry and reflections that cross the label.",
+        "zh": "检查标签拼写、瓶口结构和遮挡标签的反光。"
+      },
+      "status": "template-not-rendered",
+      "pack": "01-product",
+      "prompt": {
+        "en": "Asset: Skincare ingredient still life. Target aspect ratio: 4:5. Mode: generate.\nCreate a still life for fictional MOSS HOUR face oil: an amber bottle with a cream label reading \"MOSS HOUR\" and \"FACE OIL\", one folded linen cloth and two olive leaves on limestone. Use a close three-quarter angle, soft side daylight and controlled glass highlights. Leave the upper quarter calm for later layout.\nConstraints: No medical benefits, certification seals or invented ingredient percentages; exactly one bottle.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：护肤品成分氛围图。目标比例：4:5。模式：新建。\n为虚构 MOSS HOUR 面部护理油拍摄静物：琥珀玻璃瓶、奶油色标签“MOSS HOUR”和“FACE OIL”、一块折叠亚麻布、两片橄榄叶，置于石灰岩台面。近距离四分之三视角，柔和侧面日光，控制玻璃高光，上方四分之一留白。\n约束：不添加医疗功效、认证标章或成分比例，仅一个瓶子。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P004",
+      "title": {
+        "en": "Mechanical coffee grinder cutaway",
+        "zh": "手摇磨豆机结构概念图"
+      },
+      "ratio": "3:2",
+      "mode": "generate",
+      "brief": {
+        "en": "Design a conceptual cutaway of a fictional manual coffee grinder on off-white. Arrange crank, lid, central shaft, conical burr and grounds cup in a vertical exploded stack. Five thin leaders end at the exact labels \"Crank\", \"Lid\", \"Shaft\", \"Burr\", \"Cup\". Show brushed steel, dark wood and ceramic with one consistent orthographic-like view. Add small \"CONCEPT\".",
+        "zh": "绘制虚构手摇磨豆机结构概念图，米白背景，摇柄、盖子、中心轴、锥形磨芯、接粉杯纵向分解排列。五条细引线分别标注“Crank”“Lid”“Shaft”“Burr”“Cup”。拉丝钢、深木、陶瓷材质统一近正交视角，小字标明“CONCEPT”。"
+      },
+      "constraints": {
+        "en": "Concept illustration only; do not imply these are verified internals of a real product.",
+        "zh": "仅为结构概念插画，不暗示是真实商品内部结构。"
+      },
+      "revision": {
+        "en": "Increase only the gap between burr and cup; preserve labels and component count.",
+        "zh": "只增大磨芯与接粉杯之间间距，保留标签和零件数量。"
+      },
+      "review": {
+        "en": "Confirm five components, one leader per label and plausible shaft alignment.",
+        "zh": "核对五个部件、一标签一引线及轴线关系。"
+      },
+      "status": "template-not-rendered",
+      "pack": "01-product",
+      "prompt": {
+        "en": "Asset: Mechanical coffee grinder cutaway. Target aspect ratio: 3:2. Mode: generate.\nDesign a conceptual cutaway of a fictional manual coffee grinder on off-white. Arrange crank, lid, central shaft, conical burr and grounds cup in a vertical exploded stack. Five thin leaders end at the exact labels \"Crank\", \"Lid\", \"Shaft\", \"Burr\", \"Cup\". Show brushed steel, dark wood and ceramic with one consistent orthographic-like view. Add small \"CONCEPT\".\nConstraints: Concept illustration only; do not imply these are verified internals of a real product.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：手摇磨豆机结构概念图。目标比例：3:2。模式：新建。\n绘制虚构手摇磨豆机结构概念图，米白背景，摇柄、盖子、中心轴、锥形磨芯、接粉杯纵向分解排列。五条细引线分别标注“Crank”“Lid”“Shaft”“Burr”“Cup”。拉丝钢、深木、陶瓷材质统一近正交视角，小字标明“CONCEPT”。\n约束：仅为结构概念插画，不暗示是真实商品内部结构。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P005",
+      "title": {
+        "en": "Sneaker texture detail",
+        "zh": "运动鞋材质特写"
+      },
+      "ratio": "3:2",
+      "mode": "edit",
+      "brief": {
+        "en": "Use Image 1 as the exact shoe reference. Create a macro editorial crop of the toe and lateral upper on neutral gray. Reveal woven fibers, stitching and rubber grain using a large softbox above left and gentle edge light. Keep enough outsole visible to communicate construction. No text or additional shoes.",
+        "zh": "以图1为准确鞋款参考，生成鞋头与鞋面外侧的微距编辑摄影，灰色背景。左上大型柔光源和轻微轮廓光展示编织纤维、缝线、橡胶颗粒，保留部分外底以展示结构，不添加文字或其他鞋子。"
+      },
+      "constraints": {
+        "en": "Preserve supplied colors, panel seams, sole profile and branding; never invent a new logo.",
+        "zh": "保留原色、拼接缝、鞋底轮廓和原标识，不发明新标识。"
+      },
+      "revision": {
+        "en": "Reduce only the highlight strength on the rubber, retaining visible grain.",
+        "zh": "只降低橡胶高光强度，保持颗粒可见。"
+      },
+      "review": {
+        "en": "Compare seam junctions and tread shape to Image 1.",
+        "zh": "对照图1检查缝线交点和鞋底纹路。"
+      },
+      "status": "template-not-rendered",
+      "pack": "01-product",
+      "prompt": {
+        "en": "Asset: Sneaker texture detail. Target aspect ratio: 3:2. Mode: edit.\nUse Image 1 as the exact shoe reference. Create a macro editorial crop of the toe and lateral upper on neutral gray. Reveal woven fibers, stitching and rubber grain using a large softbox above left and gentle edge light. Keep enough outsole visible to communicate construction. No text or additional shoes.\nConstraints: Preserve supplied colors, panel seams, sole profile and branding; never invent a new logo.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：运动鞋材质特写。目标比例：3:2。模式：编辑。\n以图1为准确鞋款参考，生成鞋头与鞋面外侧的微距编辑摄影，灰色背景。左上大型柔光源和轻微轮廓光展示编织纤维、缝线、橡胶颗粒，保留部分外底以展示结构，不添加文字或其他鞋子。\n约束：保留原色、拼接缝、鞋底轮廓和原标识，不发明新标识。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P006",
+      "title": {
+        "en": "Gift box unboxing flat lay",
+        "zh": "礼盒开箱平铺图"
+      },
+      "ratio": "1:1",
+      "mode": "generate",
+      "brief": {
+        "en": "Photograph a fictional STILL POST stationery gift set from directly overhead. Put an open warm-gray rigid box at left, a rust notebook at right, one brass clip and one blank cream card below. Tissue curls naturally inside the box. Use an oat background with diffused daylight and precise spacing. The only text is \"STILL POST\" on the notebook.",
+        "zh": "俯拍虚构 STILL POST 文具礼盒：左侧打开的暖灰硬盒，右侧铁锈色笔记本，下方一个黄铜夹和一张空白奶油色卡片。盒内薄纸自然卷曲，燕麦色背景、漫射日光、清晰间距，文字仅为本子上的“STILL POST”。"
+      },
+      "constraints": {
+        "en": "Exactly four primary objects; no additional stationery, hands or product claims.",
+        "zh": "主体仅四件，不添加其他文具、手或商品承诺。"
+      },
+      "revision": {
+        "en": "Change only tissue paper to muted blue; retain object positions and notebook typography.",
+        "zh": "只将薄纸改为低饱和蓝色，保持物件位置和本子文字。"
+      },
+      "review": {
+        "en": "Count items and inspect lid thickness and readable notebook title.",
+        "zh": "清点物件，检查盒盖厚度与本子标题。"
+      },
+      "status": "template-not-rendered",
+      "pack": "01-product",
+      "prompt": {
+        "en": "Asset: Gift box unboxing flat lay. Target aspect ratio: 1:1. Mode: generate.\nPhotograph a fictional STILL POST stationery gift set from directly overhead. Put an open warm-gray rigid box at left, a rust notebook at right, one brass clip and one blank cream card below. Tissue curls naturally inside the box. Use an oat background with diffused daylight and precise spacing. The only text is \"STILL POST\" on the notebook.\nConstraints: Exactly four primary objects; no additional stationery, hands or product claims.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：礼盒开箱平铺图。目标比例：1:1。模式：新建。\n俯拍虚构 STILL POST 文具礼盒：左侧打开的暖灰硬盒，右侧铁锈色笔记本，下方一个黄铜夹和一张空白奶油色卡片。盒内薄纸自然卷曲，燕麦色背景、漫射日光、清晰间距，文字仅为本子上的“STILL POST”。\n约束：主体仅四件，不添加其他文具、手或商品承诺。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P007",
+      "title": {
+        "en": "Repair café event poster",
+        "zh": "社区修理日海报"
+      },
+      "ratio": "2:3",
+      "mode": "generate",
+      "brief": {
+        "en": "Create a community poster on recycled cream paper. An overhead arrangement of a small screwdriver, orange thread spool and repaired blue mug forms a loose circle. Large ink-blue headline \"FIX IT TOGETHER\" sits above; below use \"SAT 14 NOV\", \"10:00–16:00\", \"RIVER HALL\". A bright vermilion line ties the typography together. Flat print artwork with generous margins.",
+        "zh": "制作社区修理日海报，奶油再生纸质感。小螺丝刀、橙色线轴、修好的蓝杯俯拍围成松散圆环。深蓝大标题“FIX IT TOGETHER”，下方“SAT 14 NOV”“10:00–16:00”“RIVER HALL”，朱红细线串联排版，平面印刷稿并保留宽边距。"
+      },
+      "constraints": {
+        "en": "Fictional event; no QR code, sponsors, prices or unprovided details.",
+        "zh": "活动为虚构示例，不添加二维码、赞助商、价格或未提供信息。"
+      },
+      "revision": {
+        "en": "Replace only the date with \"SAT 21 NOV\"; preserve hierarchy and line breaks.",
+        "zh": "仅将日期换成“SAT 21 NOV”，保持层级与换行。"
+      },
+      "review": {
+        "en": "Check date, time dash and readability at phone-screen size.",
+        "zh": "检查日期、时间连接号及手机尺寸可读性。"
+      },
+      "status": "template-not-rendered",
+      "pack": "02-social",
+      "prompt": {
+        "en": "Asset: Repair café event poster. Target aspect ratio: 2:3. Mode: generate.\nCreate a community poster on recycled cream paper. An overhead arrangement of a small screwdriver, orange thread spool and repaired blue mug forms a loose circle. Large ink-blue headline \"FIX IT TOGETHER\" sits above; below use \"SAT 14 NOV\", \"10:00–16:00\", \"RIVER HALL\". A bright vermilion line ties the typography together. Flat print artwork with generous margins.\nConstraints: Fictional event; no QR code, sponsors, prices or unprovided details.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：社区修理日海报。目标比例：2:3。模式：新建。\n制作社区修理日海报，奶油再生纸质感。小螺丝刀、橙色线轴、修好的蓝杯俯拍围成松散圆环。深蓝大标题“FIX IT TOGETHER”，下方“SAT 14 NOV”“10:00–16:00”“RIVER HALL”，朱红细线串联排版，平面印刷稿并保留宽边距。\n约束：活动为虚构示例，不添加二维码、赞助商、价格或未提供信息。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P008",
+      "title": {
+        "en": "Creator thumbnail with one idea",
+        "zh": "单一主题视频缩略图"
+      },
+      "ratio": "16:9",
+      "mode": "generate",
+      "brief": {
+        "en": "Make a crisp editorial thumbnail for a video about restoring a thrift-store chair. Show a fictional adult craftsperson at right holding a sanding block; center an old timber chair with a small repaired section. At left place large exact text \"KEEP THE CHAIR\". Warm workshop background softly defocused, teal and orange accents, strong separation and one clear focal point.",
+        "zh": "制作修复旧椅视频封面。右侧虚构成年手作者手持打磨块，中间旧木椅显示一小块修复区域，左侧大字“KEEP THE CHAIR”。温暖工作室背景轻微虚化，青绿和橙色点缀，主体分离清楚，仅一个视觉重点。"
+      },
+      "constraints": {
+        "en": "No celebrity likeness, fake reactions, arrows or unverified before-and-after claim.",
+        "zh": "不使用名人面孔、夸张假表情、箭头或未经证明的前后效果。"
+      },
+      "revision": {
+        "en": "Enlarge only the title by 15%, leaving its left margin and subject position unchanged.",
+        "zh": "仅放大标题15%，保留左边距和人物位置。"
+      },
+      "review": {
+        "en": "Review hands, chair legs and title legibility at 320px wide.",
+        "zh": "检查手部、椅腿及320像素宽下的标题可读性。"
+      },
+      "status": "template-not-rendered",
+      "pack": "02-social",
+      "prompt": {
+        "en": "Asset: Creator thumbnail with one idea. Target aspect ratio: 16:9. Mode: generate.\nMake a crisp editorial thumbnail for a video about restoring a thrift-store chair. Show a fictional adult craftsperson at right holding a sanding block; center an old timber chair with a small repaired section. At left place large exact text \"KEEP THE CHAIR\". Warm workshop background softly defocused, teal and orange accents, strong separation and one clear focal point.\nConstraints: No celebrity likeness, fake reactions, arrows or unverified before-and-after claim.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：单一主题视频缩略图。目标比例：16:9。模式：新建。\n制作修复旧椅视频封面。右侧虚构成年手作者手持打磨块，中间旧木椅显示一小块修复区域，左侧大字“KEEP THE CHAIR”。温暖工作室背景轻微虚化，青绿和橙色点缀，主体分离清楚，仅一个视觉重点。\n约束：不使用名人面孔、夸张假表情、箭头或未经证明的前后效果。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P009",
+      "title": {
+        "en": "Carousel cover for slow travel",
+        "zh": "慢旅行轮播封面"
+      },
+      "ratio": "4:5",
+      "mode": "generate",
+      "brief": {
+        "en": "Design the cover of a travel carousel with a quiet photograph of a red regional train curving through green hills. Place a cream panel in the lower third with \"TAKE THE SLOW ROUTE\" and small \"01 / 05\". Use a dark olive serif headline and fine orange rule. Keep train architecture plausible and landscape uncluttered.",
+        "zh": "设计旅行轮播封面：红色地方列车穿过绿色山丘，画面安静。下方三分之一奶油色文字板写“TAKE THE SLOW ROUTE”和小字“01 / 05”，深橄榄衬线标题、橙色细线，列车结构可信，风景简洁。"
+      },
+      "constraints": {
+        "en": "Illustrative destination, no invented route names, schedules or prices.",
+        "zh": "为示意目的地，不编造线路名、时刻表和价格。"
+      },
+      "revision": {
+        "en": "Make a second cover by changing only the title to \"PACK A LITTLE LESS\" and page marker to \"02 / 05\".",
+        "zh": "仅将标题改为“PACK A LITTLE LESS”，页码改为“02 / 05”，制作第二张封面变体。"
+      },
+      "review": {
+        "en": "Check train windows, exact page marker and consistent text baseline.",
+        "zh": "检查列车窗户、页码及文字基线一致性。"
+      },
+      "status": "template-not-rendered",
+      "pack": "02-social",
+      "prompt": {
+        "en": "Asset: Carousel cover for slow travel. Target aspect ratio: 4:5. Mode: generate.\nDesign the cover of a travel carousel with a quiet photograph of a red regional train curving through green hills. Place a cream panel in the lower third with \"TAKE THE SLOW ROUTE\" and small \"01 / 05\". Use a dark olive serif headline and fine orange rule. Keep train architecture plausible and landscape uncluttered.\nConstraints: Illustrative destination, no invented route names, schedules or prices.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：慢旅行轮播封面。目标比例：4:5。模式：新建。\n设计旅行轮播封面：红色地方列车穿过绿色山丘，画面安静。下方三分之一奶油色文字板写“TAKE THE SLOW ROUTE”和小字“01 / 05”，深橄榄衬线标题、橙色细线，列车结构可信，风景简洁。\n约束：为示意目的地，不编造线路名、时刻表和价格。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P010",
+      "title": {
+        "en": "Neighborhood lunch special",
+        "zh": "街区餐厅午餐海报"
+      },
+      "ratio": "4:5",
+      "mode": "generate",
+      "brief": {
+        "en": "Photograph a roast squash bowl with chickpeas, rice and herb dressing from a low three-quarter angle on a brushed steel café table. Use honest serving proportions and daylight, not excessive steam. Above the bowl place exact dark-green text \"A GOOD LUNCH\"; below \"ROAST SQUASH BOWL\". A small coral square balances a cream background.",
+        "zh": "四分之三低角度拍摄烤南瓜碗，包含鹰嘴豆、米饭、香草酱，放在拉丝钢咖啡桌上。份量真实，自然日光，不夸张添加蒸汽。上方深绿标题“A GOOD LUNCH”，下方“ROAST SQUASH BOWL”，奶油背景用珊瑚小方块平衡。"
+      },
+      "constraints": {
+        "en": "No nutritional values, dietary certification or fabricated discount.",
+        "zh": "不添加营养数值、饮食认证或虚构折扣。"
+      },
+      "revision": {
+        "en": "Change only the coral square to cobalt blue; keep food and text unchanged.",
+        "zh": "只将珊瑚方块换为钴蓝，保留食物与文字。"
+      },
+      "review": {
+        "en": "Inspect recognizable ingredients, bowl rim and headline spacing.",
+        "zh": "检查食材辨识度、碗沿和标题字距。"
+      },
+      "status": "template-not-rendered",
+      "pack": "02-social",
+      "prompt": {
+        "en": "Asset: Neighborhood lunch special. Target aspect ratio: 4:5. Mode: generate.\nPhotograph a roast squash bowl with chickpeas, rice and herb dressing from a low three-quarter angle on a brushed steel café table. Use honest serving proportions and daylight, not excessive steam. Above the bowl place exact dark-green text \"A GOOD LUNCH\"; below \"ROAST SQUASH BOWL\". A small coral square balances a cream background.\nConstraints: No nutritional values, dietary certification or fabricated discount.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：街区餐厅午餐海报。目标比例：4:5。模式：新建。\n四分之三低角度拍摄烤南瓜碗，包含鹰嘴豆、米饭、香草酱，放在拉丝钢咖啡桌上。份量真实，自然日光，不夸张添加蒸汽。上方深绿标题“A GOOD LUNCH”，下方“ROAST SQUASH BOWL”，奶油背景用珊瑚小方块平衡。\n约束：不添加营养数值、饮食认证或虚构折扣。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P011",
+      "title": {
+        "en": "Podcast editorial cover",
+        "zh": "播客编辑风封面"
+      },
+      "ratio": "1:1",
+      "mode": "generate",
+      "brief": {
+        "en": "Create a tactile cover for a fictional podcast \"ROOM TO THINK\". A folded paper chair sits inside a vast pale-blue room, casting a sharply defined long navy shadow. Set the title in three short lines at top left with bold cream typography; small \"WITH ELLIS\" below. Minimal conceptual photography with subtle paper fibers and intentional negative space.",
+        "zh": "为虚构播客“ROOM TO THINK”制作触感封面。浅蓝大房间里一把折纸椅投出清晰深蓝长影。左上奶油粗体三行标题，下方小字“WITH ELLIS”。极简概念摄影，细微纸纤维和有意留白。"
+      },
+      "constraints": {
+        "en": "No microphones, platform logos, badges or extra names.",
+        "zh": "不添加麦克风、平台标识、徽章和额外人名。"
+      },
+      "revision": {
+        "en": "Shorten only the shadow by one third while keeping light direction consistent.",
+        "zh": "仅缩短阴影三分之一，保持光线方向一致。"
+      },
+      "review": {
+        "en": "Check title at small size and impossible paper intersections.",
+        "zh": "检查小尺寸标题及不合理纸面交叉。"
+      },
+      "status": "template-not-rendered",
+      "pack": "02-social",
+      "prompt": {
+        "en": "Asset: Podcast editorial cover. Target aspect ratio: 1:1. Mode: generate.\nCreate a tactile cover for a fictional podcast \"ROOM TO THINK\". A folded paper chair sits inside a vast pale-blue room, casting a sharply defined long navy shadow. Set the title in three short lines at top left with bold cream typography; small \"WITH ELLIS\" below. Minimal conceptual photography with subtle paper fibers and intentional negative space.\nConstraints: No microphones, platform logos, badges or extra names.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：播客编辑风封面。目标比例：1:1。模式：新建。\n为虚构播客“ROOM TO THINK”制作触感封面。浅蓝大房间里一把折纸椅投出清晰深蓝长影。左上奶油粗体三行标题，下方小字“WITH ELLIS”。极简概念摄影，细微纸纤维和有意留白。\n约束：不添加麦克风、平台标识、徽章和额外人名。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P012",
+      "title": {
+        "en": "Seasonal market campaign",
+        "zh": "秋日市集活动主视觉"
+      },
+      "ratio": "3:2",
+      "mode": "generate",
+      "brief": {
+        "en": "Design an autumn makers-market campaign with a tabletop miniature landscape built from folded terracotta paper stalls, olive fabric trees and cream ceramic people. Use a slightly elevated camera and warm diffuse light. The right third holds \"SMALL MAKERS, BIG IDEAS\" and \"AUTUMN MARKET\" in clean dark-brown type. Let materials do the storytelling.",
+        "zh": "制作秋季手作市集主视觉：折叠陶土色纸摊位、橄榄布树、奶油陶瓷小人组成桌面微缩景。轻微俯视和暖漫射光，右侧三分之一排“SMALL MAKERS, BIG IDEAS”和“AUTUMN MARKET”，通过材质叙事。"
+      },
+      "constraints": {
+        "en": "Original miniature scene; no recognizable branded toys or additional event details.",
+        "zh": "原创微缩场景，不使用可辨识品牌玩具，不添加活动细节。"
+      },
+      "revision": {
+        "en": "Replace only the headline with \"MADE NEAR YOU\"; preserve the miniature landscape.",
+        "zh": "仅将标题改为“MADE NEAR YOU”，保留微缩场景。"
+      },
+      "review": {
+        "en": "Inspect miniature scale, clean text field and headline spelling.",
+        "zh": "检查微缩比例、文字区洁净度及标题拼写。"
+      },
+      "status": "template-not-rendered",
+      "pack": "02-social",
+      "prompt": {
+        "en": "Asset: Seasonal market campaign. Target aspect ratio: 3:2. Mode: generate.\nDesign an autumn makers-market campaign with a tabletop miniature landscape built from folded terracotta paper stalls, olive fabric trees and cream ceramic people. Use a slightly elevated camera and warm diffuse light. The right third holds \"SMALL MAKERS, BIG IDEAS\" and \"AUTUMN MARKET\" in clean dark-brown type. Let materials do the storytelling.\nConstraints: Original miniature scene; no recognizable branded toys or additional event details.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：秋日市集活动主视觉。目标比例：3:2。模式：新建。\n制作秋季手作市集主视觉：折叠陶土色纸摊位、橄榄布树、奶油陶瓷小人组成桌面微缩景。轻微俯视和暖漫射光，右侧三分之一排“SMALL MAKERS, BIG IDEAS”和“AUTUMN MARKET”，通过材质叙事。\n约束：原创微缩场景，不使用可辨识品牌玩具，不添加活动细节。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P013",
+      "title": {
+        "en": "Natural professional portrait",
+        "zh": "自然职业头像"
+      },
+      "ratio": "4:5",
+      "mode": "edit",
+      "brief": {
+        "en": "Image 1 is a consenting adult portrait. Create a relaxed professional headshot near a large north-facing window, with a softly blurred warm-gray studio background and a plain charcoal crew-neck top. Frame from chest upward, eye-level, natural skin texture and a small unforced smile.",
+        "zh": "图1为获同意的成年人照片。制作北向大窗旁的自然职业头像，暖灰影棚背景柔和虚化，纯炭灰圆领上衣。胸部以上平视构图，保留皮肤纹理和自然微笑。"
+      },
+      "constraints": {
+        "en": "Preserve identity, age, skin tone, facial proportions, hairstyle and distinctive marks; no beauty reshaping.",
+        "zh": "保留身份、年龄、肤色、五官比例、发型和独特印记，不美颜塑形。"
+      },
+      "revision": {
+        "en": "Change only the background to a muted olive studio wall.",
+        "zh": "仅将背景换成低饱和橄榄色影棚墙。"
+      },
+      "review": {
+        "en": "Compare eye spacing, nose, jaw, freckles and hairline to the source.",
+        "zh": "对照原图检查眼距、鼻子、下颌、雀斑和发际线。"
+      },
+      "status": "template-not-rendered",
+      "pack": "03-people-pets",
+      "prompt": {
+        "en": "Asset: Natural professional portrait. Target aspect ratio: 4:5. Mode: edit.\nImage 1 is a consenting adult portrait. Create a relaxed professional headshot near a large north-facing window, with a softly blurred warm-gray studio background and a plain charcoal crew-neck top. Frame from chest upward, eye-level, natural skin texture and a small unforced smile.\nConstraints: Preserve identity, age, skin tone, facial proportions, hairstyle and distinctive marks; no beauty reshaping.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：自然职业头像。目标比例：4:5。模式：编辑。\n图1为获同意的成年人照片。制作北向大窗旁的自然职业头像，暖灰影棚背景柔和虚化，纯炭灰圆领上衣。胸部以上平视构图，保留皮肤纹理和自然微笑。\n约束：保留身份、年龄、肤色、五官比例、发型和独特印记，不美颜塑形。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P014",
+      "title": {
+        "en": "Pet explorer portrait",
+        "zh": "宠物探险家肖像"
+      },
+      "ratio": "1:1",
+      "mode": "edit",
+      "brief": {
+        "en": "Image 1 is the pet identity reference. Place the same pet sitting beside a tiny canvas backpack in a sunlit fern garden. Add a loose ochre neckerchief while preserving its natural posture. Photograph at the animal’s eye level, soft green bokeh, detailed fur and gentle natural expression.",
+        "zh": "图1为宠物身份参考。让同一只宠物以自然姿态坐在阳光蕨类花园的小帆布背包旁，添一条宽松赭色领巾。动物眼高视角，绿色柔和散景，毛发细致、表情自然。"
+      },
+      "constraints": {
+        "en": "Keep muzzle shape, eye color, coat patches, ear asymmetry and body size; do not anthropomorphize paws.",
+        "zh": "保留口鼻形状、眼色、毛色斑块、耳朵不对称和体型，不把爪子拟人化。"
+      },
+      "revision": {
+        "en": "Change only the neckerchief to dusty blue, keeping knot size and fur boundary.",
+        "zh": "只把领巾改成灰蓝，保持结的大小与毛发边界。"
+      },
+      "review": {
+        "en": "Inspect whiskers, paw count and signature coat markings.",
+        "zh": "检查胡须、爪子数量和标志性毛色。"
+      },
+      "status": "template-not-rendered",
+      "pack": "03-people-pets",
+      "prompt": {
+        "en": "Asset: Pet explorer portrait. Target aspect ratio: 1:1. Mode: edit.\nImage 1 is the pet identity reference. Place the same pet sitting beside a tiny canvas backpack in a sunlit fern garden. Add a loose ochre neckerchief while preserving its natural posture. Photograph at the animal’s eye level, soft green bokeh, detailed fur and gentle natural expression.\nConstraints: Keep muzzle shape, eye color, coat patches, ear asymmetry and body size; do not anthropomorphize paws.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：宠物探险家肖像。目标比例：1:1。模式：编辑。\n图1为宠物身份参考。让同一只宠物以自然姿态坐在阳光蕨类花园的小帆布背包旁，添一条宽松赭色领巾。动物眼高视角，绿色柔和散景，毛发细致、表情自然。\n约束：保留口鼻形状、眼色、毛色斑块、耳朵不对称和体型，不把爪子拟人化。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P015",
+      "title": {
+        "en": "Linen jacket virtual styling",
+        "zh": "亚麻外套虚拟穿搭"
+      },
+      "ratio": "4:5",
+      "mode": "edit",
+      "brief": {
+        "en": "Image 1 is the consenting adult model; Image 2 is the jacket garment reference. Dress the model in that exact unbuttoned linen jacket over their existing top. Match shoulder fit, sleeve length, pockets and fabric drape to the pose, with the original camera and lighting. Deliver a realistic styling preview.",
+        "zh": "图1为获同意的成年模特，图2为外套参考。让模特在原上衣外穿上该亚麻外套并敞开，肩部贴合、袖长、口袋和垂坠对应姿势，沿用原镜头与光照，输出真实穿搭预览。"
+      },
+      "constraints": {
+        "en": "Preserve face, body shape, hands, pose, background and other garments; no slimming.",
+        "zh": "保留脸、体型、手、姿势、背景和其他衣物，不瘦身。"
+      },
+      "revision": {
+        "en": "Roll only the jacket sleeves once, keeping wrist anatomy and jacket length.",
+        "zh": "仅将外套袖口卷一折，保持手腕结构和衣长。"
+      },
+      "review": {
+        "en": "Compare pocket placement, seams, hands and garment occlusion.",
+        "zh": "对比口袋位置、缝线、手部及衣物遮挡。"
+      },
+      "status": "template-not-rendered",
+      "pack": "03-people-pets",
+      "prompt": {
+        "en": "Asset: Linen jacket virtual styling. Target aspect ratio: 4:5. Mode: edit.\nImage 1 is the consenting adult model; Image 2 is the jacket garment reference. Dress the model in that exact unbuttoned linen jacket over their existing top. Match shoulder fit, sleeve length, pockets and fabric drape to the pose, with the original camera and lighting. Deliver a realistic styling preview.\nConstraints: Preserve face, body shape, hands, pose, background and other garments; no slimming.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：亚麻外套虚拟穿搭。目标比例：4:5。模式：编辑。\n图1为获同意的成年模特，图2为外套参考。让模特在原上衣外穿上该亚麻外套并敞开，肩部贴合、袖长、口袋和垂坠对应姿势，沿用原镜头与光照，输出真实穿搭预览。\n约束：保留脸、体型、手、姿势、背景和其他衣物，不瘦身。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P016",
+      "title": {
+        "en": "Analog weekend portrait",
+        "zh": "胶片周末生活照"
+      },
+      "ratio": "3:2",
+      "mode": "generate",
+      "brief": {
+        "en": "Photograph two fictional adult friends preparing tea at a small kitchen counter. One pours from a ceramic pot while the other reaches for a cup. Overcast window light, subdued amber and sage colors, restrained 35mm-film grain, candid mid-action composition. Keep the kitchen practical and comfortably imperfect.",
+        "zh": "拍摄两位虚构成年朋友在小厨房备茶，一人用陶壶倒茶，一人伸手拿杯。阴天窗光、柔和琥珀和鼠尾草绿、克制35毫米胶片颗粒，抓拍动作中瞬间，厨房实用且略有生活痕迹。"
+      },
+      "constraints": {
+        "en": "Two adults, anatomically credible hands, no beauty-ad retouching or captions.",
+        "zh": "仅两位成年人，手部结构可信，不做美妆广告式磨皮，不加文字。"
+      },
+      "revision": {
+        "en": "Warm only the white balance slightly, preserving faces and scene arrangement.",
+        "zh": "只略微调暖白平衡，保持面孔与陈设。"
+      },
+      "review": {
+        "en": "Check cup handles, pouring direction and fingers at object contacts.",
+        "zh": "检查杯把、倒水方向和接触物体的手指。"
+      },
+      "status": "template-not-rendered",
+      "pack": "03-people-pets",
+      "prompt": {
+        "en": "Asset: Analog weekend portrait. Target aspect ratio: 3:2. Mode: generate.\nPhotograph two fictional adult friends preparing tea at a small kitchen counter. One pours from a ceramic pot while the other reaches for a cup. Overcast window light, subdued amber and sage colors, restrained 35mm-film grain, candid mid-action composition. Keep the kitchen practical and comfortably imperfect.\nConstraints: Two adults, anatomically credible hands, no beauty-ad retouching or captions.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：胶片周末生活照。目标比例：3:2。模式：新建。\n拍摄两位虚构成年朋友在小厨房备茶，一人用陶壶倒茶，一人伸手拿杯。阴天窗光、柔和琥珀和鼠尾草绿、克制35毫米胶片颗粒，抓拍动作中瞬间，厨房实用且略有生活痕迹。\n约束：仅两位成年人，手部结构可信，不做美妆广告式磨皮，不加文字。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P017",
+      "title": {
+        "en": "Couple illustration keepsake",
+        "zh": "双人纪念插画"
+      },
+      "ratio": "4:5",
+      "mode": "edit",
+      "brief": {
+        "en": "Use Image 1 as the two consenting adults’ reference. Create a colored-pencil illustration of them sitting on a riverside bench under a broad willow. Retain recognizable hairstyles, facial proportions and height relationship. Soft cream paper, sage foliage and rust accents; frame them together with small environmental details.",
+        "zh": "以图1中两位获同意的成年人为参考，创作河边柳树下长椅上的彩铅插画。保留可辨识发型、五官比例和身高关系。柔和奶油纸、鼠尾草绿树叶和铁锈色点缀，两人共同入画并有少量环境细节。"
+      },
+      "constraints": {
+        "en": "No age changes, body reshaping, wedding symbols or invented relationship claims in text.",
+        "zh": "不改年龄、不塑形、不加入婚礼符号或关系文字。"
+      },
+      "revision": {
+        "en": "Add only a closed yellow umbrella beside the bench; keep both people untouched.",
+        "zh": "只在椅旁增加一把收起的黄伞，保持两人不变。"
+      },
+      "review": {
+        "en": "Check recognizable faces and consistent relative scale.",
+        "zh": "检查人物辨识度及相对比例。"
+      },
+      "status": "template-not-rendered",
+      "pack": "03-people-pets",
+      "prompt": {
+        "en": "Asset: Couple illustration keepsake. Target aspect ratio: 4:5. Mode: edit.\nUse Image 1 as the two consenting adults’ reference. Create a colored-pencil illustration of them sitting on a riverside bench under a broad willow. Retain recognizable hairstyles, facial proportions and height relationship. Soft cream paper, sage foliage and rust accents; frame them together with small environmental details.\nConstraints: No age changes, body reshaping, wedding symbols or invented relationship claims in text.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：双人纪念插画。目标比例：4:5。模式：编辑。\n以图1中两位获同意的成年人为参考，创作河边柳树下长椅上的彩铅插画。保留可辨识发型、五官比例和身高关系。柔和奶油纸、鼠尾草绿树叶和铁锈色点缀，两人共同入画并有少量环境细节。\n约束：不改年龄、不塑形、不加入婚礼符号或关系文字。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P018",
+      "title": {
+        "en": "Pet remembrance watercolor",
+        "zh": "宠物纪念水彩"
+      },
+      "ratio": "4:5",
+      "mode": "edit",
+      "brief": {
+        "en": "Translate Image 1 of the pet into a gentle watercolor portrait on warm white paper. Preserve the animal’s distinctive face and coat, resting comfortably among loosely painted meadow flowers. Leave the bottom fifth blank for a separately typeset dedication. Use translucent washes and a few precise eye and nose details.",
+        "zh": "将图1宠物转成暖白纸上的柔和水彩肖像，保留独特面孔与毛色，安静卧在松散绘制的草地花丛间。底部五分之一留白供后期题字，透明罩染配合眼鼻少量精细刻画。"
+      },
+      "constraints": {
+        "en": "Do not invent a name, date, halo, wings or text; keep its natural anatomy.",
+        "zh": "不编造名字、日期、光环、翅膀或文字，保留自然解剖结构。"
+      },
+      "revision": {
+        "en": "Reduce only flower saturation, retaining coat markings and paper texture.",
+        "zh": "仅降低花朵饱和度，保持毛色与纸张纹理。"
+      },
+      "review": {
+        "en": "Compare ears, eye shape and muzzle; check that blank dedication space remains.",
+        "zh": "对比耳朵、眼形和口鼻，检查题字留白。"
+      },
+      "status": "template-not-rendered",
+      "pack": "03-people-pets",
+      "prompt": {
+        "en": "Asset: Pet remembrance watercolor. Target aspect ratio: 4:5. Mode: edit.\nTranslate Image 1 of the pet into a gentle watercolor portrait on warm white paper. Preserve the animal’s distinctive face and coat, resting comfortably among loosely painted meadow flowers. Leave the bottom fifth blank for a separately typeset dedication. Use translucent washes and a few precise eye and nose details.\nConstraints: Do not invent a name, date, halo, wings or text; keep its natural anatomy.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：宠物纪念水彩。目标比例：4:5。模式：编辑。\n将图1宠物转成暖白纸上的柔和水彩肖像，保留独特面孔与毛色，安静卧在松散绘制的草地花丛间。底部五分之一留白供后期题字，透明罩染配合眼鼻少量精细刻画。\n约束：不编造名字、日期、光环、翅膀或文字，保留自然解剖结构。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P019",
+      "title": {
+        "en": "Product colorway edit",
+        "zh": "商品配色局部修改"
+      },
+      "ratio": "3:2",
+      "mode": "edit",
+      "brief": {
+        "en": "Image 1 is an approved product ad. Change only the lamp’s cylindrical base from midnight blue to muted jade green. Keep the original anodized texture and physically plausible highlight gradient. Do not recolor the ivory shade or orange pull tab. Treat the surrounding campaign as locked artwork.",
+        "zh": "图1为已确认商品广告。只将台灯圆柱底座由午夜蓝改为低饱和玉绿色，保持原阳极金属纹理和可信高光渐变，不改象牙白灯罩或橙色拉环，将周围广告视为锁定稿。"
+      },
+      "constraints": {
+        "en": "Preserve all copy, positions, scale, camera, background and shadows as closely as possible.",
+        "zh": "尽量保持全部文字、位置、比例、镜头、背景和阴影。"
+      },
+      "revision": {
+        "en": "On this approved green version, change only \"LIGHT, UNPLUGGED.\" to \"YOUR EVENING, UPGRADED.\"; retain green.",
+        "zh": "在已确认绿色版本上，仅将“LIGHT, UNPLUGGED.”改为“YOUR EVENING, UPGRADED.”，保留绿色。"
+      },
+      "review": {
+        "en": "Compare base edges, metal sheen, pull tab and typography across all versions.",
+        "zh": "比较各版本底座边缘、金属光泽、拉环和排版。"
+      },
+      "status": "related-example-available",
+      "pack": "04-editing",
+      "prompt": {
+        "en": "Asset: Product colorway edit. Target aspect ratio: 3:2. Mode: edit.\nImage 1 is an approved product ad. Change only the lamp’s cylindrical base from midnight blue to muted jade green. Keep the original anodized texture and physically plausible highlight gradient. Do not recolor the ivory shade or orange pull tab. Treat the surrounding campaign as locked artwork.\nConstraints: Preserve all copy, positions, scale, camera, background and shadows as closely as possible.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：商品配色局部修改。目标比例：3:2。模式：编辑。\n图1为已确认商品广告。只将台灯圆柱底座由午夜蓝改为低饱和玉绿色，保持原阳极金属纹理和可信高光渐变，不改象牙白灯罩或橙色拉环，将周围广告视为锁定稿。\n约束：尽量保持全部文字、位置、比例、镜头、背景和阴影。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": [
+        "assets/images/tideline-lamp-jade.png",
+        "assets/images/tideline-lamp-copy.png"
+      ]
+    },
+    {
+      "id": "P020",
+      "title": {
+        "en": "Remove a tabletop distraction",
+        "zh": "去除桌面杂物"
+      },
+      "ratio": "3:2",
+      "mode": "edit",
+      "brief": {
+        "en": "Image 1 is the source room photograph. Remove only the empty plastic bottle at the front-right corner of the table. Reconstruct the small exposed tabletop area with continuous wood grain, matching perspective, natural illumination and contact shading from nearby objects.",
+        "zh": "图1为房间原照。只去掉桌子右前角的空塑料瓶，用连续木纹补全露出的桌面小区域，匹配透视、自然照明和旁边物件的接触阴影。"
+      },
+      "constraints": {
+        "en": "Keep table outline, chairs, books, windows and crop unchanged; retain all unrelated objects.",
+        "zh": "保留桌子轮廓、椅子、书、窗和裁切，其他物件均不动。"
+      },
+      "revision": {
+        "en": "Correct only any remaining bottle-shaped reflection, keeping the repaired wood grain.",
+        "zh": "仅修正残留瓶形反光，保留已修复木纹。"
+      },
+      "review": {
+        "en": "Look for repeating texture, soft patches and altered nearby edges.",
+        "zh": "检查重复纹理、模糊补丁和被改变的邻近边缘。"
+      },
+      "status": "template-not-rendered",
+      "pack": "04-editing",
+      "prompt": {
+        "en": "Asset: Remove a tabletop distraction. Target aspect ratio: 3:2. Mode: edit.\nImage 1 is the source room photograph. Remove only the empty plastic bottle at the front-right corner of the table. Reconstruct the small exposed tabletop area with continuous wood grain, matching perspective, natural illumination and contact shading from nearby objects.\nConstraints: Keep table outline, chairs, books, windows and crop unchanged; retain all unrelated objects.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：去除桌面杂物。目标比例：3:2。模式：编辑。\n图1为房间原照。只去掉桌子右前角的空塑料瓶，用连续木纹补全露出的桌面小区域，匹配透视、自然照明和旁边物件的接触阴影。\n约束：保留桌子轮廓、椅子、书、窗和裁切，其他物件均不动。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P021",
+      "title": {
+        "en": "Window-light evening relight",
+        "zh": "室内窗光转傍晚"
+      },
+      "ratio": "3:2",
+      "mode": "edit",
+      "brief": {
+        "en": "Use Image 1 as the exact room layout. Change the lighting from midday to early evening: cooler dim light outside the window and warm light from the existing desk lamp. Adjust only illumination, associated shadows and reflections. Maintain realistic exposure without turning the room orange.",
+        "zh": "以图1为准确房间布局，将正午光改成傍晚：窗外较暗冷光，室内原有台灯暖光。只改照明及相应阴影、反射，保持真实曝光，避免整间房泛橙。"
+      },
+      "constraints": {
+        "en": "Do not move furniture, create new light fixtures, change materials or widen the room.",
+        "zh": "不移动家具、不新建灯具、不改材料、不扩大空间。"
+      },
+      "revision": {
+        "en": "Lower only the lamp brightness slightly while preserving the cooler window light.",
+        "zh": "只略微降低台灯亮度，保留窗外冷光。"
+      },
+      "review": {
+        "en": "Check shadow directions and whether all surfaces share the same lighting logic.",
+        "zh": "检查阴影方向及所有表面的光照逻辑是否一致。"
+      },
+      "status": "template-not-rendered",
+      "pack": "04-editing",
+      "prompt": {
+        "en": "Asset: Window-light evening relight. Target aspect ratio: 3:2. Mode: edit.\nUse Image 1 as the exact room layout. Change the lighting from midday to early evening: cooler dim light outside the window and warm light from the existing desk lamp. Adjust only illumination, associated shadows and reflections. Maintain realistic exposure without turning the room orange.\nConstraints: Do not move furniture, create new light fixtures, change materials or widen the room.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：室内窗光转傍晚。目标比例：3:2。模式：编辑。\n以图1为准确房间布局，将正午光改成傍晚：窗外较暗冷光，室内原有台灯暖光。只改照明及相应阴影、反射，保持真实曝光，避免整间房泛橙。\n约束：不移动家具、不新建灯具、不改材料、不扩大空间。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P022",
+      "title": {
+        "en": "Poster text replacement",
+        "zh": "海报文案定点替换"
+      },
+      "ratio": "2:3",
+      "mode": "edit",
+      "brief": {
+        "en": "Image 1 is the approved poster. Replace only the headline with \"A SLOWER SATURDAY\". Keep its original type style, visual weight and alignment; permit an extra line within the existing headline box if required. Match paper texture behind removed letters.",
+        "zh": "图1为确认版海报。仅将标题替换为“A SLOWER SATURDAY”，保持原字体风格、字重与对齐；如有需要可在原标题框内增加一行。清除旧字后补回一致纸纹。"
+      },
+      "constraints": {
+        "en": "Do not change date, venue, image, colors or layout outside the title box; do not leave old letter fragments.",
+        "zh": "不改日期、场地、图片、颜色或标题框外版式，不残留旧字碎片。"
+      },
+      "revision": {
+        "en": "Fix only a misspelled headline character; repeat the exact approved headline.",
+        "zh": "仅修复标题中的错字，重复完整确认标题。"
+      },
+      "review": {
+        "en": "Read all text, including untouched small print, against the original.",
+        "zh": "对照原图阅读所有文字，包括未修改小字。"
+      },
+      "status": "template-not-rendered",
+      "pack": "04-editing",
+      "prompt": {
+        "en": "Asset: Poster text replacement. Target aspect ratio: 2:3. Mode: edit.\nImage 1 is the approved poster. Replace only the headline with \"A SLOWER SATURDAY\". Keep its original type style, visual weight and alignment; permit an extra line within the existing headline box if required. Match paper texture behind removed letters.\nConstraints: Do not change date, venue, image, colors or layout outside the title box; do not leave old letter fragments.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：海报文案定点替换。目标比例：2:3。模式：编辑。\n图1为确认版海报。仅将标题替换为“A SLOWER SATURDAY”，保持原字体风格、字重与对齐；如有需要可在原标题框内增加一行。清除旧字后补回一致纸纹。\n约束：不改日期、场地、图片、颜色或标题框外版式，不残留旧字碎片。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P023",
+      "title": {
+        "en": "Sketch-guided planter placement",
+        "zh": "草图引导添加花盆"
+      },
+      "ratio": "3:2",
+      "mode": "edit",
+      "brief": {
+        "en": "Image 1 is the terrace photo; Image 2 is a rough sketch showing a planter along the left parapet. Use the sketch only for location and approximate silhouette. Add one low rectangular terracotta planter with three rosemary plants, consistent with the photo’s perspective and sun direction.",
+        "zh": "图1为露台照片，图2为左侧矮墙边花盆草图。草图只指导位置和大致轮廓。添加一个低矩形陶土花盆，种三株迷迭香，匹配照片透视和阳光方向。"
+      },
+      "constraints": {
+        "en": "Remove sketch strokes from the result; preserve parapet, floor tiles, sky and camera angle.",
+        "zh": "成图不保留草图笔迹，保留矮墙、地砖、天空和镜头角度。"
+      },
+      "revision": {
+        "en": "Shorten only the planter width by 10%, keeping its left edge anchored.",
+        "zh": "仅缩短花盆宽度10%，左边缘固定。"
+      },
+      "review": {
+        "en": "Check floor contact, parapet occlusion and that there is only one planter.",
+        "zh": "检查落地接触、矮墙遮挡关系及花盆数量。"
+      },
+      "status": "template-not-rendered",
+      "pack": "04-editing",
+      "prompt": {
+        "en": "Asset: Sketch-guided planter placement. Target aspect ratio: 3:2. Mode: edit.\nImage 1 is the terrace photo; Image 2 is a rough sketch showing a planter along the left parapet. Use the sketch only for location and approximate silhouette. Add one low rectangular terracotta planter with three rosemary plants, consistent with the photo’s perspective and sun direction.\nConstraints: Remove sketch strokes from the result; preserve parapet, floor tiles, sky and camera angle.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：草图引导添加花盆。目标比例：3:2。模式：编辑。\n图1为露台照片，图2为左侧矮墙边花盆草图。草图只指导位置和大致轮廓。添加一个低矩形陶土花盆，种三株迷迭香，匹配照片透视和阳光方向。\n约束：成图不保留草图笔迹，保留矮墙、地砖、天空和镜头角度。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P024",
+      "title": {
+        "en": "Clean product cutout",
+        "zh": "干净商品抠图"
+      },
+      "ratio": "1:1",
+      "mode": "edit",
+      "brief": {
+        "en": "Isolate the exact product in Image 1 on a genuinely transparent background. Preserve fine edges, interior openings, translucent material behavior and the full silhouette. Keep original product color, proportions and surface detail; do not redraw a simplified substitute.",
+        "zh": "将图1中准确商品抠到真正透明背景，保留细小边缘、内部开孔、半透明材质特征和完整轮廓。保持原色、比例和表面细节，不重画简化替代品。"
+      },
+      "constraints": {
+        "en": "No painted checkerboard, white rectangle, drop shadow or cropped edges.",
+        "zh": "不绘制棋盘格、不加白矩形、投影、不裁断边缘。"
+      },
+      "revision": {
+        "en": "Remove only any remaining edge halo without eroding thin details.",
+        "zh": "只移除残留边缘光晕，不侵蚀细节。"
+      },
+      "review": {
+        "en": "Inspect actual alpha on light and dark backgrounds; reject simulated transparency.",
+        "zh": "在明暗底色上检查实际透明通道，拒绝假透明。"
+      },
+      "status": "template-not-rendered",
+      "pack": "04-editing",
+      "prompt": {
+        "en": "Asset: Clean product cutout. Target aspect ratio: 1:1. Mode: edit.\nIsolate the exact product in Image 1 on a genuinely transparent background. Preserve fine edges, interior openings, translucent material behavior and the full silhouette. Keep original product color, proportions and surface detail; do not redraw a simplified substitute.\nConstraints: No painted checkerboard, white rectangle, drop shadow or cropped edges.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：干净商品抠图。目标比例：1:1。模式：编辑。\n将图1中准确商品抠到真正透明背景，保留细小边缘、内部开孔、半透明材质特征和完整轮廓。保持原色、比例和表面细节，不重画简化替代品。\n约束：不绘制棋盘格、不加白矩形、投影、不裁断边缘。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P025",
+      "title": {
+        "en": "Three-stage rain garden explainer",
+        "zh": "雨水花园三步科普"
+      },
+      "ratio": "3:2",
+      "mode": "generate",
+      "brief": {
+        "en": "Create a classroom infographic titled \"WHERE RAIN GOES\". Three equal panels show rain falling on a roof, water entering a planted basin, and water soaking into soil. Exact panel labels: \"COLLECT\", \"SLOW\", \"SOAK\". Use simple cutaway illustrations, navy arrows, cream background and green plants. Leave clear separation between water routes and labels.",
+        "zh": "制作课堂信息图“WHERE RAIN GOES”，三等宽面板依次展示屋顶落雨、水进入种植浅盆地、水渗入土壤，标签仅“COLLECT”“SLOW”“SOAK”。简洁剖面、深蓝箭头、奶油背景和绿植，水流路线与文字分离。"
+      },
+      "constraints": {
+        "en": "Do not depict purified drinking water or invent performance percentages.",
+        "zh": "不表现为净化饮用水，不编造效率百分比。"
+      },
+      "revision": {
+        "en": "Increase only the arrow contrast; keep all stages and wording.",
+        "zh": "只提升箭头对比，保持步骤和文字。"
+      },
+      "review": {
+        "en": "Check directional flow and whether the soil cross-section communicates infiltration.",
+        "zh": "检查水流方向及土壤剖面是否清楚表达下渗。"
+      },
+      "status": "template-not-rendered",
+      "pack": "05-information",
+      "prompt": {
+        "en": "Asset: Three-stage rain garden explainer. Target aspect ratio: 3:2. Mode: generate.\nCreate a classroom infographic titled \"WHERE RAIN GOES\". Three equal panels show rain falling on a roof, water entering a planted basin, and water soaking into soil. Exact panel labels: \"COLLECT\", \"SLOW\", \"SOAK\". Use simple cutaway illustrations, navy arrows, cream background and green plants. Leave clear separation between water routes and labels.\nConstraints: Do not depict purified drinking water or invent performance percentages.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：雨水花园三步科普。目标比例：3:2。模式：新建。\n制作课堂信息图“WHERE RAIN GOES”，三等宽面板依次展示屋顶落雨、水进入种植浅盆地、水渗入土壤，标签仅“COLLECT”“SLOW”“SOAK”。简洁剖面、深蓝箭头、奶油背景和绿植，水流路线与文字分离。\n约束：不表现为净化饮用水，不编造效率百分比。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P026",
+      "title": {
+        "en": "Coffee tasting wheel for beginners",
+        "zh": "新手咖啡风味轮"
+      },
+      "ratio": "1:1",
+      "mode": "generate",
+      "brief": {
+        "en": "Design a beginner tasting diagram with three equal outer sectors labeled \"FRUITY\", \"NUTTY\", \"COCOA\", surrounding the central title \"TASTE NOTES\". Place small original fruit, almond and cacao illustrations in their corresponding sectors. Cream paper, dark brown type, rust dividers, generous spacing. This is a simplified teaching graphic.",
+        "zh": "设计入门风味图，三个等分外扇区分别“FRUITY”“NUTTY”“COCOA”，中间“TASTE NOTES”。对应放原创水果、杏仁和可可小插图，奶油纸、深棕字、铁锈分隔线，留白充足，作为简化教学图。"
+      },
+      "constraints": {
+        "en": "Exactly three sectors; no borrowed official tasting-wheel layout or additional terminology.",
+        "zh": "仅三个扇区，不使用既有官方风味轮版式，不加术语。"
+      },
+      "revision": {
+        "en": "Change only the fruity-sector accent to muted pink.",
+        "zh": "仅将水果扇区强调色改为灰粉。"
+      },
+      "review": {
+        "en": "Count sectors and ensure illustrations match labels.",
+        "zh": "核对扇区数及插图标签对应。"
+      },
+      "status": "template-not-rendered",
+      "pack": "05-information",
+      "prompt": {
+        "en": "Asset: Coffee tasting wheel for beginners. Target aspect ratio: 1:1. Mode: generate.\nDesign a beginner tasting diagram with three equal outer sectors labeled \"FRUITY\", \"NUTTY\", \"COCOA\", surrounding the central title \"TASTE NOTES\". Place small original fruit, almond and cacao illustrations in their corresponding sectors. Cream paper, dark brown type, rust dividers, generous spacing. This is a simplified teaching graphic.\nConstraints: Exactly three sectors; no borrowed official tasting-wheel layout or additional terminology.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：新手咖啡风味轮。目标比例：1:1。模式：新建。\n设计入门风味图，三个等分外扇区分别“FRUITY”“NUTTY”“COCOA”，中间“TASTE NOTES”。对应放原创水果、杏仁和可可小插图，奶油纸、深棕字、铁锈分隔线，留白充足，作为简化教学图。\n约束：仅三个扇区，不使用既有官方风味轮版式，不加术语。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P027",
+      "title": {
+        "en": "Transparent demo-data bar chart",
+        "zh": "示例数据柱状图"
+      },
+      "ratio": "16:9",
+      "mode": "generate",
+      "brief": {
+        "en": "Create a presentation slide with the title \"WORKSHOP ATTENDANCE\" and a three-bar chart. Exact fictional values: \"April 20\", \"May 30\", \"June 40\". All bars share a zero baseline and equal width, with heights proportional to 20:30:40. Use ink-blue bars, cream background, a thin gray baseline and small footer \"DEMO DATA\".",
+        "zh": "制作演示页“WORKSHOP ATTENDANCE”，三根柱，虚构数值为“April 20”“May 30”“June 40”。共同零基线、等宽、柱高严格20:30:40，深蓝柱、奶油背景、灰细基线，页脚“DEMO DATA”。"
+      },
+      "constraints": {
+        "en": "No extrapolation, percentages or invented source. Keep labels outside bars.",
+        "zh": "不外推、不加百分比、不编造来源，标签放柱外。"
+      },
+      "revision": {
+        "en": "Highlight only June in orange, preserving values and bar geometry.",
+        "zh": "只将June柱改橙色，保留数值与几何关系。"
+      },
+      "review": {
+        "en": "Measure relative bar heights; use chart software for final data-critical publication.",
+        "zh": "测量柱高比例；正式数据出版需用图表软件复核重绘。"
+      },
+      "status": "template-not-rendered",
+      "pack": "05-information",
+      "prompt": {
+        "en": "Asset: Transparent demo-data bar chart. Target aspect ratio: 16:9. Mode: generate.\nCreate a presentation slide with the title \"WORKSHOP ATTENDANCE\" and a three-bar chart. Exact fictional values: \"April 20\", \"May 30\", \"June 40\". All bars share a zero baseline and equal width, with heights proportional to 20:30:40. Use ink-blue bars, cream background, a thin gray baseline and small footer \"DEMO DATA\".\nConstraints: No extrapolation, percentages or invented source. Keep labels outside bars.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：示例数据柱状图。目标比例：16:9。模式：新建。\n制作演示页“WORKSHOP ATTENDANCE”，三根柱，虚构数值为“April 20”“May 30”“June 40”。共同零基线、等宽、柱高严格20:30:40，深蓝柱、奶油背景、灰细基线，页脚“DEMO DATA”。\n约束：不外推、不加百分比、不编造来源，标签放柱外。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P028",
+      "title": {
+        "en": "Fictional neighborhood walking map",
+        "zh": "虚构街区步行地图"
+      },
+      "ratio": "1:1",
+      "mode": "generate",
+      "brief": {
+        "en": "Draw an illustrated map of a fictional neighborhood with a square park in the center, library north, café east and station south. A dotted walking route links station to park to library. Use exact labels \"PARK\", \"LIBRARY\", \"CAFÉ\", \"STATION\" and small \"ILLUSTRATED MAP\". Restrained isometric buildings, sage greenery, terracotta route.",
+        "zh": "绘制虚构街区地图：中央方形公园，北边图书馆，东边咖啡馆，南边车站。点状步行线连接车站、公园、图书馆。标签“PARK”“LIBRARY”“CAFÉ”“STATION”和小字“ILLUSTRATED MAP”，克制等距建筑、灰绿植被、陶土路线。"
+      },
+      "constraints": {
+        "en": "Not a navigational map; no real coordinates, travel times or extra landmarks.",
+        "zh": "不作为导航地图，不加真实坐标、步行时间或额外地标。"
+      },
+      "revision": {
+        "en": "Change only the route color to dark blue without moving its path.",
+        "zh": "仅将路线改深蓝，不移动路径。"
+      },
+      "review": {
+        "en": "Verify north/east/south placement and route endpoint connections.",
+        "zh": "核对方位及路线端点连接。"
+      },
+      "status": "template-not-rendered",
+      "pack": "05-information",
+      "prompt": {
+        "en": "Asset: Fictional neighborhood walking map. Target aspect ratio: 1:1. Mode: generate.\nDraw an illustrated map of a fictional neighborhood with a square park in the center, library north, café east and station south. A dotted walking route links station to park to library. Use exact labels \"PARK\", \"LIBRARY\", \"CAFÉ\", \"STATION\" and small \"ILLUSTRATED MAP\". Restrained isometric buildings, sage greenery, terracotta route.\nConstraints: Not a navigational map; no real coordinates, travel times or extra landmarks.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：虚构街区步行地图。目标比例：1:1。模式：新建。\n绘制虚构街区地图：中央方形公园，北边图书馆，东边咖啡馆，南边车站。点状步行线连接车站、公园、图书馆。标签“PARK”“LIBRARY”“CAFÉ”“STATION”和小字“ILLUSTRATED MAP”，克制等距建筑、灰绿植被、陶土路线。\n约束：不作为导航地图，不加真实坐标、步行时间或额外地标。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P029",
+      "title": {
+        "en": "Plant life-cycle classroom card",
+        "zh": "植物生命周期教学卡"
+      },
+      "ratio": "4:5",
+      "mode": "generate",
+      "brief": {
+        "en": "Create a botanical learning card showing four stages of a bean plant in a 2×2 grid: seed, germination with root, seedling with two leaves, mature leafy plant. Exact labels \"SEED\", \"ROOT\", \"SEEDLING\", \"PLANT\". Colored pencil with clean cream margins, consistent scale cues and discreet directional arrows.",
+        "zh": "制作豆科植物学习卡，2×2四阶段：种子、萌发根、两叶幼苗、成熟叶株。标签“SEED”“ROOT”“SEEDLING”“PLANT”，彩铅、干净奶油边距、统一比例提示和克制方向箭头。"
+      },
+      "constraints": {
+        "en": "Roots below soil, leaves above; do not imply equal time intervals or add unsupported dates.",
+        "zh": "根在土下、叶在土上，不暗示等时间间隔、不加日期。"
+      },
+      "revision": {
+        "en": "Enlarge only the root illustration in the second panel while preserving labels.",
+        "zh": "仅放大第二格根部插图，保留文字。"
+      },
+      "review": {
+        "en": "Review growth order, plant anatomy and label placement with an educator.",
+        "zh": "与教育人员核对生长顺序、植物结构与标签。"
+      },
+      "status": "template-not-rendered",
+      "pack": "05-information",
+      "prompt": {
+        "en": "Asset: Plant life-cycle classroom card. Target aspect ratio: 4:5. Mode: generate.\nCreate a botanical learning card showing four stages of a bean plant in a 2×2 grid: seed, germination with root, seedling with two leaves, mature leafy plant. Exact labels \"SEED\", \"ROOT\", \"SEEDLING\", \"PLANT\". Colored pencil with clean cream margins, consistent scale cues and discreet directional arrows.\nConstraints: Roots below soil, leaves above; do not imply equal time intervals or add unsupported dates.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：植物生命周期教学卡。目标比例：4:5。模式：新建。\n制作豆科植物学习卡，2×2四阶段：种子、萌发根、两叶幼苗、成熟叶株。标签“SEED”“ROOT”“SEEDLING”“PLANT”，彩铅、干净奶油边距、统一比例提示和克制方向箭头。\n约束：根在土下、叶在土上，不暗示等时间间隔、不加日期。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P030",
+      "title": {
+        "en": "Workshop process slide",
+        "zh": "工作坊流程演示页"
+      },
+      "ratio": "16:9",
+      "mode": "generate",
+      "brief": {
+        "en": "Design a clean slide titled \"FROM IDEA TO OBJECT\". Four horizontal cards read \"SKETCH\", \"PROTOTYPE\", \"TEST\", \"REFINE\", each with one original simple illustration: pencil drawing, cardboard model, hand testing fit, finished wooden object. Use equal card sizes, thin arrows, cream background and alternating blue and rust accents.",
+        "zh": "设计演示页“FROM IDEA TO OBJECT”，四张水平等大卡片依次“SKETCH”“PROTOTYPE”“TEST”“REFINE”，分别配铅笔图、纸板模型、手测配合、成品木物的小原创插图。细箭头、奶油背景、蓝与铁锈色交替。"
+      },
+      "constraints": {
+        "en": "One illustration per stage; no extra steps or unsupported business claims.",
+        "zh": "每步一个插图，不添加步骤或商业承诺。"
+      },
+      "revision": {
+        "en": "Change only the final card accent to deep green.",
+        "zh": "仅把最后一张卡的强调色改深绿。"
+      },
+      "review": {
+        "en": "Check four cards, arrow direction and even alignment at presentation size.",
+        "zh": "检查四张卡、箭头方向及演示尺寸对齐。"
+      },
+      "status": "template-not-rendered",
+      "pack": "05-information",
+      "prompt": {
+        "en": "Asset: Workshop process slide. Target aspect ratio: 16:9. Mode: generate.\nDesign a clean slide titled \"FROM IDEA TO OBJECT\". Four horizontal cards read \"SKETCH\", \"PROTOTYPE\", \"TEST\", \"REFINE\", each with one original simple illustration: pencil drawing, cardboard model, hand testing fit, finished wooden object. Use equal card sizes, thin arrows, cream background and alternating blue and rust accents.\nConstraints: One illustration per stage; no extra steps or unsupported business claims.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：工作坊流程演示页。目标比例：16:9。模式：新建。\n设计演示页“FROM IDEA TO OBJECT”，四张水平等大卡片依次“SKETCH”“PROTOTYPE”“TEST”“REFINE”，分别配铅笔图、纸板模型、手测配合、成品木物的小原创插图。细箭头、奶油背景、蓝与铁锈色交替。\n约束：每步一个插图，不添加步骤或商业承诺。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P031",
+      "title": {
+        "en": "Independent ceramics wordmark",
+        "zh": "独立陶艺品牌字标"
+      },
+      "ratio": "3:2",
+      "mode": "generate",
+      "brief": {
+        "en": "Explore an original wordmark \"SOFT KILN\" for a small ceramics studio. Show one primary black wordmark large on warm ivory, with subtly rounded terminals and broad letter spacing, plus one small reversed version on a terracotta rectangle below. Keep it flat, monochrome and suitable for later vector reconstruction.",
+        "zh": "探索小陶艺工作室原创字标“SOFT KILN”。暖象牙底大黑字，字端微圆、宽字距，下方陶土矩形中放一版小反白字。平面、单色，可供后期矢量重建。"
+      },
+      "constraints": {
+        "en": "No copied logo shapes, faux trademark marks, 3D mockups or additional names.",
+        "zh": "不复制已有标形、不加商标符号、3D样机或其他名称。"
+      },
+      "revision": {
+        "en": "Adjust only the spacing between F and T, preserving every letterform.",
+        "zh": "只调整F与T间距，保留字形。"
+      },
+      "review": {
+        "en": "Read both sizes; review originality and rebuild vectors before production.",
+        "zh": "检查两种尺寸，审查独特性并在生产前重建矢量。"
+      },
+      "status": "template-not-rendered",
+      "pack": "06-brand-ui",
+      "prompt": {
+        "en": "Asset: Independent ceramics wordmark. Target aspect ratio: 3:2. Mode: generate.\nExplore an original wordmark \"SOFT KILN\" for a small ceramics studio. Show one primary black wordmark large on warm ivory, with subtly rounded terminals and broad letter spacing, plus one small reversed version on a terracotta rectangle below. Keep it flat, monochrome and suitable for later vector reconstruction.\nConstraints: No copied logo shapes, faux trademark marks, 3D mockups or additional names.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：独立陶艺品牌字标。目标比例：3:2。模式：新建。\n探索小陶艺工作室原创字标“SOFT KILN”。暖象牙底大黑字，字端微圆、宽字距，下方陶土矩形中放一版小反白字。平面、单色，可供后期矢量重建。\n约束：不复制已有标形、不加商标符号、3D样机或其他名称。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P032",
+      "title": {
+        "en": "Museum wayfinding family",
+        "zh": "博物馆导视系统"
+      },
+      "ratio": "3:2",
+      "mode": "generate",
+      "brief": {
+        "en": "Create a wayfinding concept board for a fictional craft museum. Three matching matte navy signs on cream read \"GALLERY →\", \"WORKSHOP ↑\", \"CAFÉ ←\" in large ivory sans serif. Add a small consistent geometric square symbol to each. Present signs front-on with a narrow material detail strip below.",
+        "zh": "为虚构工艺博物馆设计导视概念板，三块统一哑光深蓝标牌，象牙无衬线大字“GALLERY →”“WORKSHOP ↑”“CAFÉ ←”，各有统一几何方块符号。正面展示，下方窄材料细节条。"
+      },
+      "constraints": {
+        "en": "Preserve arrow directions and equal text sizes; no emergency-exit or accessibility certification claims.",
+        "zh": "保持箭头方向和字号一致，不作紧急出口或无障碍认证声明。"
+      },
+      "revision": {
+        "en": "Change only sign material to painted wood while retaining navy and ivory colors.",
+        "zh": "只将材质改为涂漆木板，保留深蓝和象牙色。"
+      },
+      "review": {
+        "en": "Check arrows and legibility; validate physical signage separately.",
+        "zh": "检查箭头与可读性，实际导视另行验证。"
+      },
+      "status": "template-not-rendered",
+      "pack": "06-brand-ui",
+      "prompt": {
+        "en": "Asset: Museum wayfinding family. Target aspect ratio: 3:2. Mode: generate.\nCreate a wayfinding concept board for a fictional craft museum. Three matching matte navy signs on cream read \"GALLERY →\", \"WORKSHOP ↑\", \"CAFÉ ←\" in large ivory sans serif. Add a small consistent geometric square symbol to each. Present signs front-on with a narrow material detail strip below.\nConstraints: Preserve arrow directions and equal text sizes; no emergency-exit or accessibility certification claims.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：博物馆导视系统。目标比例：3:2。模式：新建。\n为虚构工艺博物馆设计导视概念板，三块统一哑光深蓝标牌，象牙无衬线大字“GALLERY →”“WORKSHOP ↑”“CAFÉ ←”，各有统一几何方块符号。正面展示，下方窄材料细节条。\n约束：保持箭头方向和字号一致，不作紧急出口或无障碍认证声明。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P033",
+      "title": {
+        "en": "Book-club mobile app concept",
+        "zh": "读书会移动应用概念"
+      },
+      "ratio": "4:5",
+      "mode": "generate",
+      "brief": {
+        "en": "Make a front-facing mobile UI concept with a cream canvas and deep-plum text. Header \"THIS WEEK\"; a large illustrated book card titled \"The Quiet Orchard\"; below two simple rows \"Thursday discussion\" and \"Notes to revisit\"; one primary button \"Join the conversation\". Use generous touch-sized spacing and a single-column hierarchy.",
+        "zh": "制作正视移动UI概念，奶油画布、深梅色文字。顶部“THIS WEEK”，大插画书卡“The Quiet Orchard”，两行“Thursday discussion”“Notes to revisit”，主按钮“Join the conversation”。单栏层级、充足触控间距。"
+      },
+      "constraints": {
+        "en": "Raster design concept, not functional software; no device frame, invented reviews or personal data.",
+        "zh": "位图设计概念而非功能软件，不加设备框、虚构评价或个人数据。"
+      },
+      "revision": {
+        "en": "Change only the primary button to dark green; keep layout and wording.",
+        "zh": "只将主按钮改深绿，保持布局和文字。"
+      },
+      "review": {
+        "en": "Review button contrast, padding and text truncation; implement UI separately.",
+        "zh": "检查按钮对比、内边距和文字截断，界面需另外实现。"
+      },
+      "status": "template-not-rendered",
+      "pack": "06-brand-ui",
+      "prompt": {
+        "en": "Asset: Book-club mobile app concept. Target aspect ratio: 4:5. Mode: generate.\nMake a front-facing mobile UI concept with a cream canvas and deep-plum text. Header \"THIS WEEK\"; a large illustrated book card titled \"The Quiet Orchard\"; below two simple rows \"Thursday discussion\" and \"Notes to revisit\"; one primary button \"Join the conversation\". Use generous touch-sized spacing and a single-column hierarchy.\nConstraints: Raster design concept, not functional software; no device frame, invented reviews or personal data.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：读书会移动应用概念。目标比例：4:5。模式：新建。\n制作正视移动UI概念，奶油画布、深梅色文字。顶部“THIS WEEK”，大插画书卡“The Quiet Orchard”，两行“Thursday discussion”“Notes to revisit”，主按钮“Join the conversation”。单栏层级、充足触控间距。\n约束：位图设计概念而非功能软件，不加设备框、虚构评价或个人数据。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P034",
+      "title": {
+        "en": "Workshop booking landing page",
+        "zh": "工作坊预约落地页概念"
+      },
+      "ratio": "16:9",
+      "mode": "generate",
+      "brief": {
+        "en": "Design a desktop landing-page visual for a fictional woodworking school. Left column headline \"MAKE SOMETHING REAL\", a short line \"Weekend workshops for curious hands\", and button \"Explore classes\". Right column warm photograph of tools and a half-built wooden stool. Cream background, dark olive type, rust accent, broad margins and restrained navigation \"Classes  Studio  Contact\".",
+        "zh": "设计虚构木工学校桌面落地页视觉。左栏“MAKE SOMETHING REAL”、短句“Weekend workshops for curious hands”、按钮“Explore classes”；右栏工具和半成品木凳暖调照片。奶油背景、深橄榄字、铁锈强调、宽边距，导航“Classes  Studio  Contact”。"
+      },
+      "constraints": {
+        "en": "No invented testimonials, availability, checkout UI or extra navigation.",
+        "zh": "不添加虚构证言、空位、结账界面或额外导航。"
+      },
+      "revision": {
+        "en": "Replace only the hero photo with a hand-planed wooden bowl scene, preserving the grid.",
+        "zh": "仅把主图替换成手工木碗场景，保留网格。"
+      },
+      "review": {
+        "en": "Check exact copy and whether headline dominates without covering the product.",
+        "zh": "检查准确文案及标题是否突出且不挡主体。"
+      },
+      "status": "template-not-rendered",
+      "pack": "06-brand-ui",
+      "prompt": {
+        "en": "Asset: Workshop booking landing page. Target aspect ratio: 16:9. Mode: generate.\nDesign a desktop landing-page visual for a fictional woodworking school. Left column headline \"MAKE SOMETHING REAL\", a short line \"Weekend workshops for curious hands\", and button \"Explore classes\". Right column warm photograph of tools and a half-built wooden stool. Cream background, dark olive type, rust accent, broad margins and restrained navigation \"Classes  Studio  Contact\".\nConstraints: No invented testimonials, availability, checkout UI or extra navigation.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：工作坊预约落地页概念。目标比例：16:9。模式：新建。\n设计虚构木工学校桌面落地页视觉。左栏“MAKE SOMETHING REAL”、短句“Weekend workshops for curious hands”、按钮“Explore classes”；右栏工具和半成品木凳暖调照片。奶油背景、深橄榄字、铁锈强调、宽边距，导航“Classes  Studio  Contact”。\n约束：不添加虚构证言、空位、结账界面或额外导航。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P035",
+      "title": {
+        "en": "Tea packaging family",
+        "zh": "茶叶包装家族"
+      },
+      "ratio": "3:2",
+      "mode": "generate",
+      "brief": {
+        "en": "Create three matching paper tea cartons for fictional \"FIELD LETTER\". Same geometry and cream label system; variants \"MINT\", \"ROOIBOS\", \"OOLONG\" use green, rust and blue side panels. Arrange front-facing cartons on a neutral plinth with consistent scale and readable titles. Natural paper fibers, soft studio shadows.",
+        "zh": "为虚构“FIELD LETTER”制作三款统一纸茶盒，同一结构和奶油标签；“MINT”“ROOIBOS”“OOLONG”分别搭配绿、铁锈、蓝侧板。等比例正面排列于中性台面，标题可读、天然纸纤维、柔和影棚阴影。"
+      },
+      "constraints": {
+        "en": "Exactly three cartons; no health promises, weights, certifications or barcodes.",
+        "zh": "仅三个盒子，不加健康承诺、重量、认证和条码。"
+      },
+      "revision": {
+        "en": "Change only the OOLONG side-panel blue to deeper navy.",
+        "zh": "只把OOLONG侧板蓝改为更深海军蓝。"
+      },
+      "review": {
+        "en": "Compare label baseline, carton proportions and variant spelling.",
+        "zh": "比较标签基线、盒体比例与品名拼写。"
+      },
+      "status": "template-not-rendered",
+      "pack": "06-brand-ui",
+      "prompt": {
+        "en": "Asset: Tea packaging family. Target aspect ratio: 3:2. Mode: generate.\nCreate three matching paper tea cartons for fictional \"FIELD LETTER\". Same geometry and cream label system; variants \"MINT\", \"ROOIBOS\", \"OOLONG\" use green, rust and blue side panels. Arrange front-facing cartons on a neutral plinth with consistent scale and readable titles. Natural paper fibers, soft studio shadows.\nConstraints: Exactly three cartons; no health promises, weights, certifications or barcodes.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：茶叶包装家族。目标比例：3:2。模式：新建。\n为虚构“FIELD LETTER”制作三款统一纸茶盒，同一结构和奶油标签；“MINT”“ROOIBOS”“OOLONG”分别搭配绿、铁锈、蓝侧板。等比例正面排列于中性台面，标题可读、天然纸纤维、柔和影棚阴影。\n约束：仅三个盒子，不加健康承诺、重量、认证和条码。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P036",
+      "title": {
+        "en": "Creator dashboard concept",
+        "zh": "创作者工作台概念"
+      },
+      "ratio": "16:9",
+      "mode": "generate",
+      "brief": {
+        "en": "Create a calm desktop dashboard concept for a fictional studio. Left sidebar \"Overview\", \"Projects\", \"Assets\". Main heading \"Studio overview\"; three project cards labeled \"Lamp campaign\", \"Bakery poster\", \"Reading room\" with small original thumbnails. A right panel \"Next review\" contains \"Friday, 10:00\". Off-white canvas, navy typography and orange status dots.",
+        "zh": "制作虚构工作室桌面看板概念，左侧“Overview”“Projects”“Assets”，主标题“Studio overview”；三项目卡“Lamp campaign”“Bakery poster”“Reading room”配原创小图，右栏“Next review”内“Friday, 10:00”。米白、深蓝字、橙色状态点。"
+      },
+      "constraints": {
+        "en": "No fabricated live metrics or real customer data; conceptual UI only.",
+        "zh": "不编造实时指标或真实客户数据，仅UI概念。"
+      },
+      "revision": {
+        "en": "Increase only project thumbnail height without changing sidebar or text.",
+        "zh": "仅增加项目缩略图高度，不改侧栏和文字。"
+      },
+      "review": {
+        "en": "Check alignment, consistent cards and distinguishable controls.",
+        "zh": "检查对齐、卡片一致性和控件可区分性。"
+      },
+      "status": "template-not-rendered",
+      "pack": "06-brand-ui",
+      "prompt": {
+        "en": "Asset: Creator dashboard concept. Target aspect ratio: 16:9. Mode: generate.\nCreate a calm desktop dashboard concept for a fictional studio. Left sidebar \"Overview\", \"Projects\", \"Assets\". Main heading \"Studio overview\"; three project cards labeled \"Lamp campaign\", \"Bakery poster\", \"Reading room\" with small original thumbnails. A right panel \"Next review\" contains \"Friday, 10:00\". Off-white canvas, navy typography and orange status dots.\nConstraints: No fabricated live metrics or real customer data; conceptual UI only.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：创作者工作台概念。目标比例：16:9。模式：新建。\n制作虚构工作室桌面看板概念，左侧“Overview”“Projects”“Assets”，主标题“Studio overview”；三项目卡“Lamp campaign”“Bakery poster”“Reading room”配原创小图，右栏“Next review”内“Friday, 10:00”。米白、深蓝字、橙色状态点。\n约束：不编造实时指标或真实客户数据，仅UI概念。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P037",
+      "title": {
+        "en": "Paper moon repair story",
+        "zh": "修补纸月亮六格故事"
+      },
+      "ratio": "3:2",
+      "mode": "generate",
+      "brief": {
+        "en": "Create a six-panel wordless story in a 3×2 grid. A cream repair robot with one amber eye and teal apron finds a torn paper moon in an attic, lifts its halves, selects orange thread, stitches the seam, hangs the moon, then rests beneath its glow. Use gouache and colored-pencil texture, ivory gutters, warm peach and muted teal with ink-blue dusk.",
+        "zh": "创作3×2六格无字故事：奶油色修理机器人、单只琥珀眼、青绿围裙，在阁楼发现破纸月亮，拿起两半，选橙线，缝合，挂起，最后坐在月光下。水粉彩铅质感、象牙格缝、暖桃和灰青绿、墨蓝暮色。"
+      },
+      "constraints": {
+        "en": "Keep robot design and workshop recognizable across panels; exactly six panels, no dialogue.",
+        "zh": "保持各格机器人和工作室可辨识一致，恰好六格，无对白。"
+      },
+      "revision": {
+        "en": "Edit only panel three so the moon is still unstitched while the robot selects the thread.",
+        "zh": "仅改第三格：机器人选线时月亮仍未缝合。"
+      },
+      "review": {
+        "en": "Check action order, apron continuity and whether repair happens too early.",
+        "zh": "检查动作顺序、围裙一致性及是否提前出现修好状态。"
+      },
+      "status": "related-example-available",
+      "pack": "07-stories-games",
+      "prompt": {
+        "en": "Asset: Paper moon repair story. Target aspect ratio: 3:2. Mode: generate.\nCreate a six-panel wordless story in a 3×2 grid. A cream repair robot with one amber eye and teal apron finds a torn paper moon in an attic, lifts its halves, selects orange thread, stitches the seam, hangs the moon, then rests beneath its glow. Use gouache and colored-pencil texture, ivory gutters, warm peach and muted teal with ink-blue dusk.\nConstraints: Keep robot design and workshop recognizable across panels; exactly six panels, no dialogue.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：修补纸月亮六格故事。目标比例：3:2。模式：新建。\n创作3×2六格无字故事：奶油色修理机器人、单只琥珀眼、青绿围裙，在阁楼发现破纸月亮，拿起两半，选橙线，缝合，挂起，最后坐在月光下。水粉彩铅质感、象牙格缝、暖桃和灰青绿、墨蓝暮色。\n约束：保持各格机器人和工作室可辨识一致，恰好六格，无对白。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": [
+        "assets/images/paper-moon-story.png"
+      ]
+    },
+    {
+      "id": "P038",
+      "title": {
+        "en": "Character turnaround sheet",
+        "zh": "原创角色转面表"
+      },
+      "ratio": "3:2",
+      "mode": "generate",
+      "brief": {
+        "en": "Design an original courier character for a cozy adventure game: short adult with curly dark hair, oversized rust raincoat, blue satchel and cream boots. Show front, side and back views at equal scale, standing on one baseline against light gray. Clean hand-painted game concept style with clear costume construction.",
+        "zh": "为温馨冒险游戏设计原创信使：矮个成年人、深色卷发、宽松铁锈雨衣、蓝挎包、奶油靴。浅灰底同一基线等比例正侧背三视图，干净手绘游戏概念风，服装结构清楚。"
+      },
+      "constraints": {
+        "en": "Same character and costume in all views; no weapons, text or background props.",
+        "zh": "三视图同角色同服装，不加武器、文字和场景道具。"
+      },
+      "revision": {
+        "en": "Change only satchel color to forest green consistently in all three views.",
+        "zh": "只将三视图挎包统一改森林绿。"
+      },
+      "review": {
+        "en": "Compare coat hem, strap side, boot height and head scale.",
+        "zh": "对比衣摆、肩带侧、靴高和头部比例。"
+      },
+      "status": "template-not-rendered",
+      "pack": "07-stories-games",
+      "prompt": {
+        "en": "Asset: Character turnaround sheet. Target aspect ratio: 3:2. Mode: generate.\nDesign an original courier character for a cozy adventure game: short adult with curly dark hair, oversized rust raincoat, blue satchel and cream boots. Show front, side and back views at equal scale, standing on one baseline against light gray. Clean hand-painted game concept style with clear costume construction.\nConstraints: Same character and costume in all views; no weapons, text or background props.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：原创角色转面表。目标比例：3:2。模式：新建。\n为温馨冒险游戏设计原创信使：矮个成年人、深色卷发、宽松铁锈雨衣、蓝挎包、奶油靴。浅灰底同一基线等比例正侧背三视图，干净手绘游戏概念风，服装结构清楚。\n约束：三视图同角色同服装，不加武器、文字和场景道具。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P039",
+      "title": {
+        "en": "Four-expression mascot sheet",
+        "zh": "吉祥物四表情表"
+      },
+      "ratio": "1:1",
+      "mode": "generate",
+      "brief": {
+        "en": "Create a 2×2 expression sheet for an original round pebble creature with two tiny leaf ears and one orange cheek spot. Expressions are curious, delighted, sleepy and surprised. Keep the same front-facing head size and pastel clay material in every cell on cream. Distinct expressions should come from eyelids and mouth, not changing the character.",
+        "zh": "为原创圆卵石生物制作2×2表情表，两片小叶耳、一个橙色脸颊斑。表情好奇、开心、困倦、惊讶。每格同正脸头部尺寸和粉彩黏土材质、奶油底，靠眼睑嘴巴表达，不改角色。"
+      },
+      "constraints": {
+        "en": "Exactly four heads, no bodies, words or additional facial markings.",
+        "zh": "仅四个头，不加身体、文字和额外面部斑纹。"
+      },
+      "revision": {
+        "en": "Make only the sleepy expression’s eyelids lower.",
+        "zh": "仅让困倦表情眼睑更低。"
+      },
+      "review": {
+        "en": "Check ear shape, cheek-spot side and equal head dimensions.",
+        "zh": "检查耳形、脸斑方向和等大头部。"
+      },
+      "status": "template-not-rendered",
+      "pack": "07-stories-games",
+      "prompt": {
+        "en": "Asset: Four-expression mascot sheet. Target aspect ratio: 1:1. Mode: generate.\nCreate a 2×2 expression sheet for an original round pebble creature with two tiny leaf ears and one orange cheek spot. Expressions are curious, delighted, sleepy and surprised. Keep the same front-facing head size and pastel clay material in every cell on cream. Distinct expressions should come from eyelids and mouth, not changing the character.\nConstraints: Exactly four heads, no bodies, words or additional facial markings.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：吉祥物四表情表。目标比例：1:1。模式：新建。\n为原创圆卵石生物制作2×2表情表，两片小叶耳、一个橙色脸颊斑。表情好奇、开心、困倦、惊讶。每格同正脸头部尺寸和粉彩黏土材质、奶油底，靠眼睑嘴巴表达，不改角色。\n约束：仅四个头，不加身体、文字和额外面部斑纹。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P040",
+      "title": {
+        "en": "Cozy game inventory icons",
+        "zh": "温馨游戏物品图标"
+      },
+      "ratio": "1:1",
+      "mode": "generate",
+      "brief": {
+        "en": "Create nine original inventory icons in a 3×3 evenly spaced grid: acorn, lantern, rolled map, teacup, seed pouch, brass key, folded scarf, wooden spoon and mushroom. Use softly shaded hand-painted forms, one top-left light direction and cream background. Strong silhouettes readable at small size.",
+        "zh": "生成3×3九个原创物品图标：橡子、提灯、卷地图、茶杯、种子袋、黄铜钥匙、折叠围巾、木勺、蘑菇。柔和手绘明暗，统一左上光，奶油底，轮廓小尺寸清楚。"
+      },
+      "constraints": {
+        "en": "One item per cell, no text or UI border; this is an atlas concept requiring extraction.",
+        "zh": "每格一物，不加字或UI框；图集概念需后续拆分。"
+      },
+      "revision": {
+        "en": "Change only the lantern glow from yellow to pale blue.",
+        "zh": "只将提灯光由黄改浅蓝。"
+      },
+      "review": {
+        "en": "Count nine distinct items and inspect equal padding before export.",
+        "zh": "导出前检查九个不同物件及等距留白。"
+      },
+      "status": "template-not-rendered",
+      "pack": "07-stories-games",
+      "prompt": {
+        "en": "Asset: Cozy game inventory icons. Target aspect ratio: 1:1. Mode: generate.\nCreate nine original inventory icons in a 3×3 evenly spaced grid: acorn, lantern, rolled map, teacup, seed pouch, brass key, folded scarf, wooden spoon and mushroom. Use softly shaded hand-painted forms, one top-left light direction and cream background. Strong silhouettes readable at small size.\nConstraints: One item per cell, no text or UI border; this is an atlas concept requiring extraction.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：温馨游戏物品图标。目标比例：1:1。模式：新建。\n生成3×3九个原创物品图标：橡子、提灯、卷地图、茶杯、种子袋、黄铜钥匙、折叠围巾、木勺、蘑菇。柔和手绘明暗，统一左上光，奶油底，轮廓小尺寸清楚。\n约束：每格一物，不加字或UI框；图集概念需后续拆分。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P041",
+      "title": {
+        "en": "Isometric rooftop garden",
+        "zh": "等距屋顶花园游戏场景"
+      },
+      "ratio": "1:1",
+      "mode": "generate",
+      "brief": {
+        "en": "Draw an isometric game environment of a tiny rooftop greenhouse. Include a glass structure at back, three raised planting beds, one water barrel and a narrow timber walkway. Moss green, warm brick and pale glass palette; detailed hand-painted textures with clear navigable spaces. Keep the whole floating rooftop tile visible.",
+        "zh": "绘制等距小型屋顶温室游戏场景：后方玻璃温室、三个种植床、一个水桶、窄木走道。苔绿、暖砖、浅玻璃，精细手绘纹理和清楚可行走空间，完整显示悬浮屋顶地块。"
+      },
+      "constraints": {
+        "en": "Consistent isometric angles, no text, no characters and no hidden crop at tile edges.",
+        "zh": "等距角一致，不加字和角色，不裁地块边缘。"
+      },
+      "revision": {
+        "en": "Add only a folded orange watering hose beside the barrel.",
+        "zh": "仅在水桶旁添加折叠橙色水管。"
+      },
+      "review": {
+        "en": "Inspect glass perspective, walkway continuity and object scale.",
+        "zh": "检查玻璃透视、走道连续和物件比例。"
+      },
+      "status": "template-not-rendered",
+      "pack": "07-stories-games",
+      "prompt": {
+        "en": "Asset: Isometric rooftop garden. Target aspect ratio: 1:1. Mode: generate.\nDraw an isometric game environment of a tiny rooftop greenhouse. Include a glass structure at back, three raised planting beds, one water barrel and a narrow timber walkway. Moss green, warm brick and pale glass palette; detailed hand-painted textures with clear navigable spaces. Keep the whole floating rooftop tile visible.\nConstraints: Consistent isometric angles, no text, no characters and no hidden crop at tile edges.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：等距屋顶花园游戏场景。目标比例：1:1。模式：新建。\n绘制等距小型屋顶温室游戏场景：后方玻璃温室、三个种植床、一个水桶、窄木走道。苔绿、暖砖、浅玻璃，精细手绘纹理和清楚可行走空间，完整显示悬浮屋顶地块。\n约束：等距角一致，不加字和角色，不裁地块边缘。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P042",
+      "title": {
+        "en": "Pixel-art harbor background",
+        "zh": "像素港湾游戏背景"
+      },
+      "ratio": "16:9",
+      "mode": "generate",
+      "brief": {
+        "en": "Create an original pixel-art seaside harbor at blue hour. Put fishing sheds at left, quiet moored boats in the middle and a lighthouse far right. Restrict the visual palette to navy, slate, muted coral and warm yellow windows. Keep foreground water simple and a clear middle band for game characters.",
+        "zh": "创作蓝调时刻原创像素海港：左边渔棚、中间静泊小船、右远方灯塔。视觉限深蓝、石板灰、灰珊瑚、暖黄窗，前景水面简洁，中间留游戏角色活动带。"
+      },
+      "constraints": {
+        "en": "Pixel-art appearance is requested, not a guaranteed exact pixel grid; no text or borrowed game assets.",
+        "zh": "要求像素风外观而非保证精确像素网格，不加字或借用游戏素材。"
+      },
+      "revision": {
+        "en": "Change only window-light color to pale amber; preserve silhouettes and layout.",
+        "zh": "只把窗光改浅琥珀，保留轮廓和布局。"
+      },
+      "review": {
+        "en": "Check pixel consistency; rebuild to target game resolution if needed.",
+        "zh": "检查像素一致性，需要时按游戏目标分辨率重建。"
+      },
+      "status": "template-not-rendered",
+      "pack": "07-stories-games",
+      "prompt": {
+        "en": "Asset: Pixel-art harbor background. Target aspect ratio: 16:9. Mode: generate.\nCreate an original pixel-art seaside harbor at blue hour. Put fishing sheds at left, quiet moored boats in the middle and a lighthouse far right. Restrict the visual palette to navy, slate, muted coral and warm yellow windows. Keep foreground water simple and a clear middle band for game characters.\nConstraints: Pixel-art appearance is requested, not a guaranteed exact pixel grid; no text or borrowed game assets.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：像素港湾游戏背景。目标比例：16:9。模式：新建。\n创作蓝调时刻原创像素海港：左边渔棚、中间静泊小船、右远方灯塔。视觉限深蓝、石板灰、灰珊瑚、暖黄窗，前景水面简洁，中间留游戏角色活动带。\n约束：要求像素风外观而非保证精确像素网格，不加字或借用游戏素材。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P043",
+      "title": {
+        "en": "Workshop-to-reading-room concept",
+        "zh": "旧工坊改造阅读室"
+      },
+      "ratio": "3:2",
+      "mode": "generate",
+      "brief": {
+        "en": "Photograph a compact neighborhood reading room in a former bicycle workshop. Curved terracotta bench left, birch communal table with four chairs center, original steel windows rear, slim bookshelves right, one olive tree by the window. Retain concrete beams and patched terrazzo. Eye-level entrance view, straight verticals, soft morning daylight and visible material grain.",
+        "zh": "拍摄旧自行车工坊改造的小阅读室：左侧弧形陶土软凳、中间桦木长桌四把椅、后方旧钢窗、右侧窄书架、窗边一棵橄榄树。保留混凝土梁和修补水磨石，入口平视、垂直线端正、柔和晨光、材料木纹可见。"
+      },
+      "constraints": {
+        "en": "No people, logos or signage; preserve believable circulation. Concept, not construction documentation.",
+        "zh": "无人、无标识和招牌，动线可信；概念图非施工文件。"
+      },
+      "revision": {
+        "en": "Change only bench upholstery to deep teal; keep architecture and furniture placement.",
+        "zh": "仅把长凳面料改深青绿，保持建筑和家具位置。"
+      },
+      "review": {
+        "en": "Count chairs and inspect walkways, window geometry and table supports.",
+        "zh": "清点椅子，检查走道、窗结构和桌支撑。"
+      },
+      "status": "related-example-available",
+      "pack": "08-spaces",
+      "prompt": {
+        "en": "Asset: Workshop-to-reading-room concept. Target aspect ratio: 3:2. Mode: generate.\nPhotograph a compact neighborhood reading room in a former bicycle workshop. Curved terracotta bench left, birch communal table with four chairs center, original steel windows rear, slim bookshelves right, one olive tree by the window. Retain concrete beams and patched terrazzo. Eye-level entrance view, straight verticals, soft morning daylight and visible material grain.\nConstraints: No people, logos or signage; preserve believable circulation. Concept, not construction documentation.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：旧工坊改造阅读室。目标比例：3:2。模式：新建。\n拍摄旧自行车工坊改造的小阅读室：左侧弧形陶土软凳、中间桦木长桌四把椅、后方旧钢窗、右侧窄书架、窗边一棵橄榄树。保留混凝土梁和修补水磨石，入口平视、垂直线端正、柔和晨光、材料木纹可见。\n约束：无人、无标识和招牌，动线可信；概念图非施工文件。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": [
+        "assets/images/reading-room.png"
+      ]
+    },
+    {
+      "id": "P044",
+      "title": {
+        "en": "Small apartment material refresh",
+        "zh": "小公寓材质翻新"
+      },
+      "ratio": "3:2",
+      "mode": "edit",
+      "brief": {
+        "en": "Image 1 is the existing apartment. Update only wall paint to warm chalk white and cabinet fronts to pale oak veneer. Preserve the exact room size, window openings, floor, ceiling height and furniture. Use the current natural light and camera as anchors; keep surface textures subtle.",
+        "zh": "图1为现有公寓。仅把墙漆改暖粉白、柜门改浅橡木贴皮，保留准确房间尺寸、窗洞、地板、层高和家具。以原自然光和镜头为准，表面纹理克制。"
+      },
+      "constraints": {
+        "en": "No demolition, new openings, moved fixtures or visual expansion.",
+        "zh": "不拆墙、不开新洞、不移动设施、不视觉扩容。"
+      },
+      "revision": {
+        "en": "Darken only the oak veneer slightly while keeping its grain direction.",
+        "zh": "仅略微加深橡木贴皮，保留木纹方向。"
+      },
+      "review": {
+        "en": "Compare window corners, cabinet dimensions and room boundaries to the input.",
+        "zh": "对照原照检查窗角、柜尺寸和房间边界。"
+      },
+      "status": "template-not-rendered",
+      "pack": "08-spaces",
+      "prompt": {
+        "en": "Asset: Small apartment material refresh. Target aspect ratio: 3:2. Mode: edit.\nImage 1 is the existing apartment. Update only wall paint to warm chalk white and cabinet fronts to pale oak veneer. Preserve the exact room size, window openings, floor, ceiling height and furniture. Use the current natural light and camera as anchors; keep surface textures subtle.\nConstraints: No demolition, new openings, moved fixtures or visual expansion.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：小公寓材质翻新。目标比例：3:2。模式：编辑。\n图1为现有公寓。仅把墙漆改暖粉白、柜门改浅橡木贴皮，保留准确房间尺寸、窗洞、地板、层高和家具。以原自然光和镜头为准，表面纹理克制。\n约束：不拆墙、不开新洞、不移动设施、不视觉扩容。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P045",
+      "title": {
+        "en": "Boutique guest-room styling",
+        "zh": "精品客房软装概念"
+      },
+      "ratio": "3:2",
+      "mode": "generate",
+      "brief": {
+        "en": "Create a modest boutique guest room with a low oak bed, rumpled cream linen, one rust cushion, limewashed walls and a small built-in reading niche. Morning light falls across the bed from a tall window at left. Photograph from the doorway with realistic room proportions and a quiet material palette.",
+        "zh": "创作适度尺度精品客房：低橡木床、微皱奶油亚麻、一个铁锈靠枕、石灰墙、小嵌入阅读角。左侧高窗晨光落床，从门口拍摄，房间比例真实、材质配色安静。"
+      },
+      "constraints": {
+        "en": "No fake sea view, hotel rating, logos or excessive amenities.",
+        "zh": "不加虚构海景、酒店评级、标识或过多设施。"
+      },
+      "revision": {
+        "en": "Change only cushion fabric to moss-green wool.",
+        "zh": "仅将靠枕面料改苔绿羊毛。"
+      },
+      "review": {
+        "en": "Inspect bed proportions, usable doors and realistic niche depth.",
+        "zh": "检查床比例、可用门洞和阅读角深度。"
+      },
+      "status": "template-not-rendered",
+      "pack": "08-spaces",
+      "prompt": {
+        "en": "Asset: Boutique guest-room styling. Target aspect ratio: 3:2. Mode: generate.\nCreate a modest boutique guest room with a low oak bed, rumpled cream linen, one rust cushion, limewashed walls and a small built-in reading niche. Morning light falls across the bed from a tall window at left. Photograph from the doorway with realistic room proportions and a quiet material palette.\nConstraints: No fake sea view, hotel rating, logos or excessive amenities.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：精品客房软装概念。目标比例：3:2。模式：新建。\n创作适度尺度精品客房：低橡木床、微皱奶油亚麻、一个铁锈靠枕、石灰墙、小嵌入阅读角。左侧高窗晨光落床，从门口拍摄，房间比例真实、材质配色安静。\n约束：不加虚构海景、酒店评级、标识或过多设施。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P046",
+      "title": {
+        "en": "Pop-up refill store",
+        "zh": "补充装快闪店概念"
+      },
+      "ratio": "3:2",
+      "mode": "generate",
+      "brief": {
+        "en": "Design an original compact refill-shop pop-up: pale plywood counters, three clearly separated glass dispensers, blue reusable bottles and a cream fabric canopy. View from pedestrian eye level. A single front sign reads \"REFILL CORNER\". Show neat service circulation and natural daylight in an abstract neutral venue.",
+        "zh": "设计原创小型补充装快闪店：浅胶合板柜台、三个分离玻璃分装器、蓝色可复用瓶、奶油布篷。行人眼高视角，正面唯一招牌“REFILL CORNER”，服务动线整洁，中性场地自然日光。"
+      },
+      "constraints": {
+        "en": "No sustainability statistics, brand partnerships or fabricated safety signage.",
+        "zh": "不添加环保统计、品牌合作或虚构安全标识。"
+      },
+      "revision": {
+        "en": "Change only the fabric canopy to muted apricot.",
+        "zh": "仅把布篷改低饱和杏色。"
+      },
+      "review": {
+        "en": "Check dispenser count, sign lettering and aisle clearance.",
+        "zh": "检查分装器数量、招牌文字和通道。"
+      },
+      "status": "template-not-rendered",
+      "pack": "08-spaces",
+      "prompt": {
+        "en": "Asset: Pop-up refill store. Target aspect ratio: 3:2. Mode: generate.\nDesign an original compact refill-shop pop-up: pale plywood counters, three clearly separated glass dispensers, blue reusable bottles and a cream fabric canopy. View from pedestrian eye level. A single front sign reads \"REFILL CORNER\". Show neat service circulation and natural daylight in an abstract neutral venue.\nConstraints: No sustainability statistics, brand partnerships or fabricated safety signage.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：补充装快闪店概念。目标比例：3:2。模式：新建。\n设计原创小型补充装快闪店：浅胶合板柜台、三个分离玻璃分装器、蓝色可复用瓶、奶油布篷。行人眼高视角，正面唯一招牌“REFILL CORNER”，服务动线整洁，中性场地自然日光。\n约束：不添加环保统计、品牌合作或虚构安全标识。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P047",
+      "title": {
+        "en": "Courtyard planting concept",
+        "zh": "庭院种植设计概念"
+      },
+      "ratio": "1:1",
+      "mode": "generate",
+      "brief": {
+        "en": "Create a top-down landscape concept for a small rectangular courtyard. A central gravel oval surrounds one tree; a straight stepping-stone path connects bottom entrance to top seating bench. Low grasses edge the perimeter. Use softly rendered plan graphics, muted green and sand colors, and no text.",
+        "zh": "制作矩形小庭院俯视景观概念，中央砾石椭圆围一棵树，直踏步路连接下方入口与上方座椅，外围低草。柔和总平面表现、灰绿沙色、不加字。"
+      },
+      "constraints": {
+        "en": "Keep all elements inside the boundary; no scale certification or species suitability claims.",
+        "zh": "元素不越界，不声称比例认证或物种适用性。"
+      },
+      "revision": {
+        "en": "Widen only the path slightly without moving tree or bench.",
+        "zh": "只略微加宽路径，不移动树和座椅。"
+      },
+      "review": {
+        "en": "Inspect route continuity and root/seating separation; consult site conditions before use.",
+        "zh": "检查路径连续与树座分离，实际使用需结合场地条件。"
+      },
+      "status": "template-not-rendered",
+      "pack": "08-spaces",
+      "prompt": {
+        "en": "Asset: Courtyard planting concept. Target aspect ratio: 1:1. Mode: generate.\nCreate a top-down landscape concept for a small rectangular courtyard. A central gravel oval surrounds one tree; a straight stepping-stone path connects bottom entrance to top seating bench. Low grasses edge the perimeter. Use softly rendered plan graphics, muted green and sand colors, and no text.\nConstraints: Keep all elements inside the boundary; no scale certification or species suitability claims.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：庭院种植设计概念。目标比例：1:1。模式：新建。\n制作矩形小庭院俯视景观概念，中央砾石椭圆围一棵树，直踏步路连接下方入口与上方座椅，外围低草。柔和总平面表现、灰绿沙色、不加字。\n约束：元素不越界，不声称比例认证或物种适用性。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P048",
+      "title": {
+        "en": "Sketch to small pavilion",
+        "zh": "草图转小亭效果图"
+      },
+      "ratio": "3:2",
+      "mode": "edit",
+      "brief": {
+        "en": "Image 1 is an original pavilion sketch. Turn it into a believable visualization with laminated timber ribs, a thin zinc roof and translucent side panels. Preserve the sketch’s footprint, roof silhouette, support count and entrance position. Soft overcast daylight, neutral park setting and eye-level framing.",
+        "zh": "图1为原创小亭草图，将其转为可信效果图：胶合木肋、薄锌屋顶、半透明侧板。保留草图占地、屋顶轮廓、支撑数量和入口位置，柔和阴天光、中性公园、眼高构图。"
+      },
+      "constraints": {
+        "en": "No structural-safety guarantee; do not silently redesign proportions or add floors.",
+        "zh": "不保证结构安全，不擅自重设比例或加楼层。"
+      },
+      "revision": {
+        "en": "Change only side panels from translucent white to lightly ribbed clear glass.",
+        "zh": "仅将侧板从半透明白改为轻肋透明玻璃。"
+      },
+      "review": {
+        "en": "Compare every support and roof edge to the sketch.",
+        "zh": "对照草图检查每处支撑和屋顶边。"
+      },
+      "status": "template-not-rendered",
+      "pack": "08-spaces",
+      "prompt": {
+        "en": "Asset: Sketch to small pavilion. Target aspect ratio: 3:2. Mode: edit.\nImage 1 is an original pavilion sketch. Turn it into a believable visualization with laminated timber ribs, a thin zinc roof and translucent side panels. Preserve the sketch’s footprint, roof silhouette, support count and entrance position. Soft overcast daylight, neutral park setting and eye-level framing.\nConstraints: No structural-safety guarantee; do not silently redesign proportions or add floors.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：草图转小亭效果图。目标比例：3:2。模式：编辑。\n图1为原创小亭草图，将其转为可信效果图：胶合木肋、薄锌屋顶、半透明侧板。保留草图占地、屋顶轮廓、支撑数量和入口位置，柔和阴天光、中性公园、眼高构图。\n约束：不保证结构安全，不擅自重设比例或加楼层。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P049",
+      "title": {
+        "en": "Quiet orchard book cover",
+        "zh": "果园主题书籍封面"
+      },
+      "ratio": "2:3",
+      "mode": "generate",
+      "brief": {
+        "en": "Design an original literary book cover \"THE QUIET ORCHARD\" by fictional \"MIRA VALE\". A single cut-paper pear tree casts an oversized dark-green shadow across pale peach paper. Place the title in restrained cream serif lettering at top and the author at bottom. Flat front-cover artwork, tactile paper grain, no perspective mockup.",
+        "zh": "设计原创文学书封“THE QUIET ORCHARD”，虚构作者“MIRA VALE”。单棵剪纸梨树在浅桃纸上投出巨大深绿影，上方奶油衬线标题、下方作者。平面正封、触感纸纹，不做透视样机。"
+      },
+      "constraints": {
+        "en": "Only the supplied title and author; no award stickers, quotes, ISBN or publisher logo.",
+        "zh": "仅所给书名作者，不加奖章、引言、ISBN或出版社标识。"
+      },
+      "revision": {
+        "en": "Increase only title contrast without moving the tree or changing typography.",
+        "zh": "只增加标题对比，不移动树或改字体。"
+      },
+      "review": {
+        "en": "Check every title letter and legibility as a thumbnail.",
+        "zh": "逐字检查书名及缩略图可读性。"
+      },
+      "status": "template-not-rendered",
+      "pack": "09-publishing",
+      "prompt": {
+        "en": "Asset: Quiet orchard book cover. Target aspect ratio: 2:3. Mode: generate.\nDesign an original literary book cover \"THE QUIET ORCHARD\" by fictional \"MIRA VALE\". A single cut-paper pear tree casts an oversized dark-green shadow across pale peach paper. Place the title in restrained cream serif lettering at top and the author at bottom. Flat front-cover artwork, tactile paper grain, no perspective mockup.\nConstraints: Only the supplied title and author; no award stickers, quotes, ISBN or publisher logo.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：果园主题书籍封面。目标比例：2:3。模式：新建。\n设计原创文学书封“THE QUIET ORCHARD”，虚构作者“MIRA VALE”。单棵剪纸梨树在浅桃纸上投出巨大深绿影，上方奶油衬线标题、下方作者。平面正封、触感纸纹，不做透视样机。\n约束：仅所给书名作者，不加奖章、引言、ISBN或出版社标识。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P050",
+      "title": {
+        "en": "Recipe editorial spread",
+        "zh": "食谱编辑跨页概念"
+      },
+      "ratio": "3:2",
+      "mode": "generate",
+      "brief": {
+        "en": "Design a cookbook spread concept for \"ROASTED CARROTS\". Left page has a warm overhead photograph of carrots with yogurt and herbs; right page has three short exact steps: \"ROAST\", \"SPOON\", \"SERVE\" with small corresponding line drawings. Cream stock, rust section markers, a wide center gutter and restrained serif headline.",
+        "zh": "制作食谱跨页概念“ROASTED CARROTS”。左页胡萝卜配酸奶香草的暖调俯拍，右页三个短步骤“ROAST”“SPOON”“SERVE”及对应线描。奶油纸、铁锈标记、宽中缝、克制衬线标题。"
+      },
+      "constraints": {
+        "en": "Layout concept only; no invented cooking times, temperatures or ingredient quantities.",
+        "zh": "仅版式概念，不编造烹饪时间、温度和用量。"
+      },
+      "revision": {
+        "en": "Move only the small step illustrations closer to their labels, avoiding the gutter.",
+        "zh": "仅把步骤小图移近对应标签，避开中缝。"
+      },
+      "review": {
+        "en": "Check page separation, text spelling and ingredients matching the illustration.",
+        "zh": "检查跨页分离、拼写和图中食材一致性。"
+      },
+      "status": "template-not-rendered",
+      "pack": "09-publishing",
+      "prompt": {
+        "en": "Asset: Recipe editorial spread. Target aspect ratio: 3:2. Mode: generate.\nDesign a cookbook spread concept for \"ROASTED CARROTS\". Left page has a warm overhead photograph of carrots with yogurt and herbs; right page has three short exact steps: \"ROAST\", \"SPOON\", \"SERVE\" with small corresponding line drawings. Cream stock, rust section markers, a wide center gutter and restrained serif headline.\nConstraints: Layout concept only; no invented cooking times, temperatures or ingredient quantities.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：食谱编辑跨页概念。目标比例：3:2。模式：新建。\n制作食谱跨页概念“ROASTED CARROTS”。左页胡萝卜配酸奶香草的暖调俯拍，右页三个短步骤“ROAST”“SPOON”“SERVE”及对应线描。奶油纸、铁锈标记、宽中缝、克制衬线标题。\n约束：仅版式概念，不编造烹饪时间、温度和用量。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P051",
+      "title": {
+        "en": "Annual review cover",
+        "zh": "年度回顾封面"
+      },
+      "ratio": "4:5",
+      "mode": "generate",
+      "brief": {
+        "en": "Create a restrained annual-review cover for a fictional community arts program. A stack of colored translucent paper rectangles forms an abstract rising composition on ivory. Exact text \"A YEAR OF MAKING\" and small \"2026 REVIEW\". Deep-blue editorial typography, large margins and subtle cast shadows.",
+        "zh": "为虚构社区艺术计划制作年度回顾封面，彩色半透明纸矩形叠成抽象上升构图，象牙底。准确文字“A YEAR OF MAKING”和小字“2026 REVIEW”，深蓝编辑排版、宽边距、细微投影。"
+      },
+      "constraints": {
+        "en": "No financial metrics, organization seals or impact claims.",
+        "zh": "不加财务指标、机构印章和影响力声明。"
+      },
+      "revision": {
+        "en": "Change only the year to \"2027 REVIEW\", preserving every graphic element.",
+        "zh": "仅改为“2027 REVIEW”，保持全部图形。"
+      },
+      "review": {
+        "en": "Check translucent overlaps and exact year.",
+        "zh": "检查透明重叠效果及年份。"
+      },
+      "status": "template-not-rendered",
+      "pack": "09-publishing",
+      "prompt": {
+        "en": "Asset: Annual review cover. Target aspect ratio: 4:5. Mode: generate.\nCreate a restrained annual-review cover for a fictional community arts program. A stack of colored translucent paper rectangles forms an abstract rising composition on ivory. Exact text \"A YEAR OF MAKING\" and small \"2026 REVIEW\". Deep-blue editorial typography, large margins and subtle cast shadows.\nConstraints: No financial metrics, organization seals or impact claims.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：年度回顾封面。目标比例：4:5。模式：新建。\n为虚构社区艺术计划制作年度回顾封面，彩色半透明纸矩形叠成抽象上升构图，象牙底。准确文字“A YEAR OF MAKING”和小字“2026 REVIEW”，深蓝编辑排版、宽边距、细微投影。\n约束：不加财务指标、机构印章和影响力声明。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P052",
+      "title": {
+        "en": "Editorial attention metaphor",
+        "zh": "注意力主题编辑插画"
+      },
+      "ratio": "3:2",
+      "mode": "generate",
+      "brief": {
+        "en": "Illustrate attention as a small gardener carefully watering one bright orange flower while a sea of gray paper notifications drifts beyond a low garden wall. Original gouache editorial style, cream negative space, muted blue and sage, gently humorous without text. Keep one focal flower and a clear wall boundary.",
+        "zh": "将注意力画成小园丁认真浇一朵鲜橙花，矮墙外灰色纸通知飘成海。原创水粉编辑插画，奶油留白、灰蓝灰绿、无字轻幽默，仅一朵焦点花，墙界清楚。"
+      },
+      "constraints": {
+        "en": "No recognizable app icons, named artists or borrowed characters.",
+        "zh": "不加可辨识应用图标、艺术家名或借用角色。"
+      },
+      "revision": {
+        "en": "Reduce only the number of paper notifications by half.",
+        "zh": "仅把纸通知数量减少一半。"
+      },
+      "review": {
+        "en": "Check visual metaphor readability and flower focus at small sizes.",
+        "zh": "检查隐喻清晰度及小尺寸花朵焦点。"
+      },
+      "status": "template-not-rendered",
+      "pack": "09-publishing",
+      "prompt": {
+        "en": "Asset: Editorial attention metaphor. Target aspect ratio: 3:2. Mode: generate.\nIllustrate attention as a small gardener carefully watering one bright orange flower while a sea of gray paper notifications drifts beyond a low garden wall. Original gouache editorial style, cream negative space, muted blue and sage, gently humorous without text. Keep one focal flower and a clear wall boundary.\nConstraints: No recognizable app icons, named artists or borrowed characters.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：注意力主题编辑插画。目标比例：3:2。模式：新建。\n将注意力画成小园丁认真浇一朵鲜橙花，矮墙外灰色纸通知飘成海。原创水粉编辑插画，奶油留白、灰蓝灰绿、无字轻幽默，仅一朵焦点花，墙界清楚。\n约束：不加可辨识应用图标、艺术家名或借用角色。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P053",
+      "title": {
+        "en": "Botanical ink print",
+        "zh": "植物水墨装饰画"
+      },
+      "ratio": "2:3",
+      "mode": "generate",
+      "brief": {
+        "en": "Paint an original botanical study of three wind-bent reed stems beside a small pool. Use black ink washes, dry-brush fibers and a single muted vermilion sun on warm rice-paper texture. Keep most of the upper half empty and let fine leaves contrast with soft water reflections.",
+        "zh": "创作三枝随风芦苇与小水池的植物画，黑墨罩染、枯笔纤维、一枚低饱和朱红太阳、暖宣纸纹理。上半多留白，细叶与柔水倒影形成对照。"
+      },
+      "constraints": {
+        "en": "No seal, calligraphy, artist signature or imitation of a specific artwork.",
+        "zh": "不加印章、书法、艺术家签名，不仿特定作品。"
+      },
+      "revision": {
+        "en": "Make only the sun slightly smaller, preserving brushwork and empty space.",
+        "zh": "仅缩小太阳，保留笔触与留白。"
+      },
+      "review": {
+        "en": "Inspect intentional brush edges and avoid accidental glyph-like marks.",
+        "zh": "检查有意笔触边缘，避免意外似字笔迹。"
+      },
+      "status": "template-not-rendered",
+      "pack": "09-publishing",
+      "prompt": {
+        "en": "Asset: Botanical ink print. Target aspect ratio: 2:3. Mode: generate.\nPaint an original botanical study of three wind-bent reed stems beside a small pool. Use black ink washes, dry-brush fibers and a single muted vermilion sun on warm rice-paper texture. Keep most of the upper half empty and let fine leaves contrast with soft water reflections.\nConstraints: No seal, calligraphy, artist signature or imitation of a specific artwork.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：植物水墨装饰画。目标比例：2:3。模式：新建。\n创作三枝随风芦苇与小水池的植物画，黑墨罩染、枯笔纤维、一枚低饱和朱红太阳、暖宣纸纹理。上半多留白，细叶与柔水倒影形成对照。\n约束：不加印章、书法、艺术家签名，不仿特定作品。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P054",
+      "title": {
+        "en": "Risograph neighborhood zine",
+        "zh": "街区独立刊物封面"
+      },
+      "ratio": "4:5",
+      "mode": "generate",
+      "brief": {
+        "en": "Create a two-ink risograph-inspired zine cover titled \"AROUND THE BLOCK\". An original collage of a bicycle wheel, apartment window, potted plant and corner-shop awning forms a loose vertical stack. Use indigo and fluorescent-coral appearance on cream paper, subtle registration offset and halftone texture.",
+        "zh": "制作双墨孔版印刷风独立刊物封面“AROUND THE BLOCK”。原创拼贴由自行车轮、公寓窗、盆栽、街角店篷松散纵叠。奶油纸、靛蓝和荧光珊瑚视觉、细微套印偏移和网点纹理。"
+      },
+      "constraints": {
+        "en": "No additional publication logos or fake issue numbers; keep title readable through texture.",
+        "zh": "不加出版标识或虚构期号，纹理不损标题可读性。"
+      },
+      "revision": {
+        "en": "Reduce only registration offset around the headline while retaining it in illustrations.",
+        "zh": "只减少标题附近套印偏移，保留插图偏移。"
+      },
+      "review": {
+        "en": "Check title spelling and whether two-ink separation is plausible before printing.",
+        "zh": "检查标题拼写，印前验证双墨分色可行性。"
+      },
+      "status": "template-not-rendered",
+      "pack": "09-publishing",
+      "prompt": {
+        "en": "Asset: Risograph neighborhood zine. Target aspect ratio: 4:5. Mode: generate.\nCreate a two-ink risograph-inspired zine cover titled \"AROUND THE BLOCK\". An original collage of a bicycle wheel, apartment window, potted plant and corner-shop awning forms a loose vertical stack. Use indigo and fluorescent-coral appearance on cream paper, subtle registration offset and halftone texture.\nConstraints: No additional publication logos or fake issue numbers; keep title readable through texture.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：街区独立刊物封面。目标比例：4:5。模式：新建。\n制作双墨孔版印刷风独立刊物封面“AROUND THE BLOCK”。原创拼贴由自行车轮、公寓窗、盆栽、街角店篷松散纵叠。奶油纸、靛蓝和荧光珊瑚视觉、细微套印偏移和网点纹理。\n约束：不加出版标识或虚构期号，纹理不损标题可读性。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P055",
+      "title": {
+        "en": "Seasonal product series",
+        "zh": "商品四季系列"
+      },
+      "ratio": "1:1",
+      "mode": "edit",
+      "brief": {
+        "en": "Use Image 1 as the approved lamp campaign. Produce one autumn variant by changing only background props to two dry maple leaves and a small folded wool cloth. Keep the product, branding, position and camera identical. Match new props to the existing light and reserve the same headline area.",
+        "zh": "以图1为确认台灯广告，只把背景道具换为两片干枫叶和一小块折叠毛呢，制作一张秋季版。产品、品牌、位置、镜头不变，新道具匹配原光，保留标题区。"
+      },
+      "constraints": {
+        "en": "One variant per call; do not create a four-image collage or recolor the product.",
+        "zh": "每次只做一个变体，不拼四图、不改商品颜色。"
+      },
+      "revision": {
+        "en": "For the winter sibling, replace only the autumn props with folded ivory knit; retain lamp and crop.",
+        "zh": "冬季同系列只把秋季道具换象牙针织布，保留灯和裁切。"
+      },
+      "review": {
+        "en": "Compare product silhouette across seasonal siblings using the approved source.",
+        "zh": "用确认稿对比各季商品轮廓。"
+      },
+      "status": "template-not-rendered",
+      "pack": "10-production",
+      "prompt": {
+        "en": "Asset: Seasonal product series. Target aspect ratio: 1:1. Mode: edit.\nUse Image 1 as the approved lamp campaign. Produce one autumn variant by changing only background props to two dry maple leaves and a small folded wool cloth. Keep the product, branding, position and camera identical. Match new props to the existing light and reserve the same headline area.\nConstraints: One variant per call; do not create a four-image collage or recolor the product.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：商品四季系列。目标比例：1:1。模式：编辑。\n以图1为确认台灯广告，只把背景道具换为两片干枫叶和一小块折叠毛呢，制作一张秋季版。产品、品牌、位置、镜头不变，新道具匹配原光，保留标题区。\n约束：每次只做一个变体，不拼四图、不改商品颜色。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P056",
+      "title": {
+        "en": "Portrait ad reframe",
+        "zh": "横版广告转竖版"
+      },
+      "ratio": "2:3",
+      "mode": "edit",
+      "brief": {
+        "en": "Image 1 is the approved landscape ad. Adapt it to a portrait layout with the same product fully visible in the lower half and the exact original headline above. Extend the existing background naturally, preserving product proportions, finish and light direction. Reflow the title within broad margins instead of shrinking it excessively.",
+        "zh": "图1为确认横版广告。改竖版，完整商品在下半部，上方保留准确原标题。自然延伸原背景，保持商品比例、材质和光向。标题在宽边距内重新换行，不过度缩小。"
+      },
+      "constraints": {
+        "en": "Do not crop product edges, stretch the object, invent copy or change brand colors.",
+        "zh": "不裁商品边、不拉伸、不新编文案、不改品牌色。"
+      },
+      "revision": {
+        "en": "Move only the headline down slightly to increase top safe space.",
+        "zh": "只略微下移标题，增加顶部安全留白。"
+      },
+      "review": {
+        "en": "Check crop, proportions and placement against the actual target platform overlay.",
+        "zh": "结合实际目标平台遮罩检查裁切、比例和位置。"
+      },
+      "status": "template-not-rendered",
+      "pack": "10-production",
+      "prompt": {
+        "en": "Asset: Portrait ad reframe. Target aspect ratio: 2:3. Mode: edit.\nImage 1 is the approved landscape ad. Adapt it to a portrait layout with the same product fully visible in the lower half and the exact original headline above. Extend the existing background naturally, preserving product proportions, finish and light direction. Reflow the title within broad margins instead of shrinking it excessively.\nConstraints: Do not crop product edges, stretch the object, invent copy or change brand colors.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：横版广告转竖版。目标比例：2:3。模式：编辑。\n图1为确认横版广告。改竖版，完整商品在下半部，上方保留准确原标题。自然延伸原背景，保持商品比例、材质和光向。标题在宽边距内重新换行，不过度缩小。\n约束：不裁商品边、不拉伸、不新编文案、不改品牌色。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P057",
+      "title": {
+        "en": "Localized campaign master",
+        "zh": "广告本地化母版"
+      },
+      "ratio": "3:2",
+      "mode": "edit",
+      "brief": {
+        "en": "Image 1 is the approved English lamp ad. Replace the headline with the supplied Chinese copy \"把夜晚留给自己\" while keeping \"TIDELINE\" unchanged. Use clean readable Chinese typography with visual weight comparable to the original. Reflow only inside the old text area; maintain product, palette and background texture.",
+        "zh": "图1为确认英文台灯广告。标题换成所给中文“把夜晚留给自己”，保留“TIDELINE”。中文字体清晰，视觉字重接近原稿，只在原文字区重排，保持商品、配色与背景纹理。"
+      },
+      "constraints": {
+        "en": "No automatic additions, transliterated brand name or simplified replacement characters.",
+        "zh": "不自动加字、不音译品牌、不使用近似替代字。"
+      },
+      "revision": {
+        "en": "Fix only any wrong Chinese character; preserve product and approved typesetting.",
+        "zh": "仅修正中文错字，保留商品和确认排版。"
+      },
+      "review": {
+        "en": "Have a fluent reader check copy and compare all non-text areas to the source.",
+        "zh": "请熟练读者审校文案，并对比所有非文字区域。"
+      },
+      "status": "template-not-rendered",
+      "pack": "10-production",
+      "prompt": {
+        "en": "Asset: Localized campaign master. Target aspect ratio: 3:2. Mode: edit.\nImage 1 is the approved English lamp ad. Replace the headline with the supplied Chinese copy \"把夜晚留给自己\" while keeping \"TIDELINE\" unchanged. Use clean readable Chinese typography with visual weight comparable to the original. Reflow only inside the old text area; maintain product, palette and background texture.\nConstraints: No automatic additions, transliterated brand name or simplified replacement characters.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：广告本地化母版。目标比例：3:2。模式：编辑。\n图1为确认英文台灯广告。标题换成所给中文“把夜晚留给自己”，保留“TIDELINE”。中文字体清晰，视觉字重接近原稿，只在原文字区重排，保持商品、配色与背景纹理。\n约束：不自动加字、不音译品牌、不使用近似替代字。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P058",
+      "title": {
+        "en": "Three-reference product composite",
+        "zh": "三参考图商品合成"
+      },
+      "ratio": "3:2",
+      "mode": "edit",
+      "brief": {
+        "en": "Image 1 is the base dining-room scene; Image 2 is the exact lamp; Image 3 is the desired linen material. Place the lamp from Image 2 on the rear sideboard in Image 1 and replace only the existing table runner with the linen texture from Image 3. Match camera perspective, scale and light.",
+        "zh": "图1为餐厅底图，图2为准确台灯，图3为目标亚麻材质。将图2台灯放在图1后方边柜，只把现有桌旗换成图3亚麻纹理，匹配镜头透视、比例和照明。"
+      },
+      "constraints": {
+        "en": "Image 3 supplies texture only; keep architecture, chairs and all unrelated objects.",
+        "zh": "图3仅供纹理，保留建筑、椅子和其他物件。"
+      },
+      "revision": {
+        "en": "Reduce only lamp size by 10% while keeping its base contact on the sideboard.",
+        "zh": "只将灯缩小10%，保持底部接触边柜。"
+      },
+      "review": {
+        "en": "Check reference roles, lamp geometry, occlusion and contact shadows.",
+        "zh": "检查参考角色、灯结构、遮挡和接触阴影。"
+      },
+      "status": "template-not-rendered",
+      "pack": "10-production",
+      "prompt": {
+        "en": "Asset: Three-reference product composite. Target aspect ratio: 3:2. Mode: edit.\nImage 1 is the base dining-room scene; Image 2 is the exact lamp; Image 3 is the desired linen material. Place the lamp from Image 2 on the rear sideboard in Image 1 and replace only the existing table runner with the linen texture from Image 3. Match camera perspective, scale and light.\nConstraints: Image 3 supplies texture only; keep architecture, chairs and all unrelated objects.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：三参考图商品合成。目标比例：3:2。模式：编辑。\n图1为餐厅底图，图2为准确台灯，图3为目标亚麻材质。将图2台灯放在图1后方边柜，只把现有桌旗换成图3亚麻纹理，匹配镜头透视、比例和照明。\n约束：图3仅供纹理，保留建筑、椅子和其他物件。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P059",
+      "title": {
+        "en": "Vintage-photo gentle restoration",
+        "zh": "老照片轻度修复"
+      },
+      "ratio": "3:2",
+      "mode": "edit",
+      "brief": {
+        "en": "Image 1 is a family-owned vintage photograph. Repair small surface scratches and dust while keeping the original monochrome tone, grain, faces, clothing and framing. Restore only damage that is clearly distinguishable from image content. Keep naturally soft focus and faded edges instead of modernizing the photograph.",
+        "zh": "图1为家庭自有老照片。修复小划痕和灰尘，保留原黑白调、颗粒、面孔、衣物和构图。只修复能明确区分的损伤，保持自然柔焦及褪色边缘，不现代化。"
+      },
+      "constraints": {
+        "en": "Do not invent facial details hidden by severe damage, change identity or add color.",
+        "zh": "不脑补重度损坏遮住的五官、不改身份、不加彩色。"
+      },
+      "revision": {
+        "en": "Reduce only one remaining scratch; preserve all previously accepted repairs.",
+        "zh": "只减少一条残留划痕，保留已接受修复。"
+      },
+      "review": {
+        "en": "Compare identities and texture; flag irrecoverable detail rather than claiming authenticity.",
+        "zh": "比较身份与纹理，不可恢复处注明，不声称真实还原。"
+      },
+      "status": "template-not-rendered",
+      "pack": "10-production",
+      "prompt": {
+        "en": "Asset: Vintage-photo gentle restoration. Target aspect ratio: 3:2. Mode: edit.\nImage 1 is a family-owned vintage photograph. Repair small surface scratches and dust while keeping the original monochrome tone, grain, faces, clothing and framing. Restore only damage that is clearly distinguishable from image content. Keep naturally soft focus and faded edges instead of modernizing the photograph.\nConstraints: Do not invent facial details hidden by severe damage, change identity or add color.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：老照片轻度修复。目标比例：3:2。模式：编辑。\n图1为家庭自有老照片。修复小划痕和灰尘，保留原黑白调、颗粒、面孔、衣物和构图。只修复能明确区分的损伤，保持自然柔焦及褪色边缘，不现代化。\n约束：不脑补重度损坏遮住的五官、不改身份、不加彩色。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    },
+    {
+      "id": "P060",
+      "title": {
+        "en": "Approved storyboard shot expansion",
+        "zh": "确认分镜扩展单镜头"
+      },
+      "ratio": "16:9",
+      "mode": "edit",
+      "brief": {
+        "en": "Image 1 is the approved six-panel paper-moon storyboard. Expand only the final panel into a standalone wide frame. Preserve the cream one-eyed robot, teal apron, stitched paper moon and attic workshop design. Extend scenery left and right with the same warm light and blue dusk, keeping the original resting pose.",
+        "zh": "图1为确认纸月亮六格分镜，仅将最后一格扩成独立宽画幅。保留奶油单眼机器人、青绿围裙、缝线纸月亮和阁楼设计，以相同暖光与蓝暮色向左右扩展，保持原坐姿。"
+      },
+      "constraints": {
+        "en": "Do not include grid borders, other panels or new characters; this is a still frame, not video.",
+        "zh": "不保留格框、其他格或新增角色；这是静帧不是视频。"
+      },
+      "revision": {
+        "en": "Move only the hanging moon slightly upward, preserving its orange seam and robot gaze.",
+        "zh": "只略微上移悬挂月亮，保留橙缝线与机器人视线。"
+      },
+      "review": {
+        "en": "Compare costume, moon seam, pose and environment against the selected panel.",
+        "zh": "对照选中格检查服装、月亮缝线、姿势和环境。"
+      },
+      "status": "template-not-rendered",
+      "pack": "10-production",
+      "prompt": {
+        "en": "Asset: Approved storyboard shot expansion. Target aspect ratio: 16:9. Mode: edit.\nImage 1 is the approved six-panel paper-moon storyboard. Expand only the final panel into a standalone wide frame. Preserve the cream one-eyed robot, teal apron, stitched paper moon and attic workshop design. Extend scenery left and right with the same warm light and blue dusk, keeping the original resting pose.\nConstraints: Do not include grid borders, other panels or new characters; this is a still frame, not video.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：确认分镜扩展单镜头。目标比例：16:9。模式：编辑。\n图1为确认纸月亮六格分镜，仅将最后一格扩成独立宽画幅。保留奶油单眼机器人、青绿围裙、缝线纸月亮和阁楼设计，以相同暖光与蓝暮色向左右扩展，保持原坐姿。\n约束：不保留格框、其他格或新增角色；这是静帧不是视频。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": []
+    }
+  ],
+  "localized": [
+    {
+      "id": "L001",
+      "language": "en",
+      "title": "English · Repair workshop flyer",
+      "prompt": "Create a portrait 2:3 flyer for a fictional neighborhood repair workshop. Use cream recycled-paper texture, one blue ceramic mug repaired with a visible orange seam, and a small spool of thread near the bottom. Put exactly \"MAKE IT LAST\" at the top, \"REPAIR WORKSHOP\" underneath, and \"BRING ONE OBJECT\" at the bottom. Use dark navy type with generous line spacing, wide margins and no extra words. Keep the mug fully visible and its handle intact. Follow-up: change only the bottom line to \"START WITH ONE REPAIR\"; preserve the illustration, color palette and headline.",
+      "review": "Check all three text strings and avoid invented event details.",
+      "status": "template-not-rendered"
+    },
+    {
+      "id": "L002",
+      "language": "zh-Hans",
+      "title": "简体中文 · 城市慢生活海报",
+      "prompt": "生成一张2:3竖版城市慢生活海报。奶油纸背景，下半部为一把钴蓝折叠椅和一株斜伸入画的橄榄枝，午后自然光形成柔和长影，呈现真实布料纹理。上方大标题严格写“把周末还给自己”，下方小字“坐一会儿，也很好”，底部仅“慢慢生活”。中文采用清楚的现代黑体，标点完整，行距宽松，不加入英文、日期、地址或品牌。保持椅子结构可信。后续只把椅子布面改为铁锈色，文字、橄榄枝和光线保持不变。",
+      "review": "逐字核对简体字、逗号和行距；检查折叠椅支架。",
+      "status": "template-not-rendered"
+    },
+    {
+      "id": "L003",
+      "language": "ja",
+      "title": "日本語 · ベーカリーポスター",
+      "prompt": "架空のベーカリーのために、縦2:3のポスターを制作してください。温かいクリーム色の紙を背景に、藍色の陶器皿に載せた、手で割ったクロワッサンを下半分に大きく配置します。左上から朝日が入り、薄い生地の層とパンくずが自然に見える写真表現にしてください。上部の見出しは正確に「焼きたての朝」、その下は「A SLOW MORNING」、下部は「KOMOREBI BAKE」のみ。余白を広く取り、日本語を読みやすくしてください。修正では皿の色だけを深緑に変更し、パンと文字は維持してください。",
+      "review": "「焼きたての朝」の字形、欧文の綴り、余白を確認してください。",
+      "status": "related-example-available"
+    },
+    {
+      "id": "L004",
+      "language": "ko",
+      "title": "한국어 · 독립 서점 포스터",
+      "prompt": "가상의 독립 서점을 위한 세로 2:3 포스터를 만드세요. 따뜻한 아이보리 종이 배경 아래쪽에 펼쳐진 책 한 권과 짙은 파란색 머그잔을 놓고, 창문에서 들어오는 부드러운 오후 빛을 표현하세요. 위쪽 큰 제목은 정확히 “오늘은 책 한 권”, 아래 작은 문구는 “천천히 읽는 시간”, 맨 아래는 “작은 책방”으로 쓰세요. 한글 음절을 분리하지 말고 넉넉한 줄 간격과 여백을 유지하세요. 추가 문자나 가격은 넣지 마세요. 다음 수정에서는 머그잔 색상만 올리브색으로 바꾸고 책과 글자는 유지하세요.",
+      "review": "한글 받침, 띄어쓰기, 문구 누락과 컵 손잡이를 확인하세요.",
+      "status": "template-not-rendered"
+    },
+    {
+      "id": "L005",
+      "language": "es",
+      "title": "Español · Cartel de café",
+      "prompt": "Crea un cartel vertical 2:3 para una cafetería ficticia. Sobre papel crema, muestra una taza de cerámica azul con café y una pequeña cucharilla, iluminadas por luz lateral de mañana. Coloca arriba el texto exacto \"UN CAFÉ, SIN PRISA\", debajo \"Haz una pausa\" y al pie \"CAFÉ DE BARRIO\". Usa tipografía azul oscuro, márgenes amplios y una jerarquía clara. Conserva las tildes y la coma; no añadas precios ni direcciones. En la siguiente edición, cambia únicamente el color de la taza a verde oliva y mantén el texto, las sombras y la composición.",
+      "review": "Revisa las tildes de CAFÉ, la coma y que no aparezcan palabras adicionales.",
+      "status": "template-not-rendered"
+    },
+    {
+      "id": "L006",
+      "language": "fr",
+      "title": "Français · Affiche de marché",
+      "prompt": "Crée une affiche verticale 2:3 pour un marché de quartier fictif. Sur un papier ivoire, compose une nature morte avec trois poires, un sac en toile bleu et une petite feuille verte. Éclairage naturel doux, textures réalistes et grande zone vide en haut. Inscris exactement \"LE GOÛT DU QUARTIER\", puis \"Rencontrer. Goûter. Partager.\" et en bas \"MARCHÉ LOCAL\". Utilise une typographie vert foncé, des marges généreuses et des accents correctement dessinés. N’ajoute ni date ni adresse. Pour la retouche, change seulement le sac bleu en terre cuite, en préservant tout le texte.",
+      "review": "Vérifier Û, û, É, les points et le nombre de poires.",
+      "status": "template-not-rendered"
+    },
+    {
+      "id": "L007",
+      "language": "de",
+      "title": "Deutsch · Werkstattplakat",
+      "prompt": "Gestalte ein Hochformatplakat im Verhältnis 2:3 für eine fiktive offene Werkstatt. Auf cremefarbenem Papier liegen ein kleiner Holzlöffel, ein Schleifklotz und eingerolltes orangefarbenes Garn. Weiches Seitenlicht zeigt Holzmaserung und Papierstruktur. Oben steht exakt \"ZEIT FÜRS SELBERMACHEN\", darunter \"Eine Idee. Deine Hände.\" und unten \"OFFENE WERKSTATT\". Verwende dunkelblaue Schrift und breite Ränder. Lange Wörter dürfen sinnvoll umbrochen, aber nicht verändert werden. Keine Preise oder erfundenen Veranstaltungsdaten. Ändere anschließend nur die Garnfarbe zu Salbeigrün; behalte Schrift und Anordnung bei.",
+      "review": "Umlaute in FÜRS und Hände sowie Wortumbrüche prüfen.",
+      "status": "template-not-rendered"
+    },
+    {
+      "id": "L008",
+      "language": "pt-BR",
+      "title": "Português · Cartaz de padaria",
+      "prompt": "Crie um cartaz vertical 2:3 para uma padaria fictícia. Mostre um pão redondo cortado sobre um pano de linho azul, em fundo creme com luz suave da manhã. A crosta deve ter textura natural, sem brilho plástico. Escreva exatamente \"PÃO, TEMPO E AFETO\" no alto, \"Feito para compartilhar\" abaixo e \"PADARIA DA ESQUINA\" no rodapé. Preserve o til de PÃO, mantenha margens largas e não acrescente preços, selos ou endereços. Na revisão, altere apenas o pano para verde-oliva; mantenha o pão, a iluminação e todas as palavras.",
+      "review": "Conferir PÃO, a vírgula, as três linhas de texto e a textura do pão.",
+      "status": "template-not-rendered"
+    },
+    {
+      "id": "L009",
+      "language": "ar",
+      "title": "العربية · ملصق مقهى",
+      "prompt": "صمّم ملصقاً عمودياً بنسبة 2:3 لمقهى خيالي. استخدم خلفية ورقية بلون كريمي، وفنجان قهوة أزرق على طاولة حجرية مع ضوء صباحي ناعم من اليسار. ضع العنوان «لحظة قهوة» في الأعلى، والعبارة «على مهل» تحته، و«مقهى الحي» في الأسفل. اجعل النص العربي من اليمين إلى اليسار بحروف متصلة وواضحة وهوامش واسعة. لا تضف أسعاراً أو عنواناً أو كلمات أخرى. في التعديل التالي غيّر لون الفنجان فقط إلى الأخضر الزيتي، مع الحفاظ على النص والضوء وتكوين الصورة.",
+      "review": "راجع اتصال الحروف واتجاه الكتابة وترتيب الكلمات مع قارئ متمكن من العربية.",
+      "status": "template-not-rendered"
+    },
+    {
+      "id": "L010",
+      "language": "hi",
+      "title": "हिन्दी · पुस्तकालय पोस्टर",
+      "prompt": "एक काल्पनिक सामुदायिक पुस्तकालय के लिए 2:3 अनुपात का खड़ा पोस्टर बनाइए। क्रीम रंग के कागज़ पर नीचे एक खुली पुस्तक, नीला कप और छोटी हरी पत्ती रखें। खिड़की से आती नरम रोशनी और असली कागज़ की बनावट दिखाएँ। ऊपर ठीक “किताबों के साथ एक शाम”, उसके नीचे “धीरे पढ़ें, गहराई से सोचें” और सबसे नीचे “हमारा पुस्तकालय” लिखें। देवनागरी की मात्राएँ और संयुक्त अक्षर सही रखें, पंक्तियों के बीच पर्याप्त जगह दें। कोई तारीख या कीमत न जोड़ें। अगले संपादन में केवल कप को मिट्टी के लाल रंग में बदलें; पाठ और प्रकाश यथावत रखें।",
+      "review": "मात्राएँ, संयुक्त अक्षर, अल्पविराम और ऊपर की शिरोरेखा जाँचें।",
+      "status": "template-not-rendered"
+    },
+    {
+      "id": "L011",
+      "language": "th",
+      "title": "ไทย · โปสเตอร์ร้านชา",
+      "prompt": "สร้างโปสเตอร์แนวตั้งอัตราส่วน 2:3 สำหรับร้านชาสมมติ ใช้พื้นหลังกระดาษสีครีม วางถ้วยเซรามิกสีน้ำเงินกับใบชาสองใบในครึ่งล่าง ให้แสงเช้าที่นุ่มนวลแสดงผิวสัมผัสของถ้วยอย่างเป็นธรรมชาติ ด้านบนเขียนตรงตามนี้ว่า “พักสักนิด” ใต้หัวเรื่องเขียน “จิบชาอย่างช้า ๆ” และด้านล่างเขียน “ร้านชาเล็ก ๆ” ใช้ตัวอักษรไทยที่อ่านง่าย เว้นระยะบรรทัดให้สระและวรรณยุกต์ไม่ชนกัน ไม่เพิ่มราคา ที่อยู่ หรือข้อความอื่น ในการแก้ไขครั้งถัดไป เปลี่ยนเฉพาะสีถ้วยเป็นสีเขียวมะกอก โดยคงข้อความและแสงเดิมไว้",
+      "review": "ตรวจสระ วรรณยุกต์ ช่องว่าง และเครื่องหมาย ๆ กับผู้อ่านภาษาไทยที่คล่องแคล่ว",
+      "status": "template-not-rendered"
+    },
+    {
+      "id": "L012",
+      "language": "ru",
+      "title": "Русский · Афиша мастерской",
+      "prompt": "Создай вертикальную афишу 2:3 для вымышленной мастерской. На кремовой бумаге покажи деревянную ложку, клубок оранжевой нити и небольшую синюю чашку. Мягкий боковой свет подчёркивает фактуру дерева и бумаги. Сверху напиши точно «СДЕЛАНО С ТЕПЛОМ», ниже «Время создавать», внизу «ОТКРЫТАЯ МАСТЕРСКАЯ». Используй тёмно-синий шрифт, широкие поля и ясную иерархию. Не заменяй кириллицу похожими латинскими буквами и не добавляй адрес или цену. В следующей правке измени только цвет нити на зелёный, сохранив текст и композицию.",
+      "review": "Проверить кириллицу, отсутствие латинских подмен и правильность всех слов.",
+      "status": "template-not-rendered"
+    }
+  ]
+}
