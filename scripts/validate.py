@@ -32,15 +32,18 @@ def main():
     recipes=[r for p in catalog['packs'] for r in p['recipes']]
     ids=[r['id'] for r in recipes+locales]
     require(len(ids)==len(set(ids)), 'Duplicate recipe IDs')
-    require(len(recipes)==67 and len(locales)==12, 'Update documented recipe totals for this release')
-    require(len(catalog['packs'])==11, 'Expected 11 core packs')
+    require(len(recipes)==85 and len(locales)==12, 'Update documented recipe totals for this release')
+    require(sum(r.get('languages')==['en'] for r in recipes)==12, 'Expected 12 English-only workflow recipes')
+    require(len(catalog['packs'])==13, 'Expected 13 core packs')
     require(len({r['language'] for r in locales})==12, 'Expected 12 language briefs')
     require(len(exported['core'])==len(recipes), 'Exported core count mismatch')
     require(exported['localized']==locales, 'Stale localized export: rebuild catalog')
     byid={r['id']:r for r in exported['core']}
     for r in recipes:
+        languages = r.get('languages', ['en','zh'])
+        require(languages in [['en'], ['en','zh']], f'{r["id"]}: unsupported recipe languages')
         for field in ['title','brief','constraints','revision','review']:
-            require(set(r[field])=={'en','zh'},f'{r["id"]}: missing translation in {field}')
+            require(set(r[field])==set(languages),f'{r["id"]}: missing translation in {field}')
             require(all(r[field].values()),f'{r["id"]}: empty {field}')
         require(r['mode'] in ['edit','generate'],f'{r["id"]}: invalid mode')
         require(re.fullmatch(r'\d+:\d+',r['ratio']) is not None,f'{r["id"]}: invalid ratio')
@@ -49,9 +52,9 @@ def main():
         exported_r=byid.get(r['id'],{})
         for field in r:
             require(exported_r.get(field)==r[field],f'{r["id"]}: stale exported {field}')
-        for lang in ['en','zh']:
+        for lang in languages:
             require(r['brief'][lang] in exported_r.get('prompt',{}).get(lang,''),f'{r["id"]}: missing full prompt')
-    require(len(manifest)==21,'Expected 21 recorded images')
+    require(len(manifest)==28,'Expected 28 recorded images')
     require(len({a['path'] for a in manifest})==len(manifest),'Duplicate image records')
     for a in manifest:
         path=ROOT/a['path']

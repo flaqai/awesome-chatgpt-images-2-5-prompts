@@ -6,7 +6,7 @@ Un progetto open source indipendente creato e mantenuto dal team di [flaq.ai](ht
 
 ![flaq.ai — ChatGPT Images 2.5](assets/images/cover.png)
 
-La raccolta comprende 79 ricette in 12 sezioni e 21 nuove immagini: 67 ricette complete in inglese e cinese semplificato, più 12 ricette dedicate a singole lingue. Il README è disponibile in 16 versioni linguistiche e regionali. Questa pagina introduce la raccolta in italiano, senza tradurre tutti i prompt.
+La raccolta comprende 97 ricette in 14 sezioni e 28 nuove immagini: 73 ricette complete in inglese e cinese semplificato, più 12 ricette dedicate a singole lingue. Il README è disponibile in 16 versioni linguistiche e regionali. Questa pagina introduce la raccolta in italiano, senza tradurre tutti i prompt. Si aggiungono 12 nuove ricette di workflow disponibili solo in inglese.
 
 ## Come iniziare
 
@@ -36,6 +36,6 @@ I link Flaq.ai qui sotto riguardano GPT Image 2. Per Images 2.5 direttamente su 
 
 ## Risorse e contributi
 
-[79 prompts](prompts/README.md) · [Before / after](docs/launch-examples.md) · [Generation log](docs/generation-log.md) · [OpenAI API guide](docs/api-guide.md) · [Contributing](CONTRIBUTING.md)
+[97 prompts](prompts/README.md) · [Before / after](docs/launch-examples.md) · [Generation log](docs/generation-log.md) · [OpenAI API guide](docs/api-guide.md) · [Contributing](CONTRIBUTING.md)
 
 Questo progetto non è affiliato a OpenAI né approvato da OpenAI. [MIT License](LICENSE) © 2026 Flaq AI.

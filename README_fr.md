@@ -6,7 +6,7 @@ Un projet indépendant et open source créé et maintenu par l’équipe [flaq.a
 
 ![flaq.ai — ChatGPT Images 2.5](assets/images/cover.png)
 
-79 recettes : 67 briefs complets en anglais et en chinois simplifié, plus 12 recettes propres à différentes langues. 21 images ont été nouvellement générées. Cette page est une introduction en français, pas la traduction intégrale de la bibliothèque.
+97 recettes : 73 briefs complets en anglais et en chinois simplifié, plus 12 recettes propres à différentes langues. 28 images ont été nouvellement générées. Cette page est une introduction en français, pas la traduction intégrale de la bibliothèque. S’y ajoutent 12 nouvelles recettes de workflow disponibles uniquement en anglais.
 
 ## Pour commencer
 

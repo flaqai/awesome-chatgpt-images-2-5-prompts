@@ -6,7 +6,7 @@
 
 ![flaq.ai — ChatGPT Images 2.5](assets/images/cover.png)
 
-มีพรอมป์ต์ 79 ชุดใน 12 หมวด และภาพที่สร้างขึ้นใหม่ 21 ภาพ โดย 67 ชุดหลักมีทั้งภาษาอังกฤษและจีนตัวย่อ อีก 12 ชุดเขียนสำหรับแต่ละภาษา README มี 16 ฉบับตามภาษาและภูมิภาค หน้านี้เป็นบทนำภาษาไทย ไม่ใช่คำแปลพรอมป์ต์ทั้งหมด
+มีพรอมป์ต์ 97 ชุดใน 14 หมวด และภาพที่สร้างขึ้นใหม่ 28 ภาพ โดย 73 ชุดหลักมีทั้งภาษาอังกฤษและจีนตัวย่อ อีก 12 ชุดเขียนสำหรับแต่ละภาษา README มี 16 ฉบับตามภาษาและภูมิภาค หน้านี้เป็นบทนำภาษาไทย ไม่ใช่คำแปลพรอมป์ต์ทั้งหมด นอกจากนี้ยังมีพรอมป์ต์เวิร์กโฟลว์ใหม่อีก 12 ชุดที่เป็นภาษาอังกฤษเท่านั้น
 
 ## เริ่มต้นใช้งาน
 
@@ -36,6 +36,6 @@
 
 ## คู่มือและการมีส่วนร่วม
 
-[79 prompts](prompts/README.md) · [Before / after](docs/launch-examples.md) · [Generation log](docs/generation-log.md) · [OpenAI API guide](docs/api-guide.md) · [Contributing](CONTRIBUTING.md)
+[97 prompts](prompts/README.md) · [Before / after](docs/launch-examples.md) · [Generation log](docs/generation-log.md) · [OpenAI API guide](docs/api-guide.md) · [Contributing](CONTRIBUTING.md)
 
 โครงการนี้ไม่มีความเกี่ยวข้องกับ OpenAI และไม่ได้รับการรับรองจาก OpenAI [MIT License](LICENSE) © 2026 Flaq AI.

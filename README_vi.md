@@ -6,7 +6,7 @@ Dự án mã nguồn mở độc lập do nhóm [flaq.ai](https://flaq.ai) xây 
 
 ![flaq.ai — ChatGPT Images 2.5](assets/images/cover.png)
 
-Thư viện có 79 công thức trong 12 nhóm và 21 ảnh mới: 67 công thức đầy đủ bằng tiếng Anh và tiếng Trung giản thể, cùng 12 công thức riêng theo ngôn ngữ. README có 16 phiên bản ngôn ngữ và khu vực. Trang này là phần giới thiệu bằng tiếng Việt, không phải bản dịch toàn bộ thư viện.
+Thư viện có 97 công thức trong 14 nhóm và 28 ảnh mới: 73 công thức đầy đủ bằng tiếng Anh và tiếng Trung giản thể, cùng 12 công thức riêng theo ngôn ngữ. README có 16 phiên bản ngôn ngữ và khu vực. Trang này là phần giới thiệu bằng tiếng Việt, không phải bản dịch toàn bộ thư viện. Ngoài ra còn có 12 công thức quy trình mới chỉ bằng tiếng Anh.
 
 ## Bắt đầu
 
@@ -36,6 +36,6 @@ Các liên kết Flaq.ai dưới đây dành cho GPT Image 2. Để dùng Images
 
 ## Tài liệu và đóng góp
 
-[79 prompts](prompts/README.md) · [Before / after](docs/launch-examples.md) · [Generation log](docs/generation-log.md) · [OpenAI API guide](docs/api-guide.md) · [Contributing](CONTRIBUTING.md)
+[97 prompts](prompts/README.md) · [Before / after](docs/launch-examples.md) · [Generation log](docs/generation-log.md) · [OpenAI API guide](docs/api-guide.md) · [Contributing](CONTRIBUTING.md)
 
 Dự án không liên kết với OpenAI và không được OpenAI bảo trợ. [MIT License](LICENSE) © 2026 Flaq AI.

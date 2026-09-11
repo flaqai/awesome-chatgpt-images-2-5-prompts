@@ -2180,6 +2180,979 @@
         "assets/images/launch-cake-input.png",
         "assets/images/launch-cake-edit.png"
       ]
+    },
+    {
+      "id": "P068",
+      "title": {
+        "en": "Repair collective editorial portrait",
+        "zh": "修理工坊纪实风肖像"
+      },
+      "ratio": "3:2",
+      "mode": "generate",
+      "brief": {
+        "en": "Create a landscape 3:2 editorial photograph for a fictional neighborhood repair collective. An adult woman in her late fifties with short silver curls and a mustard canvas apron sits at a scarred birch workbench, carefully hand-stitching the torn seam of a navy canvas backpack. Three-quarter view at bench height, hands and needle visible but not exaggerated. A spool of cream thread, blunt scissors and one desk lamp sit on the bench. Soft overcast daylight enters a large window on the left; faded sage walls and an orderly pegboard recede softly behind her. Honest skin texture, frayed canvas fibers, subdued colors, slight photographic grain. The scene is staged fiction, not a historical photograph. Keep the subject on the right with quiet space at upper left for later editorial copy. No text, labels, logos, signatures, extra people or glamor retouching.",
+        "zh": "为虚构社区修理工坊制作3:2横向编辑摄影图。一位五十多岁的成年女性，银色短卷发，穿芥末黄色帆布围裙，坐在带使用痕迹的桦木工作台前，手工缝补深蓝帆布背包开裂的接缝。相机与桌面接近同高，以四分之三角度看见双手和针线。桌上仅放奶油色线轴、圆头剪刀和一盏台灯。左侧大窗透入阴天柔光，鼠尾草绿墙壁与整齐工具板虚化在后方。保留自然皮肤、磨损布纤维和轻微胶片颗粒。人物位于右侧，左上留出后期排字空间。这是虚构摆拍，不是历史影像。"
+      },
+      "constraints": {
+        "en": "Keep believable hand contact and a visible repair seam; no text or additional people.",
+        "zh": "保持手部接触关系与可见接缝合理，不加文字或其他人物。"
+      },
+      "revision": {
+        "en": "Change only the apron from mustard to muted plum. Preserve the person, pose, backpack, tools, lighting and framing.",
+        "zh": "只将围裙由芥末黄改为柔和梅紫，保留人物、姿势、背包、工具、光线和构图。"
+      },
+      "review": {
+        "en": "Subject, backpack seam and window light match the brief. Extra bowl and cloth appear on the foreground workbench; fingers and needle contact need close production review.",
+        "zh": "人物、背包接缝和窗光符合主要要求；前景工作台多出碗与布料，手指和针的接触需放大检查。"
+      },
+      "status": "related-example-available",
+      "adjustments": [
+        {
+          "name": {
+            "en": "Apron color",
+            "zh": "围裙色"
+          },
+          "default": {
+            "en": "mustard",
+            "zh": "芥末黄"
+          },
+          "options": {
+            "en": "muted plum or slate blue",
+            "zh": "梅紫或石板蓝"
+          },
+          "preserve": {
+            "en": "face, pose and backpack",
+            "zh": "脸部、姿势、背包"
+          }
+        },
+        {
+          "name": {
+            "en": "Repair subject",
+            "zh": "修补物"
+          },
+          "default": {
+            "en": "navy backpack",
+            "zh": "深蓝背包"
+          },
+          "options": {
+            "en": "canvas tote or denim jacket",
+            "zh": "帆布袋或牛仔外套"
+          },
+          "preserve": {
+            "en": "one visible seam and plausible hand contact",
+            "zh": "一条可见接缝与合理手部接触"
+          }
+        },
+        {
+          "name": {
+            "en": "Light",
+            "zh": "光线"
+          },
+          "default": {
+            "en": "overcast window",
+            "zh": "阴天窗光"
+          },
+          "options": {
+            "en": "warm late-afternoon window",
+            "zh": "温暖午后窗光"
+          },
+          "preserve": {
+            "en": "window position and camera",
+            "zh": "窗户位置与相机"
+          }
+        }
+      ],
+      "pack": "13-customizable-studio",
+      "prompt": {
+        "en": "Asset: Repair collective editorial portrait. Target aspect ratio: 3:2. Mode: generate.\nCreate a landscape 3:2 editorial photograph for a fictional neighborhood repair collective. An adult woman in her late fifties with short silver curls and a mustard canvas apron sits at a scarred birch workbench, carefully hand-stitching the torn seam of a navy canvas backpack. Three-quarter view at bench height, hands and needle visible but not exaggerated. A spool of cream thread, blunt scissors and one desk lamp sit on the bench. Soft overcast daylight enters a large window on the left; faded sage walls and an orderly pegboard recede softly behind her. Honest skin texture, frayed canvas fibers, subdued colors, slight photographic grain. The scene is staged fiction, not a historical photograph. Keep the subject on the right with quiet space at upper left for later editorial copy. No text, labels, logos, signatures, extra people or glamor retouching.\nConstraints: Keep believable hand contact and a visible repair seam; no text or additional people.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：修理工坊纪实风肖像。目标比例：3:2。模式：新建。\n为虚构社区修理工坊制作3:2横向编辑摄影图。一位五十多岁的成年女性，银色短卷发，穿芥末黄色帆布围裙，坐在带使用痕迹的桦木工作台前，手工缝补深蓝帆布背包开裂的接缝。相机与桌面接近同高，以四分之三角度看见双手和针线。桌上仅放奶油色线轴、圆头剪刀和一盏台灯。左侧大窗透入阴天柔光，鼠尾草绿墙壁与整齐工具板虚化在后方。保留自然皮肤、磨损布纤维和轻微胶片颗粒。人物位于右侧，左上留出后期排字空间。这是虚构摆拍，不是历史影像。\n约束：保持手部接触关系与可见接缝合理，不加文字或其他人物。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": [
+        "assets/images/studio-workshop.png"
+      ]
+    },
+    {
+      "id": "P069",
+      "title": {
+        "en": "Four-step pour-over poster",
+        "zh": "四步手冲咖啡流程海报"
+      },
+      "ratio": "3:2",
+      "mode": "generate",
+      "brief": {
+        "en": "Create a landscape 3:2 illustrated instruction poster for a fictional home coffee workshop. Cream background, navy typography, coral accents, restrained screen-print texture. Exact heading: \"A QUIET POUR\". Four equally sized numbered columns read from left to right. Column 1: \"1 RINSE\", showing a paper filter inside a cone dripper over a glass server, with water poured from a kettle. Column 2: \"2 ADD\", showing a spoon adding ground coffee into the filter-lined cone. Column 3: \"3 POUR\", showing a narrow kettle stream onto the coffee bed. Column 4: \"4 SERVE\", showing brewed coffee being poured from the server into a ceramic cup. Exactly one primary illustration per column. At bottom print only \"A SIMPLE HOME RITUAL\". Large legible labels, consistent vessels and spacious margins. This is a simplified visual sequence, not an equipment cutaway or a recipe with dosage claims. No additional text, arrows between unrelated parts, extra steps, logos or watermarks.",
+        "zh": "制作3:2横向家庭咖啡工作坊插画说明海报，奶油色背景、深蓝字体、珊瑚色点缀和克制的丝网印刷纹理。标题严格为“A QUIET POUR”。从左到右四个等宽编号栏：第一栏“1 RINSE”，滤纸置于玻璃分享壶上方的滤杯内，水壶正倒水；第二栏“2 ADD”，勺子往铺好滤纸的滤杯加入咖啡粉；第三栏“3 POUR”，细水流从水壶注入粉床；第四栏“4 SERVE”，分享壶向陶瓷杯倒出咖啡。每栏仅一个主插图，底部只写“A SIMPLE HOME RITUAL”。标签清晰大字，器皿设计统一，留白充足。这是简化视觉步骤，不是内部结构图，不包含用量或温度建议。"
+      },
+      "constraints": {
+        "en": "Exactly four columns in order; preserve verbatim labels and vessel consistency. No extra instructions.",
+        "zh": "严格四栏顺序，逐字保留标签，器皿一致，不追加步骤说明。"
+      },
+      "revision": {
+        "en": "Change only the coral accent color to moss green; preserve all labels, step order and illustration content.",
+        "zh": "只把珊瑚色点缀改为苔绿，保留所有标签、步骤顺序与插图内容。"
+      },
+      "review": {
+        "en": "Four ordered columns and all requested labels are present. Kettles extend to panel edges; this is a simplified illustrated sequence, not a complete brewing procedure.",
+        "zh": "四栏顺序与指定文字符合要求；水壶伸至分栏边缘，此图是简化流程，不是完整冲煮说明。"
+      },
+      "status": "related-example-available",
+      "adjustments": [
+        {
+          "name": {
+            "en": "Accent",
+            "zh": "点缀色"
+          },
+          "default": {
+            "en": "coral",
+            "zh": "珊瑚色"
+          },
+          "options": {
+            "en": "moss green or ochre",
+            "zh": "苔绿或赭黄"
+          },
+          "preserve": {
+            "en": "navy text and cream background",
+            "zh": "深蓝文字与奶油背景"
+          }
+        },
+        {
+          "name": {
+            "en": "Heading",
+            "zh": "标题"
+          },
+          "default": {
+            "en": "A QUIET POUR",
+            "zh": "A QUIET POUR"
+          },
+          "options": {
+            "en": "your approved short heading",
+            "zh": "已确认的短标题"
+          },
+          "preserve": {
+            "en": "four step labels",
+            "zh": "四个步骤标签"
+          }
+        },
+        {
+          "name": {
+            "en": "Illustration finish",
+            "zh": "插画质感"
+          },
+          "default": {
+            "en": "screen-print texture",
+            "zh": "丝网印刷纹理"
+          },
+          "options": {
+            "en": "flat editorial ink",
+            "zh": "平面编辑插画"
+          },
+          "preserve": {
+            "en": "sequence and vessel roles",
+            "zh": "顺序与器皿用途"
+          }
+        }
+      ],
+      "pack": "13-customizable-studio",
+      "prompt": {
+        "en": "Asset: Four-step pour-over poster. Target aspect ratio: 3:2. Mode: generate.\nCreate a landscape 3:2 illustrated instruction poster for a fictional home coffee workshop. Cream background, navy typography, coral accents, restrained screen-print texture. Exact heading: \"A QUIET POUR\". Four equally sized numbered columns read from left to right. Column 1: \"1 RINSE\", showing a paper filter inside a cone dripper over a glass server, with water poured from a kettle. Column 2: \"2 ADD\", showing a spoon adding ground coffee into the filter-lined cone. Column 3: \"3 POUR\", showing a narrow kettle stream onto the coffee bed. Column 4: \"4 SERVE\", showing brewed coffee being poured from the server into a ceramic cup. Exactly one primary illustration per column. At bottom print only \"A SIMPLE HOME RITUAL\". Large legible labels, consistent vessels and spacious margins. This is a simplified visual sequence, not an equipment cutaway or a recipe with dosage claims. No additional text, arrows between unrelated parts, extra steps, logos or watermarks.\nConstraints: Exactly four columns in order; preserve verbatim labels and vessel consistency. No extra instructions.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：四步手冲咖啡流程海报。目标比例：3:2。模式：新建。\n制作3:2横向家庭咖啡工作坊插画说明海报，奶油色背景、深蓝字体、珊瑚色点缀和克制的丝网印刷纹理。标题严格为“A QUIET POUR”。从左到右四个等宽编号栏：第一栏“1 RINSE”，滤纸置于玻璃分享壶上方的滤杯内，水壶正倒水；第二栏“2 ADD”，勺子往铺好滤纸的滤杯加入咖啡粉；第三栏“3 POUR”，细水流从水壶注入粉床；第四栏“4 SERVE”，分享壶向陶瓷杯倒出咖啡。每栏仅一个主插图，底部只写“A SIMPLE HOME RITUAL”。标签清晰大字，器皿设计统一，留白充足。这是简化视觉步骤，不是内部结构图，不包含用量或温度建议。\n约束：严格四栏顺序，逐字保留标签，器皿一致，不追加步骤说明。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": [
+        "assets/images/studio-brew.png"
+      ]
+    },
+    {
+      "id": "P070",
+      "title": {
+        "en": "Pocket tram collectible packaging",
+        "zh": "口袋电车收藏包装"
+      },
+      "ratio": "2:3",
+      "mode": "generate",
+      "brief": {
+        "en": "Create a portrait 2:3 studio product photograph of an original miniature teal-and-cream tram in clear molded blister packaging attached to warm ivory card. The toy has a rounded front, three rectangular side windows, dark undercarriage and small brass-colored wheel hubs; no real transit logo. Place the single tram horizontally in the lower middle of the package, seen at a slight three-quarter angle, with a tiny orange suitcase in its own small compartment at lower right. Print exactly \"POCKET TRANSIT\" in bold navy at the top, \"HARBOR TRAM\" below it, and \"CITY SERIES 01\" in small type at the bottom. One hang hole, generous card margins, believable clear plastic reflections without obscuring the toy or text. Pale blue seamless background and soft left studio light. Premium collectible concept, not a certified retail or safety label. No barcode, age mark, price, invented safety claims, additional accessories or extra words.",
+        "zh": "制作2:3竖向摄影棚产品图：原创青绿与奶油双色迷你电车装在透明吸塑罩内，背卡为温暖象牙白。车头圆润，车身侧面三个矩形窗，深色底盘与小型黄铜色轮毂，不含真实交通标识。单辆电车横放包装中下部，以略带四分之三角度展示；右下方独立小格内放一个橙色迷你旅行箱。顶部粗体深蓝字精确写“POCKET TRANSIT”，下一行“HARBOR TRAM”，底部小字“CITY SERIES 01”。一个挂孔，卡边留白充足，塑料反光真实但不遮挡产品或文字。浅蓝无缝背景，左侧柔和棚灯。这是收藏玩具概念，不是认证零售标签。"
+      },
+      "constraints": {
+        "en": "One tram and one suitcase; no barcode, age claim, certification, price or extra wording.",
+        "zh": "仅一辆电车和一个箱子，不加条码、年龄标记、认证、价格或其他文字。"
+      },
+      "revision": {
+        "en": "Change only the tram’s teal painted body panels to brick red. Preserve cream trim, windows, wheels, suitcase, packaging and all text.",
+        "zh": "只把电车青绿色漆面改为砖红，保留奶油色装饰、车窗、轮子、箱子、包装和全部文字。"
+      },
+      "review": {
+        "en": "All three text lines match. One tram and one suitcase are visible. Three large side windows plus a narrow end window appear, so strict window count needs refinement.",
+        "zh": "三行文字符合要求，一辆电车与一个箱子清楚可见；除三个大侧窗外还出现窄端窗，严格车窗计数需要细化。"
+      },
+      "status": "related-example-available",
+      "adjustments": [
+        {
+          "name": {
+            "en": "Body color",
+            "zh": "车身色"
+          },
+          "default": {
+            "en": "teal",
+            "zh": "青绿"
+          },
+          "options": {
+            "en": "brick red or butter yellow",
+            "zh": "砖红或奶油黄"
+          },
+          "preserve": {
+            "en": "cream trim, wheel hubs and labels",
+            "zh": "奶油装饰、轮毂与标签"
+          }
+        },
+        {
+          "name": {
+            "en": "Accessory",
+            "zh": "配件"
+          },
+          "default": {
+            "en": "orange suitcase",
+            "zh": "橙色旅行箱"
+          },
+          "options": {
+            "en": "small satchel",
+            "zh": "小挎包"
+          },
+          "preserve": {
+            "en": "one separate compartment",
+            "zh": "一个独立分格"
+          }
+        },
+        {
+          "name": {
+            "en": "Series copy",
+            "zh": "系列文字"
+          },
+          "default": {
+            "en": "CITY SERIES 01",
+            "zh": "CITY SERIES 01"
+          },
+          "options": {
+            "en": "CITY SERIES 02",
+            "zh": "CITY SERIES 02"
+          },
+          "preserve": {
+            "en": "other two text lines",
+            "zh": "其余两行文字"
+          }
+        }
+      ],
+      "pack": "13-customizable-studio",
+      "prompt": {
+        "en": "Asset: Pocket tram collectible packaging. Target aspect ratio: 2:3. Mode: generate.\nCreate a portrait 2:3 studio product photograph of an original miniature teal-and-cream tram in clear molded blister packaging attached to warm ivory card. The toy has a rounded front, three rectangular side windows, dark undercarriage and small brass-colored wheel hubs; no real transit logo. Place the single tram horizontally in the lower middle of the package, seen at a slight three-quarter angle, with a tiny orange suitcase in its own small compartment at lower right. Print exactly \"POCKET TRANSIT\" in bold navy at the top, \"HARBOR TRAM\" below it, and \"CITY SERIES 01\" in small type at the bottom. One hang hole, generous card margins, believable clear plastic reflections without obscuring the toy or text. Pale blue seamless background and soft left studio light. Premium collectible concept, not a certified retail or safety label. No barcode, age mark, price, invented safety claims, additional accessories or extra words.\nConstraints: One tram and one suitcase; no barcode, age claim, certification, price or extra wording.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：口袋电车收藏包装。目标比例：2:3。模式：新建。\n制作2:3竖向摄影棚产品图：原创青绿与奶油双色迷你电车装在透明吸塑罩内，背卡为温暖象牙白。车头圆润，车身侧面三个矩形窗，深色底盘与小型黄铜色轮毂，不含真实交通标识。单辆电车横放包装中下部，以略带四分之三角度展示；右下方独立小格内放一个橙色迷你旅行箱。顶部粗体深蓝字精确写“POCKET TRANSIT”，下一行“HARBOR TRAM”，底部小字“CITY SERIES 01”。一个挂孔，卡边留白充足，塑料反光真实但不遮挡产品或文字。浅蓝无缝背景，左侧柔和棚灯。这是收藏玩具概念，不是认证零售标签。\n约束：仅一辆电车和一个箱子，不加条码、年龄标记、认证、价格或其他文字。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": [
+        "assets/images/studio-tram.png"
+      ]
+    },
+    {
+      "id": "P071",
+      "title": {
+        "en": "Handmade lighthouse island",
+        "zh": "手工灯塔岛微缩场景"
+      },
+      "ratio": "1:1",
+      "mode": "generate",
+      "brief": {
+        "en": "Create a square product-style photograph of an original handmade miniature island on a rounded oval cork base. A squat ivory lighthouse with a terracotta lantern roof stands at the back left. A winding stone path connects it to one small blue boathouse on the right. Exactly two tiny ochre rowing boats rest on the shore at the front, outside the boathouse. Model the ocean as translucent blue-green resin, land as textured clay and sparse shrubs as felt; visible crafted details and believable miniature scale. Three-quarter overhead camera, entire cork base visible with generous border, pale apricot seamless backdrop, soft light from upper left and gentle contact shadow. Quiet spring mood with no snow. No landmark imitation, people, text, signs, logos, watermarks or extra buildings. Prioritize clearly separated boats and a continuous walkable path.",
+        "zh": "制作正方形手工岛屿微缩模型产品摄影图。圆角椭圆软木底座上，后方左侧立一座矮胖象牙白灯塔，灯室屋顶为陶土红；弯曲石径连接右侧唯一一座蓝色小船屋。前方岸边、船屋外放恰好两艘赭黄色微型划艇。海面使用半透明蓝绿色树脂，陆地为有纹理的黏土，稀疏灌木用毛毡制作。手作细节清楚，微缩尺度一致。相机从上方四分之三角度拍摄，软木底座完整入画，周边留白充足；浅杏色无缝背景，左上柔光与轻柔接触阴影。无雪的安静春日气氛，不模仿真实地标。"
+      },
+      "constraints": {
+        "en": "Exactly two boats, one lighthouse and one boathouse; no people, signage or extra buildings.",
+        "zh": "恰好两艘船、一座灯塔、一座船屋，不加人物、招牌或其他建筑。"
+      },
+      "revision": {
+        "en": "Change only the lighthouse roof from terracotta to muted sage green. Preserve all buildings, both boats, resin water, camera and lighting.",
+        "zh": "只把灯塔屋顶从陶土红改为柔和鼠尾草绿，保留所有建筑、两艘船、树脂水面、相机与光线。"
+      },
+      "review": {
+        "en": "Two boats, one lighthouse, one boathouse and the whole cork base are visible. Foliage looks more like model landscaping than clearly identifiable felt.",
+        "zh": "两艘船、一座灯塔、一座船屋与完整软木底座可见；植被更接近沙盘景观，毛毡材质不够明确。"
+      },
+      "status": "related-example-available",
+      "adjustments": [
+        {
+          "name": {
+            "en": "Roof color",
+            "zh": "屋顶色"
+          },
+          "default": {
+            "en": "terracotta",
+            "zh": "陶土红"
+          },
+          "options": {
+            "en": "sage green",
+            "zh": "鼠尾草绿"
+          },
+          "preserve": {
+            "en": "tower shape and ivory walls",
+            "zh": "灯塔形状与象牙白墙"
+          }
+        },
+        {
+          "name": {
+            "en": "Season",
+            "zh": "季节"
+          },
+          "default": {
+            "en": "spring without snow",
+            "zh": "无雪春天"
+          },
+          "options": {
+            "en": "early autumn foliage",
+            "zh": "初秋叶色"
+          },
+          "preserve": {
+            "en": "path, boat count and structures",
+            "zh": "路径、船数与建筑"
+          }
+        },
+        {
+          "name": {
+            "en": "Backdrop",
+            "zh": "背景"
+          },
+          "default": {
+            "en": "pale apricot",
+            "zh": "浅杏色"
+          },
+          "options": {
+            "en": "warm gray or powder blue",
+            "zh": "暖灰或粉蓝"
+          },
+          "preserve": {
+            "en": "entire cork base visible",
+            "zh": "软木底座完整可见"
+          }
+        }
+      ],
+      "pack": "13-customizable-studio",
+      "prompt": {
+        "en": "Asset: Handmade lighthouse island. Target aspect ratio: 1:1. Mode: generate.\nCreate a square product-style photograph of an original handmade miniature island on a rounded oval cork base. A squat ivory lighthouse with a terracotta lantern roof stands at the back left. A winding stone path connects it to one small blue boathouse on the right. Exactly two tiny ochre rowing boats rest on the shore at the front, outside the boathouse. Model the ocean as translucent blue-green resin, land as textured clay and sparse shrubs as felt; visible crafted details and believable miniature scale. Three-quarter overhead camera, entire cork base visible with generous border, pale apricot seamless backdrop, soft light from upper left and gentle contact shadow. Quiet spring mood with no snow. No landmark imitation, people, text, signs, logos, watermarks or extra buildings. Prioritize clearly separated boats and a continuous walkable path.\nConstraints: Exactly two boats, one lighthouse and one boathouse; no people, signage or extra buildings.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：手工灯塔岛微缩场景。目标比例：1:1。模式：新建。\n制作正方形手工岛屿微缩模型产品摄影图。圆角椭圆软木底座上，后方左侧立一座矮胖象牙白灯塔，灯室屋顶为陶土红；弯曲石径连接右侧唯一一座蓝色小船屋。前方岸边、船屋外放恰好两艘赭黄色微型划艇。海面使用半透明蓝绿色树脂，陆地为有纹理的黏土，稀疏灌木用毛毡制作。手作细节清楚，微缩尺度一致。相机从上方四分之三角度拍摄，软木底座完整入画，周边留白充足；浅杏色无缝背景，左上柔光与轻柔接触阴影。无雪的安静春日气氛，不模仿真实地标。\n约束：恰好两艘船、一座灯塔、一座船屋，不加人物、招牌或其他建筑。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": [
+        "assets/images/studio-lighthouse.png",
+        "assets/images/studio-lighthouse-edit.png"
+      ]
+    },
+    {
+      "id": "P072",
+      "title": {
+        "en": "Knitted keepsake greeting card",
+        "zh": "针织纪念物贺卡"
+      },
+      "ratio": "2:3",
+      "mode": "generate",
+      "brief": {
+        "en": "Create a portrait 2:3 premium illustrated greeting card with a quiet winter mood. On a wide oak windowsill sits a small open indigo sewing tin containing a worn cream knitted rabbit, with one repaired rust-colored ear and two black button eyes. A loose loop of ochre yarn lies beside the tin. Outside the window, soft falling snow and a dark blue evening sky; inside, warm amber light catches yarn fibers and tiny scratches in the tin. Painterly gouache on subtly textured ivory stock, generous empty space in the upper third. Print only \"KEEP A LITTLE WARMTH\" in large dark navy serif lettering at the top, and \"FOR THE DAYS AHEAD\" in smaller navy letters at the bottom. Keep the rabbit fully recognizable and the lid hinged naturally. No holiday emblems, extra animals, candles, labels, dates, signatures or additional words.",
+        "zh": "制作2:3竖向高级插画贺卡，气氛安静如冬日。宽橡木窗台上放打开的靛蓝缝纫铁盒，盒内坐一只旧奶油色针织兔子，一只耳朵用铁锈色毛线修补，两只黑色纽扣眼睛。铁盒旁放一圈松散赭黄毛线。窗外柔雪与深蓝夜空，室内温暖琥珀光照出毛线纤维和盒上细划痕。象牙纸上水粉画质感，上方三分之一保留宽阔空白。顶部只写深蓝大衬线字“KEEP A LITTLE WARMTH”，底部小字“FOR THE DAYS AHEAD”。兔子易辨认，盒盖铰链结构自然。不加节日符号、其他动物、蜡烛、标签、日期、签名或其他文字。"
+      },
+      "constraints": {
+        "en": "Preserve the repaired ear, two eyes, open tin and text margins. Keep the message readable.",
+        "zh": "保留修补耳朵、两只眼睛、打开的盒子与文字边距，确保文案清晰。"
+      },
+      "revision": {
+        "en": "Change only the bottom line to “THINKING OF YOU”. Preserve the top headline, rabbit, tin, yarn and lighting.",
+        "zh": "只把底部文字改为“THINKING OF YOU”，保留顶部标题、兔子、铁盒、毛线和光线。"
+      },
+      "review": {
+        "en": "Both requested phrases, repaired ear and two button eyes are visible. The title uses a small-cap-like treatment; confirm case styling and print legibility for final artwork.",
+        "zh": "两句指定文案、修补耳朵和两只纽扣眼睛可见。标题采用类似小型大写字母的处理，定稿时需确认大小写风格与印刷可读性。"
+      },
+      "status": "related-example-available",
+      "adjustments": [
+        {
+          "name": {
+            "en": "Bottom line",
+            "zh": "底部文案"
+          },
+          "default": {
+            "en": "FOR THE DAYS AHEAD",
+            "zh": "FOR THE DAYS AHEAD"
+          },
+          "options": {
+            "en": "THINKING OF YOU",
+            "zh": "THINKING OF YOU"
+          },
+          "preserve": {
+            "en": "top headline and illustration",
+            "zh": "顶部标题与插画"
+          }
+        },
+        {
+          "name": {
+            "en": "Tin color",
+            "zh": "铁盒色"
+          },
+          "default": {
+            "en": "indigo",
+            "zh": "靛蓝"
+          },
+          "options": {
+            "en": "muted forest green",
+            "zh": "柔和森林绿"
+          },
+          "preserve": {
+            "en": "scratches, hinge and rabbit",
+            "zh": "划痕、铰链与兔子"
+          }
+        },
+        {
+          "name": {
+            "en": "Outside weather",
+            "zh": "窗外天气"
+          },
+          "default": {
+            "en": "falling snow",
+            "zh": "落雪"
+          },
+          "options": {
+            "en": "gentle autumn rain",
+            "zh": "柔和秋雨"
+          },
+          "preserve": {
+            "en": "warm interior and window position",
+            "zh": "温暖室内与窗户位置"
+          }
+        }
+      ],
+      "pack": "13-customizable-studio",
+      "prompt": {
+        "en": "Asset: Knitted keepsake greeting card. Target aspect ratio: 2:3. Mode: generate.\nCreate a portrait 2:3 premium illustrated greeting card with a quiet winter mood. On a wide oak windowsill sits a small open indigo sewing tin containing a worn cream knitted rabbit, with one repaired rust-colored ear and two black button eyes. A loose loop of ochre yarn lies beside the tin. Outside the window, soft falling snow and a dark blue evening sky; inside, warm amber light catches yarn fibers and tiny scratches in the tin. Painterly gouache on subtly textured ivory stock, generous empty space in the upper third. Print only \"KEEP A LITTLE WARMTH\" in large dark navy serif lettering at the top, and \"FOR THE DAYS AHEAD\" in smaller navy letters at the bottom. Keep the rabbit fully recognizable and the lid hinged naturally. No holiday emblems, extra animals, candles, labels, dates, signatures or additional words.\nConstraints: Preserve the repaired ear, two eyes, open tin and text margins. Keep the message readable.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：针织纪念物贺卡。目标比例：2:3。模式：新建。\n制作2:3竖向高级插画贺卡，气氛安静如冬日。宽橡木窗台上放打开的靛蓝缝纫铁盒，盒内坐一只旧奶油色针织兔子，一只耳朵用铁锈色毛线修补，两只黑色纽扣眼睛。铁盒旁放一圈松散赭黄毛线。窗外柔雪与深蓝夜空，室内温暖琥珀光照出毛线纤维和盒上细划痕。象牙纸上水粉画质感，上方三分之一保留宽阔空白。顶部只写深蓝大衬线字“KEEP A LITTLE WARMTH”，底部小字“FOR THE DAYS AHEAD”。兔子易辨认，盒盖铰链结构自然。不加节日符号、其他动物、蜡烛、标签、日期、签名或其他文字。\n约束：保留修补耳朵、两只眼睛、打开的盒子与文字边距，确保文案清晰。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": [
+        "assets/images/studio-card.png"
+      ]
+    },
+    {
+      "id": "P073",
+      "title": {
+        "en": "Ceramics studio editorial collage",
+        "zh": "陶艺工作室编辑拼贴"
+      },
+      "ratio": "2:3",
+      "mode": "generate",
+      "brief": {
+        "en": "Create a portrait 2:3 editorial collage poster about a fictional ceramics studio. Warm ivory paper background with a large navy title at the top reading exactly \"THE SHAPE OF A DAY\" and a small bottom line \"CLAY / HANDS / HOME\". In the middle arrange exactly four overlapping physical photographic prints with off-white borders, each picture entirely contained inside its own border. Largest print at left shows a pair of clay-covered adult hands shaping a plain bowl on a pottery wheel. Top-right print shows three unglazed bowls on a drying shelf. Center-right print shows a close-up of a brush applying teal glaze. Lower-right print shows one finished teal bowl on a wooden kitchen table. Different print angles but a clear reading order, natural afternoon light, visible paper edges and gentle contact shadows. No celebrity, real biography, fabricated archival documents, handwriting, extra prints, unrelated tools, logos or other text. This is a contemporary fictional studio story, not a documentary record.",
+        "zh": "制作2:3竖向编辑拼贴海报，讲述虚构陶艺工作室的一天。温暖象牙纸背景，顶部深蓝大标题严格为“THE SHAPE OF A DAY”，底部小字为“CLAY / HANDS / HOME”。中间恰好四张互相叠压的实体照片，每张有米白相纸边框，画面限于各自边框内。左侧最大照片是沾满陶泥的成年人双手在陶轮上塑造素碗；右上是搁板上三个未上釉的碗；右中是画笔涂青绿色釉的特写；右下是木质餐桌上一只完成的青绿碗。照片角度略有不同，阅读顺序明确，自然午后光，纸张边缘与投影真实。这是当代虚构工作室故事，不是纪实档案。"
+      },
+      "constraints": {
+        "en": "Exactly four bordered prints; no celebrity, archival claim, handwriting or extra text.",
+        "zh": "严格四张带边框照片，不加名人、档案真实性声称、手写字或其他文字。"
+      },
+      "revision": {
+        "en": "Change only the background paper from ivory to pale sand. Preserve every photo, border, title and overlap.",
+        "zh": "只把背景纸由象牙白改为浅沙色，保留全部照片、边框、标题与叠压关系。"
+      },
+      "review": {
+        "en": "Exactly four bordered prints and both requested text lines are visible. Bowl colors remain related; extra kitchen styling appears in the finished-bowl photo.",
+        "zh": "四张带边框照片与两行指定文字清楚可见。碗的色彩有关联，成品碗照片出现额外厨房陈设。"
+      },
+      "status": "related-example-available",
+      "adjustments": [
+        {
+          "name": {
+            "en": "Paper color",
+            "zh": "底纸色"
+          },
+          "default": {
+            "en": "ivory",
+            "zh": "象牙白"
+          },
+          "options": {
+            "en": "pale sand",
+            "zh": "浅沙色"
+          },
+          "preserve": {
+            "en": "print borders and typography",
+            "zh": "照片边框与排字"
+          }
+        },
+        {
+          "name": {
+            "en": "Glaze color",
+            "zh": "釉色"
+          },
+          "default": {
+            "en": "teal",
+            "zh": "青绿"
+          },
+          "options": {
+            "en": "amber or cobalt",
+            "zh": "琥珀或钴蓝"
+          },
+          "preserve": {
+            "en": "same color in brush and finished-bowl photos",
+            "zh": "涂釉与成品碗两图釉色一致"
+          }
+        },
+        {
+          "name": {
+            "en": "Title",
+            "zh": "标题"
+          },
+          "default": {
+            "en": "THE SHAPE OF A DAY",
+            "zh": "THE SHAPE OF A DAY"
+          },
+          "options": {
+            "en": "your approved studio title",
+            "zh": "已确认的工作室标题"
+          },
+          "preserve": {
+            "en": "four-print layout and footer",
+            "zh": "四图布局与底部文案"
+          }
+        }
+      ],
+      "pack": "13-customizable-studio",
+      "prompt": {
+        "en": "Asset: Ceramics studio editorial collage. Target aspect ratio: 2:3. Mode: generate.\nCreate a portrait 2:3 editorial collage poster about a fictional ceramics studio. Warm ivory paper background with a large navy title at the top reading exactly \"THE SHAPE OF A DAY\" and a small bottom line \"CLAY / HANDS / HOME\". In the middle arrange exactly four overlapping physical photographic prints with off-white borders, each picture entirely contained inside its own border. Largest print at left shows a pair of clay-covered adult hands shaping a plain bowl on a pottery wheel. Top-right print shows three unglazed bowls on a drying shelf. Center-right print shows a close-up of a brush applying teal glaze. Lower-right print shows one finished teal bowl on a wooden kitchen table. Different print angles but a clear reading order, natural afternoon light, visible paper edges and gentle contact shadows. No celebrity, real biography, fabricated archival documents, handwriting, extra prints, unrelated tools, logos or other text. This is a contemporary fictional studio story, not a documentary record.\nConstraints: Exactly four bordered prints; no celebrity, archival claim, handwriting or extra text.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.",
+        "zh": "交付物：陶艺工作室编辑拼贴。目标比例：2:3。模式：新建。\n制作2:3竖向编辑拼贴海报，讲述虚构陶艺工作室的一天。温暖象牙纸背景，顶部深蓝大标题严格为“THE SHAPE OF A DAY”，底部小字为“CLAY / HANDS / HOME”。中间恰好四张互相叠压的实体照片，每张有米白相纸边框，画面限于各自边框内。左侧最大照片是沾满陶泥的成年人双手在陶轮上塑造素碗；右上是搁板上三个未上釉的碗；右中是画笔涂青绿色釉的特写；右下是木质餐桌上一只完成的青绿碗。照片角度略有不同，阅读顺序明确，自然午后光，纸张边缘与投影真实。这是当代虚构工作室故事，不是纪实档案。\n约束：严格四张带边框照片，不加名人、档案真实性声称、手写字或其他文字。\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。"
+      },
+      "examples": [
+        "assets/images/studio-collage.png"
+      ]
+    },
+    {
+      "id": "P074",
+      "languages": [
+        "en"
+      ],
+      "title": {
+        "en": "One sketch, four concept directions"
+      },
+      "ratio": "1:1",
+      "mode": "edit",
+      "brief": {
+        "en": "Use the attached line sketch as a silhouette and composition reference. Create one square concept board with exactly four equal panels in a 2-by-2 grid. Keep the sketch's dominant curve recognizable in every panel, including its direction, major bend and approximate position; the stroke is a shape guide, not an object to print on top. Interpret it as four distinct concepts: upper left, a bent-plywood reading bench; upper right, a ceramic pouring vessel; lower left, a folded-paper stage canopy; lower right, a luminous glass sculpture. Give each panel one primary object, a quiet environment and lighting appropriate to its material. Maintain equal gutters and similar object scale so the alternatives can be compared. Do not add captions, arrows, extra panels or unrelated decorative marks. These are four explorations, not four views of one design."
+      },
+      "constraints": {
+        "en": "Attach one sketch you own. Preserve its distinctive bend without forcing identical materials. Generate each selected panel separately for final production."
+      },
+      "revision": {
+        "en": "Develop only the upper-left bench concept into one landscape image. Preserve the approved bent silhouette; replace the background with a quiet library interior."
+      },
+      "review": {
+        "en": "Count four panels; trace the original curve in each; check that all four object categories differ."
+      },
+      "status": "template-not-rendered",
+      "source_url": "https://mp.weixin.qq.com/s/mk3gp9wzmq93zV5EtD9rLQ",
+      "customization": {
+        "parameter": "Concept categories",
+        "default": "bench, vessel, canopy, sculpture",
+        "alternatives": "four categories relevant to your brief",
+        "preserve": "curve landmarks and panel count"
+      },
+      "pack": "14-sketch-to-story",
+      "prompt": {
+        "en": "Asset: One sketch, four concept directions. Target aspect ratio: 1:1. Mode: edit.\nUse the attached line sketch as a silhouette and composition reference. Create one square concept board with exactly four equal panels in a 2-by-2 grid. Keep the sketch's dominant curve recognizable in every panel, including its direction, major bend and approximate position; the stroke is a shape guide, not an object to print on top. Interpret it as four distinct concepts: upper left, a bent-plywood reading bench; upper right, a ceramic pouring vessel; lower left, a folded-paper stage canopy; lower right, a luminous glass sculpture. Give each panel one primary object, a quiet environment and lighting appropriate to its material. Maintain equal gutters and similar object scale so the alternatives can be compared. Do not add captions, arrows, extra panels or unrelated decorative marks. These are four explorations, not four views of one design.\nConstraints: Attach one sketch you own. Preserve its distinctive bend without forcing identical materials. Generate each selected panel separately for final production.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions."
+      },
+      "examples": []
+    },
+    {
+      "id": "P075",
+      "languages": [
+        "en"
+      ],
+      "title": {
+        "en": "Bedroom plan to interior concept"
+      },
+      "ratio": "3:2",
+      "mode": "edit",
+      "brief": {
+        "en": "Use the uploaded bedroom plan as the only layout reference. Treat its marked window, door, wardrobe, bed and desk positions as fixed; do not invent a different room arrangement. Turn the plan into a photorealistic interior concept viewed from the entrance toward the window. Translate the drawn furniture footprints into believable proportions, retaining the indicated walking route. Use pale oat walls, light ash timber, an ivory upholstered bed and a muted olive desk chair. Daylight enters only through the window shown in the plan; shadows must agree with its location. Show the bed, wardrobe and desk clearly in one landscape frame. Add only plain bedding and one desk lamp. Do not add a second window, extra furniture, plants, artwork, a computer or a rug. If the plan leaves a dimension ambiguous, keep that area simple rather than implying a measured architectural solution. No visible text."
+      },
+      "constraints": {
+        "en": "Attach a labeled sketch with a clear entrance and window. This is a visual concept, not a dimensionally verified construction plan."
+      },
+      "revision": {
+        "en": "Change only the wardrobe fronts from pale ash to matte ivory. Preserve all furniture positions, door clearance, window, daylight and camera."
+      },
+      "review": {
+        "en": "Compare each furniture position and opening with the sketch; check the walking route and unwanted additions."
+      },
+      "status": "template-not-rendered",
+      "source_url": "https://mp.weixin.qq.com/s/mk3gp9wzmq93zV5EtD9rLQ",
+      "customization": {
+        "parameter": "Material palette",
+        "default": "pale oat, ash and ivory",
+        "alternatives": "warm walnut and sand",
+        "preserve": "layout, openings and circulation"
+      },
+      "pack": "14-sketch-to-story",
+      "prompt": {
+        "en": "Asset: Bedroom plan to interior concept. Target aspect ratio: 3:2. Mode: edit.\nUse the uploaded bedroom plan as the only layout reference. Treat its marked window, door, wardrobe, bed and desk positions as fixed; do not invent a different room arrangement. Turn the plan into a photorealistic interior concept viewed from the entrance toward the window. Translate the drawn furniture footprints into believable proportions, retaining the indicated walking route. Use pale oat walls, light ash timber, an ivory upholstered bed and a muted olive desk chair. Daylight enters only through the window shown in the plan; shadows must agree with its location. Show the bed, wardrobe and desk clearly in one landscape frame. Add only plain bedding and one desk lamp. Do not add a second window, extra furniture, plants, artwork, a computer or a rug. If the plan leaves a dimension ambiguous, keep that area simple rather than implying a measured architectural solution. No visible text.\nConstraints: Attach a labeled sketch with a clear entrance and window. This is a visual concept, not a dimensionally verified construction plan.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions."
+      },
+      "examples": []
+    },
+    {
+      "id": "P076",
+      "languages": [
+        "en"
+      ],
+      "title": {
+        "en": "Doodle character across four media"
+      },
+      "ratio": "1:1",
+      "mode": "edit",
+      "brief": {
+        "en": "Use the attached original character doodle as the identity reference. Before rendering, identify its five clearest visual anchors: head shape, main color, eye arrangement, clothing silhouette and held accessory. Preserve those anchors in every rendition; do not borrow another franchise's character design. Make one square four-panel comparison sheet with equal gutters. Upper left: a sewn felt puppet with visible stitching. Upper right: a soft colored-pencil storybook drawing. Lower left: a two-color risograph illustration. Lower right: a glazed ceramic desk figurine. Keep the same front three-quarter pose, full-body crop and approximate scale in all panels. Each medium should have its own credible surface treatment while the character remains recognizable. Plain warm-gray backgrounds, no text, panels with no overlapping figures, and exactly one character per panel."
+      },
+      "constraints": {
+        "en": "Use your own doodle. The sketch controls identity; the four named media control surface and rendering. Do not change accessories to fit a style."
+      },
+      "revision": {
+        "en": "Render only the ceramic interpretation as a single product photograph. Preserve its head, face, colors, clothing and accessory."
+      },
+      "review": {
+        "en": "Check all five identity anchors in all four panels; inspect limbs and accessory count."
+      },
+      "status": "template-not-rendered",
+      "source_url": "https://mp.weixin.qq.com/s/mk3gp9wzmq93zV5EtD9rLQ",
+      "customization": {
+        "parameter": "Media",
+        "default": "felt, pencil, risograph, ceramic",
+        "alternatives": "four clearly different media",
+        "preserve": "identity anchors, pose and scale"
+      },
+      "pack": "14-sketch-to-story",
+      "prompt": {
+        "en": "Asset: Doodle character across four media. Target aspect ratio: 1:1. Mode: edit.\nUse the attached original character doodle as the identity reference. Before rendering, identify its five clearest visual anchors: head shape, main color, eye arrangement, clothing silhouette and held accessory. Preserve those anchors in every rendition; do not borrow another franchise's character design. Make one square four-panel comparison sheet with equal gutters. Upper left: a sewn felt puppet with visible stitching. Upper right: a soft colored-pencil storybook drawing. Lower left: a two-color risograph illustration. Lower right: a glazed ceramic desk figurine. Keep the same front three-quarter pose, full-body crop and approximate scale in all panels. Each medium should have its own credible surface treatment while the character remains recognizable. Plain warm-gray backgrounds, no text, panels with no overlapping figures, and exactly one character per panel.\nConstraints: Use your own doodle. The sketch controls identity; the four named media control surface and rendering. Do not change accessories to fit a style.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions."
+      },
+      "examples": []
+    },
+    {
+      "id": "P077",
+      "languages": [
+        "en"
+      ],
+      "title": {
+        "en": "English tea collection editorial sheet"
+      },
+      "ratio": "3:4",
+      "mode": "generate",
+      "brief": {
+        "en": "Design a complete front-facing 3:4 editorial product sheet for the fictional tea collection RIDGE & LEAF. Fill the canvas with the flat design; do not photograph a magazine on a table. Use warm ivory stock, deep forest-green text and small copper accents. Establish a six-column grid with generous outer margins. Use five vertical zones: title, product with specification sidebar, three tasting cards, a comparison table, and a short footer. Prioritize readable English over decorative detail. Use a serif headline and clear sans-serif labels and table text. All required copy follows; do not invent additional text.\n\nHEADER: left \"RIDGE & LEAF\"; right \"COLLECTION NOTES / 01\".\nTITLE, on two lines: \"THREE LEAVES.\" / \"ONE SLOW AFTERNOON.\"\nINTRO: \"A small collection for noticing aroma, texture and the pace of a quiet afternoon.\"\n\nPRODUCT ZONE: Across the left four columns, show an open rectangular paperboard gift box with exactly three equal cylindrical tins in three fitted recesses. Left tin ivory, middle tin moss green, right tin warm clay. Each tin has the same small brand \"RIDGE & LEAF\" and, respectively, \"JASMINE GREEN\", \"ROASTED OOLONG\", \"PLAIN BLACK\". Use soft side light that distinguishes paperboard, matte tins and molded-pulp lining. The right two columns contain two separated groups: \"IN THE BOX\" / \"3 tins × 30 g\" / \"Total: 90 g\"; then \"MATERIALS\" / \"Paperboard box\" / \"Reusable tins\" / \"Molded-pulp insert\".\n\nTASTING ZONE: Three equal cards spanning two columns each, with a small single-color botanical illustration above each card. Card 1: \"01 / FLORAL\", \"JASMINE GREEN\", \"A delicate floral direction with a light, fresh finish.\" Card 2: \"02 / TOASTED\", \"ROASTED OOLONG\", \"A warm aromatic direction with a rounded, lingering finish.\" Card 3: \"03 / MELLOW\", \"PLAIN BLACK\", \"A familiar full-bodied direction for an unhurried pause.\"\n\nTABLE: Title \"CHOOSE YOUR MOMENT\". Exactly four columns headed \"TEA\", \"PROFILE\", \"TIN\", \"NET WT\". Rows: \"JASMINE GREEN | Floral | Ivory | 30 g\"; \"ROASTED OOLONG | Toasted | Moss | 30 g\"; \"PLAIN BLACK | Mellow | Clay | 30 g\". Pipes indicate cell boundaries and must not be printed. Use aligned cells, equal row heights and a pale-green header.\n\nFOOTER: \"Store sealed, cool and dry.\" and \"FICTIONAL COLLECTION / DESIGN STUDY\".\n\nMaintain six levels of information hierarchy: headline, zone heading, tea name, body text, table text and footer. Keep body copy left aligned. Match the tea names across tin labels, cards and rows. No price, discount, barcode, QR code, certification, origin claim or brewing-temperature claim."
+      },
+      "constraints": {
+        "en": "Fictional copy is supplied for layout practice. Exactly three tins, three recesses and three data rows. This is a raster design concept; proofread and typeset final production copy separately when needed."
+      },
+      "revision": {
+        "en": "Replace only the two-line title with “A LITTLE STILLNESS.” / “IN EVERY CUP.” Keep the title box, font, size and all product details and table entries."
+      },
+      "review": {
+        "en": "Check every supplied string, 3 × 30 g = 90 g, row alignment, matching tea names and smallest text at delivery size."
+      },
+      "status": "template-not-rendered",
+      "source_url": "https://mp.weixin.qq.com/s/mk3gp9wzmq93zV5EtD9rLQ",
+      "customization": {
+        "parameter": "Product copy",
+        "default": "three fictional teas, 30 g each",
+        "alternatives": "your approved three-product assortment",
+        "preserve": "matching names and quantities everywhere"
+      },
+      "pack": "14-sketch-to-story",
+      "prompt": {
+        "en": "Asset: English tea collection editorial sheet. Target aspect ratio: 3:4. Mode: generate.\nDesign a complete front-facing 3:4 editorial product sheet for the fictional tea collection RIDGE & LEAF. Fill the canvas with the flat design; do not photograph a magazine on a table. Use warm ivory stock, deep forest-green text and small copper accents. Establish a six-column grid with generous outer margins. Use five vertical zones: title, product with specification sidebar, three tasting cards, a comparison table, and a short footer. Prioritize readable English over decorative detail. Use a serif headline and clear sans-serif labels and table text. All required copy follows; do not invent additional text.\n\nHEADER: left \"RIDGE & LEAF\"; right \"COLLECTION NOTES / 01\".\nTITLE, on two lines: \"THREE LEAVES.\" / \"ONE SLOW AFTERNOON.\"\nINTRO: \"A small collection for noticing aroma, texture and the pace of a quiet afternoon.\"\n\nPRODUCT ZONE: Across the left four columns, show an open rectangular paperboard gift box with exactly three equal cylindrical tins in three fitted recesses. Left tin ivory, middle tin moss green, right tin warm clay. Each tin has the same small brand \"RIDGE & LEAF\" and, respectively, \"JASMINE GREEN\", \"ROASTED OOLONG\", \"PLAIN BLACK\". Use soft side light that distinguishes paperboard, matte tins and molded-pulp lining. The right two columns contain two separated groups: \"IN THE BOX\" / \"3 tins × 30 g\" / \"Total: 90 g\"; then \"MATERIALS\" / \"Paperboard box\" / \"Reusable tins\" / \"Molded-pulp insert\".\n\nTASTING ZONE: Three equal cards spanning two columns each, with a small single-color botanical illustration above each card. Card 1: \"01 / FLORAL\", \"JASMINE GREEN\", \"A delicate floral direction with a light, fresh finish.\" Card 2: \"02 / TOASTED\", \"ROASTED OOLONG\", \"A warm aromatic direction with a rounded, lingering finish.\" Card 3: \"03 / MELLOW\", \"PLAIN BLACK\", \"A familiar full-bodied direction for an unhurried pause.\"\n\nTABLE: Title \"CHOOSE YOUR MOMENT\". Exactly four columns headed \"TEA\", \"PROFILE\", \"TIN\", \"NET WT\". Rows: \"JASMINE GREEN | Floral | Ivory | 30 g\"; \"ROASTED OOLONG | Toasted | Moss | 30 g\"; \"PLAIN BLACK | Mellow | Clay | 30 g\". Pipes indicate cell boundaries and must not be printed. Use aligned cells, equal row heights and a pale-green header.\n\nFOOTER: \"Store sealed, cool and dry.\" and \"FICTIONAL COLLECTION / DESIGN STUDY\".\n\nMaintain six levels of information hierarchy: headline, zone heading, tea name, body text, table text and footer. Keep body copy left aligned. Match the tea names across tin labels, cards and rows. No price, discount, barcode, QR code, certification, origin claim or brewing-temperature claim.\nConstraints: Fictional copy is supplied for layout practice. Exactly three tins, three recesses and three data rows. This is a raster design concept; proofread and typeset final production copy separately when needed.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions."
+      },
+      "examples": []
+    },
+    {
+      "id": "P078",
+      "languages": [
+        "en"
+      ],
+      "title": {
+        "en": "Headline replacement without layout drift"
+      },
+      "ratio": "3:4",
+      "mode": "edit",
+      "brief": {
+        "en": "Use the approved RIDGE & LEAF product sheet as the base image. Edit only its two-line headline area near the top. Replace \"THREE LEAVES.\" with \"A LITTLE STILLNESS.\" and replace \"ONE SLOW AFTERNOON.\" with \"IN EVERY CUP.\" Keep the existing serif type style, font size, ink color, left alignment, line spacing and headline bounding box. Preserve the header, introductory paragraph, three tins, labels, sidebar, three tasting cards, table cells and footer. Do not reflow the rest of the page or add punctuation beyond the supplied copy. If the first line cannot fit at the existing size, report the fit issue instead of silently shrinking the type or rewriting the message. In a comment-enabled image editor, attach this instruction to the headline region; otherwise use the same region description with the uploaded base image."
+      },
+      "constraints": {
+        "en": "Requires an approved P077 output or an equivalent page with these exact old strings. A text edit is not permission to redesign the page."
+      },
+      "revision": {
+        "en": "After approval, change only the thin copper divider rules to forest green. Preserve the new headline and all other copy."
+      },
+      "review": {
+        "en": "Compare line breaks, type size, old-text removal and every untouched zone. A visually similar page may still contain fine-detail drift."
+      },
+      "status": "template-not-rendered",
+      "source_url": "https://mp.weixin.qq.com/s/mk3gp9wzmq93zV5EtD9rLQ",
+      "customization": {
+        "parameter": "New headline",
+        "default": "A LITTLE STILLNESS. / IN EVERY CUP.",
+        "alternatives": "two short approved lines",
+        "preserve": "type size, headline box and all other content"
+      },
+      "pack": "14-sketch-to-story",
+      "prompt": {
+        "en": "Asset: Headline replacement without layout drift. Target aspect ratio: 3:4. Mode: edit.\nUse the approved RIDGE & LEAF product sheet as the base image. Edit only its two-line headline area near the top. Replace \"THREE LEAVES.\" with \"A LITTLE STILLNESS.\" and replace \"ONE SLOW AFTERNOON.\" with \"IN EVERY CUP.\" Keep the existing serif type style, font size, ink color, left alignment, line spacing and headline bounding box. Preserve the header, introductory paragraph, three tins, labels, sidebar, three tasting cards, table cells and footer. Do not reflow the rest of the page or add punctuation beyond the supplied copy. If the first line cannot fit at the existing size, report the fit issue instead of silently shrinking the type or rewriting the message. In a comment-enabled image editor, attach this instruction to the headline region; otherwise use the same region description with the uploaded base image.\nConstraints: Requires an approved P077 output or an equivalent page with these exact old strings. A text edit is not permission to redesign the page.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions."
+      },
+      "examples": []
+    },
+    {
+      "id": "P079",
+      "languages": [
+        "en"
+      ],
+      "title": {
+        "en": "Four-region portrait correction brief"
+      },
+      "ratio": "2:3",
+      "mode": "edit",
+      "brief": {
+        "en": "Use the supplied authorized adult portrait as the only identity and composition reference. Apply four precisely located changes: remove the visible earrings from both ears; change both iris colors to muted hazel while preserving pupil size and catchlights; move the single loose strand crossing the nearer eye behind that ear; replace the shoulder bag with a plain walnut-brown leather satchel without a logo. Keep the same adult, facial proportions, age, skin texture, head angle, expression, white shirt, body pose, camera crop, background and light direction. Match the new satchel's strap to the original shoulder contact and gravity. Do not reshape the eyes, beautify the skin, redesign the shirt or add jewelry. If using region comments, attach each instruction to its corresponding ear, eye, strand or bag region. If one edit fails, correct only that region using the latest reviewed result."
+      },
+      "constraints": {
+        "en": "Use a suitable portrait where the named regions are visible. These four edits are a bounded batch; inspect them independently before continuing."
+      },
+      "revision": {
+        "en": "Correct only any remaining earring fragments. Preserve hazel irises, cleared eye area, walnut satchel and the original facial structure."
+      },
+      "review": {
+        "en": "Review all four changes separately, then compare facial identity, shirt folds, strap contact and the background."
+      },
+      "status": "template-not-rendered",
+      "source_url": "https://mp.weixin.qq.com/s/mk3gp9wzmq93zV5EtD9rLQ",
+      "customization": {
+        "parameter": "Replacement bag",
+        "default": "plain walnut leather satchel",
+        "alternatives": "another unbranded bag with approved dimensions",
+        "preserve": "identity, shoulder contact and pose"
+      },
+      "pack": "14-sketch-to-story",
+      "prompt": {
+        "en": "Asset: Four-region portrait correction brief. Target aspect ratio: 2:3. Mode: edit.\nUse the supplied authorized adult portrait as the only identity and composition reference. Apply four precisely located changes: remove the visible earrings from both ears; change both iris colors to muted hazel while preserving pupil size and catchlights; move the single loose strand crossing the nearer eye behind that ear; replace the shoulder bag with a plain walnut-brown leather satchel without a logo. Keep the same adult, facial proportions, age, skin texture, head angle, expression, white shirt, body pose, camera crop, background and light direction. Match the new satchel's strap to the original shoulder contact and gravity. Do not reshape the eyes, beautify the skin, redesign the shirt or add jewelry. If using region comments, attach each instruction to its corresponding ear, eye, strand or bag region. If one edit fails, correct only that region using the latest reviewed result.\nConstraints: Use a suitable portrait where the named regions are visible. These four edits are a bounded batch; inspect them independently before continuing.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions."
+      },
+      "examples": []
+    },
+    {
+      "id": "P080",
+      "languages": [
+        "en"
+      ],
+      "title": {
+        "en": "Portrait continuity through three revisions"
+      },
+      "ratio": "2:3",
+      "mode": "edit",
+      "brief": {
+        "en": "Use the latest approved portrait as the input, not the first image in the sequence. This is revision 1 of a three-step workflow. Change only the hairstyle to a shoulder-length loose wave in the subject's existing hair color. Keep the face, age, skin texture, eye color, expression, earrings or their absence, white shirt, bag, body pose, street geometry, camera crop and existing lighting. Hair should fall naturally around the shoulders and leave both eyes unobstructed. Do not execute the later color-grade or weather revisions yet. Preserve recognizable identity; if the input contains an unresolved facial or bag defect, stop and request that correction first. After the image is reviewed, save it as the approved input for revision 2."
+      },
+      "constraints": {
+        "en": "Use a portrait with a documented preserve list. Execute and inspect one revision at a time. Previous outcomes are constraints, not evidence of pixel-perfect preservation."
+      },
+      "revision": {
+        "en": "Revision 2, with approved revision 1 attached: change only the overall grading to a restrained cool-neutral editorial palette. Preserve hairstyle, identity, eye color, bag, pose and geometry. After approval, revision 3 uses that output: add light snow in the background only; preserve face, hair, clothes, bag and the approved grade. Do not add another person."
+      },
+      "review": {
+        "en": "At each step compare the face, hair, eyes, bag and pose with the previous approved image and the original identity reference; record any drift."
+      },
+      "status": "template-not-rendered",
+      "source_url": "https://mp.weixin.qq.com/s/mk3gp9wzmq93zV5EtD9rLQ",
+      "customization": {
+        "parameter": "Revision sequence",
+        "default": "hair, grade, background snow",
+        "alternatives": "three individually reviewable edits",
+        "preserve": "approved decisions from all earlier steps"
+      },
+      "pack": "14-sketch-to-story",
+      "prompt": {
+        "en": "Asset: Portrait continuity through three revisions. Target aspect ratio: 2:3. Mode: edit.\nUse the latest approved portrait as the input, not the first image in the sequence. This is revision 1 of a three-step workflow. Change only the hairstyle to a shoulder-length loose wave in the subject's existing hair color. Keep the face, age, skin texture, eye color, expression, earrings or their absence, white shirt, bag, body pose, street geometry, camera crop and existing lighting. Hair should fall naturally around the shoulders and leave both eyes unobstructed. Do not execute the later color-grade or weather revisions yet. Preserve recognizable identity; if the input contains an unresolved facial or bag defect, stop and request that correction first. After the image is reviewed, save it as the approved input for revision 2.\nConstraints: Use a portrait with a documented preserve list. Execute and inspect one revision at a time. Previous outcomes are constraints, not evidence of pixel-perfect preservation.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions."
+      },
+      "examples": []
+    },
+    {
+      "id": "P081",
+      "languages": [
+        "en"
+      ],
+      "title": {
+        "en": "Logo redesign with an explicit brand brief"
+      },
+      "ratio": "1:1",
+      "mode": "edit",
+      "brief": {
+        "en": "Use the uploaded logo for the fictional community design studio NORTH SIGNAL as the brand reference. Its brief is: practical workshops for local makers; welcoming, precise and curious; applications on a website, event shirts and small packaging. Preserve the reference's navy-and-lilac palette and the exact brand name \"NORTH SIGNAL\". Redesign the mark as one simple original geometric symbol paired with a readable wordmark. Show a single chosen design on plain white with generous padding; this is not a sheet of competing options. The symbol should remain recognizable at small size and separable from the wordmark, without borrowing familiar technology-company icons. Use restrained geometry, balanced spacing and no gradients, slogans, mockup shadows or additional text. Treat the result as a raster concept; an editable vector logo must be redrawn and checked separately."
+      },
+      "constraints": {
+        "en": "Supply your own matching logo or replace the fictional name and brief consistently. Brand positioning and use sizes should be decided before image generation."
+      },
+      "revision": {
+        "en": "Separate the approved symbol and wordmark into a clean horizontal lockup. Preserve the symbol geometry, navy-and-lilac palette and exact spelling."
+      },
+      "review": {
+        "en": "Check the name, symbol originality, spacing and small-size silhouette. Do not describe a generated raster as an editable vector file."
+      },
+      "status": "template-not-rendered",
+      "source_url": "https://mp.weixin.qq.com/s/mk3gp9wzmq93zV5EtD9rLQ",
+      "customization": {
+        "parameter": "Brand direction",
+        "default": "welcoming, precise, curious",
+        "alternatives": "three approved brand traits",
+        "preserve": "authorized name and palette"
+      },
+      "pack": "14-sketch-to-story",
+      "prompt": {
+        "en": "Asset: Logo redesign with an explicit brand brief. Target aspect ratio: 1:1. Mode: edit.\nUse the uploaded logo for the fictional community design studio NORTH SIGNAL as the brand reference. Its brief is: practical workshops for local makers; welcoming, precise and curious; applications on a website, event shirts and small packaging. Preserve the reference's navy-and-lilac palette and the exact brand name \"NORTH SIGNAL\". Redesign the mark as one simple original geometric symbol paired with a readable wordmark. Show a single chosen design on plain white with generous padding; this is not a sheet of competing options. The symbol should remain recognizable at small size and separable from the wordmark, without borrowing familiar technology-company icons. Use restrained geometry, balanced spacing and no gradients, slogans, mockup shadows or additional text. Treat the result as a raster concept; an editable vector logo must be redrawn and checked separately.\nConstraints: Supply your own matching logo or replace the fictional name and brief consistently. Brand positioning and use sizes should be decided before image generation.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions."
+      },
+      "examples": []
+    },
+    {
+      "id": "P082",
+      "languages": [
+        "en"
+      ],
+      "title": {
+        "en": "Reference-led branded apparel presentation"
+      },
+      "ratio": "3:4",
+      "mode": "edit",
+      "brief": {
+        "en": "Use Image 1 as an authorized adult model identity reference and Image 2 as the approved NORTH SIGNAL logo artwork. Create one portrait 3:4 apparel presentation with a clean two-column layout and three rows. Row 1 spans both columns: the model wears a plain ivory crew-neck T-shirt with the supplied logo centered on the chest. Row 2 contains two equally sized flat product views: an ivory shirt on the left and a charcoal shirt on the right, both showing the same logo placement and proportions. Row 3 contains a close detail of the print on the left and one kraft packaging box on the right, carrying the same logo. Neutral light-gray surroundings, consistent soft studio lighting and no decorative headline. Keep the adult's face and proportions from Image 1; preserve the logo from Image 2 without reinterpreting its letters or geometry. Keep all shirt necklines, sleeve lengths and fabric weights consistent."
+      },
+      "constraints": {
+        "en": "Attach the person first and logo second. Use an approved alternate logo colorway for dark fabric if necessary; do not let the model invent a replacement mark."
+      },
+      "revision": {
+        "en": "Change only the packaging box color from kraft to matte ivory. Preserve model, shirts, logo artwork, panel layout and lighting."
+      },
+      "review": {
+        "en": "Compare every logo instance with its source; count the layout cells, check model identity and examine fabric distortion. Print dimensions require separate specification."
+      },
+      "status": "template-not-rendered",
+      "source_url": "https://mp.weixin.qq.com/s/mk3gp9wzmq93zV5EtD9rLQ",
+      "customization": {
+        "parameter": "Garment colorways",
+        "default": "ivory and charcoal",
+        "alternatives": "two approved fabric colors",
+        "preserve": "logo geometry and garment construction"
+      },
+      "pack": "14-sketch-to-story",
+      "prompt": {
+        "en": "Asset: Reference-led branded apparel presentation. Target aspect ratio: 3:4. Mode: edit.\nUse Image 1 as an authorized adult model identity reference and Image 2 as the approved NORTH SIGNAL logo artwork. Create one portrait 3:4 apparel presentation with a clean two-column layout and three rows. Row 1 spans both columns: the model wears a plain ivory crew-neck T-shirt with the supplied logo centered on the chest. Row 2 contains two equally sized flat product views: an ivory shirt on the left and a charcoal shirt on the right, both showing the same logo placement and proportions. Row 3 contains a close detail of the print on the left and one kraft packaging box on the right, carrying the same logo. Neutral light-gray surroundings, consistent soft studio lighting and no decorative headline. Keep the adult's face and proportions from Image 1; preserve the logo from Image 2 without reinterpreting its letters or geometry. Keep all shirt necklines, sleeve lengths and fabric weights consistent.\nConstraints: Attach the person first and logo second. Use an approved alternate logo colorway for dark fabric if necessary; do not let the model invent a replacement mark.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions."
+      },
+      "examples": []
+    },
+    {
+      "id": "P083",
+      "languages": [
+        "en"
+      ],
+      "title": {
+        "en": "Sixteen-pose action reference sheet"
+      },
+      "ratio": "1:1",
+      "mode": "edit",
+      "brief": {
+        "en": "Use the attached original adult cartoon character as the identity reference. Create a square 4-by-4 action reference sheet on a genuinely transparent background. Keep a consistent compact chibi proportion, costume, hair silhouette, colors and handedness in all 16 cells. Use equal invisible cells and enough internal space that no limb or accessory crosses a boundary. Read left to right, top to bottom. Row 1: neutral ready stance, knees bending, weight shifting left, returning to guard. Row 2: right-arm punch preparation, right-arm extension, right-arm recovery, centered guard. Row 3: left-knee lift, controlled left front kick, knee retracting, left foot landing. Row 4: two-arm block, low crouch, rising to stand, relaxed finish. One complete figure per cell. No weapons, impacts, injured opponents, speed-line clutter, captions, frame numbers or visible checkerboard. Keep the camera and baseline consistent so the poses can be extracted."
+      },
+      "constraints": {
+        "en": "Requires a character reference. Verify actual alpha transparency after export. These are pose references, not guaranteed evenly timed animation frames or a production-ready sprite atlas."
+      },
+      "revision": {
+        "en": "Regenerate only the left front-kick pose as one transparent image, matching the approved character and camera. Keep the leg count, costume and color palette."
+      },
+      "review": {
+        "en": "Count 16 distinct full figures, check handedness and pose order, inspect alpha and cell boundaries. Interpolation and animation timing remain separate work."
+      },
+      "status": "template-not-rendered",
+      "source_url": "https://mp.weixin.qq.com/s/mk3gp9wzmq93zV5EtD9rLQ",
+      "customization": {
+        "parameter": "Pose sequence",
+        "default": "guard, punch, kick, block, finish",
+        "alternatives": "16 explicit non-graphic actions",
+        "preserve": "character proportions, camera and cell spacing"
+      },
+      "pack": "14-sketch-to-story",
+      "prompt": {
+        "en": "Asset: Sixteen-pose action reference sheet. Target aspect ratio: 1:1. Mode: edit.\nUse the attached original adult cartoon character as the identity reference. Create a square 4-by-4 action reference sheet on a genuinely transparent background. Keep a consistent compact chibi proportion, costume, hair silhouette, colors and handedness in all 16 cells. Use equal invisible cells and enough internal space that no limb or accessory crosses a boundary. Read left to right, top to bottom. Row 1: neutral ready stance, knees bending, weight shifting left, returning to guard. Row 2: right-arm punch preparation, right-arm extension, right-arm recovery, centered guard. Row 3: left-knee lift, controlled left front kick, knee retracting, left foot landing. Row 4: two-arm block, low crouch, rising to stand, relaxed finish. One complete figure per cell. No weapons, impacts, injured opponents, speed-line clutter, captions, frame numbers or visible checkerboard. Keep the camera and baseline consistent so the poses can be extracted.\nConstraints: Requires a character reference. Verify actual alpha transparency after export. These are pose references, not guaranteed evenly timed animation frames or a production-ready sprite atlas.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions."
+      },
+      "examples": []
+    },
+    {
+      "id": "P084",
+      "languages": [
+        "en"
+      ],
+      "title": {
+        "en": "Nine-shot music-video concept board"
+      },
+      "ratio": "3:2",
+      "mode": "edit",
+      "brief": {
+        "en": "Use the attached original adult illustrated singer as the identity reference. Create one 3-by-3 storyboard for a quiet music-video concept set in an abandoned botanical conservatory at dawn. Keep the singer's face, hair and outfit consistent. Use equal landscape panels with narrow clean gutters, no captions and no text inside the scene. Read left to right, top to bottom. Shots 1–3: wide exterior through fogged greenhouse glass; medium entrance shot with a small amber notebook; close-up of fingers opening the notebook. Shots 4–6: profile at an overgrown window; extreme close-up of the singer's eye reflecting leaves; wide shot walking between empty plant benches. Shots 7–9: high view of the singer beneath the roof structure; medium shot closing the notebook against the chest; wide exit into pale morning light. The notebook remains the same size and color. Use a restrained sage, amber and pearl palette, with coherent dawn lighting."
+      },
+      "constraints": {
+        "en": "Use an original adult character reference without an instrument. A board proposes shots, not generated video or synchronized lip movement."
+      },
+      "revision": {
+        "en": "Expand shot 4 into a standalone landscape keyframe. Preserve singer identity, wardrobe, notebook, greenhouse geometry and dawn light."
+      },
+      "review": {
+        "en": "Count nine shots and verify framing variety, prop continuity, environment and light direction. Check close-ups against the identity reference."
+      },
+      "status": "template-not-rendered",
+      "source_url": "https://mp.weixin.qq.com/s/mk3gp9wzmq93zV5EtD9rLQ",
+      "customization": {
+        "parameter": "Location",
+        "default": "botanical conservatory at dawn",
+        "alternatives": "one coherent alternative location",
+        "preserve": "character, notebook and shot progression"
+      },
+      "pack": "14-sketch-to-story",
+      "prompt": {
+        "en": "Asset: Nine-shot music-video concept board. Target aspect ratio: 3:2. Mode: edit.\nUse the attached original adult illustrated singer as the identity reference. Create one 3-by-3 storyboard for a quiet music-video concept set in an abandoned botanical conservatory at dawn. Keep the singer's face, hair and outfit consistent. Use equal landscape panels with narrow clean gutters, no captions and no text inside the scene. Read left to right, top to bottom. Shots 1–3: wide exterior through fogged greenhouse glass; medium entrance shot with a small amber notebook; close-up of fingers opening the notebook. Shots 4–6: profile at an overgrown window; extreme close-up of the singer's eye reflecting leaves; wide shot walking between empty plant benches. Shots 7–9: high view of the singer beneath the roof structure; medium shot closing the notebook against the chest; wide exit into pale morning light. The notebook remains the same size and color. Use a restrained sage, amber and pearl palette, with coherent dawn lighting.\nConstraints: Use an original adult character reference without an instrument. A board proposes shots, not generated video or synchronized lip movement.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions."
+      },
+      "examples": []
+    },
+    {
+      "id": "P085",
+      "languages": [
+        "en"
+      ],
+      "title": {
+        "en": "Sixteen-shot two-character narrative board"
+      },
+      "ratio": "1:1",
+      "mode": "edit",
+      "brief": {
+        "en": "Use Image 1 as adult character A and Image 2 as adult character B. Create one 4-by-4 cinematic storyboard, with 16 equal panels read left to right and top to bottom. The fictional story: two strangers collect each other's nearly identical sketchbooks by mistake at a library workshop, notice the mix-up, and exchange them before deciding to draw together. A carries an ochre sketchbook with a blue elastic band; B carries a slate sketchbook with a red elastic band. Preserve each person's face, hair and clothing from the references. Keep A screen-left and B screen-right in shared shots and maintain the same library table, window and afternoon lighting.\n\nRow 1: wide library table; A sets down the ochre book; B sets down the slate book; both reach for the wrong book while looking toward a workshop bell.\nRow 2: A opens the slate book; close-up of a botanical drawing; B opens the ochre book; close-up of an architectural sketch.\nRow 3: A looks toward B; reverse view of B recognizing the mistake; both place the books on the table; medium shot as they exchange books.\nRow 4: A gestures to the empty seat; B sits down; overhead view of each person drawing in the correct book; final wide shot of both working beside the window.\n\nNo speech balloons, readable handwriting, subtitles or extra participants. Convey the story through expressions, hands, book colors and blocking rather than invented on-image dialogue."
+      },
+      "constraints": {
+        "en": "Attach two authorized adult character references in order. This is a continuity-planning board, not proof of identity fidelity or a finished film."
+      },
+      "revision": {
+        "en": "Expand the book-exchange shot into a single landscape keyframe. Keep A on the left with the ochre book returning to A, B on the right with the slate book returning to B."
+      },
+      "review": {
+        "en": "Count 16 panels, trace both books through every exchange, check identity and screen direction, and inspect hands before video handoff."
+      },
+      "status": "template-not-rendered",
+      "source_url": "https://mp.weixin.qq.com/s/mk3gp9wzmq93zV5EtD9rLQ",
+      "customization": {
+        "parameter": "Narrative prop",
+        "default": "two differently colored sketchbooks",
+        "alternatives": "two clearly distinguishable safe props",
+        "preserve": "ownership, screen direction and character identities"
+      },
+      "pack": "14-sketch-to-story",
+      "prompt": {
+        "en": "Asset: Sixteen-shot two-character narrative board. Target aspect ratio: 1:1. Mode: edit.\nUse Image 1 as adult character A and Image 2 as adult character B. Create one 4-by-4 cinematic storyboard, with 16 equal panels read left to right and top to bottom. The fictional story: two strangers collect each other's nearly identical sketchbooks by mistake at a library workshop, notice the mix-up, and exchange them before deciding to draw together. A carries an ochre sketchbook with a blue elastic band; B carries a slate sketchbook with a red elastic band. Preserve each person's face, hair and clothing from the references. Keep A screen-left and B screen-right in shared shots and maintain the same library table, window and afternoon lighting.\n\nRow 1: wide library table; A sets down the ochre book; B sets down the slate book; both reach for the wrong book while looking toward a workshop bell.\nRow 2: A opens the slate book; close-up of a botanical drawing; B opens the ochre book; close-up of an architectural sketch.\nRow 3: A looks toward B; reverse view of B recognizing the mistake; both place the books on the table; medium shot as they exchange books.\nRow 4: A gestures to the empty seat; B sits down; overhead view of each person drawing in the correct book; final wide shot of both working beside the window.\n\nNo speech balloons, readable handwriting, subtitles or extra participants. Convey the story through expressions, hands, book colors and blocking rather than invented on-image dialogue.\nConstraints: Attach two authorized adult character references in order. This is a continuity-planning board, not proof of identity fidelity or a finished film.\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions."
+      },
+      "examples": []
     }
   ],
   "localized": [

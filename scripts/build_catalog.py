@@ -8,11 +8,13 @@ def build():
     manifest = json.loads((ROOT/'assets/manifest.json').read_text())
     examples = {}
     core_count = sum(len(pack['recipes']) for pack in data['packs'])
+    bilingual_count = sum('zh' in r['brief'] for p in data['packs'] for r in p['recipes'])
+    english_only_count = core_count - bilingual_count
     for asset in manifest['assets']:
         examples.setdefault(asset['recipe_id'], []).append(asset)
     index = ['# Prompt index · 提示词索引', '', '[English](../README.md) · [简体中文](../README_zh.md)', '',
-             f'{core_count} bilingual core recipes + 12 language-specific recipes. Translations and follow-ups are not counted as separate recipes.', '',
-             f'{core_count} 条中英双语核心配方 + 12 条语言专用配方；翻译和后续修改不重复计数。', '',
+             f'{bilingual_count} bilingual recipes + {english_only_count} English-only workflow recipes + 12 language-specific recipes. Translations and follow-ups are not counted as separate recipes.', '',
+             f'{bilingual_count} 条中英双语配方 + {english_only_count} 条英文工作流配方 + 12 条语言专用配方；翻译和后续修改不重复计数。', '',
              '| ID | English | 中文 | Mode | Ratio |', '| --- | --- | --- | --- | --- |']
     full=[]
     for pack in data['packs']:
@@ -21,28 +23,49 @@ def build():
                'Copy one language block. For edits, attach the images named in the prompt in that order. Requested ratios are creative targets; verify actual output dimensions.', '',
                '任选一种语言复制。编辑任务须按提示顺序附参考图；比例为创作目标，输出后核对实际尺寸。', '']
         if pack.get('source_url'):
-            lines += [f'Scenario inspiration: [OpenAI launch article]({pack["source_url"]}). Original flaq.ai prompts and newly generated images; not copied official demonstrations. [Before/after guide](../docs/launch-examples.md).', '']
+            source_label = pack.get('source_label', 'OpenAI launch article')
+            guide = pack.get('guide', 'launch-examples.md')
+            lines += [f'Scenario inspiration: [{source_label}]({pack["source_url"]}). Briefs adapted and expanded by flaq.ai; each entry discloses whether an image has been generated. [Example guide](../docs/{guide}).', '']
         lines += [f'- [{r["id"]} · {r["title"]["en"]}](#{r["id"].lower()})' for r in pack['recipes']]
         for r in pack['recipes']:
-            index.append(f'| {r["id"]} | [{r["title"]["en"]}]({pack["slug"]}.md#{r["id"].lower()}) | {r["title"]["zh"]} | {r["mode"]} | {r["ratio"]} |')
-            lines += ['', f'<a id="{r["id"].lower()}"></a>', f'## {r["id"]} · {r["title"]["en"]} / {r["title"]["zh"]}', '',
+            languages = r.get('languages', ['en', 'zh'])
+            translated_title = ' / '+r['title']['zh'] if 'zh' in languages else ''
+            index.append(f'| {r["id"]} | [{r["title"]["en"]}]({pack["slug"]}.md#{r["id"].lower()}) | {r["title"].get("zh", "English workflow")} | {r["mode"]} | {r["ratio"]} |')
+            lines += ['', f'<a id="{r["id"].lower()}"></a>', f'## {r["id"]} · {r["title"]["en"]}{translated_title}', '',
                       f'**Mode:** {r["mode"]} · **Target:** {r["ratio"]} · **Author:** flaq.ai team', '']
+            if languages == ['en']:
+                lines += ['**Language:** English. Expanded adaptation of the linked workflow; no generated result is claimed.', '']
             if r['id'] in examples:
                 lines += ['**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.', '']
                 for a in examples[r['id']]:
                     lines += [f'![{a["alt"]}](../{a["path"]})', '', f'[{a["label"]}: exact prompt / 实际提示词](../{a["prompt_path"]})', '']
             else:
                 lines += ['**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。', '']
+            if r.get('adjustments'):
+                lines += ['### Customize / 微调参数', '',
+                          'Use the complete prompt below as a working default. Replace the named detail in that prompt; do not append a conflicting value. Adjust one item at a time. / 下方是可直接使用的默认配方；修改时替换对应描述，不要追加冲突条件，每次先调整一项。', '',
+                          '| Parameter / 参数 | Current example / 当前值 | Try instead / 可改为 | Preserve / 保留 |',
+                          '| --- | --- | --- | --- |']
+                for a in r['adjustments']:
+                    lines.append('| ' + ' | '.join(a[k]['en']+' / '+a[k]['zh'] for k in ['name','default','options','preserve']) + ' |')
+                lines += ['']
+            if r.get('customization'):
+                c = r['customization']
+                lines += ['### Customize', '', f'**{c["parameter"]}:** {c["default"]}. **Alternatives:** {c["alternatives"]}. **Preserve:** {c["preserve"]}.', '']
             complete={}
             for lang,label in [('en','English'),('zh','简体中文')]:
+                if lang not in languages:
+                    continue
                 if lang=='en':
                     text=f'Asset: {r["title"][lang]}. Target aspect ratio: {r["ratio"]}. Mode: {r["mode"]}.\n'+r['brief'][lang]+'\nConstraints: '+r['constraints'][lang]+'\nRender only explicitly requested image text. Do not add unrelated logos, signatures or captions.'
                 else:
                     text=f'交付物：{r["title"][lang]}。目标比例：{r["ratio"]}。模式：'+('新建' if r['mode']=='generate' else '编辑')+'。\n'+r['brief'][lang]+'\n约束：'+r['constraints'][lang]+'\n只渲染明确要求的图中文字，不添加无关标识、签名或说明。'
                 complete[lang]=text
                 lines += [f'### {label}', '', '```text',text,'```','']
-            lines += ['### Next edit / 后续修改', '', '```text', r['revision']['en'], '```', '', '```text', r['revision']['zh'], '```', '',
-                      '**Review / 验收：** '+r['review']['en']+' '+r['review']['zh'], '',
+            lines += ['### Next edit / 后续修改', '', '```text', r['revision']['en'], '```', '']
+            if 'zh' in languages:
+                lines += ['```text', r['revision']['zh'], '```', '']
+            lines += ['**Review / 验收：** '+r['review']['en']+' '+r['review'].get('zh',''), '',
                       '[Back to index / 返回索引](README.md)', '']
             full.append({**r,'pack':pack['slug'],'prompt':complete,'examples':[a['path'] for a in examples.get(r['id'],[])]})
         (ROOT/'prompts'/f'{pack["slug"]}.md').write_text('\n'.join(lines)+'\n')

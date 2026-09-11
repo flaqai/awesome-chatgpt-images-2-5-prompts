@@ -2,9 +2,9 @@
 
 [English](../README.md) · [简体中文](../README_zh.md)
 
-67 bilingual core recipes + 12 language-specific recipes. Translations and follow-ups are not counted as separate recipes.
+73 bilingual recipes + 12 English-only workflow recipes + 12 language-specific recipes. Translations and follow-ups are not counted as separate recipes.
 
-67 条中英双语核心配方 + 12 条语言专用配方；翻译和后续修改不重复计数。
+73 条中英双语配方 + 12 条英文工作流配方 + 12 条语言专用配方；翻译和后续修改不重复计数。
 
 | ID | English | 中文 | Mode | Ratio |
 | --- | --- | --- | --- | --- |
@@ -75,6 +75,24 @@
 | P065 | [Symbol-marked cube rotation](12-launch-examples.md#p065) | 带符号立方体旋转 | edit | 1:1 |
 | P066 | [One-column itinerary revision](12-launch-examples.md#p066) | 旅行信息图单栏修改 | edit | 3:2 |
 | P067 | [Birthday candle count edit](12-launch-examples.md#p067) | 生日蜡烛数量修改 | edit | 1:1 |
+| P068 | [Repair collective editorial portrait](13-customizable-studio.md#p068) | 修理工坊纪实风肖像 | generate | 3:2 |
+| P069 | [Four-step pour-over poster](13-customizable-studio.md#p069) | 四步手冲咖啡流程海报 | generate | 3:2 |
+| P070 | [Pocket tram collectible packaging](13-customizable-studio.md#p070) | 口袋电车收藏包装 | generate | 2:3 |
+| P071 | [Handmade lighthouse island](13-customizable-studio.md#p071) | 手工灯塔岛微缩场景 | generate | 1:1 |
+| P072 | [Knitted keepsake greeting card](13-customizable-studio.md#p072) | 针织纪念物贺卡 | generate | 2:3 |
+| P073 | [Ceramics studio editorial collage](13-customizable-studio.md#p073) | 陶艺工作室编辑拼贴 | generate | 2:3 |
+| P074 | [One sketch, four concept directions](14-sketch-to-story.md#p074) | English workflow | edit | 1:1 |
+| P075 | [Bedroom plan to interior concept](14-sketch-to-story.md#p075) | English workflow | edit | 3:2 |
+| P076 | [Doodle character across four media](14-sketch-to-story.md#p076) | English workflow | edit | 1:1 |
+| P077 | [English tea collection editorial sheet](14-sketch-to-story.md#p077) | English workflow | generate | 3:4 |
+| P078 | [Headline replacement without layout drift](14-sketch-to-story.md#p078) | English workflow | edit | 3:4 |
+| P079 | [Four-region portrait correction brief](14-sketch-to-story.md#p079) | English workflow | edit | 2:3 |
+| P080 | [Portrait continuity through three revisions](14-sketch-to-story.md#p080) | English workflow | edit | 2:3 |
+| P081 | [Logo redesign with an explicit brand brief](14-sketch-to-story.md#p081) | English workflow | edit | 1:1 |
+| P082 | [Reference-led branded apparel presentation](14-sketch-to-story.md#p082) | English workflow | edit | 3:4 |
+| P083 | [Sixteen-pose action reference sheet](14-sketch-to-story.md#p083) | English workflow | edit | 1:1 |
+| P084 | [Nine-shot music-video concept board](14-sketch-to-story.md#p084) | English workflow | edit | 3:2 |
+| P085 | [Sixteen-shot two-character narrative board](14-sketch-to-story.md#p085) | English workflow | edit | 1:1 |
 | L001 | [English · Repair workshop flyer](11-multilingual.md#l001) | en | generate | 2:3 |
 | L002 | [简体中文 · 城市慢生活海报](11-multilingual.md#l002) | zh-Hans | generate | 2:3 |
 | L003 | [日本語 · ベーカリーポスター](11-multilingual.md#l003) | ja | generate | 2:3 |

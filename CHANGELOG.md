@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.3.0 — 2026-09-11
+
+- Added 12 English-only workflow recipes, P074–P085, adapted and expanded from a credited Chinese practical article.
+- Added English product copy, reference requirements, customization suggestions, revision steps and review criteria.
+- Added the source-to-recipe map and storyboard handoff guidance; all new recipes are explicitly unrendered.
+- Expanded to 97 recipes in 14 packs: 73 bilingual, 12 English workflow and 12 language-specific recipes. Image count remains 28.
+
+
+## 1.2.0 — 2026-09-11
+
+- Added six independently authored bilingual recipes, P068–P073, with three customization controls each.
+- Generated six original scene images and one controlled lighthouse-roof edit, with exact prompt files and observed review notes.
+- Documented scenario inspiration and a practical customization workflow.
+- Expanded to 85 recipes, 13 packs and 28 images; synchronized all 16 README versions and SEO totals.
+
+
 ## 1.1.1 — 2026-09-09
 
 - Added 10 README entry pages: Traditional Chinese, Korean, German, Brazilian Portuguese, Italian, Russian, Hindi, Thai, Indonesian and Vietnamese.

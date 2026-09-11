@@ -1,8 +1,8 @@
 # Generation log · 图片生成记录
 
-21 original images were generated on **2026-09-09** with the Codex built-in image tool: one cover, six earlier examples and seven new input/output pairs. No external reference images were supplied; all edits use earlier outputs from this repository.
+28 original images were generated with the Codex built-in image tool: 21 on **2026-09-09**, then six new studio scenes and one roof-color edit on **2026-09-11**. No external reference images were supplied; all edits use earlier outputs from this repository.
 
-工具未返回底层模型ID、质量设置或种子，不补写推断值。这21张图保留原始PNG；每个文件记录真实执行提示词、输入关系和人工目测结果。不可将这些图片视为Flare或Sunburst的已验证评测。
+工具未返回底层模型ID、质量设置或种子，不补写推断值。这28张图保留原始PNG；每个文件记录真实执行提示词、输入关系和人工目测结果。不可将这些图片视为Flare或Sunburst的已验证评测。
 
 Exact prompts and inputs enable another attempt, not deterministic reproduction. Reusable recipes can differ from the executed prompt. Follow-up suggestions are unrendered unless a separate output is logged.
 
@@ -257,3 +257,101 @@ Exact prompts and inputs enable another attempt, not deterministic reproduction.
 - Inputs: [launch-cake-input.png](../assets/images/launch-cake-input.png)
 
 **Review:** Exactly five unlit orange candles are visible. Cake, plate and composition are similar; frosting texture changes slightly.
+
+
+## Repair collective editorial portrait — original generation
+
+![Repair collective editorial portrait, original flaq.ai example](../assets/images/studio-workshop.png)
+
+- Recipe: `P068`
+- Created: 2026-09-11
+- Dimensions: 1536 × 1024
+- [Exact executed prompt](../assets/generation/studio-workshop.txt)
+- SHA-256: `090fcb276915dbd1bda075e6ce777a6b2f24d83c0078d966444a60de363a4c73`
+- Inputs: None / 无
+
+**Review:** Subject, backpack seam and window light match the brief. Extra bowl and cloth appear on the foreground workbench; fingers and needle contact need close production review.
+
+
+## Four-step pour-over poster — original generation
+
+![Four-step pour-over poster, original flaq.ai example](../assets/images/studio-brew.png)
+
+- Recipe: `P069`
+- Created: 2026-09-11
+- Dimensions: 1536 × 1024
+- [Exact executed prompt](../assets/generation/studio-brew.txt)
+- SHA-256: `0b6043327aca4771971569614f56deb6de64ca123c6a51019722b9da56b5281c`
+- Inputs: None / 无
+
+**Review:** Four ordered columns and all requested labels are present. Kettles extend to panel edges; this is a simplified illustrated sequence, not a complete brewing procedure.
+
+
+## Pocket tram collectible packaging — original generation
+
+![Pocket tram collectible packaging, original flaq.ai example](../assets/images/studio-tram.png)
+
+- Recipe: `P070`
+- Created: 2026-09-11
+- Dimensions: 1024 × 1536
+- [Exact executed prompt](../assets/generation/studio-tram.txt)
+- SHA-256: `d543374b916f4572e40186cb659d04571320c1ac7547fd1a489d76e504a1655f`
+- Inputs: None / 无
+
+**Review:** All three text lines match. One tram and one suitcase are visible. Three large side windows plus a narrow end window appear, so strict window count needs refinement.
+
+
+## Handmade lighthouse island — original generation
+
+![Handmade lighthouse island, original flaq.ai example](../assets/images/studio-lighthouse.png)
+
+- Recipe: `P071`
+- Created: 2026-09-11
+- Dimensions: 1254 × 1254
+- [Exact executed prompt](../assets/generation/studio-lighthouse.txt)
+- SHA-256: `f2e5e233674e0c1185aa91b2298f93342f734a996b0bfe0363c0da069b27910e`
+- Inputs: None / 无
+
+**Review:** Two boats, one lighthouse, one boathouse and the whole cork base are visible. Foliage looks more like model landscaping than clearly identifiable felt.
+
+
+## Knitted keepsake greeting card — original generation
+
+![Knitted keepsake greeting card, original flaq.ai example](../assets/images/studio-card.png)
+
+- Recipe: `P072`
+- Created: 2026-09-11
+- Dimensions: 1024 × 1536
+- [Exact executed prompt](../assets/generation/studio-card.txt)
+- SHA-256: `df1dc04cb726a06023e84e1e9c51cec95f09aabc4a0f05575ee863eec284982e`
+- Inputs: None / 无
+
+**Review:** Both requested phrases, repaired ear and two button eyes are visible. The title uses a small-cap-like treatment; confirm case styling and print legibility for final artwork.
+
+
+## Ceramics studio editorial collage — original generation
+
+![Ceramics studio editorial collage, original flaq.ai example](../assets/images/studio-collage.png)
+
+- Recipe: `P073`
+- Created: 2026-09-11
+- Dimensions: 1024 × 1536
+- [Exact executed prompt](../assets/generation/studio-collage.txt)
+- SHA-256: `b9a043cb61717e2188cd2f0420c8a376831c36e77e0d1049cb74f0a7f5728673`
+- Inputs: None / 无
+
+**Review:** Exactly four bordered prints and both requested text lines are visible. Bowl colors remain related; extra kitchen styling appears in the finished-bowl photo.
+
+
+## Handmade lighthouse island — roof-color edit
+
+![Handmade lighthouse island with sage lighthouse roof](../assets/images/studio-lighthouse-edit.png)
+
+- Recipe: `P071`
+- Created: 2026-09-11
+- Dimensions: 1254 × 1254
+- [Exact executed prompt](../assets/generation/studio-lighthouse-edit.txt)
+- SHA-256: `a0226f310666ce832ba6d5853f92b0559ad5c116cf9749e3827ef8e9a6cac7df`
+- Inputs: [studio-lighthouse.png](../assets/images/studio-lighthouse.png)
+
+**Review:** Lighthouse roof and finial changed to sage while the boathouse roof stayed terracotta. Both boats remain. Shrubs, rocks and water texture drift noticeably; preservation is not pixel-identical.

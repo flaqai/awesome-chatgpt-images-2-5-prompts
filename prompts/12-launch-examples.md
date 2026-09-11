@@ -8,7 +8,7 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 任选一种语言复制。编辑任务须按提示顺序附参考图；比例为创作目标，输出后核对实际尺寸。
 
-Scenario inspiration: [OpenAI launch article](https://openai.com/index/introducing-chatgpt-images-2-5/). Original flaq.ai prompts and newly generated images; not copied official demonstrations. [Before/after guide](../docs/launch-examples.md).
+Scenario inspiration: [OpenAI launch article](https://openai.com/index/introducing-chatgpt-images-2-5/). Briefs adapted and expanded by flaq.ai; each entry discloses whether an image has been generated. [Example guide](../docs/launch-examples.md).
 
 - [P061 · Terrier cape makeover](#p061)
 - [P062 · Synthetic child portrait wardrobe edit](#p062)

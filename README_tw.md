@@ -6,7 +6,7 @@
 
 ![flaq.ai — ChatGPT Images 2.5](assets/images/cover.png)
 
-全庫共有79條配方、12個場景包與21張新生成圖片：67條核心配方提供完整英文與簡體中文版本，另有12條語言專用配方。README提供16個語言／地區版本；本頁是繁體中文入門說明，不代表全庫提示詞均已翻譯。
+全庫共有97條配方、14個場景包與28張新生成圖片：73條核心配方提供完整英文與簡體中文版本，另有12條語言專用配方。README提供16個語言／地區版本；本頁是繁體中文入門說明，不代表全庫提示詞均已翻譯。 另新增12條僅以英文提供的工作流配方。
 
 ## 開始使用
 
@@ -36,6 +36,6 @@
 
 ## 資源與參與
 
-[79 prompts](prompts/README.md) · [Before / after](docs/launch-examples.md) · [Generation log](docs/generation-log.md) · [OpenAI API guide](docs/api-guide.md) · [Contributing](CONTRIBUTING.md)
+[97 prompts](prompts/README.md) · [Before / after](docs/launch-examples.md) · [Generation log](docs/generation-log.md) · [OpenAI API guide](docs/api-guide.md) · [Contributing](CONTRIBUTING.md)
 
 本專案與OpenAI無隸屬或背書關係。 [MIT License](LICENSE) © 2026 Flaq AI.
