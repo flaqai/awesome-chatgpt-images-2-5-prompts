@@ -1,6 +1,6 @@
 # From sketch to storyboard: English prompt workflows
 
-Twelve English workflow recipes, P074–P085, adapted and expanded by the [flaq.ai](https://flaq.ai) team from a Chinese practical article. All twelve are **unrendered templates** in this release. They do not add images to the generation log or establish model performance.
+Twelve English workflow recipes, P074–P085, adapted and expanded by the [flaq.ai](https://flaq.ai) team from a Chinese practical article. All twelve now include original generated demonstrations, linked inputs and observed review notes. See the [visual gallery](gallery.md) and [generation log](generation-log.md). These examples do not establish model performance.
 
 ## Source and adaptation method
 

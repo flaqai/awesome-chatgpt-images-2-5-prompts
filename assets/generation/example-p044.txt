@@ -1,0 +1,5 @@
+Asset: Small apartment material refresh. Target aspect ratio: 3:2. Mode: edit.
+Image 1 is the existing apartment. Update only wall paint to warm chalk white and cabinet fronts to pale oak veneer. Preserve the exact room size, window openings, floor, ceiling height and furniture. Use the current natural light and camera as anchors; keep surface textures subtle.
+Constraints: No demolition, new openings, moved fixtures or visual expansion.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
+The attached inputs are original synthetic demonstration assets created for this repository, not photographs of actual customers.

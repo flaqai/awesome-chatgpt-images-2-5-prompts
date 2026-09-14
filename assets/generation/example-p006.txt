@@ -1,0 +1,4 @@
+Asset: Gift box unboxing flat lay. Target aspect ratio: 1:1. Mode: generate.
+Photograph a fictional STILL POST stationery gift set from directly overhead. Put an open warm-gray rigid box at left, a rust notebook at right, one brass clip and one blank cream card below. Tissue curls naturally inside the box. Use an oat background with diffused daylight and precise spacing. The only text is "STILL POST" on the notebook.
+Constraints: Exactly four primary objects; no additional stationery, hands or product claims.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

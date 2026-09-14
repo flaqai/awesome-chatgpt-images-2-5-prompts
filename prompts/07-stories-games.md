@@ -20,11 +20,19 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** generate · **Target:** 3:2 · **Author:** flaq.ai team
 
+**Best for:** Story pitching, character development and game concept art.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check continuity, cell counts and small-scale silhouettes before extracting individual frames. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
 ![Six-panel story of a cream repair robot stitching a paper moon in an attic](../assets/images/paper-moon-story.png)
 
 [Wordless storyboard: exact prompt / 实际提示词](../assets/generation/paper-moon-story.txt)
+
+**Observed review:** Six panels and recognizable robot retained. Panel three shows stitches before the dedicated stitching panel; medium is more dimensional than requested. Teaching example requiring continuity revision.
 
 ### English
 
@@ -64,7 +72,19 @@ Edit only panel three so the moon is still unstitched while the robot selects th
 
 **Mode:** generate · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Story pitching, character development and game concept art.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check continuity, cell counts and small-scale silhouettes before extracting individual frames. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Character turnaround sheet — original generated example](../assets/images/example-p038.png)
+
+[Character turnaround sheet — generated example: exact prompt / 实际提示词](../assets/generation/example-p038.txt)
+
+**Observed review:** Three equal-scale front, side and back views share a baseline; satchel placement and costume folds should be reconciled before production modeling.
 
 ### English
 
@@ -104,7 +124,23 @@ Change only satchel color to forest green consistently in all three views.
 
 **Mode:** generate · **Target:** 1:1 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Story pitching, character development and game concept art.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check continuity, cell counts and small-scale silhouettes before extracting individual frames. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/example-p039.png)
+
+![Four-expression mascot sheet — original generated example](../assets/images/example-p039-v2.png)
+
+[Four-expression mascot sheet — refined result: exact prompt / 实际提示词](../assets/generation/example-p039-v2.txt)
+
+**Observed review:** Four distinct expressions are visible on cream without the previous transparent background. Leaf placement and pebble texture remain coherent.
 
 ### English
 
@@ -144,7 +180,23 @@ Make only the sleepy expression’s eyelids lower.
 
 **Mode:** generate · **Target:** 1:1 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Story pitching, character development and game concept art.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check continuity, cell counts and small-scale silhouettes before extracting individual frames. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/example-p040.png)
+
+![Cozy game inventory icons — original generated example](../assets/images/example-p040-v2.png)
+
+[Cozy game inventory icons — refined result: exact prompt / 实际提示词](../assets/generation/example-p040-v2.txt)
+
+**Observed review:** Nine distinct game objects are visible on cream without the previous transparent background. This is a concept sheet requiring slicing for production.
 
 ### English
 
@@ -184,14 +236,26 @@ Change only the lantern glow from yellow to pale blue.
 
 **Mode:** generate · **Target:** 1:1 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Story pitching, character development and game concept art.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check continuity, cell counts and small-scale silhouettes before extracting individual frames. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Isometric rooftop garden — original generated example](../assets/images/example-p041.png)
+
+[Isometric rooftop garden — generated example: exact prompt / 实际提示词](../assets/generation/example-p041.txt)
+
+**Observed review:** Greenhouse, three main raised beds and a barrel are present with visible walkway; extra small planters were added.
 
 ### English
 
 ```text
 Asset: Isometric rooftop garden. Target aspect ratio: 1:1. Mode: generate.
 Draw an isometric game environment of a tiny rooftop greenhouse. Include a glass structure at back, three raised planting beds, one water barrel and a narrow timber walkway. Moss green, warm brick and pale glass palette; detailed hand-painted textures with clear navigable spaces. Keep the whole floating rooftop tile visible.
-Constraints: Consistent isometric angles, no text, no characters and no hidden crop at tile edges.
+Constraints: Consistent isometric angles, no text, no characters and no hidden crop at tile edges. Count exactly three raised beds across the entire tile; do not add small planter boxes or background beds.
 Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
 ```
 
@@ -200,7 +264,7 @@ Render only explicitly requested image text. Do not add unrelated logos, signatu
 ```text
 交付物：等距屋顶花园游戏场景。目标比例：1:1。模式：新建。
 绘制等距小型屋顶温室游戏场景：后方玻璃温室、三个种植床、一个水桶、窄木走道。苔绿、暖砖、浅玻璃，精细手绘纹理和清楚可行走空间，完整显示悬浮屋顶地块。
-约束：等距角一致，不加字和角色，不裁地块边缘。
+约束：等距角一致，不加字和角色，不裁地块边缘。 整个地块严格只有三个高架种植床，不额外添加小花箱或背景种植床。
 只渲染明确要求的图中文字，不添加无关标识、签名或说明。
 ```
 
@@ -224,7 +288,19 @@ Add only a folded orange watering hose beside the barrel.
 
 **Mode:** generate · **Target:** 16:9 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Story pitching, character development and game concept art.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check continuity, cell counts and small-scale silhouettes before extracting individual frames. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Pixel-art harbor background — original generated example](../assets/images/example-p042.png)
+
+[Pixel-art harbor background — generated example: exact prompt / 实际提示词](../assets/generation/example-p042.txt)
+
+**Observed review:** Harbor layout and dusk palette match the brief; pixel-art appearance is illustrative rather than an enforced fixed pixel grid.
 
 ### English
 

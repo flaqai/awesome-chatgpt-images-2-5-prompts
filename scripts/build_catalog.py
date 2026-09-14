@@ -11,7 +11,8 @@ def build():
     bilingual_count = sum('zh' in r['brief'] for p in data['packs'] for r in p['recipes'])
     english_only_count = core_count - bilingual_count
     for asset in manifest['assets']:
-        examples.setdefault(asset['recipe_id'], []).append(asset)
+        if asset.get('role') not in ('input', 'draft'):
+            examples.setdefault(asset['recipe_id'], []).append(asset)
     index = ['# Prompt index · 提示词索引', '', '[English](../README.md) · [简体中文](../README_zh.md)', '',
              f'{bilingual_count} bilingual recipes + {english_only_count} English-only workflow recipes + 12 language-specific recipes. Translations and follow-ups are not counted as separate recipes.', '',
              f'{bilingual_count} 条中英双语配方 + {english_only_count} 条英文工作流配方 + 12 条语言专用配方；翻译和后续修改不重复计数。', '',
@@ -34,11 +35,28 @@ def build():
             lines += ['', f'<a id="{r["id"].lower()}"></a>', f'## {r["id"]} · {r["title"]["en"]}{translated_title}', '',
                       f'**Mode:** {r["mode"]} · **Target:** {r["ratio"]} · **Author:** flaq.ai team', '']
             if languages == ['en']:
-                lines += ['**Language:** English. Expanded adaptation of the linked workflow; no generated result is claimed.', '']
+                lines += ['**Language:** English. Expanded adaptation; see the result status and source information below.', '']
+            if r.get('usage'):
+                u = r['usage']
+                lines += [f'**Best for:** {u["best_for"]}', '', f'**Inputs:** {u["inputs"]}', '',
+                          f'**Production check:** {u["review_workflow"]} {u["delivery"]}', '']
+            if r.get('source_reference'):
+                s = r['source_reference']
+                lines += [f'**Scenario source:** [{s["author"]} ({s["handle"]}) on X]({s["url"]}) · Published {s["published"]} · Checked {s["checked"]}.', '',
+                          f'**Source idea:** {s["source_summary"]}', '',
+                          f'**What changed:** {s["adaptation"]}', '',
+                          f'[![External source preview for {r["id"]}: {s["source_summary"]}]({s["image_url"]})]({s["photo_url"]})', '',
+                          f'**External reference image:** [View the original photo on X]({s["photo_url"]}). This is the source author’s image, not a rendering of the adapted prompt below. It is hosted remotely and is outside this repository’s MIT license. The model attribution is the author’s claim, not an independent verification. [Curation notes](../docs/x-community.md).', '']
             if r['id'] in examples:
                 lines += ['**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.', '']
                 for a in examples[r['id']]:
-                    lines += [f'![{a["alt"]}](../{a["path"]})', '', f'[{a["label"]}: exact prompt / 实际提示词](../{a["prompt_path"]})', '']
+                    if a.get('role') == 'input':
+                        continue
+                    if a.get('input_images'):
+                        lines += ['**Example inputs, in order / 示例输入顺序：**', '']
+                        for n, source_path in enumerate(a['input_images'], 1):
+                            lines += [f'[Input {n} / 输入 {n}](../{source_path})', '']
+                    lines += [f'![{a["alt"]}](../{a["path"]})', '', f'[{a["label"]}: exact prompt / 实际提示词](../{a["prompt_path"]})', '', f'**Observed review:** {a["review"]}', '']
             else:
                 lines += ['**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。', '']
             if r.get('adjustments'):
@@ -71,13 +89,15 @@ def build():
         (ROOT/'prompts'/f'{pack["slug"]}.md').write_text('\n'.join(lines)+'\n')
     locales=json.loads((ROOT/'data/locales.json').read_text())
     localized=['# Multilingual image prompts · 多语言图像提示词', '', '[All recipes / 全部配方](README.md)', '',
-        '12 complete localized briefs. These are language-specific recipes, not full translations of the entire library. Language templates need fluent review; only L003 has a generated visual in this release.', '',
-        '12 条完整本地语言创作简报，不代表全库已翻译为12种语言。公开使用前请熟练读者审校；当前仅 L003 配有生成示例。', '']
+        '12 complete localized briefs. These are language-specific recipes, not full translations of the entire library. Generated lettering requires fluent review before publication; see each example and its review record.', '',
+        '12 条完整本地语言创作简报，不代表全库已翻译为12种语言。配图中的文字需由熟练读者审校；具体结果参见各示例及审查记录。', '']
     for r in locales:
         index.append(f'| {r["id"]} | [{r["title"]}](11-multilingual.md#{r["id"].lower()}) | {r["language"]} | generate | 2:3 |')
         localized += [f'<a id="{r["id"].lower()}"></a>',f'## {r["id"]} · {r["title"]}', '', '```text',r['prompt'],'```','', '**Review:** '+r['review'],'']
+        if r.get('revision'):
+            localized += ['### Next edit / 后续修改', '', 'Run this only after reviewing the first result / 首次结果审查后再单独执行。', '', '```text', r['revision'], '```', '']
         for a in examples.get(r['id'],[]):
-            localized += [f'![{a["alt"]}](../{a["path"]})','',f'[Exact generation prompt / 实际生成提示词](../{a["prompt_path"]})','']
+            localized += [f'![{a["alt"]}](../{a["path"]})','',f'[Exact generation prompt / 实际生成提示词](../{a["prompt_path"]})','',f'**Observed review:** {a["review"]}','']
     (ROOT/'prompts/11-multilingual.md').write_text('\n'.join(localized)+'\n')
     (ROOT/'prompts/README.md').write_text('\n'.join(index)+'\n')
     (ROOT/'data/prompts.json').write_text(json.dumps({'core':full,'localized':locales},ensure_ascii=False,indent=2)+'\n')

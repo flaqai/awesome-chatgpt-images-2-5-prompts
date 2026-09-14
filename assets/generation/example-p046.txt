@@ -1,0 +1,4 @@
+Asset: Pop-up refill store. Target aspect ratio: 3:2. Mode: generate.
+Design an original compact refill-shop pop-up: pale plywood counters, three clearly separated glass dispensers, blue reusable bottles and a cream fabric canopy. View from pedestrian eye level. A single front sign reads "REFILL CORNER". Show neat service circulation and natural daylight in an abstract neutral venue.
+Constraints: No sustainability statistics, brand partnerships or fabricated safety signage.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

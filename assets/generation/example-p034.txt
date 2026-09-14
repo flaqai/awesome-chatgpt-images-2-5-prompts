@@ -1,0 +1,4 @@
+Asset: Workshop booking landing page. Target aspect ratio: 16:9. Mode: generate.
+Design a desktop landing-page visual for a fictional woodworking school. Left column headline "MAKE SOMETHING REAL", a short line "Weekend workshops for curious hands", and button "Explore classes". Right column warm photograph of tools and a half-built wooden stool. Cream background, dark olive type, rust accent, broad margins and restrained navigation "Classes  Studio  Contact".
+Constraints: No invented testimonials, availability, checkout UI or extra navigation.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

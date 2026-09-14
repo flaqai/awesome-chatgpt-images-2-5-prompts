@@ -20,11 +20,19 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** generate · **Target:** 3:2 · **Author:** flaq.ai team
 
+**Best for:** Interior, retail and landscape concept presentations.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check geometry, circulation and lighting; use measured plans for implementation decisions. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
 ![Reading room with terracotta bench, birch table, steel windows and bookshelves](../assets/images/reading-room.png)
 
 [Reading-room concept: exact prompt / 实际提示词](../assets/generation/reading-room.txt)
+
+**Observed review:** Main arrangement and four chairs visible. Added cup/vase and illegible book-spine marks; circulation and construction not validated.
 
 ### English
 
@@ -64,7 +72,23 @@ Change only bench upholstery to deep teal; keep architecture and furniture place
 
 **Mode:** edit · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Interior, retail and landscape concept presentations.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Check geometry, circulation and lighting; use measured plans for implementation decisions. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/room-input.png)
+
+![Small apartment material refresh — original generated example](../assets/images/example-p044.png)
+
+[Small apartment material refresh — generated example: exact prompt / 实际提示词](../assets/generation/example-p044.txt)
+
+**Observed review:** Sideboard fronts change to light oak while the room remains recognizable. This is a material visualization rather than an exact finish specification.
 
 ### English
 
@@ -104,7 +128,19 @@ Darken only the oak veneer slightly while keeping its grain direction.
 
 **Mode:** generate · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Interior, retail and landscape concept presentations.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check geometry, circulation and lighting; use measured plans for implementation decisions. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Boutique guest-room styling — original generated example](../assets/images/example-p045.png)
+
+[Boutique guest-room styling — generated example: exact prompt / 实际提示词](../assets/generation/example-p045.txt)
+
+**Observed review:** Doorway view, oak bed and linen are coherent; the reading niche is rendered as a small illuminated wall recess.
 
 ### English
 
@@ -144,7 +180,19 @@ Change only cushion fabric to moss-green wool.
 
 **Mode:** generate · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Interior, retail and landscape concept presentations.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check geometry, circulation and lighting; use measured plans for implementation decisions. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Pop-up refill store — original generated example](../assets/images/example-p046.png)
+
+[Pop-up refill store — generated example: exact prompt / 实际提示词](../assets/generation/example-p046.txt)
+
+**Observed review:** Three dispensers and REFILL CORNER lettering are clear; the scene includes customers and a venue instead of an abstract empty backdrop.
 
 ### English
 
@@ -184,7 +232,19 @@ Change only the fabric canopy to muted apricot.
 
 **Mode:** generate · **Target:** 1:1 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Interior, retail and landscape concept presentations.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check geometry, circulation and lighting; use measured plans for implementation decisions. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Courtyard planting concept — original generated example](../assets/images/example-p047.png)
+
+[Courtyard planting concept — generated example: exact prompt / 实际提示词](../assets/generation/example-p047.txt)
+
+**Observed review:** Top-down courtyard has one tree, oval gravel field, straight stepping stones and a bench. Tree canopy obscures the center of the path.
 
 ### English
 
@@ -224,7 +284,23 @@ Widen only the path slightly without moving tree or bench.
 
 **Mode:** edit · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Interior, retail and landscape concept presentations.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Check geometry, circulation and lighting; use measured plans for implementation decisions. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/pavilion-sketch.png)
+
+![Sketch to small pavilion — original generated example](../assets/images/example-p048.png)
+
+[Sketch to small pavilion — generated example: exact prompt / 实际提示词](../assets/generation/example-p048.txt)
+
+**Observed review:** Sketch becomes a timber pavilion with translucent panels. Structure and proportions are conceptual, not verified engineering.
 
 ### English
 

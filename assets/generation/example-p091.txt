@@ -1,0 +1,4 @@
+Asset: Community picnic announcement. Target aspect ratio: 4:5. Mode: generate.
+Create a community picnic announcement photographed directly overhead on a pale woven mat. Arrange a strawberry bowl, two sandwiches wrapped in plain paper and one lemonade bottle along the left edge. Place a folded blue linen napkin and a small bunch of daisies at the bottom right. Reserve the central half as uninterrupted mat texture. Center the exact text MEET OUTSIDE, then SUNDAY AT NOON, then BRING A BLANKET in three distinct typographic levels. Use soft afternoon light and believable contact shadows. Aim for a friendly neighborhood invitation with sufficient contrast for mobile sharing.
+Constraints: No extra utensils, real sponsor logos, invented address or food covering the text. No distressed or cursive text.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

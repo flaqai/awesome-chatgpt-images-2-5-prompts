@@ -1,0 +1,4 @@
+Asset: Quiet orchard book cover. Target aspect ratio: 2:3. Mode: generate.
+Design an original literary book cover "THE QUIET ORCHARD" by fictional "MIRA VALE". A single cut-paper pear tree casts an oversized dark-green shadow across pale peach paper. Place the title in restrained cream serif lettering at top and the author at bottom. Flat front-cover artwork, tactile paper grain, no perspective mockup.
+Constraints: Only the supplied title and author; no award stickers, quotes, ISBN or publisher logo.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

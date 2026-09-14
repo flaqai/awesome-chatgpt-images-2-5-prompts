@@ -1,0 +1,5 @@
+Asset: Ceramic cup catalog. Target aspect ratio: 1:1. Mode: edit.
+Image 1 is the seller-owned cup photograph. Place this exact cup on a clean white seamless background, centered with 12% margins. Keep the full handle visible; retain speckled glaze, small handmade asymmetries and believable contact shadow. Use neutral studio illumination suitable for a catalog. No props or text.
+Constraints: Preserve silhouette, handle opening, glaze pattern and scale; do not repair intentional imperfections.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
+The attached inputs are original synthetic demonstration assets created for this repository, not photographs of actual customers.

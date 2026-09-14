@@ -1,0 +1,4 @@
+Asset: Six-frame fragrance launch board. Target aspect ratio: 3:2. Mode: generate.
+Create a static six-panel presentation board for a fictional cedar fragrance named NORTH ROOM. Use a precise three-column, two-row grid on warm gray paper. The product is a squat amber rectangular glass bottle with a brushed silver cylindrical cap and an ivory NORTH ROOM label. Read left to right: full bottle on slate; close-up of the cap seam; side light through amber liquid; uncapped bottle with the cap resting beside it; atomizer releasing a fine mist; final bottle beside a small cedar block. Number the frames 01 through 06 in identical outside gutters. Keep the same bottle geometry and studio surface throughout.
+Constraints: A single still image, not a video or GIF. Six panels only. No floating cap, invented performance claims or additional text.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

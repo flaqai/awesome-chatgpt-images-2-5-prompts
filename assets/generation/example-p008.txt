@@ -1,0 +1,4 @@
+Asset: Creator thumbnail with one idea. Target aspect ratio: 16:9. Mode: generate.
+Make a crisp editorial thumbnail for a video about restoring a thrift-store chair. Show a fictional adult craftsperson at right holding a sanding block; center an old timber chair with a small repaired section. At left place large exact text "KEEP THE CHAIR". Warm workshop background softly defocused, teal and orange accents, strong separation and one clear focal point.
+Constraints: No celebrity likeness, fake reactions, arrows or unverified before-and-after claim.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

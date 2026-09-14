@@ -1,0 +1,4 @@
+Asset: Pixel-art harbor background. Target aspect ratio: 16:9. Mode: generate.
+Create an original pixel-art seaside harbor at blue hour. Put fishing sheds at left, quiet moored boats in the middle and a lighthouse far right. Restrict the visual palette to navy, slate, muted coral and warm yellow windows. Keep foreground water simple and a clear middle band for game characters.
+Constraints: Pixel-art appearance is requested, not a guaranteed exact pixel grid; no text or borrowed game assets.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

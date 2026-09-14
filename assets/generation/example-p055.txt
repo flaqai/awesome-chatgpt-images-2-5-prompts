@@ -1,0 +1,5 @@
+Asset: Seasonal product series. Target aspect ratio: 1:1. Mode: edit.
+Use Image 1 as the approved lamp campaign. Produce one autumn variant by changing only background props to two dry maple leaves and a small folded wool cloth. Keep the product, branding, position and camera identical. Match new props to the existing light and reserve the same headline area.
+Constraints: One variant per call; do not create a four-image collage or recolor the product.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
+The attached inputs are original synthetic demonstration assets created for this repository, not photographs of actual customers.

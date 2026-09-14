@@ -1,0 +1,4 @@
+Asset: Fictional neighborhood walking map. Target aspect ratio: 1:1. Mode: generate.
+Draw an illustrated map of a fictional neighborhood with a square park in the center, library north, café east and station south. A dotted walking route links station to park to library. Use exact labels "PARK", "LIBRARY", "CAFÉ", "STATION" and small "ILLUSTRATED MAP". Restrained isometric buildings, sage greenery, terracotta route.
+Constraints: Not a navigational map; no real coordinates, travel times or extra landmarks.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

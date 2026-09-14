@@ -6,7 +6,10 @@ Proyek sumber terbuka independen yang dibuat dan dikelola oleh tim [flaq.ai](htt
 
 ![flaq.ai — ChatGPT Images 2.5](assets/images/cover.png)
 
-Koleksi ini berisi 97 resep dalam 14 kategori serta 28 gambar baru. Sebanyak 73 resep utama tersedia dalam bahasa Inggris dan Mandarin sederhana, ditambah 12 resep khusus bahasa. README tersedia dalam 16 versi bahasa dan wilayah. Halaman ini merupakan pengantar bahasa Indonesia, bukan terjemahan seluruh prompt. Ada pula 12 resep alur kerja baru yang tersedia hanya dalam bahasa Inggris.
+Koleksi ini berisi 103 resep dalam 15 kategori serta 139 gambar baru. Sebanyak 73 resep utama tersedia dalam bahasa Inggris dan Mandarin sederhana, ditambah 12 resep khusus bahasa. README tersedia dalam 16 versi bahasa dan wilayah. Halaman ini merupakan pengantar bahasa Indonesia, bukan terjemahan seluruh prompt. Ada pula 18 resep alur kerja baru yang tersedia hanya dalam bahasa Inggris.
+
+
+**[Galeri 103 resep bergambar](docs/gallery.md)**
 
 ## Cara memulai
 
@@ -36,6 +39,8 @@ Tautan Flaq.ai di bawah ini untuk GPT Image 2. Untuk memakai Images 2.5 langsung
 
 ## Sumber daya dan kontribusi
 
-[97 prompts](prompts/README.md) · [Before / after](docs/launch-examples.md) · [Generation log](docs/generation-log.md) · [OpenAI API guide](docs/api-guide.md) · [Contributing](CONTRIBUTING.md)
+[103 prompts](prompts/README.md) · [Before / after](docs/launch-examples.md) · [Generation log](docs/generation-log.md) · [OpenAI API guide](docs/api-guide.md) · [Contributing](CONTRIBUTING.md)
 
 Proyek ini tidak berafiliasi dengan OpenAI dan tidak mendapat dukungan resmi dari OpenAI. [MIT License](LICENSE) © 2026 Flaq AI.
+
+[X community: 6 English prompts, original posts and source image previews](prompts/15-x-community.md)

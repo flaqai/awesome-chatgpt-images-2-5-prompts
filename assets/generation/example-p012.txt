@@ -1,0 +1,4 @@
+Asset: Seasonal market campaign. Target aspect ratio: 3:2. Mode: generate.
+Design an autumn makers-market campaign with a tabletop miniature landscape built from folded terracotta paper stalls, olive fabric trees and cream ceramic people. Use a slightly elevated camera and warm diffuse light. The right third holds "SMALL MAKERS, BIG IDEAS" and "AUTUMN MARKET" in clean dark-brown type. Let materials do the storytelling.
+Constraints: Original miniature scene; no recognizable branded toys or additional event details.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

@@ -1,0 +1,4 @@
+Asset: Carousel cover for slow travel. Target aspect ratio: 4:5. Mode: generate.
+Design the cover of a travel carousel with a quiet photograph of a red regional train curving through green hills. Place a cream panel in the lower third with "TAKE THE SLOW ROUTE" and small "01 / 05". Use a dark olive serif headline and fine orange rule. Keep train architecture plausible and landscape uncluttered.
+Constraints: Illustrative destination, no invented route names, schedules or prices.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

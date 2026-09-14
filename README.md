@@ -3,7 +3,7 @@
 **A practical, multilingual prompt library for image generation and editing — product photos, ads, portraits, typography, UI concepts, infographics and storyboards.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Recipes: 97](https://img.shields.io/badge/Original_recipes-97-0f766e)](prompts/README.md)
+[![Recipes: 103](https://img.shields.io/badge/Prompt_recipes-103-0f766e)](prompts/README.md)
 [![Core: EN + Chinese](https://img.shields.io/badge/Core_prompts-EN_%2B_Chinese-f97316)](prompts/README.md)
 
 **English** · [简体中文](README_zh.md) · [繁體中文](README_tw.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Português (Brasil)](README_pt.md) · [Italiano](README_it.md) · [Русский](README_ru.md) · [العربية](README_ar.md) · [हिन्दी](README_hi.md) · [ไทย](README_th.md) · [Bahasa Indonesia](README_id.md) · [Tiếng Việt](README_vi.md)
@@ -18,9 +18,20 @@
 
 A useful prompt says what the image must accomplish, which details can change, and what must survive the next edit. This collection turns everyday creative jobs into concrete briefs with composition, materials, exact copy, constraints, follow-up edits and review criteria.
 
-**97 recipes across 14 packs:** 73 recipes with complete English and Simplified Chinese prompts, 12 English-only workflow recipes, and 12 language-specific briefs. 28 newly generated images include a library cover, six earlier examples, seven launch-inspired input/output pairs and seven customizable-studio outputs. Most recipes are authored templates awaiting rendering; individual entries disclose their status. Translations and follow-up edits are not counted as extra recipes.
+**103 recipes across 15 packs:** 73 recipes with complete English and Simplified Chinese prompts, 18 English-only workflow recipes, and 12 language-specific briefs. **Every recipe now has a generated example.** The 139 original PNGs include results, synthetic editing inputs, revision attempts and the cover. Browse the [visual gallery](docs/gallery.md) to choose a look, then open its complete prompt and review notes. Translations and follow-up edits are not counted as extra recipes.
 
 The library is for independent brands, online shops, designers, creators, educators and small production teams. Start with a lamp campaign, repair a poster headline, preserve a pet’s distinctive features, or build a consistent illustrated story.
+
+## Explore the new visual gallery
+
+**103 illustrated recipes · 85 newly illustrated entries · 31 new editing demonstrations.** Choose a result first, then copy its prompt and use the linked inputs. Every core recipe now explains its best use, required inputs and production checks.
+
+| Product storytelling | Character design | Cinematic storyboard |
+| --- | --- | --- |
+| [![Bread typography campaign](assets/images/example-p086-v2.png)](prompts/15-x-community.md#p086) | [![Four courier character styles](assets/images/example-p076.png)](prompts/14-sketch-to-story.md#p076) | [![Nine cinematic greenhouse shots](assets/images/example-p084.png)](prompts/14-sketch-to-story.md#p084) |
+| Food typography with readable copy | One character across four materials | Identity and props across nine shots |
+
+[**Browse all 103 illustrated recipes →**](docs/gallery.md) · [See editing inputs and review notes](docs/generation-log.md)
 
 ## What changes with Images 2.5?
 
@@ -73,6 +84,7 @@ The [full recipe](prompts/01-product.md#p001) and [exact executed prompt](assets
 | [Launch-inspired editing examples](prompts/12-launch-examples.md) | Pet costume, child wardrobe, duvet pattern, souvenir text, cube rotation, itinerary revision, candle count | 7 |
 | [Customizable studio briefs](prompts/13-customizable-studio.md) | Workshop portrait, pour-over poster, toy packaging, lighthouse miniature, keepsake card, editorial collage | 6 |
 | [Sketch-to-story: English workflows](prompts/14-sketch-to-story.md) | Sketch interpretation, dense English layout, portrait revisions, branded apparel, action sheets, MV and narrative boards | 12 |
+| [X community: source-linked briefs](prompts/15-x-community.md) | Food lettering, product storyboards, mobility posters, travel cards, architecture, event invitations | 6 |
 
 ## Featured examples
 
@@ -92,7 +104,7 @@ These images were generated for this repository using Codex’s built-in image t
 
 Twelve English recipes, **P074–P085**, cover sketch exploration, layout-guided interiors, character styles, a detailed tea editorial page, precise text edits, portrait continuity, logo and apparel concepts, and 9- or 16-panel storyboards.
 
-Each includes input requirements, a complete English prompt, a customization suggestion, a follow-up and review criteria. These are **unrendered adaptations**, with new fictional copy and scenarios. The [source-to-recipe guide](docs/sketch-to-story.md) distinguishes explicit article prompts from workflows described only in prose.
+Each includes input requirements, a complete English prompt, a customization suggestion, a follow-up and review criteria. Each now includes a generated demonstration using new fictional copy and scenarios, with linked editing inputs where needed. The [source-to-recipe guide](docs/sketch-to-story.md) distinguishes explicit article prompts from workflows described only in prose.
 
 **[Copy the 12 English workflow prompts →](prompts/14-sketch-to-story.md)**
 
@@ -157,13 +169,13 @@ Start with an approved brief, test it in the playground, then follow the documen
 
 **16 README language and regional versions** help readers get started in their preferred language. English remains the default; localized entry pages include a practical prompt, usage guidance and Flaq.ai resources. See the [language coverage table](docs/localization-guide.md#readme-language-coverage) for the exact scope.
 
-The original 73 core recipes have complete English and Simplified Chinese versions. The new [sketch-to-story pack](prompts/14-sketch-to-story.md) adds 12 English-only workflow recipes adapted from a Chinese article. The [multilingual pack](prompts/11-multilingual.md) adds 12 language-specific briefs, including Japanese, Korean, Spanish, French, German, Portuguese, Arabic, Hindi, Thai and Russian alongside English and Chinese.
+The original 73 core recipes have complete English and Simplified Chinese versions. The new [sketch-to-story pack](prompts/14-sketch-to-story.md) adds 12 English-only workflow recipes adapted from a Chinese article. The [X community pack](prompts/15-x-community.md) adds six further English adaptations with credited source images. The [multilingual pack](prompts/11-multilingual.md) adds 12 language-specific briefs, including Japanese, Korean, Spanish, French, German, Portuguese, Arabic, Hindi, Thai and Russian alongside English and Chinese.
 
 Separate the language of your instructions from the text printed in the image. Provide approved copy, preserve brand names deliberately, and allow appropriate line wrapping. The [localization guide](docs/localization-guide.md) covers script-aware checks. Localized README pages are entry points; they do not imply that every recipe has been translated into every language.
 
 ## Originality and example records
 
-The flaq.ai team composed these briefs and generated the included images for this project. Each example links to its exact prompt, input relationships and review notes in the [generation log](docs/generation-log.md). Templates without a rendered example are explicitly marked.
+The flaq.ai team composed these briefs and generated the included images for this project. Each example links to its exact prompt, input relationships and review notes in the [generation log](docs/generation-log.md). All 103 recipes have illustrated examples; suggested variations and follow-ups are executed only when a separate output is recorded.
 
 See the [originality policy](docs/originality.md) for submission standards and provenance. This independent project is not affiliated with or endorsed by OpenAI.
 
@@ -177,7 +189,7 @@ The repository’s original material is offered under the [MIT License](LICENSE)
 
 No. This is an independent open-source project created and maintained by the **flaq.ai team**, without OpenAI affiliation or endorsement.
 
-### Are all 97 prompts tested on Images 2.5?
+### Are all 103 prompts tested on Images 2.5?
 
 No. We publish authored templates alongside a small, explicitly logged set of newly generated examples. The built-in generation tool did not expose its model ID. There are no claimed model comparison scores or universal success rates.
 
@@ -240,6 +252,14 @@ Ready to try a prompt? These browser-based tools advertise free ChatGPT Images 2
 **Quick workflow:** copy a recipe, replace its fictional details, upload a reference only for an edit, and generate. Save an approved result before applying its follow-up prompt. Recipes requiring multiple reference images need a tool that supports those inputs.
 
 **Availability note:** page descriptions checked on **2026-09-14**; generation was not tested in this review. Free access refers to the linked tools, not every premium feature, video service or API. Current availability and limits follow each site's terms.
+
+## X community prompts with original source images
+
+Explore six English adaptations, **P086–P091**, for ingredient lettering, fragrance storyboards, mobility posters, paper travel cards, architectural reveals and picnic announcements. Each includes a linked image from its X author, the original post, an explanation of the adaptation, customization options and a targeted follow-up.
+
+These are third-party reference previews, **not generated results of our rewritten prompts**. Our adapted prompts now have their own newly generated examples, separately labeled and documented among the 139 original image assets. X authors’ model claims are not independent benchmarks.
+
+**[Browse the six prompts and source images →](prompts/15-x-community.md)** · [Source and usage guide](docs/x-community.md)
 
 ## License
 

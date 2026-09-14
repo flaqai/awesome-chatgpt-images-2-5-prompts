@@ -1,0 +1,100 @@
+{
+  "checked": "2026-09-14",
+  "discovery_queries": [
+    "gpt image 2.5",
+    "\"gpt image 2.5\" prompt filter:images",
+    "\"gpt image 2.5\" (product OR poster OR infographic OR packaging) prompt filter:images"
+  ],
+  "sources": [
+    {
+      "id": "P086",
+      "author": "Loriel.AI",
+      "handle": "@ou_zhen599",
+      "url": "https://x.com/ou_zhen599/status/2099406905714348431",
+      "photo_url": "https://x.com/ou_zhen599/status/2099406905714348431/photo/1",
+      "image_url": "https://pbs.twimg.com/media/HSKXcCwaAAAU80t?format=jpg&name=small",
+      "published": "2026-09-14",
+      "checked": "2026-09-14",
+      "source_summary": "Food advertising with lettering assembled from ingredients.",
+      "adaptation": "Replaces the pasta campaign with bakery lettering, different copy, material and a simpler two-level layout.",
+      "model_claim": "GPT Image 2.5, as described by the author; not independently verified",
+      "image_role": "external-source-preview",
+      "rights": "Third-party reference; not covered by this repository MIT license. Linked remotely, not copied into assets."
+    },
+    {
+      "id": "P087",
+      "author": "M-studioAi",
+      "handle": "@Strength04_X",
+      "url": "https://x.com/Strength04_X/status/2097919290980921451",
+      "photo_url": "https://x.com/Strength04_X/status/2097919290980921451/photo/2",
+      "image_url": "https://pbs.twimg.com/media/HR1OdkyaIAAX_HP?format=jpg&name=small",
+      "published": "2026-09-10",
+      "checked": "2026-09-14",
+      "source_summary": "Product storyboard with a consistent fragrance bottle across shots.",
+      "adaptation": "Reduces ten scenes to six still frames, changes the product and lighting, and adds explicit continuity checks.",
+      "model_claim": "GPT Image 2.5, as described by the author; not independently verified",
+      "image_role": "external-source-preview",
+      "rights": "Third-party reference; not covered by this repository MIT license. Linked remotely, not copied into assets."
+    },
+    {
+      "id": "P088",
+      "author": "ᴍᴜʀᴘʜʏ",
+      "handle": "@Diplomeme",
+      "url": "https://x.com/Diplomeme/status/2097641872068063436",
+      "photo_url": "https://x.com/Diplomeme/status/2097641872068063436/photo/1",
+      "image_url": "https://pbs.twimg.com/media/HRxSKJMbYAAuiRA?format=jpg&name=small",
+      "published": "2026-09-09",
+      "checked": "2026-09-14",
+      "source_summary": "A vehicle hero image combined with bold type and a compact specification hierarchy.",
+      "adaptation": "Changes the automotive advertisement to an unbranded mobility design study and removes unsupported specifications.",
+      "model_claim": "GPT Image 2.5, as described by the author; not independently verified",
+      "image_role": "external-source-preview",
+      "rights": "Third-party reference; not covered by this repository MIT license. Linked remotely, not copied into assets."
+    },
+    {
+      "id": "P089",
+      "author": "Loriel.AI",
+      "handle": "@ou_zhen599",
+      "url": "https://x.com/ou_zhen599/status/2098729446094287023",
+      "photo_url": "https://x.com/ou_zhen599/status/2098729446094287023/photo/1",
+      "image_url": "https://pbs.twimg.com/media/HSAvSq6a0AEn-9H?format=jpg&name=small",
+      "published": "2026-09-12",
+      "checked": "2026-09-14",
+      "source_summary": "A miniature destination revealed through layered paper.",
+      "adaptation": "Uses a fictional lake, rectangular aperture and reduced copy rather than reproducing the coastal tourism composition.",
+      "model_claim": "GPT Image 2.5, as described by the author; not independently verified",
+      "image_role": "external-source-preview",
+      "rights": "Third-party reference; not covered by this repository MIT license. Linked remotely, not copied into assets."
+    },
+    {
+      "id": "P090",
+      "author": "Xiao Yang",
+      "handle": "@XiaoKooeye",
+      "url": "https://x.com/XiaoKooeye/status/2099408374249169169",
+      "photo_url": "https://x.com/XiaoKooeye/status/2099408374249169169/photo/1",
+      "image_url": "https://pbs.twimg.com/media/HSKYrJOa0AAIzIW?format=jpg&name=small",
+      "published": "2026-09-14",
+      "checked": "2026-09-14",
+      "source_summary": "A hand-drawn architectural idea transitions into a rendered building.",
+      "adaptation": "Expands a short Chinese concept into an English architectural presentation brief with a new building and continuity criteria.",
+      "model_claim": "GPT Image 2.5, as described by the author; not independently verified",
+      "image_role": "external-source-preview",
+      "rights": "Third-party reference; not covered by this repository MIT license. Linked remotely, not copied into assets."
+    },
+    {
+      "id": "P091",
+      "author": "Loriel.AI",
+      "handle": "@ou_zhen599",
+      "url": "https://x.com/ou_zhen599/status/2099407139836166552",
+      "photo_url": "https://x.com/ou_zhen599/status/2099407139836166552/photo/1",
+      "image_url": "https://pbs.twimg.com/media/HSKXpjfbQAAQJDj?format=jpg&name=small",
+      "published": "2026-09-14",
+      "checked": "2026-09-14",
+      "source_summary": "Food frames an open central area reserved for readable event text.",
+      "adaptation": "Changes the surface, object arrangement and copy into a practical community announcement with explicit readability checks.",
+      "model_claim": "GPT Image 2.5, as described by the author; not independently verified",
+      "image_role": "external-source-preview",
+      "rights": "Third-party reference; not covered by this repository MIT license. Linked remotely, not copied into assets."
+    }
+  ]
+}

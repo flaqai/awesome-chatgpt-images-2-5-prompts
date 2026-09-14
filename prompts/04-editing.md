@@ -20,15 +20,33 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** edit · **Target:** 3:2 · **Author:** flaq.ai team
 
+**Best for:** Controlled revisions to an already selected image.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Compare the original and result side by side; inspect both the changed region and supposedly unchanged areas. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/tideline-lamp.png)
 
 ![Jade-green lamp base with original campaign typography](../assets/images/tideline-lamp-jade.png)
 
 [Edit 1: base color: exact prompt / 实际提示词](../assets/generation/tideline-lamp-jade.txt)
 
+**Observed review:** Base becomes green. Main composition retained. The narrow stem also shifts green, slightly outside the requested cylindrical-base region.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/tideline-lamp-jade.png)
+
 ![Jade-green lamp with YOUR EVENING, UPGRADED headline](../assets/images/tideline-lamp-copy.png)
 
 [Edit 2: headline: exact prompt / 实际提示词](../assets/generation/tideline-lamp-copy.txt)
+
+**Observed review:** New headline and retained green base visually verified. Fine texture and highlights drift; not a pixel-identical edit.
 
 ### English
 
@@ -68,7 +86,23 @@ On this approved green version, change only "LIGHT, UNPLUGGED." to "YOUR EVENING
 
 **Mode:** edit · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Controlled revisions to an already selected image.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Compare the original and result side by side; inspect both the changed region and supposedly unchanged areas. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/room-input.png)
+
+![Remove a tabletop distraction — original generated example](../assets/images/example-p020.png)
+
+[Remove a tabletop distraction — generated example: exact prompt / 实际提示词](../assets/generation/example-p020.txt)
+
+**Observed review:** Plastic bottle is removed while mug, runner and room layout remain. Table grain is reconstructed in the removed area.
 
 ### English
 
@@ -108,7 +142,23 @@ Correct only any remaining bottle-shaped reflection, keeping the repaired wood g
 
 **Mode:** edit · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Controlled revisions to an already selected image.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Compare the original and result side by side; inspect both the changed region and supposedly unchanged areas. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/room-input.png)
+
+![Window-light evening relight — original generated example](../assets/images/example-p021.png)
+
+[Window-light evening relight — generated example: exact prompt / 实际提示词](../assets/generation/example-p021.txt)
+
+**Observed review:** Blue-hour exterior and warm desk lamp are coherent. The bottle remains because this edit starts from the original room input, not P020.
 
 ### English
 
@@ -148,7 +198,23 @@ Lower only the lamp brightness slightly while preserving the cooler window light
 
 **Mode:** edit · **Target:** 2:3 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Controlled revisions to an already selected image.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Compare the original and result side by side; inspect both the changed region and supposedly unchanged areas. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/example-p007.png)
+
+![Poster text replacement — original generated example](../assets/images/example-p022.png)
+
+[Poster text replacement — generated example: exact prompt / 实际提示词](../assets/generation/example-p022.txt)
+
+**Observed review:** New headline A SLOWER SATURDAY is readable; event details and repair objects remain. Minor texture changes occur outside the headline.
 
 ### English
 
@@ -188,7 +254,25 @@ Fix only a misspelled headline character; repeat the exact approved headline.
 
 **Mode:** edit · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Controlled revisions to an already selected image.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Compare the original and result side by side; inspect both the changed region and supposedly unchanged areas. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/terrace-input.png)
+
+[Input 2 / 输入 2](../assets/images/planter-sketch.png)
+
+![Sketch-guided planter placement — original generated example](../assets/images/example-p023.png)
+
+[Sketch-guided planter placement — generated example: exact prompt / 实际提示词](../assets/generation/example-p023.txt)
+
+**Observed review:** Planter is placed against the terrace wall with plausible shadows. Plant spacing and object scale are illustrative, not measured construction guidance.
 
 ### English
 
@@ -228,14 +312,30 @@ Shorten only the planter width by 10%, keeping its left edge anchored.
 
 **Mode:** edit · **Target:** 1:1 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Controlled revisions to an already selected image.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Compare the original and result side by side; inspect both the changed region and supposedly unchanged areas. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/cup-input.png)
+
+![Clean product cutout — original generated example](../assets/images/example-p024.png)
+
+[Clean product cutout — generated example: exact prompt / 实际提示词](../assets/generation/example-p024.txt)
+
+**Observed review:** Transparent cutout retains the mug and handle opening. Fine colored fringes remain along parts of the edge; inspect against the intended background.
 
 ### English
 
 ```text
 Asset: Clean product cutout. Target aspect ratio: 1:1. Mode: edit.
 Isolate the exact product in Image 1 on a genuinely transparent background. Preserve fine edges, interior openings, translucent material behavior and the full silhouette. Keep original product color, proportions and surface detail; do not redraw a simplified substitute.
-Constraints: No painted checkerboard, white rectangle, drop shadow or cropped edges.
+Constraints: No painted checkerboard, white rectangle, drop shadow or cropped edges. Keep the handle opening transparent. Avoid bright or colored edge halos; retain the complete silhouette inside the canvas.
 Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
 ```
 
@@ -244,7 +344,7 @@ Render only explicitly requested image text. Do not add unrelated logos, signatu
 ```text
 交付物：干净商品抠图。目标比例：1:1。模式：编辑。
 将图1中准确商品抠到真正透明背景，保留细小边缘、内部开孔、半透明材质特征和完整轮廓。保持原色、比例和表面细节，不重画简化替代品。
-约束：不绘制棋盘格、不加白矩形、投影、不裁断边缘。
+约束：不绘制棋盘格、不加白矩形、投影、不裁断边缘。 把手内孔保持透明，避免明亮或彩色边缘杂色，完整轮廓须位于画布内。
 只渲染明确要求的图中文字，不添加无关标识、签名或说明。
 ```
 

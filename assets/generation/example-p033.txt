@@ -1,0 +1,4 @@
+Asset: Book-club mobile app concept. Target aspect ratio: 4:5. Mode: generate.
+Make a front-facing mobile UI concept with a cream canvas and deep-plum text. Header "THIS WEEK"; a large illustrated book card titled "The Quiet Orchard"; below two simple rows "Thursday discussion" and "Notes to revisit"; one primary button "Join the conversation". Use generous touch-sized spacing and a single-column hierarchy.
+Constraints: Raster design concept, not functional software; no device frame, invented reviews or personal data.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

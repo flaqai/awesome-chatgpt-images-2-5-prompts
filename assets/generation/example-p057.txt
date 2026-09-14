@@ -1,0 +1,5 @@
+Asset: Localized campaign master. Target aspect ratio: 3:2. Mode: edit.
+Image 1 is the approved English lamp ad. Replace the headline with the supplied Chinese copy "把夜晚留给自己" while keeping "TIDELINE" unchanged. Use clean readable Chinese typography with visual weight comparable to the original. Reflow only inside the old text area; maintain product, palette and background texture.
+Constraints: No automatic additions, transliterated brand name or simplified replacement characters.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
+The attached inputs are original synthetic demonstration assets created for this repository, not photographs of actual customers.

@@ -6,7 +6,10 @@
 
 ![flaq.ai — ChatGPT Images 2.5](assets/images/cover.png)
 
-इस संग्रह में 14 श्रेणियों में 97 प्रॉम्प्ट और 28 नई बनाई गई छवियाँ हैं। 73 मुख्य प्रॉम्प्ट अंग्रेज़ी और सरलीकृत चीनी में हैं; 12 अन्य प्रॉम्प्ट अलग-अलग भाषाओं के लिए हैं। README के 16 भाषा और क्षेत्रीय संस्करण हैं। यह पृष्ठ हिन्दी परिचय है, पूरे संग्रह का अनुवाद नहीं। इसके अलावा, 12 नए कार्यप्रवाह प्रॉम्प्ट केवल अंग्रेज़ी में उपलब्ध हैं।
+इस संग्रह में 15 श्रेणियों में 103 प्रॉम्प्ट और 139 नई बनाई गई छवियाँ हैं। 73 मुख्य प्रॉम्प्ट अंग्रेज़ी और सरलीकृत चीनी में हैं; 12 अन्य प्रॉम्प्ट अलग-अलग भाषाओं के लिए हैं। README के 16 भाषा और क्षेत्रीय संस्करण हैं। यह पृष्ठ हिन्दी परिचय है, पूरे संग्रह का अनुवाद नहीं। इसके अलावा, 18 नए कार्यप्रवाह प्रॉम्प्ट केवल अंग्रेज़ी में उपलब्ध हैं।
+
+
+**[103 प्रॉम्प्ट की चित्र गैलरी](docs/gallery.md)**
 
 ## शुरुआत कैसे करें
 
@@ -36,6 +39,8 @@
 
 ## संसाधन और योगदान
 
-[97 prompts](prompts/README.md) · [Before / after](docs/launch-examples.md) · [Generation log](docs/generation-log.md) · [OpenAI API guide](docs/api-guide.md) · [Contributing](CONTRIBUTING.md)
+[103 prompts](prompts/README.md) · [Before / after](docs/launch-examples.md) · [Generation log](docs/generation-log.md) · [OpenAI API guide](docs/api-guide.md) · [Contributing](CONTRIBUTING.md)
 
 यह प्रोजेक्ट OpenAI से संबद्ध नहीं है और OpenAI इसका समर्थन नहीं करता। [MIT License](LICENSE) © 2026 Flaq AI.
+
+[X community: 6 English prompts, original posts and source image previews](prompts/15-x-community.md)

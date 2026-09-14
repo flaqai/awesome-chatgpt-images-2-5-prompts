@@ -1,0 +1,5 @@
+Asset: Natural professional portrait. Target aspect ratio: 4:5. Mode: edit.
+Image 1 is a consenting adult portrait. Create a relaxed professional headshot near a large north-facing window, with a softly blurred warm-gray studio background and a plain charcoal crew-neck top. Frame from chest upward, eye-level, natural skin texture and a small unforced smile.
+Constraints: Preserve identity, age, skin tone, facial proportions, hairstyle and distinctive marks; no beauty reshaping.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
+The attached inputs are original synthetic demonstration assets created for this repository, not photographs of actual customers.

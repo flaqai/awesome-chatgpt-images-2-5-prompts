@@ -1,0 +1,18 @@
+Asset: English tea collection editorial sheet. Target aspect ratio: 3:4. Mode: generate.
+Design a complete front-facing 3:4 editorial product sheet for the fictional tea collection RIDGE & LEAF. Fill the canvas with the flat design; do not photograph a magazine on a table. Use warm ivory stock, deep forest-green text and small copper accents. Establish a six-column grid with generous outer margins. Use five vertical zones: title, product with specification sidebar, three tasting cards, a comparison table, and a short footer. Prioritize readable English over decorative detail. Use a serif headline and clear sans-serif labels and table text. All required copy follows; do not invent additional text.
+
+HEADER: left "RIDGE & LEAF"; right "COLLECTION NOTES / 01".
+TITLE, on two lines: "THREE LEAVES." / "ONE SLOW AFTERNOON."
+INTRO: "A small collection for noticing aroma, texture and the pace of a quiet afternoon."
+
+PRODUCT ZONE: Across the left four columns, show an open rectangular paperboard gift box with exactly three equal cylindrical tins in three fitted recesses. Left tin ivory, middle tin moss green, right tin warm clay. Each tin has the same small brand "RIDGE & LEAF" and, respectively, "JASMINE GREEN", "ROASTED OOLONG", "PLAIN BLACK". Use soft side light that distinguishes paperboard, matte tins and molded-pulp lining. The right two columns contain two separated groups: "IN THE BOX" / "3 tins × 30 g" / "Total: 90 g"; then "MATERIALS" / "Paperboard box" / "Reusable tins" / "Molded-pulp insert".
+
+TASTING ZONE: Three equal cards spanning two columns each, with a small single-color botanical illustration above each card. Card 1: "01 / FLORAL", "JASMINE GREEN", "A delicate floral direction with a light, fresh finish." Card 2: "02 / TOASTED", "ROASTED OOLONG", "A warm aromatic direction with a rounded, lingering finish." Card 3: "03 / MELLOW", "PLAIN BLACK", "A familiar full-bodied direction for an unhurried pause."
+
+TABLE: Title "CHOOSE YOUR MOMENT". Exactly four columns headed "TEA", "PROFILE", "TIN", "NET WT". Rows: "JASMINE GREEN | Floral | Ivory | 30 g"; "ROASTED OOLONG | Toasted | Moss | 30 g"; "PLAIN BLACK | Mellow | Clay | 30 g". Pipes indicate cell boundaries and must not be printed. Use aligned cells, equal row heights and a pale-green header.
+
+FOOTER: "Store sealed, cool and dry." and "FICTIONAL COLLECTION / DESIGN STUDY".
+
+Maintain six levels of information hierarchy: headline, zone heading, tea name, body text, table text and footer. Keep body copy left aligned. Match the tea names across tin labels, cards and rows. No price, discount, barcode, QR code, certification, origin claim or brewing-temperature claim.
+Constraints: Fictional copy is supplied for layout practice. Exactly three tins, three recesses and three data rows. This is a raster design concept; proofread and typeset final production copy separately when needed.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

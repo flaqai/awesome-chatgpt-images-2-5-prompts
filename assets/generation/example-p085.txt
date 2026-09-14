@@ -1,0 +1,12 @@
+Asset: Sixteen-shot two-character narrative board. Target aspect ratio: 1:1. Mode: edit.
+Use Image 1 as adult character A and Image 2 as adult character B. Create one 4-by-4 cinematic storyboard, with 16 equal panels read left to right and top to bottom. The fictional story: two strangers collect each other's nearly identical sketchbooks by mistake at a library workshop, notice the mix-up, and exchange them before deciding to draw together. A carries an ochre sketchbook with a blue elastic band; B carries a slate sketchbook with a red elastic band. Preserve each person's face, hair and clothing from the references. Keep A screen-left and B screen-right in shared shots and maintain the same library table, window and afternoon lighting.
+
+Row 1: wide library table; A sets down the ochre book; B sets down the slate book; both reach for the wrong book while looking toward a workshop bell.
+Row 2: A opens the slate book; close-up of a botanical drawing; B opens the ochre book; close-up of an architectural sketch.
+Row 3: A looks toward B; reverse view of B recognizing the mistake; both place the books on the table; medium shot as they exchange books.
+Row 4: A gestures to the empty seat; B sits down; overhead view of each person drawing in the correct book; final wide shot of both working beside the window.
+
+No speech balloons, readable handwriting, subtitles or extra participants. Convey the story through expressions, hands, book colors and blocking rather than invented on-image dialogue.
+Constraints: Attach two authorized adult character references in order. This is a continuity-planning board, not proof of identity fidelity or a finished film.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
+The attached inputs are original synthetic demonstration assets created for this repository, not photographs of actual customers.

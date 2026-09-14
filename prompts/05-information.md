@@ -20,7 +20,19 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** generate · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Teaching cards, explanatory slides and fictional-data presentations.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Verify labels, counts, directional arrows and numerical relationships independently of visual polish. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Three-stage rain garden explainer — original generated example](../assets/images/example-p025.png)
+
+[Three-stage rain garden explainer — generated example: exact prompt / 实际提示词](../assets/generation/example-p025.txt)
+
+**Observed review:** Three panels, labels and directional water arrows are readable; classroom concept rather than a site-specific drainage design.
 
 ### English
 
@@ -60,7 +72,19 @@ Increase only the arrow contrast; keep all stages and wording.
 
 **Mode:** generate · **Target:** 1:1 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Teaching cards, explanatory slides and fictional-data presentations.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Verify labels, counts, directional arrows and numerical relationships independently of visual polish. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Coffee tasting wheel for beginners — original generated example](../assets/images/example-p026.png)
+
+[Coffee tasting wheel for beginners — generated example: exact prompt / 实际提示词](../assets/generation/example-p026.txt)
+
+**Observed review:** Three sectors, four text labels and matching ingredient illustrations are clear; not a comprehensive sensory wheel.
 
 ### English
 
@@ -100,14 +124,30 @@ Change only the fruity-sector accent to muted pink.
 
 **Mode:** generate · **Target:** 16:9 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Teaching cards, explanatory slides and fictional-data presentations.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Verify labels, counts, directional arrows and numerical relationships independently of visual polish. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/example-p027.png)
+
+![Transparent demo-data bar chart — original generated example](../assets/images/example-p027-v2.png)
+
+[Transparent demo-data bar chart — refined result: exact prompt / 实际提示词](../assets/generation/example-p027-v2.txt)
+
+**Observed review:** Cream background and readable labels are restored. Bars visually approximate the 20:30:40 relationship; use a charting tool for exact quantitative publication.
 
 ### English
 
 ```text
 Asset: Transparent demo-data bar chart. Target aspect ratio: 16:9. Mode: generate.
 Create a presentation slide with the title "WORKSHOP ATTENDANCE" and a three-bar chart. Exact fictional values: "April 20", "May 30", "June 40". All bars share a zero baseline and equal width, with heights proportional to 20:30:40. Use ink-blue bars, cream background, a thin gray baseline and small footer "DEMO DATA".
-Constraints: No extrapolation, percentages or invented source. Keep labels outside bars.
+Constraints: No extrapolation, percentages or invented source. Keep labels outside bars. Bar heights must use one linear scale with no perspective or decorative 3D treatment.
 Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
 ```
 
@@ -116,7 +156,7 @@ Render only explicitly requested image text. Do not add unrelated logos, signatu
 ```text
 交付物：示例数据柱状图。目标比例：16:9。模式：新建。
 制作演示页“WORKSHOP ATTENDANCE”，三根柱，虚构数值为“April 20”“May 30”“June 40”。共同零基线、等宽、柱高严格20:30:40，深蓝柱、奶油背景、灰细基线，页脚“DEMO DATA”。
-约束：不外推、不加百分比、不编造来源，标签放柱外。
+约束：不外推、不加百分比、不编造来源，标签放柱外。 柱高使用同一线性刻度，不使用透视或装饰性三维效果。
 只渲染明确要求的图中文字，不添加无关标识、签名或说明。
 ```
 
@@ -140,7 +180,19 @@ Highlight only June in orange, preserving values and bar geometry.
 
 **Mode:** generate · **Target:** 1:1 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Teaching cards, explanatory slides and fictional-data presentations.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Verify labels, counts, directional arrows and numerical relationships independently of visual polish. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Fictional neighborhood walking map — original generated example](../assets/images/example-p028.png)
+
+[Fictional neighborhood walking map — generated example: exact prompt / 实际提示词](../assets/generation/example-p028.txt)
+
+**Observed review:** Station, central park, north library and east cafe are placed coherently; the dotted path is interrupted through the park and should not be used as real navigation.
 
 ### English
 
@@ -180,14 +232,26 @@ Change only the route color to dark blue without moving its path.
 
 **Mode:** generate · **Target:** 4:5 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Teaching cards, explanatory slides and fictional-data presentations.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Verify labels, counts, directional arrows and numerical relationships independently of visual polish. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Plant life-cycle classroom card — original generated example](../assets/images/example-p029.png)
+
+[Plant life-cycle classroom card — generated example: exact prompt / 实际提示词](../assets/generation/example-p029.txt)
+
+**Observed review:** Four labeled growth stages are recognizable. Direction arrows connect each row but omit the wrap between rows; botanical detail needs educator review.
 
 ### English
 
 ```text
 Asset: Plant life-cycle classroom card. Target aspect ratio: 4:5. Mode: generate.
 Create a botanical learning card showing four stages of a bean plant in a 2×2 grid: seed, germination with root, seedling with two leaves, mature leafy plant. Exact labels "SEED", "ROOT", "SEEDLING", "PLANT". Colored pencil with clean cream margins, consistent scale cues and discreet directional arrows.
-Constraints: Roots below soil, leaves above; do not imply equal time intervals or add unsupported dates.
+Constraints: Roots below soil, leaves above; do not imply equal time intervals or add unsupported dates. Make the reading order explicit with three arrows: top-left to top-right, top-right to bottom-left, bottom-left to bottom-right.
 Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
 ```
 
@@ -196,7 +260,7 @@ Render only explicitly requested image text. Do not add unrelated logos, signatu
 ```text
 交付物：植物生命周期教学卡。目标比例：4:5。模式：新建。
 制作豆科植物学习卡，2×2四阶段：种子、萌发根、两叶幼苗、成熟叶株。标签“SEED”“ROOT”“SEEDLING”“PLANT”，彩铅、干净奶油边距、统一比例提示和克制方向箭头。
-约束：根在土下、叶在土上，不暗示等时间间隔、不加日期。
+约束：根在土下、叶在土上，不暗示等时间间隔、不加日期。 用三条箭头明确阅读顺序：左上到右上、右上到左下、左下到右下。
 只渲染明确要求的图中文字，不添加无关标识、签名或说明。
 ```
 
@@ -220,7 +284,19 @@ Enlarge only the root illustration in the second panel while preserving labels.
 
 **Mode:** generate · **Target:** 16:9 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Teaching cards, explanatory slides and fictional-data presentations.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Verify labels, counts, directional arrows and numerical relationships independently of visual polish. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Workshop process slide — original generated example](../assets/images/example-p030.png)
+
+[Workshop process slide — generated example: exact prompt / 实际提示词](../assets/generation/example-p030.txt)
+
+**Observed review:** Four equal cards, labeled stages and three connecting arrows form a clear sequence.
 
 ### English
 

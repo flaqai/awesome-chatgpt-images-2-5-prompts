@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "updated": "2026-09-11",
+  "version": "1.4.0",
+  "updated": "2026-09-14",
   "author": "flaq.ai team",
   "packs": [
     {
@@ -35,7 +35,13 @@
             "en": "Check text character by character and compare shade outline and tab placement.",
             "zh": "逐字检查文案，比较灯罩轮廓及拉环位置。"
           },
-          "status": "related-example-available"
+          "status": "related-example-available",
+          "usage": {
+            "best_for": "Catalog pages and product campaign pitches.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Compare silhouette, material, label spelling and usable crop margins before publication.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P002",
@@ -61,7 +67,13 @@
             "en": "Inspect rim continuity, handle interior and white balance against the input.",
             "zh": "对比原图检查杯口、把手内部与白平衡。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Catalog pages and product campaign pitches.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Compare silhouette, material, label spelling and usable crop margins before publication.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P003",
@@ -87,7 +99,13 @@
             "en": "Check label spelling, bottle-neck geometry and reflections that cross the label.",
             "zh": "检查标签拼写、瓶口结构和遮挡标签的反光。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Catalog pages and product campaign pitches.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Compare silhouette, material, label spelling and usable crop margins before publication.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P004",
@@ -113,7 +131,13 @@
             "en": "Confirm five components, one leader per label and plausible shaft alignment.",
             "zh": "核对五个部件、一标签一引线及轴线关系。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Catalog pages and product campaign pitches.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Compare silhouette, material, label spelling and usable crop margins before publication.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P005",
@@ -139,7 +163,13 @@
             "en": "Compare seam junctions and tread shape to Image 1.",
             "zh": "对照图1检查缝线交点和鞋底纹路。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Catalog pages and product campaign pitches.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Compare silhouette, material, label spelling and usable crop margins before publication.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P006",
@@ -165,7 +195,13 @@
             "en": "Count items and inspect lid thickness and readable notebook title.",
             "zh": "清点物件，检查盒盖厚度与本子标题。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Catalog pages and product campaign pitches.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Compare silhouette, material, label spelling and usable crop margins before publication.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         }
       ]
     },
@@ -201,7 +237,13 @@
             "en": "Check date, time dash and readability at phone-screen size.",
             "zh": "检查日期、时间连接号及手机尺寸可读性。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Social posts, event announcements and editorial covers.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check the headline at phone size and keep essential copy away from crop edges.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P008",
@@ -227,7 +269,13 @@
             "en": "Review hands, chair legs and title legibility at 320px wide.",
             "zh": "检查手部、椅腿及320像素宽下的标题可读性。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Social posts, event announcements and editorial covers.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check the headline at phone size and keep essential copy away from crop edges.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P009",
@@ -253,7 +301,13 @@
             "en": "Check train windows, exact page marker and consistent text baseline.",
             "zh": "检查列车窗户、页码及文字基线一致性。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Social posts, event announcements and editorial covers.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check the headline at phone size and keep essential copy away from crop edges.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P010",
@@ -279,7 +333,13 @@
             "en": "Inspect recognizable ingredients, bowl rim and headline spacing.",
             "zh": "检查食材辨识度、碗沿和标题字距。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Social posts, event announcements and editorial covers.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check the headline at phone size and keep essential copy away from crop edges.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P011",
@@ -305,7 +365,13 @@
             "en": "Check title at small size and impossible paper intersections.",
             "zh": "检查小尺寸标题及不合理纸面交叉。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Social posts, event announcements and editorial covers.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check the headline at phone size and keep essential copy away from crop edges.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P012",
@@ -331,7 +397,13 @@
             "en": "Inspect miniature scale, clean text field and headline spelling.",
             "zh": "检查微缩比例、文字区洁净度及标题拼写。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Social posts, event announcements and editorial covers.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check the headline at phone size and keep essential copy away from crop edges.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         }
       ]
     },
@@ -367,7 +439,13 @@
             "en": "Compare eye spacing, nose, jaw, freckles and hairline to the source.",
             "zh": "对照原图检查眼距、鼻子、下颌、雀斑和发际线。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Personal keepsakes, professional portraits and styling concepts.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Compare identity anchors, hands, fur patterns and garment fit with the reference.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P014",
@@ -393,7 +471,13 @@
             "en": "Inspect whiskers, paw count and signature coat markings.",
             "zh": "检查胡须、爪子数量和标志性毛色。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Personal keepsakes, professional portraits and styling concepts.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Compare identity anchors, hands, fur patterns and garment fit with the reference.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P015",
@@ -408,8 +492,8 @@
             "zh": "图1为获同意的成年模特，图2为外套参考。让模特在原上衣外穿上该亚麻外套并敞开，肩部贴合、袖长、口袋和垂坠对应姿势，沿用原镜头与光照，输出真实穿搭预览。"
           },
           "constraints": {
-            "en": "Preserve face, body shape, hands, pose, background and other garments; no slimming.",
-            "zh": "保留脸、体型、手、姿势、背景和其他衣物，不瘦身。"
+            "en": "Preserve face, body shape, hands, pose, background and other garments; no slimming. Match the reference cuffs exactly; do not roll or shorten sleeves unless the garment reference already shows them.",
+            "zh": "保留脸、体型、手、姿势、背景和其他衣物，不瘦身。 袖口严格匹配服装参考；参考图未卷袖时，不要擅自卷起或缩短袖子。"
           },
           "revision": {
             "en": "Roll only the jacket sleeves once, keeping wrist anatomy and jacket length.",
@@ -419,7 +503,13 @@
             "en": "Compare pocket placement, seams, hands and garment occlusion.",
             "zh": "对比口袋位置、缝线、手部及衣物遮挡。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Personal keepsakes, professional portraits and styling concepts.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Compare identity anchors, hands, fur patterns and garment fit with the reference.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P016",
@@ -445,7 +535,13 @@
             "en": "Check cup handles, pouring direction and fingers at object contacts.",
             "zh": "检查杯把、倒水方向和接触物体的手指。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Personal keepsakes, professional portraits and styling concepts.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Compare identity anchors, hands, fur patterns and garment fit with the reference.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P017",
@@ -471,7 +567,13 @@
             "en": "Check recognizable faces and consistent relative scale.",
             "zh": "检查人物辨识度及相对比例。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Personal keepsakes, professional portraits and styling concepts.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Compare identity anchors, hands, fur patterns and garment fit with the reference.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P018",
@@ -497,7 +599,13 @@
             "en": "Compare ears, eye shape and muzzle; check that blank dedication space remains.",
             "zh": "对比耳朵、眼形和口鼻，检查题字留白。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Personal keepsakes, professional portraits and styling concepts.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Compare identity anchors, hands, fur patterns and garment fit with the reference.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         }
       ]
     },
@@ -533,7 +641,13 @@
             "en": "Compare base edges, metal sheen, pull tab and typography across all versions.",
             "zh": "比较各版本底座边缘、金属光泽、拉环和排版。"
           },
-          "status": "related-example-available"
+          "status": "related-example-available",
+          "usage": {
+            "best_for": "Controlled revisions to an already selected image.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Compare the original and result side by side; inspect both the changed region and supposedly unchanged areas.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P020",
@@ -559,7 +673,13 @@
             "en": "Look for repeating texture, soft patches and altered nearby edges.",
             "zh": "检查重复纹理、模糊补丁和被改变的邻近边缘。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Controlled revisions to an already selected image.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Compare the original and result side by side; inspect both the changed region and supposedly unchanged areas.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P021",
@@ -585,7 +705,13 @@
             "en": "Check shadow directions and whether all surfaces share the same lighting logic.",
             "zh": "检查阴影方向及所有表面的光照逻辑是否一致。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Controlled revisions to an already selected image.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Compare the original and result side by side; inspect both the changed region and supposedly unchanged areas.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P022",
@@ -611,7 +737,13 @@
             "en": "Read all text, including untouched small print, against the original.",
             "zh": "对照原图阅读所有文字，包括未修改小字。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Controlled revisions to an already selected image.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Compare the original and result side by side; inspect both the changed region and supposedly unchanged areas.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P023",
@@ -637,7 +769,13 @@
             "en": "Check floor contact, parapet occlusion and that there is only one planter.",
             "zh": "检查落地接触、矮墙遮挡关系及花盆数量。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Controlled revisions to an already selected image.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Compare the original and result side by side; inspect both the changed region and supposedly unchanged areas.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P024",
@@ -652,8 +790,8 @@
             "zh": "将图1中准确商品抠到真正透明背景，保留细小边缘、内部开孔、半透明材质特征和完整轮廓。保持原色、比例和表面细节，不重画简化替代品。"
           },
           "constraints": {
-            "en": "No painted checkerboard, white rectangle, drop shadow or cropped edges.",
-            "zh": "不绘制棋盘格、不加白矩形、投影、不裁断边缘。"
+            "en": "No painted checkerboard, white rectangle, drop shadow or cropped edges. Keep the handle opening transparent. Avoid bright or colored edge halos; retain the complete silhouette inside the canvas.",
+            "zh": "不绘制棋盘格、不加白矩形、投影、不裁断边缘。 把手内孔保持透明，避免明亮或彩色边缘杂色，完整轮廓须位于画布内。"
           },
           "revision": {
             "en": "Remove only any remaining edge halo without eroding thin details.",
@@ -663,7 +801,13 @@
             "en": "Inspect actual alpha on light and dark backgrounds; reject simulated transparency.",
             "zh": "在明暗底色上检查实际透明通道，拒绝假透明。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Controlled revisions to an already selected image.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Compare the original and result side by side; inspect both the changed region and supposedly unchanged areas.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         }
       ]
     },
@@ -699,7 +843,13 @@
             "en": "Check directional flow and whether the soil cross-section communicates infiltration.",
             "zh": "检查水流方向及土壤剖面是否清楚表达下渗。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Teaching cards, explanatory slides and fictional-data presentations.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Verify labels, counts, directional arrows and numerical relationships independently of visual polish.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P026",
@@ -725,7 +875,13 @@
             "en": "Count sectors and ensure illustrations match labels.",
             "zh": "核对扇区数及插图标签对应。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Teaching cards, explanatory slides and fictional-data presentations.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Verify labels, counts, directional arrows and numerical relationships independently of visual polish.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P027",
@@ -740,8 +896,8 @@
             "zh": "制作演示页“WORKSHOP ATTENDANCE”，三根柱，虚构数值为“April 20”“May 30”“June 40”。共同零基线、等宽、柱高严格20:30:40，深蓝柱、奶油背景、灰细基线，页脚“DEMO DATA”。"
           },
           "constraints": {
-            "en": "No extrapolation, percentages or invented source. Keep labels outside bars.",
-            "zh": "不外推、不加百分比、不编造来源，标签放柱外。"
+            "en": "No extrapolation, percentages or invented source. Keep labels outside bars. Bar heights must use one linear scale with no perspective or decorative 3D treatment.",
+            "zh": "不外推、不加百分比、不编造来源，标签放柱外。 柱高使用同一线性刻度，不使用透视或装饰性三维效果。"
           },
           "revision": {
             "en": "Highlight only June in orange, preserving values and bar geometry.",
@@ -751,7 +907,13 @@
             "en": "Measure relative bar heights; use chart software for final data-critical publication.",
             "zh": "测量柱高比例；正式数据出版需用图表软件复核重绘。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Teaching cards, explanatory slides and fictional-data presentations.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Verify labels, counts, directional arrows and numerical relationships independently of visual polish.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P028",
@@ -777,7 +939,13 @@
             "en": "Verify north/east/south placement and route endpoint connections.",
             "zh": "核对方位及路线端点连接。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Teaching cards, explanatory slides and fictional-data presentations.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Verify labels, counts, directional arrows and numerical relationships independently of visual polish.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P029",
@@ -792,8 +960,8 @@
             "zh": "制作豆科植物学习卡，2×2四阶段：种子、萌发根、两叶幼苗、成熟叶株。标签“SEED”“ROOT”“SEEDLING”“PLANT”，彩铅、干净奶油边距、统一比例提示和克制方向箭头。"
           },
           "constraints": {
-            "en": "Roots below soil, leaves above; do not imply equal time intervals or add unsupported dates.",
-            "zh": "根在土下、叶在土上，不暗示等时间间隔、不加日期。"
+            "en": "Roots below soil, leaves above; do not imply equal time intervals or add unsupported dates. Make the reading order explicit with three arrows: top-left to top-right, top-right to bottom-left, bottom-left to bottom-right.",
+            "zh": "根在土下、叶在土上，不暗示等时间间隔、不加日期。 用三条箭头明确阅读顺序：左上到右上、右上到左下、左下到右下。"
           },
           "revision": {
             "en": "Enlarge only the root illustration in the second panel while preserving labels.",
@@ -803,7 +971,13 @@
             "en": "Review growth order, plant anatomy and label placement with an educator.",
             "zh": "与教育人员核对生长顺序、植物结构与标签。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Teaching cards, explanatory slides and fictional-data presentations.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Verify labels, counts, directional arrows and numerical relationships independently of visual polish.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P030",
@@ -829,7 +1003,13 @@
             "en": "Check four cards, arrow direction and even alignment at presentation size.",
             "zh": "检查四张卡、箭头方向及演示尺寸对齐。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Teaching cards, explanatory slides and fictional-data presentations.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Verify labels, counts, directional arrows and numerical relationships independently of visual polish.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         }
       ]
     },
@@ -865,7 +1045,13 @@
             "en": "Read both sizes; review originality and rebuild vectors before production.",
             "zh": "检查两种尺寸，审查独特性并在生产前重建矢量。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Brand direction and interface presentation concepts.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check spelling and hierarchy; redraw final vectors or implement actual interface components separately.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P032",
@@ -891,7 +1077,13 @@
             "en": "Check arrows and legibility; validate physical signage separately.",
             "zh": "检查箭头与可读性，实际导视另行验证。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Brand direction and interface presentation concepts.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check spelling and hierarchy; redraw final vectors or implement actual interface components separately.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P033",
@@ -917,7 +1109,13 @@
             "en": "Review button contrast, padding and text truncation; implement UI separately.",
             "zh": "检查按钮对比、内边距和文字截断，界面需另外实现。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Brand direction and interface presentation concepts.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check spelling and hierarchy; redraw final vectors or implement actual interface components separately.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P034",
@@ -943,7 +1141,13 @@
             "en": "Check exact copy and whether headline dominates without covering the product.",
             "zh": "检查准确文案及标题是否突出且不挡主体。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Brand direction and interface presentation concepts.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check spelling and hierarchy; redraw final vectors or implement actual interface components separately.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P035",
@@ -958,8 +1162,8 @@
             "zh": "为虚构“FIELD LETTER”制作三款统一纸茶盒，同一结构和奶油标签；“MINT”“ROOIBOS”“OOLONG”分别搭配绿、铁锈、蓝侧板。等比例正面排列于中性台面，标题可读、天然纸纤维、柔和影棚阴影。"
           },
           "constraints": {
-            "en": "Exactly three cartons; no health promises, weights, certifications or barcodes.",
-            "zh": "仅三个盒子，不加健康承诺、重量、认证和条码。"
+            "en": "Exactly three cartons; no health promises, weights, certifications or barcodes. The only visible lettering is FIELD LETTER and the three variant names; leave all other package areas free of slogans or invented copy.",
+            "zh": "仅三个盒子，不加健康承诺、重量、认证和条码。 只显示FIELD LETTER和三种口味名称，其他包装区域不添加口号或虚构文案。"
           },
           "revision": {
             "en": "Change only the OOLONG side-panel blue to deeper navy.",
@@ -969,7 +1173,13 @@
             "en": "Compare label baseline, carton proportions and variant spelling.",
             "zh": "比较标签基线、盒体比例与品名拼写。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Brand direction and interface presentation concepts.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check spelling and hierarchy; redraw final vectors or implement actual interface components separately.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P036",
@@ -995,7 +1205,13 @@
             "en": "Check alignment, consistent cards and distinguishable controls.",
             "zh": "检查对齐、卡片一致性和控件可区分性。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Brand direction and interface presentation concepts.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check spelling and hierarchy; redraw final vectors or implement actual interface components separately.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         }
       ]
     },
@@ -1031,7 +1247,13 @@
             "en": "Check action order, apron continuity and whether repair happens too early.",
             "zh": "检查动作顺序、围裙一致性及是否提前出现修好状态。"
           },
-          "status": "related-example-available"
+          "status": "related-example-available",
+          "usage": {
+            "best_for": "Story pitching, character development and game concept art.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check continuity, cell counts and small-scale silhouettes before extracting individual frames.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P038",
@@ -1057,7 +1279,13 @@
             "en": "Compare coat hem, strap side, boot height and head scale.",
             "zh": "对比衣摆、肩带侧、靴高和头部比例。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Story pitching, character development and game concept art.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check continuity, cell counts and small-scale silhouettes before extracting individual frames.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P039",
@@ -1083,7 +1311,13 @@
             "en": "Check ear shape, cheek-spot side and equal head dimensions.",
             "zh": "检查耳形、脸斑方向和等大头部。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Story pitching, character development and game concept art.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check continuity, cell counts and small-scale silhouettes before extracting individual frames.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P040",
@@ -1109,7 +1343,13 @@
             "en": "Count nine distinct items and inspect equal padding before export.",
             "zh": "导出前检查九个不同物件及等距留白。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Story pitching, character development and game concept art.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check continuity, cell counts and small-scale silhouettes before extracting individual frames.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P041",
@@ -1124,8 +1364,8 @@
             "zh": "绘制等距小型屋顶温室游戏场景：后方玻璃温室、三个种植床、一个水桶、窄木走道。苔绿、暖砖、浅玻璃，精细手绘纹理和清楚可行走空间，完整显示悬浮屋顶地块。"
           },
           "constraints": {
-            "en": "Consistent isometric angles, no text, no characters and no hidden crop at tile edges.",
-            "zh": "等距角一致，不加字和角色，不裁地块边缘。"
+            "en": "Consistent isometric angles, no text, no characters and no hidden crop at tile edges. Count exactly three raised beds across the entire tile; do not add small planter boxes or background beds.",
+            "zh": "等距角一致，不加字和角色，不裁地块边缘。 整个地块严格只有三个高架种植床，不额外添加小花箱或背景种植床。"
           },
           "revision": {
             "en": "Add only a folded orange watering hose beside the barrel.",
@@ -1135,7 +1375,13 @@
             "en": "Inspect glass perspective, walkway continuity and object scale.",
             "zh": "检查玻璃透视、走道连续和物件比例。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Story pitching, character development and game concept art.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check continuity, cell counts and small-scale silhouettes before extracting individual frames.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P042",
@@ -1161,7 +1407,13 @@
             "en": "Check pixel consistency; rebuild to target game resolution if needed.",
             "zh": "检查像素一致性，需要时按游戏目标分辨率重建。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Story pitching, character development and game concept art.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check continuity, cell counts and small-scale silhouettes before extracting individual frames.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         }
       ]
     },
@@ -1197,7 +1449,13 @@
             "en": "Count chairs and inspect walkways, window geometry and table supports.",
             "zh": "清点椅子，检查走道、窗结构和桌支撑。"
           },
-          "status": "related-example-available"
+          "status": "related-example-available",
+          "usage": {
+            "best_for": "Interior, retail and landscape concept presentations.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check geometry, circulation and lighting; use measured plans for implementation decisions.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P044",
@@ -1223,7 +1481,13 @@
             "en": "Compare window corners, cabinet dimensions and room boundaries to the input.",
             "zh": "对照原照检查窗角、柜尺寸和房间边界。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Interior, retail and landscape concept presentations.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Check geometry, circulation and lighting; use measured plans for implementation decisions.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P045",
@@ -1249,7 +1513,13 @@
             "en": "Inspect bed proportions, usable doors and realistic niche depth.",
             "zh": "检查床比例、可用门洞和阅读角深度。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Interior, retail and landscape concept presentations.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check geometry, circulation and lighting; use measured plans for implementation decisions.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P046",
@@ -1275,7 +1545,13 @@
             "en": "Check dispenser count, sign lettering and aisle clearance.",
             "zh": "检查分装器数量、招牌文字和通道。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Interior, retail and landscape concept presentations.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check geometry, circulation and lighting; use measured plans for implementation decisions.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P047",
@@ -1301,7 +1577,13 @@
             "en": "Inspect route continuity and root/seating separation; consult site conditions before use.",
             "zh": "检查路径连续与树座分离，实际使用需结合场地条件。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Interior, retail and landscape concept presentations.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check geometry, circulation and lighting; use measured plans for implementation decisions.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P048",
@@ -1327,7 +1609,13 @@
             "en": "Compare every support and roof edge to the sketch.",
             "zh": "对照草图检查每处支撑和屋顶边。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Interior, retail and landscape concept presentations.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Check geometry, circulation and lighting; use measured plans for implementation decisions.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         }
       ]
     },
@@ -1363,7 +1651,13 @@
             "en": "Check every title letter and legibility as a thumbnail.",
             "zh": "逐字检查书名及缩略图可读性。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Book covers, editorial pages and print concept development.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check safe margins, exact copy and page hierarchy; add print specifications in a layout application.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P050",
@@ -1389,7 +1683,13 @@
             "en": "Check page separation, text spelling and ingredients matching the illustration.",
             "zh": "检查跨页分离、拼写和图中食材一致性。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Book covers, editorial pages and print concept development.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check safe margins, exact copy and page hierarchy; add print specifications in a layout application.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P051",
@@ -1415,7 +1715,13 @@
             "en": "Check translucent overlaps and exact year.",
             "zh": "检查透明重叠效果及年份。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Book covers, editorial pages and print concept development.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check safe margins, exact copy and page hierarchy; add print specifications in a layout application.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P052",
@@ -1441,7 +1747,13 @@
             "en": "Check visual metaphor readability and flower focus at small sizes.",
             "zh": "检查隐喻清晰度及小尺寸花朵焦点。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Book covers, editorial pages and print concept development.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check safe margins, exact copy and page hierarchy; add print specifications in a layout application.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P053",
@@ -1467,7 +1779,13 @@
             "en": "Inspect intentional brush edges and avoid accidental glyph-like marks.",
             "zh": "检查有意笔触边缘，避免意外似字笔迹。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Book covers, editorial pages and print concept development.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check safe margins, exact copy and page hierarchy; add print specifications in a layout application.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P054",
@@ -1493,7 +1811,13 @@
             "en": "Check title spelling and whether two-ink separation is plausible before printing.",
             "zh": "检查标题拼写，印前验证双墨分色可行性。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Book covers, editorial pages and print concept development.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Check safe margins, exact copy and page hierarchy; add print specifications in a layout application.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         }
       ]
     },
@@ -1529,7 +1853,13 @@
             "en": "Compare product silhouette across seasonal siblings using the approved source.",
             "zh": "用确认稿对比各季商品轮廓。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Extending and localizing approved visual campaigns.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Keep a reviewed master; compare product geometry, identity and lettering after each individual revision.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P056",
@@ -1555,7 +1885,13 @@
             "en": "Check crop, proportions and placement against the actual target platform overlay.",
             "zh": "结合实际目标平台遮罩检查裁切、比例和位置。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Extending and localizing approved visual campaigns.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Keep a reviewed master; compare product geometry, identity and lettering after each individual revision.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P057",
@@ -1581,7 +1917,13 @@
             "en": "Have a fluent reader check copy and compare all non-text areas to the source.",
             "zh": "请熟练读者审校文案，并对比所有非文字区域。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Extending and localizing approved visual campaigns.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Keep a reviewed master; compare product geometry, identity and lettering after each individual revision.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P058",
@@ -1607,7 +1949,13 @@
             "en": "Check reference roles, lamp geometry, occlusion and contact shadows.",
             "zh": "检查参考角色、灯结构、遮挡和接触阴影。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Extending and localizing approved visual campaigns.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Keep a reviewed master; compare product geometry, identity and lettering after each individual revision.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P059",
@@ -1633,7 +1981,13 @@
             "en": "Compare identities and texture; flag irrecoverable detail rather than claiming authenticity.",
             "zh": "比较身份与纹理，不可恢复处注明，不声称真实还原。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Extending and localizing approved visual campaigns.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Keep a reviewed master; compare product geometry, identity and lettering after each individual revision.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P060",
@@ -1659,7 +2013,13 @@
             "en": "Compare costume, moon seam, pose and environment against the selected panel.",
             "zh": "对照选中格检查服装、月亮缝线、姿势和环境。"
           },
-          "status": "template-not-rendered"
+          "status": "template-not-rendered",
+          "usage": {
+            "best_for": "Extending and localizing approved visual campaigns.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Keep a reviewed master; compare product geometry, identity and lettering after each individual revision.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         }
       ]
     },
@@ -1697,7 +2057,13 @@
             "zh": "披风与系带已添加，眼周斑纹、耳朵和爪子仍可识别，细部毛发有变化。"
           },
           "status": "related-example-available",
-          "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5/"
+          "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "usage": {
+            "best_for": "Reference-led image-editing exercises.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Check the exact executed prompt and input/result pair; template variations require their own review.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P062",
@@ -1724,7 +2090,13 @@
             "zh": "开衫和内搭符合要求，脸部、手部及姿势大体保持；细节并非像素一致。人物完全虚构。"
           },
           "status": "related-example-available",
-          "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5/"
+          "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "usage": {
+            "best_for": "Reference-led image-editing exercises.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Check the exact executed prompt and input/result pair; template variations require their own review.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P063",
@@ -1751,7 +2123,13 @@
             "zh": "条纹被套与两只原色枕头符合要求，房间布局大体保留，被子褶皱略有变化。"
           },
           "status": "related-example-available",
-          "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5/"
+          "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "usage": {
+            "best_for": "Reference-led image-editing exercises.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Check the exact executed prompt and input/result pair; template variations require their own review.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P064",
@@ -1778,7 +2156,13 @@
             "zh": "LISBON 与其他指定文字目测符合要求，插画细节略有变化；这是虚构纪念卡，不是有效车票。"
           },
           "status": "related-example-available",
-          "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5/"
+          "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "usage": {
+            "best_for": "Reference-led image-editing exercises.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Check the exact executed prompt and input/result pair; template variations require their own review.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P065",
@@ -1805,7 +2189,13 @@
             "zh": "部分达成：符号与颜色的对应关系符合目标，但未验证严格90度刚体旋转，顶部轮廓有明显折点，不可作为精确几何示例。"
           },
           "status": "related-example-available",
-          "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5/"
+          "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "usage": {
+            "best_for": "Reference-led image-editing exercises.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Check the exact executed prompt and input/result pair; template variations require their own review.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P066",
@@ -1832,7 +2222,13 @@
             "zh": "中栏时间与标题正确，工作台上有三个碗；搁板新增其他器皿。左右栏保留主要内容，但插画细节有漂移。"
           },
           "status": "related-example-available",
-          "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5/"
+          "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "usage": {
+            "best_for": "Reference-led image-editing exercises.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Check the exact executed prompt and input/result pair; template variations require their own review.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P067",
@@ -1859,7 +2255,13 @@
             "zh": "可清楚数出五根未点燃橙色蜡烛，蛋糕、盘子和构图大体保持，奶油纹理稍有变化。"
           },
           "status": "related-example-available",
-          "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5/"
+          "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "usage": {
+            "best_for": "Reference-led image-editing exercises.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Check the exact executed prompt and input/result pair; template variations require their own review.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         }
       ]
     },
@@ -1954,7 +2356,13 @@
                 "zh": "窗户位置与相机"
               }
             }
-          ]
+          ],
+          "usage": {
+            "best_for": "Reusable product and storytelling design studies.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Change one customization parameter per attempt and compare against the approved example.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P069",
@@ -2036,7 +2444,13 @@
                 "zh": "顺序与器皿用途"
               }
             }
-          ]
+          ],
+          "usage": {
+            "best_for": "Reusable product and storytelling design studies.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Change one customization parameter per attempt and compare against the approved example.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P070",
@@ -2118,7 +2532,13 @@
                 "zh": "其余两行文字"
               }
             }
-          ]
+          ],
+          "usage": {
+            "best_for": "Reusable product and storytelling design studies.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Change one customization parameter per attempt and compare against the approved example.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P071",
@@ -2200,7 +2620,13 @@
                 "zh": "软木底座完整可见"
               }
             }
-          ]
+          ],
+          "usage": {
+            "best_for": "Reusable product and storytelling design studies.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Change one customization parameter per attempt and compare against the approved example.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P072",
@@ -2282,7 +2708,13 @@
                 "zh": "温暖室内与窗户位置"
               }
             }
-          ]
+          ],
+          "usage": {
+            "best_for": "Reusable product and storytelling design studies.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Change one customization parameter per attempt and compare against the approved example.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         },
         {
           "id": "P073",
@@ -2364,7 +2796,13 @@
                 "zh": "四图布局与底部文案"
               }
             }
-          ]
+          ],
+          "usage": {
+            "best_for": "Reusable product and storytelling design studies.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Change one customization parameter per attempt and compare against the approved example.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
         }
       ]
     },
@@ -2408,6 +2846,12 @@
             "default": "bench, vessel, canopy, sculpture",
             "alternatives": "four categories relevant to your brief",
             "preserve": "curve landmarks and panel count"
+          },
+          "usage": {
+            "best_for": "Reference-led concept development, editorial design and storyboards.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Inspect every panel or text region separately; a coherent overall layout can hide local errors.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
           }
         },
         {
@@ -2424,7 +2868,7 @@
             "en": "Use the uploaded bedroom plan as the only layout reference. Treat its marked window, door, wardrobe, bed and desk positions as fixed; do not invent a different room arrangement. Turn the plan into a photorealistic interior concept viewed from the entrance toward the window. Translate the drawn furniture footprints into believable proportions, retaining the indicated walking route. Use pale oat walls, light ash timber, an ivory upholstered bed and a muted olive desk chair. Daylight enters only through the window shown in the plan; shadows must agree with its location. Show the bed, wardrobe and desk clearly in one landscape frame. Add only plain bedding and one desk lamp. Do not add a second window, extra furniture, plants, artwork, a computer or a rug. If the plan leaves a dimension ambiguous, keep that area simple rather than implying a measured architectural solution. No visible text."
           },
           "constraints": {
-            "en": "Attach a labeled sketch with a clear entrance and window. This is a visual concept, not a dimensionally verified construction plan."
+            "en": "Attach a labeled sketch with a clear entrance and window. This is a visual concept, not a dimensionally verified construction plan. Deliver only the interior view: no floor-plan inset, split screen, diagram, labels or reference thumbnail."
           },
           "revision": {
             "en": "Change only the wardrobe fronts from pale ash to matte ivory. Preserve all furniture positions, door clearance, window, daylight and camera."
@@ -2439,6 +2883,12 @@
             "default": "pale oat, ash and ivory",
             "alternatives": "warm walnut and sand",
             "preserve": "layout, openings and circulation"
+          },
+          "usage": {
+            "best_for": "Reference-led concept development, editorial design and storyboards.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Inspect every panel or text region separately; a coherent overall layout can hide local errors.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
           }
         },
         {
@@ -2470,6 +2920,12 @@
             "default": "felt, pencil, risograph, ceramic",
             "alternatives": "four clearly different media",
             "preserve": "identity anchors, pose and scale"
+          },
+          "usage": {
+            "best_for": "Reference-led concept development, editorial design and storyboards.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Inspect every panel or text region separately; a coherent overall layout can hide local errors.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
           }
         },
         {
@@ -2501,6 +2957,12 @@
             "default": "three fictional teas, 30 g each",
             "alternatives": "your approved three-product assortment",
             "preserve": "matching names and quantities everywhere"
+          },
+          "usage": {
+            "best_for": "Reference-led concept development, editorial design and storyboards.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Inspect every panel or text region separately; a coherent overall layout can hide local errors.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
           }
         },
         {
@@ -2532,6 +2994,12 @@
             "default": "A LITTLE STILLNESS. / IN EVERY CUP.",
             "alternatives": "two short approved lines",
             "preserve": "type size, headline box and all other content"
+          },
+          "usage": {
+            "best_for": "Reference-led concept development, editorial design and storyboards.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Inspect every panel or text region separately; a coherent overall layout can hide local errors.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
           }
         },
         {
@@ -2563,6 +3031,12 @@
             "default": "plain walnut leather satchel",
             "alternatives": "another unbranded bag with approved dimensions",
             "preserve": "identity, shoulder contact and pose"
+          },
+          "usage": {
+            "best_for": "Reference-led concept development, editorial design and storyboards.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Inspect every panel or text region separately; a coherent overall layout can hide local errors.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
           }
         },
         {
@@ -2594,6 +3068,12 @@
             "default": "hair, grade, background snow",
             "alternatives": "three individually reviewable edits",
             "preserve": "approved decisions from all earlier steps"
+          },
+          "usage": {
+            "best_for": "Reference-led concept development, editorial design and storyboards.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Inspect every panel or text region separately; a coherent overall layout can hide local errors.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
           }
         },
         {
@@ -2625,6 +3105,12 @@
             "default": "welcoming, precise, curious",
             "alternatives": "three approved brand traits",
             "preserve": "authorized name and palette"
+          },
+          "usage": {
+            "best_for": "Reference-led concept development, editorial design and storyboards.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Inspect every panel or text region separately; a coherent overall layout can hide local errors.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
           }
         },
         {
@@ -2656,6 +3142,12 @@
             "default": "ivory and charcoal",
             "alternatives": "two approved fabric colors",
             "preserve": "logo geometry and garment construction"
+          },
+          "usage": {
+            "best_for": "Reference-led concept development, editorial design and storyboards.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Inspect every panel or text region separately; a coherent overall layout can hide local errors.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
           }
         },
         {
@@ -2672,7 +3164,7 @@
             "en": "Use the attached original adult cartoon character as the identity reference. Create a square 4-by-4 action reference sheet on a genuinely transparent background. Keep a consistent compact chibi proportion, costume, hair silhouette, colors and handedness in all 16 cells. Use equal invisible cells and enough internal space that no limb or accessory crosses a boundary. Read left to right, top to bottom. Row 1: neutral ready stance, knees bending, weight shifting left, returning to guard. Row 2: right-arm punch preparation, right-arm extension, right-arm recovery, centered guard. Row 3: left-knee lift, controlled left front kick, knee retracting, left foot landing. Row 4: two-arm block, low crouch, rising to stand, relaxed finish. One complete figure per cell. No weapons, impacts, injured opponents, speed-line clutter, captions, frame numbers or visible checkerboard. Keep the camera and baseline consistent so the poses can be extracted."
           },
           "constraints": {
-            "en": "Requires a character reference. Verify actual alpha transparency after export. These are pose references, not guaranteed evenly timed animation frames or a production-ready sprite atlas."
+            "en": "Requires a character reference. Verify actual alpha transparency after export. These are pose references, not guaranteed evenly timed animation frames or a production-ready sprite atlas. Align standing poses to a shared floor baseline, preserve the reference button count and keep silhouette edges free of colored halos."
           },
           "revision": {
             "en": "Regenerate only the left front-kick pose as one transparent image, matching the approved character and camera. Keep the leg count, costume and color palette."
@@ -2687,6 +3179,12 @@
             "default": "guard, punch, kick, block, finish",
             "alternatives": "16 explicit non-graphic actions",
             "preserve": "character proportions, camera and cell spacing"
+          },
+          "usage": {
+            "best_for": "Reference-led concept development, editorial design and storyboards.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Inspect every panel or text region separately; a coherent overall layout can hide local errors.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
           }
         },
         {
@@ -2718,6 +3216,12 @@
             "default": "botanical conservatory at dawn",
             "alternatives": "one coherent alternative location",
             "preserve": "character, notebook and shot progression"
+          },
+          "usage": {
+            "best_for": "Reference-led concept development, editorial design and storyboards.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Inspect every panel or text region separately; a coherent overall layout can hide local errors.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
           }
         },
         {
@@ -2749,6 +3253,334 @@
             "default": "two differently colored sketchbooks",
             "alternatives": "two clearly distinguishable safe props",
             "preserve": "ownership, screen direction and character identities"
+          },
+          "usage": {
+            "best_for": "Reference-led concept development, editorial design and storyboards.",
+            "inputs": "One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.",
+            "review_workflow": "Inspect every panel or text region separately; a coherent overall layout can hide local errors.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "15-x-community",
+      "title": {
+        "en": "X community: practical visual briefs",
+        "zh": "X 社区实用场景"
+      },
+      "focus": "Source-attributed English adaptations and external image references",
+      "recipes": [
+        {
+          "id": "P086",
+          "title": {
+            "en": "Ingredient-built bakery lettering"
+          },
+          "ratio": "4:5",
+          "mode": "generate",
+          "languages": [
+            "en"
+          ],
+          "brief": {
+            "en": "Develop a launch poster for the fictional bakery LOOP & CRUMB. Construct the single word TWIST from braided baked dough on a pale blue enamel surface. Use a straight overhead camera. Make the letters occupy the upper two thirds, with a separate small printed line reading SATURDAY BAKES beneath them. Show browned crust, occasional flour and the braided joints at close range. Leave generous separation between the five letters and use one consistent morning light direction. This is a bakery window poster that must remain readable as a phone thumbnail."
+          },
+          "constraints": {
+            "en": "Exactly five edible letters; no sauce, badges or background word patterns. Keep holes and gaps open. Render TWIST as T-W-I-S-T. Treat LOOP & CRUMB as brief context only; do not print the brand name."
+          },
+          "revision": {
+            "en": "Change the enamel surface to warm ivory while preserving the dough shapes, shadows and all text."
+          },
+          "review": {
+            "en": "Read TWIST at thumbnail size; inspect intersections for fused dough, inconsistent shadows and extra characters."
+          },
+          "customization": {
+            "parameter": "Bakery product",
+            "default": "braided dough",
+            "alternatives": "pretzel dough or seeded bread",
+            "preserve": "word structure and spacing"
+          },
+          "status": "template-not-rendered",
+          "source_url": "https://x.com/ou_zhen599/status/2099406905714348431",
+          "source_reference": {
+            "id": "P086",
+            "author": "Loriel.AI",
+            "handle": "@ou_zhen599",
+            "url": "https://x.com/ou_zhen599/status/2099406905714348431",
+            "photo_url": "https://x.com/ou_zhen599/status/2099406905714348431/photo/1",
+            "image_url": "https://pbs.twimg.com/media/HSKXcCwaAAAU80t?format=jpg&name=small",
+            "published": "2026-09-14",
+            "checked": "2026-09-14",
+            "source_summary": "Food advertising with lettering assembled from ingredients.",
+            "adaptation": "Replaces the pasta campaign with bakery lettering, different copy, material and a simpler two-level layout.",
+            "model_claim": "GPT Image 2.5, as described by the author; not independently verified",
+            "image_role": "external-source-preview",
+            "rights": "Third-party reference; not covered by this repository MIT license. Linked remotely, not copied into assets."
+          },
+          "usage": {
+            "best_for": "Source-attributed campaign and presentation concepts.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Use the repository result to assess the adapted brief; the linked X preview illustrates a different original prompt.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
+        },
+        {
+          "id": "P087",
+          "title": {
+            "en": "Six-frame fragrance launch board"
+          },
+          "ratio": "3:2",
+          "mode": "generate",
+          "languages": [
+            "en"
+          ],
+          "brief": {
+            "en": "Create a static six-panel presentation board for a fictional cedar fragrance named NORTH ROOM. Use a precise three-column, two-row grid on warm gray paper. The product is a squat amber rectangular glass bottle with a brushed silver cylindrical cap and an ivory NORTH ROOM label. Read left to right: full bottle on slate; close-up of the cap seam; side light through amber liquid; uncapped bottle with the cap resting beside it; atomizer releasing a fine mist; final bottle beside a small cedar block. Number the frames 01 through 06 in identical outside gutters. Keep the same bottle geometry and studio surface throughout."
+          },
+          "constraints": {
+            "en": "A single still image, not a video or GIF. Six panels only. No floating cap, invented performance claims or additional text."
+          },
+          "revision": {
+            "en": "Correct only panel 05 so the mist originates at the atomizer; preserve all other panels and gutters."
+          },
+          "review": {
+            "en": "Count six frames, compare caps and labels, inspect mist origin. Animation and sound require a separate production step."
+          },
+          "customization": {
+            "parameter": "Fragrance direction",
+            "default": "cedar on slate",
+            "alternatives": "citrus on limestone or tea on ceramic",
+            "preserve": "bottle shape, label and six-shot sequence"
+          },
+          "status": "template-not-rendered",
+          "source_url": "https://x.com/Strength04_X/status/2097919290980921451",
+          "source_reference": {
+            "id": "P087",
+            "author": "M-studioAi",
+            "handle": "@Strength04_X",
+            "url": "https://x.com/Strength04_X/status/2097919290980921451",
+            "photo_url": "https://x.com/Strength04_X/status/2097919290980921451/photo/2",
+            "image_url": "https://pbs.twimg.com/media/HR1OdkyaIAAX_HP?format=jpg&name=small",
+            "published": "2026-09-10",
+            "checked": "2026-09-14",
+            "source_summary": "Product storyboard with a consistent fragrance bottle across shots.",
+            "adaptation": "Reduces ten scenes to six still frames, changes the product and lighting, and adds explicit continuity checks.",
+            "model_claim": "GPT Image 2.5, as described by the author; not independently verified",
+            "image_role": "external-source-preview",
+            "rights": "Third-party reference; not covered by this repository MIT license. Linked remotely, not copied into assets."
+          },
+          "usage": {
+            "best_for": "Source-attributed campaign and presentation concepts.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Use the repository result to assess the adapted brief; the linked X preview illustrates a different original prompt.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
+        },
+        {
+          "id": "P088",
+          "title": {
+            "en": "Editorial mobility concept poster"
+          },
+          "ratio": "4:5",
+          "mode": "generate",
+          "languages": [
+            "en"
+          ],
+          "brief": {
+            "en": "Design an editorial concept poster for an unbranded compact electric cargo bicycle. Use a deep aubergine background and a matte cream bicycle viewed from its left side, positioned across the lower half. Show a sturdy front cargo box, two wheels, a visible chain and practical handlebars. Set the title CITY / CARRY in large pale cream condensed lettering in the upper half. Add only DESIGN STUDY in a small aligned footer. Separate the typography from the bicycle silhouette with ample breathing room. Use gentle studio light to reveal painted metal and rubber without a glossy showroom effect."
+          },
+          "constraints": {
+            "en": "No vehicle logos, fabricated range or speed figures, QR codes or duplicated wheels. Keep the frame mechanically plausible. CITY and CARRY are separate lines; do not print the slash."
+          },
+          "revision": {
+            "en": "Change only the cargo box to muted orange; keep wheels, frame, camera and typography fixed."
+          },
+          "review": {
+            "en": "Check wheel count, handlebar connection, frame joints and exact title. Inspect phone-size readability."
+          },
+          "customization": {
+            "parameter": "Mobility product",
+            "default": "cargo bicycle",
+            "alternatives": "folding bicycle or commuter scooter",
+            "preserve": "one hero object and clear type separation"
+          },
+          "status": "template-not-rendered",
+          "source_url": "https://x.com/Diplomeme/status/2097641872068063436",
+          "source_reference": {
+            "id": "P088",
+            "author": "ᴍᴜʀᴘʜʏ",
+            "handle": "@Diplomeme",
+            "url": "https://x.com/Diplomeme/status/2097641872068063436",
+            "photo_url": "https://x.com/Diplomeme/status/2097641872068063436/photo/1",
+            "image_url": "https://pbs.twimg.com/media/HRxSKJMbYAAuiRA?format=jpg&name=small",
+            "published": "2026-09-09",
+            "checked": "2026-09-14",
+            "source_summary": "A vehicle hero image combined with bold type and a compact specification hierarchy.",
+            "adaptation": "Changes the automotive advertisement to an unbranded mobility design study and removes unsupported specifications.",
+            "model_claim": "GPT Image 2.5, as described by the author; not independently verified",
+            "image_role": "external-source-preview",
+            "rights": "Third-party reference; not covered by this repository MIT license. Linked remotely, not copied into assets."
+          },
+          "usage": {
+            "best_for": "Source-attributed campaign and presentation concepts.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Use the repository result to assess the adapted brief; the linked X preview illustrates a different original prompt.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
+        },
+        {
+          "id": "P089",
+          "title": {
+            "en": "Paper-window weekend destination card"
+          },
+          "ratio": "2:3",
+          "mode": "generate",
+          "languages": [
+            "en"
+          ],
+          "brief": {
+            "en": "Create a tactile travel concept card for a fictional lakeside retreat named PINE QUIET. A rectangular opening in thick ivory card reveals a tiny Nordic-inspired lake, three red cabins and dark pines. Give the opening stepped paper layers with soft consistent shadows, as if the landscape is built inside a shallow box. Keep the upper quarter clean for the title PINE QUIET and the smaller line A SLOW WEEKEND. Place a single small canoe on the lake to establish scale. Use restrained forest green, muted brick red and mist blue, photographed in diffuse window light."
+          },
+          "constraints": {
+            "en": "No real location claims, maps, coordinates, travel stamps or crowded collage elements. Keep all cabins aligned to the ground."
+          },
+          "revision": {
+            "en": "Move the lighting from morning to overcast afternoon without changing the paper opening, cabins, typography or canoe."
+          },
+          "review": {
+            "en": "Inspect paper edge depth and shadow direction; check canoe scale, title spelling and three-cabin count."
+          },
+          "customization": {
+            "parameter": "Landscape",
+            "default": "fictional lake retreat",
+            "alternatives": "desert observatory or mountain refuge",
+            "preserve": "paper depth and two-line hierarchy"
+          },
+          "status": "template-not-rendered",
+          "source_url": "https://x.com/ou_zhen599/status/2098729446094287023",
+          "source_reference": {
+            "id": "P089",
+            "author": "Loriel.AI",
+            "handle": "@ou_zhen599",
+            "url": "https://x.com/ou_zhen599/status/2098729446094287023",
+            "photo_url": "https://x.com/ou_zhen599/status/2098729446094287023/photo/1",
+            "image_url": "https://pbs.twimg.com/media/HSAvSq6a0AEn-9H?format=jpg&name=small",
+            "published": "2026-09-12",
+            "checked": "2026-09-14",
+            "source_summary": "A miniature destination revealed through layered paper.",
+            "adaptation": "Uses a fictional lake, rectangular aperture and reduced copy rather than reproducing the coastal tourism composition.",
+            "model_claim": "GPT Image 2.5, as described by the author; not independently verified",
+            "image_role": "external-source-preview",
+            "rights": "Third-party reference; not covered by this repository MIT license. Linked remotely, not copied into assets."
+          },
+          "usage": {
+            "best_for": "Source-attributed campaign and presentation concepts.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Use the repository result to assess the adapted brief; the linked X preview illustrates a different original prompt.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
+        },
+        {
+          "id": "P090",
+          "title": {
+            "en": "Sketch-to-building concept reveal"
+          },
+          "ratio": "16:9",
+          "mode": "generate",
+          "languages": [
+            "en"
+          ],
+          "brief": {
+            "en": "Produce a single architectural concept illustration for a fictional neighborhood library. Across one continuous horizon, let a loose graphite sketch on the left develop through a restrained wireframe zone into a finished timber-and-glass building on the right. Preserve the same three stepped roof bays throughout the transition. Show one accessible ground-level entrance, a sheltered reading terrace and a few small adult silhouettes for scale. Use a neutral sky and quiet plaza so the progression from line to material remains the subject. Maintain one camera position and one vanishing-point system across the entire composition."
+          },
+          "constraints": {
+            "en": "One static visualization; not a construction drawing. No named architect imitation, impossible cantilevers, labels or animation claims."
+          },
+          "revision": {
+            "en": "Make only the middle wireframe zone narrower, preserving the building footprint and the finished right-hand facade."
+          },
+          "review": {
+            "en": "Trace each roof bay across the transition and check perspective continuity, entrance scale and structural plausibility."
+          },
+          "customization": {
+            "parameter": "Building use",
+            "default": "neighborhood library",
+            "alternatives": "community gallery or visitor center",
+            "preserve": "three roof bays and shared perspective"
+          },
+          "status": "template-not-rendered",
+          "source_url": "https://x.com/XiaoKooeye/status/2099408374249169169",
+          "source_reference": {
+            "id": "P090",
+            "author": "Xiao Yang",
+            "handle": "@XiaoKooeye",
+            "url": "https://x.com/XiaoKooeye/status/2099408374249169169",
+            "photo_url": "https://x.com/XiaoKooeye/status/2099408374249169169/photo/1",
+            "image_url": "https://pbs.twimg.com/media/HSKYrJOa0AAIzIW?format=jpg&name=small",
+            "published": "2026-09-14",
+            "checked": "2026-09-14",
+            "source_summary": "A hand-drawn architectural idea transitions into a rendered building.",
+            "adaptation": "Expands a short Chinese concept into an English architectural presentation brief with a new building and continuity criteria.",
+            "model_claim": "GPT Image 2.5, as described by the author; not independently verified",
+            "image_role": "external-source-preview",
+            "rights": "Third-party reference; not covered by this repository MIT license. Linked remotely, not copied into assets."
+          },
+          "usage": {
+            "best_for": "Source-attributed campaign and presentation concepts.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Use the repository result to assess the adapted brief; the linked X preview illustrates a different original prompt.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
+          }
+        },
+        {
+          "id": "P091",
+          "title": {
+            "en": "Community picnic announcement"
+          },
+          "ratio": "4:5",
+          "mode": "generate",
+          "languages": [
+            "en"
+          ],
+          "brief": {
+            "en": "Create a community picnic announcement photographed directly overhead on a pale woven mat. Arrange a strawberry bowl, two sandwiches wrapped in plain paper and one lemonade bottle along the left edge. Place a folded blue linen napkin and a small bunch of daisies at the bottom right. Reserve the central half as uninterrupted mat texture. Center the exact text MEET OUTSIDE, then SUNDAY AT NOON, then BRING A BLANKET in three distinct typographic levels. Use soft afternoon light and believable contact shadows. Aim for a friendly neighborhood invitation with sufficient contrast for mobile sharing."
+          },
+          "constraints": {
+            "en": "No extra utensils, real sponsor logos, invented address or food covering the text. No distressed or cursive text."
+          },
+          "revision": {
+            "en": "Replace only the strawberries with sliced peaches; preserve food positions, mat texture and all typography."
+          },
+          "review": {
+            "en": "Check each line character by character and confirm objects do not intrude into the central text area."
+          },
+          "customization": {
+            "parameter": "Seasonal food",
+            "default": "strawberries",
+            "alternatives": "peaches or grapes",
+            "preserve": "empty center and three-line invitation"
+          },
+          "status": "template-not-rendered",
+          "source_url": "https://x.com/ou_zhen599/status/2099407139836166552",
+          "source_reference": {
+            "id": "P091",
+            "author": "Loriel.AI",
+            "handle": "@ou_zhen599",
+            "url": "https://x.com/ou_zhen599/status/2099407139836166552",
+            "photo_url": "https://x.com/ou_zhen599/status/2099407139836166552/photo/1",
+            "image_url": "https://pbs.twimg.com/media/HSKXpjfbQAAQJDj?format=jpg&name=small",
+            "published": "2026-09-14",
+            "checked": "2026-09-14",
+            "source_summary": "Food frames an open central area reserved for readable event text.",
+            "adaptation": "Changes the surface, object arrangement and copy into a practical community announcement with explicit readability checks.",
+            "model_claim": "GPT Image 2.5, as described by the author; not independently verified",
+            "image_role": "external-source-preview",
+            "rights": "Third-party reference; not covered by this repository MIT license. Linked remotely, not copied into assets."
+          },
+          "usage": {
+            "best_for": "Source-attributed campaign and presentation concepts.",
+            "inputs": "No reference upload is required for this default text-to-image prompt.",
+            "review_workflow": "Use the repository result to assess the adapted brief; the linked X preview illustrates a different original prompt.",
+            "delivery": "Use the target ratio as a framing request; inspect actual pixel dimensions before export."
           }
         }
       ]

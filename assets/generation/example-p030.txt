@@ -1,0 +1,4 @@
+Asset: Workshop process slide. Target aspect ratio: 16:9. Mode: generate.
+Design a clean slide titled "FROM IDEA TO OBJECT". Four horizontal cards read "SKETCH", "PROTOTYPE", "TEST", "REFINE", each with one original simple illustration: pencil drawing, cardboard model, hand testing fit, finished wooden object. Use equal card sizes, thin arrows, cream background and alternating blue and rust accents.
+Constraints: One illustration per stage; no extra steps or unsupported business claims.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

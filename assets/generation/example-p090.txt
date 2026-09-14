@@ -1,0 +1,4 @@
+Asset: Sketch-to-building concept reveal. Target aspect ratio: 16:9. Mode: generate.
+Produce a single architectural concept illustration for a fictional neighborhood library. Across one continuous horizon, let a loose graphite sketch on the left develop through a restrained wireframe zone into a finished timber-and-glass building on the right. Preserve the same three stepped roof bays throughout the transition. Show one accessible ground-level entrance, a sheltered reading terrace and a few small adult silhouettes for scale. Use a neutral sky and quiet plaza so the progression from line to material remains the subject. Maintain one camera position and one vanishing-point system across the entire composition.
+Constraints: One static visualization; not a construction drawing. No named architect imitation, impossible cantilevers, labels or animation claims.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

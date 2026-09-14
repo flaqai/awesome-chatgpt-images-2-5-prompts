@@ -1,0 +1,4 @@
+Asset: Podcast editorial cover. Target aspect ratio: 1:1. Mode: generate.
+Create a tactile cover for a fictional podcast "ROOM TO THINK". A folded paper chair sits inside a vast pale-blue room, casting a sharply defined long navy shadow. Set the title in three short lines at top left with bold cream typography; small "WITH ELLIS" below. Minimal conceptual photography with subtle paper fibers and intentional negative space.
+Constraints: No microphones, platform logos, badges or extra names.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

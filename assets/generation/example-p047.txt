@@ -1,0 +1,4 @@
+Asset: Courtyard planting concept. Target aspect ratio: 1:1. Mode: generate.
+Create a top-down landscape concept for a small rectangular courtyard. A central gravel oval surrounds one tree; a straight stepping-stone path connects bottom entrance to top seating bench. Low grasses edge the perimeter. Use softly rendered plan graphics, muted green and sand colors, and no text.
+Constraints: Keep all elements inside the boundary; no scale certification or species suitability claims.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

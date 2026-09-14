@@ -1,0 +1,4 @@
+Asset: Neighborhood lunch special. Target aspect ratio: 4:5. Mode: generate.
+Photograph a roast squash bowl with chickpeas, rice and herb dressing from a low three-quarter angle on a brushed steel café table. Use honest serving proportions and daylight, not excessive steam. Above the bowl place exact dark-green text "A GOOD LUNCH"; below "ROAST SQUASH BOWL". A small coral square balances a cream background.
+Constraints: No nutritional values, dietary certification or fabricated discount.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

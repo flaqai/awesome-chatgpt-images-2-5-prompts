@@ -1,0 +1,4 @@
+Asset: Risograph neighborhood zine. Target aspect ratio: 4:5. Mode: generate.
+Create a two-ink risograph-inspired zine cover titled "AROUND THE BLOCK". An original collage of a bicycle wheel, apartment window, potted plant and corner-shop awning forms a loose vertical stack. Use indigo and fluorescent-coral appearance on cream paper, subtle registration offset and halftone texture.
+Constraints: No additional publication logos or fake issue numbers; keep title readable through texture.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

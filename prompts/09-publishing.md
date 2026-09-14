@@ -20,7 +20,19 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** generate · **Target:** 2:3 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Book covers, editorial pages and print concept development.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check safe margins, exact copy and page hierarchy; add print specifications in a layout application. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Quiet orchard book cover — original generated example](../assets/images/example-p049.png)
+
+[Quiet orchard book cover — generated example: exact prompt / 实际提示词](../assets/generation/example-p049.txt)
+
+**Observed review:** Title and author are readable; pear tree and oversized shadow follow the concept. Cream-on-peach title contrast is modest.
 
 ### English
 
@@ -60,7 +72,19 @@ Increase only title contrast without moving the tree or changing typography.
 
 **Mode:** generate · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Book covers, editorial pages and print concept development.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check safe margins, exact copy and page hierarchy; add print specifications in a layout application. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Recipe editorial spread — original generated example](../assets/images/example-p050.png)
+
+[Recipe editorial spread — generated example: exact prompt / 实际提示词](../assets/generation/example-p050.txt)
+
+**Observed review:** Title and three steps are readable; the spread uses realistic book curvature and adds step numbers 1–3.
 
 ### English
 
@@ -100,7 +124,23 @@ Move only the small step illustrations closer to their labels, avoiding the gutt
 
 **Mode:** generate · **Target:** 4:5 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Book covers, editorial pages and print concept development.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check safe margins, exact copy and page hierarchy; add print specifications in a layout application. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/example-p051.png)
+
+![Annual review cover — original generated example](../assets/images/example-p051-v2.png)
+
+[Annual review cover — refined result: exact prompt / 实际提示词](../assets/generation/example-p051-v2.txt)
+
+**Observed review:** Title and 2026 REVIEW are legible on cream. Five translucent paper shapes remain an illustrative composition, not a data visualization.
 
 ### English
 
@@ -140,7 +180,19 @@ Change only the year to "2027 REVIEW", preserving every graphic element.
 
 **Mode:** generate · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Book covers, editorial pages and print concept development.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check safe margins, exact copy and page hierarchy; add print specifications in a layout application. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Editorial attention metaphor — original generated example](../assets/images/example-p052.png)
+
+[Editorial attention metaphor — generated example: exact prompt / 实际提示词](../assets/generation/example-p052.txt)
+
+**Observed review:** One orange focal flower and a wall separating the notification field are clear; no readable text is added.
 
 ### English
 
@@ -180,7 +232,19 @@ Reduce only the number of paper notifications by half.
 
 **Mode:** generate · **Target:** 2:3 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Book covers, editorial pages and print concept development.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check safe margins, exact copy and page hierarchy; add print specifications in a layout application. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Botanical ink print — original generated example](../assets/images/example-p053.png)
+
+[Botanical ink print — generated example: exact prompt / 实际提示词](../assets/generation/example-p053.txt)
+
+**Observed review:** Three main reed stems and vermilion sun are visible; the scene expands into a distant landscape beyond the requested small pool.
 
 ### English
 
@@ -220,7 +284,19 @@ Make only the sun slightly smaller, preserving brushwork and empty space.
 
 **Mode:** generate · **Target:** 4:5 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Book covers, editorial pages and print concept development.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check safe margins, exact copy and page hierarchy; add print specifications in a layout application. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Risograph neighborhood zine — original generated example](../assets/images/example-p054.png)
+
+[Risograph neighborhood zine — generated example: exact prompt / 实际提示词](../assets/generation/example-p054.txt)
+
+**Observed review:** Title is legible; bicycle, window, plant and awning form a cohesive two-ink-style collage.
 
 ### English
 

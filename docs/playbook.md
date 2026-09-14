@@ -1,6 +1,6 @@
 # ChatGPT Images 2.5 玩法推荐：从一张图到一组作品
 
-由 [flaq.ai](https://flaq.ai) 团队整理。这里把现有97条提示词串成可操作的创作路线：准备素材、选配方、检查结果，再继续下一步。路线组合不重复计入配方数量，也不代表这些玩法是2.5独占功能。
+由 [flaq.ai](https://flaq.ai) 团队整理。这里把现有103条提示词串成可操作的创作路线：准备素材、选配方、检查结果，再继续下一步。路线组合不重复计入配方数量，也不代表这些玩法是2.5独占功能。
 
 第一次使用建议从“商品换色”或“海报换字”开始：目标小、结果易比较。模型选择和已核实升级说明见 [Image 2与2.5对比](images-2-vs-2-5.md)。
 
@@ -121,7 +121,7 @@
 
 This playbook connects existing recipes into ten practical workflows: product variants, multilingual posters, pet portraits, headshots and styling, room refreshes, sketch-led visualization, character stories, educational visuals, brand families and photo restoration. Start from a suitable reference, approve one result, then change one variable. Inspect identity, geometry, text and earlier decisions after every edit.
 
-The embedded images are existing repository examples, not newly run model comparisons. Most linked templates remain unrendered. Read the [model comparison](images-2-vs-2-5.md) and [generation log](generation-log.md) for the evidence boundaries.
+The embedded images are existing repository examples, not newly run model comparisons. All linked recipes now have generated examples and observed review notes; optional follow-up suggestions are separate steps. Read the [model comparison](images-2-vs-2-5.md) and [generation log](generation-log.md) for the evidence boundaries.
 
 ## 来源说明
 

@@ -1,0 +1,4 @@
+Asset: Ingredient-built bakery lettering. Target aspect ratio: 4:5. Mode: generate.
+Develop a launch poster for the fictional bakery LOOP & CRUMB. Construct the single word TWIST from braided baked dough on a pale blue enamel surface. Use a straight overhead camera. Make the letters occupy the upper two thirds, with a separate small printed line reading SATURDAY BAKES beneath them. Show browned crust, occasional flour and the braided joints at close range. Leave generous separation between the five letters and use one consistent morning light direction. This is a bakery window poster that must remain readable as a phone thumbnail.
+Constraints: Exactly five edible letters; no sauce, badges or background word patterns. Keep holes and gaps open.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

@@ -20,7 +20,23 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** generate · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Brand direction and interface presentation concepts.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check spelling and hierarchy; redraw final vectors or implement actual interface components separately. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/example-p031.png)
+
+![Independent ceramics wordmark — original generated example](../assets/images/example-p031-v2.png)
+
+[Independent ceramics wordmark — refined result: exact prompt / 实际提示词](../assets/generation/example-p031-v2.txt)
+
+**Observed review:** Black wordmark and cream reverse lettering on clay are readable on an opaque light background. This is raster concept artwork, not a vector logo.
 
 ### English
 
@@ -60,7 +76,19 @@ Adjust only the spacing between F and T, preserving every letterform.
 
 **Mode:** generate · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Brand direction and interface presentation concepts.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check spelling and hierarchy; redraw final vectors or implement actual interface components separately. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Museum wayfinding family — original generated example](../assets/images/example-p032.png)
+
+[Museum wayfinding family — generated example: exact prompt / 实际提示词](../assets/generation/example-p032.txt)
+
+**Observed review:** Three signs, readable labels and correct arrow directions are present; the matching square motif is more decorative than a plain square.
 
 ### English
 
@@ -100,7 +128,19 @@ Change only sign material to painted wood while retaining navy and ivory colors.
 
 **Mode:** generate · **Target:** 4:5 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Brand direction and interface presentation concepts.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check spelling and hierarchy; redraw final vectors or implement actual interface components separately. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Book-club mobile app concept — original generated example](../assets/images/example-p033.png)
+
+[Book-club mobile app concept — generated example: exact prompt / 实际提示词](../assets/generation/example-p033.txt)
+
+**Observed review:** All requested labels and the primary button are readable; this is a raster UI concept with no implemented interaction.
 
 ### English
 
@@ -140,7 +180,19 @@ Change only the primary button to dark green; keep layout and wording.
 
 **Mode:** generate · **Target:** 16:9 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Brand direction and interface presentation concepts.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check spelling and hierarchy; redraw final vectors or implement actual interface components separately. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Workshop booking landing page — original generated example](../assets/images/example-p034.png)
+
+[Workshop booking landing page — generated example: exact prompt / 实际提示词](../assets/generation/example-p034.txt)
+
+**Observed review:** Headline, supporting copy, navigation and button are readable; stool looks completed rather than half-built.
 
 ### English
 
@@ -180,14 +232,26 @@ Replace only the hero photo with a hand-planed wooden bowl scene, preserving the
 
 **Mode:** generate · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Brand direction and interface presentation concepts.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check spelling and hierarchy; redraw final vectors or implement actual interface components separately. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Tea packaging family — original generated example](../assets/images/example-p035.png)
+
+[Tea packaging family — generated example: exact prompt / 实际提示词](../assets/generation/example-p035.txt)
+
+**Observed review:** Three cartons and requested variant names are legible. Extra TEA and SMALL LEAVES BIG CONVERSATIONS copy was generated; remove or approve this before production.
 
 ### English
 
 ```text
 Asset: Tea packaging family. Target aspect ratio: 3:2. Mode: generate.
 Create three matching paper tea cartons for fictional "FIELD LETTER". Same geometry and cream label system; variants "MINT", "ROOIBOS", "OOLONG" use green, rust and blue side panels. Arrange front-facing cartons on a neutral plinth with consistent scale and readable titles. Natural paper fibers, soft studio shadows.
-Constraints: Exactly three cartons; no health promises, weights, certifications or barcodes.
+Constraints: Exactly three cartons; no health promises, weights, certifications or barcodes. The only visible lettering is FIELD LETTER and the three variant names; leave all other package areas free of slogans or invented copy.
 Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
 ```
 
@@ -196,7 +260,7 @@ Render only explicitly requested image text. Do not add unrelated logos, signatu
 ```text
 交付物：茶叶包装家族。目标比例：3:2。模式：新建。
 为虚构“FIELD LETTER”制作三款统一纸茶盒，同一结构和奶油标签；“MINT”“ROOIBOS”“OOLONG”分别搭配绿、铁锈、蓝侧板。等比例正面排列于中性台面，标题可读、天然纸纤维、柔和影棚阴影。
-约束：仅三个盒子，不加健康承诺、重量、认证和条码。
+约束：仅三个盒子，不加健康承诺、重量、认证和条码。 只显示FIELD LETTER和三种口味名称，其他包装区域不添加口号或虚构文案。
 只渲染明确要求的图中文字，不添加无关标识、签名或说明。
 ```
 
@@ -220,7 +284,19 @@ Change only the OOLONG side-panel blue to deeper navy.
 
 **Mode:** generate · **Target:** 16:9 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Brand direction and interface presentation concepts.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check spelling and hierarchy; redraw final vectors or implement actual interface components separately. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Creator dashboard concept — original generated example](../assets/images/example-p036.png)
+
+[Creator dashboard concept — generated example: exact prompt / 实际提示词](../assets/generation/example-p036.txt)
+
+**Observed review:** Sidebar, three project cards and review time are readable; spacing is coherent for a dashboard concept.
 
 ### English
 

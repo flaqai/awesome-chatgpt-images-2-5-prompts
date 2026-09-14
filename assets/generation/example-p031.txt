@@ -1,0 +1,4 @@
+Asset: Independent ceramics wordmark. Target aspect ratio: 3:2. Mode: generate.
+Explore an original wordmark "SOFT KILN" for a small ceramics studio. Show one primary black wordmark large on warm ivory, with subtly rounded terminals and broad letter spacing, plus one small reversed version on a terracotta rectangle below. Keep it flat, monochrome and suitable for later vector reconstruction.
+Constraints: No copied logo shapes, faux trademark marks, 3D mockups or additional names.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

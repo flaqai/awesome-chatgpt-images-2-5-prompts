@@ -1,0 +1,4 @@
+Asset: Museum wayfinding family. Target aspect ratio: 3:2. Mode: generate.
+Create a wayfinding concept board for a fictional craft museum. Three matching matte navy signs on cream read "GALLERY →", "WORKSHOP ↑", "CAFÉ ←" in large ivory sans serif. Add a small consistent geometric square symbol to each. Present signs front-on with a narrow material detail strip below.
+Constraints: Preserve arrow directions and equal text sizes; no emergency-exit or accessibility certification claims.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

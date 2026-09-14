@@ -1,0 +1,4 @@
+Asset: Editorial attention metaphor. Target aspect ratio: 3:2. Mode: generate.
+Illustrate attention as a small gardener carefully watering one bright orange flower while a sea of gray paper notifications drifts beyond a low garden wall. Original gouache editorial style, cream negative space, muted blue and sage, gently humorous without text. Keep one focal flower and a clear wall boundary.
+Constraints: No recognizable app icons, named artists or borrowed characters.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

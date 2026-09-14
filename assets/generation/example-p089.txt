@@ -1,0 +1,4 @@
+Asset: Paper-window weekend destination card. Target aspect ratio: 2:3. Mode: generate.
+Create a tactile travel concept card for a fictional lakeside retreat named PINE QUIET. A rectangular opening in thick ivory card reveals a tiny Nordic-inspired lake, three red cabins and dark pines. Give the opening stepped paper layers with soft consistent shadows, as if the landscape is built inside a shallow box. Keep the upper quarter clean for the title PINE QUIET and the smaller line A SLOW WEEKEND. Place a single small canoe on the lake to establish scale. Use restrained forest green, muted brick red and mist blue, photographed in diffuse window light.
+Constraints: No real location claims, maps, coordinates, travel stamps or crowded collage elements. Keep all cabins aligned to the ground.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

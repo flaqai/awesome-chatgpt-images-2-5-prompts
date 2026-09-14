@@ -1,0 +1,4 @@
+Asset: Analog weekend portrait. Target aspect ratio: 3:2. Mode: generate.
+Photograph two fictional adult friends preparing tea at a small kitchen counter. One pours from a ceramic pot while the other reaches for a cup. Overcast window light, subdued amber and sage colors, restrained 35mm-film grain, candid mid-action composition. Keep the kitchen practical and comfortably imperfect.
+Constraints: Two adults, anatomically credible hands, no beauty-ad retouching or captions.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

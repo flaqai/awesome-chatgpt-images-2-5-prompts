@@ -1,0 +1,5 @@
+Asset: Pet remembrance watercolor. Target aspect ratio: 4:5. Mode: edit.
+Translate Image 1 of the pet into a gentle watercolor portrait on warm white paper. Preserve the animal’s distinctive face and coat, resting comfortably among loosely painted meadow flowers. Leave the bottom fifth blank for a separately typeset dedication. Use translucent washes and a few precise eye and nose details.
+Constraints: Do not invent a name, date, halo, wings or text; keep its natural anatomy.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
+The attached inputs are original synthetic demonstration assets created for this repository, not photographs of actual customers.

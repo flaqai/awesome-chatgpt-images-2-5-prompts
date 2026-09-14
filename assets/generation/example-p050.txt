@@ -1,0 +1,4 @@
+Asset: Recipe editorial spread. Target aspect ratio: 3:2. Mode: generate.
+Design a cookbook spread concept for "ROASTED CARROTS". Left page has a warm overhead photograph of carrots with yogurt and herbs; right page has three short exact steps: "ROAST", "SPOON", "SERVE" with small corresponding line drawings. Cream stock, rust section markers, a wide center gutter and restrained serif headline.
+Constraints: Layout concept only; no invented cooking times, temperatures or ingredient quantities.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

@@ -20,7 +20,19 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** generate · **Target:** 2:3 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Social posts, event announcements and editorial covers.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check the headline at phone size and keep essential copy away from crop edges. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Repair café event poster — original generated example](../assets/images/example-p007.png)
+
+[Repair café event poster — generated example: exact prompt / 实际提示词](../assets/generation/example-p007.txt)
+
+**Observed review:** Headline, date, time and venue are readable; repaired mug and tools form a coherent print illustration.
 
 ### English
 
@@ -60,7 +72,19 @@ Replace only the date with "SAT 21 NOV"; preserve hierarchy and line breaks.
 
 **Mode:** generate · **Target:** 16:9 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Social posts, event announcements and editorial covers.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check the headline at phone size and keep essential copy away from crop edges. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Creator thumbnail with one idea — original generated example](../assets/images/example-p008.png)
+
+[Creator thumbnail with one idea — generated example: exact prompt / 实际提示词](../assets/generation/example-p008.txt)
+
+**Observed review:** Headline and sanding block are clear with the chair centered. The restored section is subtle rather than a sharply demarcated before/after.
 
 ### English
 
@@ -100,7 +124,19 @@ Enlarge only the title by 15%, leaving its left margin and subject position unch
 
 **Mode:** generate · **Target:** 4:5 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Social posts, event announcements and editorial covers.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check the headline at phone size and keep essential copy away from crop edges. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Carousel cover for slow travel — original generated example](../assets/images/example-p009.png)
+
+[Carousel cover for slow travel — generated example: exact prompt / 实际提示词](../assets/generation/example-p009.txt)
+
+**Observed review:** Headline and slide number are legible; the red train follows a coherent curve through the landscape.
 
 ### English
 
@@ -140,7 +176,19 @@ Make a second cover by changing only the title to "PACK A LITTLE LESS" and page 
 
 **Mode:** generate · **Target:** 4:5 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Social posts, event announcements and editorial covers.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check the headline at phone size and keep essential copy away from crop edges. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Neighborhood lunch special — original generated example](../assets/images/example-p010.png)
+
+[Neighborhood lunch special — generated example: exact prompt / 实际提示词](../assets/generation/example-p010.txt)
+
+**Observed review:** Both copy lines are readable and the bowl ingredients are identifiable. Additional background foliage and cutlery appear, so the result is less minimal than the brief.
 
 ### English
 
@@ -180,7 +228,19 @@ Change only the coral square to cobalt blue; keep food and text unchanged.
 
 **Mode:** generate · **Target:** 1:1 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Social posts, event announcements and editorial covers.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check the headline at phone size and keep essential copy away from crop edges. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Podcast editorial cover — original generated example](../assets/images/example-p011.png)
+
+[Podcast editorial cover — generated example: exact prompt / 实际提示词](../assets/generation/example-p011.txt)
+
+**Observed review:** Paper chair, long shadow and all requested lettering read clearly.
 
 ### English
 
@@ -220,7 +280,19 @@ Shorten only the shadow by one third while keeping light direction consistent.
 
 **Mode:** generate · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Social posts, event announcements and editorial covers.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Check the headline at phone size and keep essential copy away from crop edges. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Seasonal market campaign — original generated example](../assets/images/example-p012.png)
+
+[Seasonal market campaign — generated example: exact prompt / 实际提示词](../assets/generation/example-p012.txt)
+
+**Observed review:** Market miniatures have distinct paper and textile surfaces; the headline and market label are readable.
 
 ### English
 

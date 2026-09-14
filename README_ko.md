@@ -6,7 +6,10 @@
 
 ![flaq.ai — ChatGPT Images 2.5](assets/images/cover.png)
 
-총 97개 레시피와 14개 팩, 새로 생성한 이미지 28개를 제공합니다. 핵심 레시피 73개는 영어와 중국어 간체로 작성되었으며, 별도로 12개 언어별 레시피가 있습니다. README는 16개 언어·지역 버전으로 제공되지만 전체 프롬프트의 한국어 번역을 뜻하지는 않습니다. 영어로만 제공되는 새 작업 흐름 레시피 12개도 포함되어 있습니다.
+총 103개 레시피와 15개 팩, 새로 생성한 이미지 139개를 제공합니다. 핵심 레시피 73개는 영어와 중국어 간체로 작성되었으며, 별도로 12개 언어별 레시피가 있습니다. README는 16개 언어·지역 버전으로 제공되지만 전체 프롬프트의 한국어 번역을 뜻하지는 않습니다. 영어로만 제공되는 새 작업 흐름 레시피 18개도 포함되어 있습니다.
+
+
+**[103개 레시피 이미지 갤러리](docs/gallery.md)**
 
 ## 시작하기
 
@@ -36,6 +39,8 @@
 
 ## 자료와 참여
 
-[97 prompts](prompts/README.md) · [Before / after](docs/launch-examples.md) · [Generation log](docs/generation-log.md) · [OpenAI API guide](docs/api-guide.md) · [Contributing](CONTRIBUTING.md)
+[103 prompts](prompts/README.md) · [Before / after](docs/launch-examples.md) · [Generation log](docs/generation-log.md) · [OpenAI API guide](docs/api-guide.md) · [Contributing](CONTRIBUTING.md)
 
 OpenAI와 제휴하거나 OpenAI의 보증을 받은 프로젝트가 아닙니다. [MIT License](LICENSE) © 2026 Flaq AI.
+
+[X community: 6 English prompts, original posts and source image previews](prompts/15-x-community.md)

@@ -32,13 +32,23 @@ def main():
     recipes=[r for p in catalog['packs'] for r in p['recipes']]
     ids=[r['id'] for r in recipes+locales]
     require(len(ids)==len(set(ids)), 'Duplicate recipe IDs')
-    require(len(recipes)==85 and len(locales)==12, 'Update documented recipe totals for this release')
-    require(sum(r.get('languages')==['en'] for r in recipes)==12, 'Expected 12 English-only workflow recipes')
-    require(len(catalog['packs'])==13, 'Expected 13 core packs')
+    require(len(recipes)==91 and len(locales)==12, 'Update documented recipe totals for this release')
+    require(sum(r.get('languages')==['en'] for r in recipes)==18, 'Expected 18 English-only workflow recipes')
+    require(len(catalog['packs'])==14, 'Expected 14 core packs')
     require(len({r['language'] for r in locales})==12, 'Expected 12 language briefs')
     require(len(exported['core'])==len(recipes), 'Exported core count mismatch')
     require(exported['localized']==locales, 'Stale localized export: rebuild catalog')
     byid={r['id']:r for r in exported['core']}
+    sources=read_json('data/x-sources.json')['sources']
+    require(len(sources)==6, 'Expected six X source records')
+    source_recipes={r['id']:r for r in recipes if r.get('source_reference')}
+    require(set(source_recipes)=={s['id'] for s in sources}, 'X source-to-recipe mismatch')
+    for source in sources:
+        require(source_recipes[source['id']]['source_reference']==source, 'Stale X source metadata')
+        require(re.fullmatch(r'https://x\.com/[A-Za-z0-9_]+/status/\d+',source['url']) is not None, 'Invalid X post URL')
+        require(source['photo_url'].startswith(source['url']+'/photo/'), 'X photo belongs to a different post')
+        require(urlsplit(source['image_url']).netloc=='pbs.twimg.com', 'Unexpected source image host')
+        require(source['image_role']=='external-source-preview' and bool(source['rights']), 'Missing external image disclosure')
     for r in recipes:
         languages = r.get('languages', ['en','zh'])
         require(languages in [['en'], ['en','zh']], f'{r["id"]}: unsupported recipe languages')
@@ -54,7 +64,10 @@ def main():
             require(exported_r.get(field)==r[field],f'{r["id"]}: stale exported {field}')
         for lang in languages:
             require(r['brief'][lang] in exported_r.get('prompt',{}).get(lang,''),f'{r["id"]}: missing full prompt')
-    require(len(manifest)==28,'Expected 28 recorded images')
+    require(len(manifest)==139,'Expected 139 recorded images')
+    covered={a['recipe_id'] for a in manifest if a.get('role') not in ('input','draft')}
+    require(set(ids).issubset(covered), 'Every recipe must have a generated result')
+    require({a['path'] for a in manifest}=={str(p.relative_to(ROOT)) for p in (ROOT/'assets/images').glob('*.png')}, 'Unrecorded or missing PNG files')
     require(len({a['path'] for a in manifest})==len(manifest),'Duplicate image records')
     for a in manifest:
         path=ROOT/a['path']

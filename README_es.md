@@ -6,7 +6,10 @@ Proyecto independiente de código abierto creado y mantenido por el equipo de [f
 
 ![flaq.ai — ChatGPT Images 2.5](assets/images/cover.png)
 
-97 recetas: 73 con instrucciones completas en inglés y chino simplificado, más 12 recetas específicas por idioma. Incluye 28 imágenes nuevas. Esta página es una introducción en español, no una traducción completa de la biblioteca. También incluye 12 nuevas recetas de flujo de trabajo disponibles solo en inglés.
+103 recetas: 73 con instrucciones completas en inglés y chino simplificado, más 12 recetas específicas por idioma. Incluye 139 imágenes nuevas. Esta página es una introducción en español, no una traducción completa de la biblioteca. También incluye 18 nuevas recetas de flujo de trabajo disponibles solo en inglés.
+
+
+**[Galería visual de las 103 recetas](docs/gallery.md)**
 
 ## Cómo empezar
 
@@ -37,3 +40,5 @@ Este proyecto no está afiliado a OpenAI. El material original se ofrece bajo [l
 Los enlaces de Flaq.ai siguientes corresponden a GPT Image 2. Para usar Images 2.5 directamente con OpenAI, consulta la [guía de API](docs/api-guide.md).
 
 [GPT Image 2 API](https://flaq.ai/models/openai/gpt-image-2/) · [GPT Image 2 Edit API](https://flaq.ai/models/openai/gpt-image-2-edit/) · [API docs](https://flaq.ai/docs/) · [Model market](https://flaq.ai/model-market/) · [Affiliate program](https://flaq.ai/affiliate-program/)
+
+[X community: 6 English prompts, original posts and source image previews](prompts/15-x-community.md)

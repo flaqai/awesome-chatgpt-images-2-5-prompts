@@ -22,11 +22,19 @@ Scenario inspiration: [Referenced prompt collection](https://github.com/PhiMaker
 
 **Mode:** generate · **Target:** 3:2 · **Author:** flaq.ai team
 
+**Best for:** Reusable product and storytelling design studies.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Change one customization parameter per attempt and compare against the approved example. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
 ![Repair collective editorial portrait, original flaq.ai example](../assets/images/studio-workshop.png)
 
 [Repair collective editorial portrait — original generation: exact prompt / 实际提示词](../assets/generation/studio-workshop.txt)
+
+**Observed review:** Subject, backpack seam and window light match the brief. Extra bowl and cloth appear on the foreground workbench; fingers and needle contact need close production review.
 
 ### Customize / 微调参数
 
@@ -76,11 +84,19 @@ Change only the apron from mustard to muted plum. Preserve the person, pose, bac
 
 **Mode:** generate · **Target:** 3:2 · **Author:** flaq.ai team
 
+**Best for:** Reusable product and storytelling design studies.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Change one customization parameter per attempt and compare against the approved example. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
 ![Four-step pour-over poster, original flaq.ai example](../assets/images/studio-brew.png)
 
 [Four-step pour-over poster — original generation: exact prompt / 实际提示词](../assets/generation/studio-brew.txt)
+
+**Observed review:** Four ordered columns and all requested labels are present. Kettles extend to panel edges; this is a simplified illustrated sequence, not a complete brewing procedure.
 
 ### Customize / 微调参数
 
@@ -130,11 +146,19 @@ Change only the coral accent color to moss green; preserve all labels, step orde
 
 **Mode:** generate · **Target:** 2:3 · **Author:** flaq.ai team
 
+**Best for:** Reusable product and storytelling design studies.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Change one customization parameter per attempt and compare against the approved example. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
 ![Pocket tram collectible packaging, original flaq.ai example](../assets/images/studio-tram.png)
 
 [Pocket tram collectible packaging — original generation: exact prompt / 实际提示词](../assets/generation/studio-tram.txt)
+
+**Observed review:** All three text lines match. One tram and one suitcase are visible. Three large side windows plus a narrow end window appear, so strict window count needs refinement.
 
 ### Customize / 微调参数
 
@@ -184,15 +208,29 @@ Change only the tram’s teal painted body panels to brick red. Preserve cream t
 
 **Mode:** generate · **Target:** 1:1 · **Author:** flaq.ai team
 
+**Best for:** Reusable product and storytelling design studies.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Change one customization parameter per attempt and compare against the approved example. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
 ![Handmade lighthouse island, original flaq.ai example](../assets/images/studio-lighthouse.png)
 
 [Handmade lighthouse island — original generation: exact prompt / 实际提示词](../assets/generation/studio-lighthouse.txt)
 
+**Observed review:** Two boats, one lighthouse, one boathouse and the whole cork base are visible. Foliage looks more like model landscaping than clearly identifiable felt.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/studio-lighthouse.png)
+
 ![Handmade lighthouse island with sage lighthouse roof](../assets/images/studio-lighthouse-edit.png)
 
 [Handmade lighthouse island — roof-color edit: exact prompt / 实际提示词](../assets/generation/studio-lighthouse-edit.txt)
+
+**Observed review:** Lighthouse roof and finial changed to sage while the boathouse roof stayed terracotta. Both boats remain. Shrubs, rocks and water texture drift noticeably; preservation is not pixel-identical.
 
 ### Customize / 微调参数
 
@@ -242,11 +280,19 @@ Change only the lighthouse roof from terracotta to muted sage green. Preserve al
 
 **Mode:** generate · **Target:** 2:3 · **Author:** flaq.ai team
 
+**Best for:** Reusable product and storytelling design studies.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Change one customization parameter per attempt and compare against the approved example. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
 ![Knitted keepsake greeting card, original flaq.ai example](../assets/images/studio-card.png)
 
 [Knitted keepsake greeting card — original generation: exact prompt / 实际提示词](../assets/generation/studio-card.txt)
+
+**Observed review:** Both requested phrases, repaired ear and two button eyes are visible. The title uses a small-cap-like treatment; confirm case styling and print legibility for final artwork.
 
 ### Customize / 微调参数
 
@@ -296,11 +342,19 @@ Change only the bottom line to “THINKING OF YOU”. Preserve the top headline,
 
 **Mode:** generate · **Target:** 2:3 · **Author:** flaq.ai team
 
+**Best for:** Reusable product and storytelling design studies.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Change one customization parameter per attempt and compare against the approved example. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
 ![Ceramics studio editorial collage, original flaq.ai example](../assets/images/studio-collage.png)
 
 [Ceramics studio editorial collage — original generation: exact prompt / 实际提示词](../assets/generation/studio-collage.txt)
+
+**Observed review:** Exactly four bordered prints and both requested text lines are visible. Bowl colors remain related; extra kitchen styling appears in the finished-bowl photo.
 
 ### Customize / 微调参数
 

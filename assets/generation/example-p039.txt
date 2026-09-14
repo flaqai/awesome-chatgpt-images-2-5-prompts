@@ -1,0 +1,4 @@
+Asset: Four-expression mascot sheet. Target aspect ratio: 1:1. Mode: generate.
+Create a 2×2 expression sheet for an original round pebble creature with two tiny leaf ears and one orange cheek spot. Expressions are curious, delighted, sleepy and surprised. Keep the same front-facing head size and pastel clay material in every cell on cream. Distinct expressions should come from eyelids and mouth, not changing the character.
+Constraints: Exactly four heads, no bodies, words or additional facial markings.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

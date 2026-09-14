@@ -1,0 +1,4 @@
+Asset: Annual review cover. Target aspect ratio: 4:5. Mode: generate.
+Create a restrained annual-review cover for a fictional community arts program. A stack of colored translucent paper rectangles forms an abstract rising composition on ivory. Exact text "A YEAR OF MAKING" and small "2026 REVIEW". Deep-blue editorial typography, large margins and subtle cast shadows.
+Constraints: No financial metrics, organization seals or impact claims.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

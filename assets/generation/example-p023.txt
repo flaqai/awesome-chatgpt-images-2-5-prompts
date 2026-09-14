@@ -1,0 +1,5 @@
+Asset: Sketch-guided planter placement. Target aspect ratio: 3:2. Mode: edit.
+Image 1 is the terrace photo; Image 2 is a rough sketch showing a planter along the left parapet. Use the sketch only for location and approximate silhouette. Add one low rectangular terracotta planter with three rosemary plants, consistent with the photo’s perspective and sun direction.
+Constraints: Remove sketch strokes from the result; preserve parapet, floor tiles, sky and camera angle.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
+The attached inputs are original synthetic demonstration assets created for this repository, not photographs of actual customers.

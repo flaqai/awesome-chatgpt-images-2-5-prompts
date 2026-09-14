@@ -1,0 +1,4 @@
+Asset: Three-stage rain garden explainer. Target aspect ratio: 3:2. Mode: generate.
+Create a classroom infographic titled "WHERE RAIN GOES". Three equal panels show rain falling on a roof, water entering a planted basin, and water soaking into soil. Exact panel labels: "COLLECT", "SLOW", "SOAK". Use simple cutaway illustrations, navy arrows, cream background and green plants. Leave clear separation between water routes and labels.
+Constraints: Do not depict purified drinking water or invent performance percentages.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

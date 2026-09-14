@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-09-14 — Illustrated library refresh
+
+- Filled all 85 previously missing recipe examples; all 103 recipes are illustrated.
+- Added 111 original PNG assets: 85 initial results, 19 synthetic editing inputs and seven refined outputs. The library now records 139 PNGs.
+- Added use cases, input requirements and production checks to 91 core recipes; separated initial localized prompts from follow-up edits.
+- Added a visual gallery, input links, exact generation prompts and observed image reviews. Updated all 16 README versions.
+
+## 1.4.0 — 2026-09-14
+
+- Add six English X community adaptations (P086–P091), each with author credit, original post, remote source image, customization and review criteria.
+- Record source metadata and distinguish external previews from original generated examples.
+- Update indexes and 16 README counts to 103 recipes across 15 packs; original generated-image count remains 28.
+
 ## 1.3.0 — 2026-09-11
 
 - Added 12 English-only workflow recipes, P074–P085, adapted and expanded from a credited Chinese practical article.

@@ -2,9 +2,9 @@
 
 [English](../README.md) · [简体中文](../README_zh.md)
 
-73 bilingual recipes + 12 English-only workflow recipes + 12 language-specific recipes. Translations and follow-ups are not counted as separate recipes.
+73 bilingual recipes + 18 English-only workflow recipes + 12 language-specific recipes. Translations and follow-ups are not counted as separate recipes.
 
-73 条中英双语配方 + 12 条英文工作流配方 + 12 条语言专用配方；翻译和后续修改不重复计数。
+73 条中英双语配方 + 18 条英文工作流配方 + 12 条语言专用配方；翻译和后续修改不重复计数。
 
 | ID | English | 中文 | Mode | Ratio |
 | --- | --- | --- | --- | --- |
@@ -93,6 +93,12 @@
 | P083 | [Sixteen-pose action reference sheet](14-sketch-to-story.md#p083) | English workflow | edit | 1:1 |
 | P084 | [Nine-shot music-video concept board](14-sketch-to-story.md#p084) | English workflow | edit | 3:2 |
 | P085 | [Sixteen-shot two-character narrative board](14-sketch-to-story.md#p085) | English workflow | edit | 1:1 |
+| P086 | [Ingredient-built bakery lettering](15-x-community.md#p086) | English workflow | generate | 4:5 |
+| P087 | [Six-frame fragrance launch board](15-x-community.md#p087) | English workflow | generate | 3:2 |
+| P088 | [Editorial mobility concept poster](15-x-community.md#p088) | English workflow | generate | 4:5 |
+| P089 | [Paper-window weekend destination card](15-x-community.md#p089) | English workflow | generate | 2:3 |
+| P090 | [Sketch-to-building concept reveal](15-x-community.md#p090) | English workflow | generate | 16:9 |
+| P091 | [Community picnic announcement](15-x-community.md#p091) | English workflow | generate | 4:5 |
 | L001 | [English · Repair workshop flyer](11-multilingual.md#l001) | en | generate | 2:3 |
 | L002 | [简体中文 · 城市慢生活海报](11-multilingual.md#l002) | zh-Hans | generate | 2:3 |
 | L003 | [日本語 · ベーカリーポスター](11-multilingual.md#l003) | ja | generate | 2:3 |

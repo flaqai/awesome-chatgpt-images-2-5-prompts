@@ -1,0 +1,4 @@
+Asset: Repair café event poster. Target aspect ratio: 2:3. Mode: generate.
+Create a community poster on recycled cream paper. An overhead arrangement of a small screwdriver, orange thread spool and repaired blue mug forms a loose circle. Large ink-blue headline "FIX IT TOGETHER" sits above; below use "SAT 14 NOV", "10:00–16:00", "RIVER HALL". A bright vermilion line ties the typography together. Flat print artwork with generous margins.
+Constraints: Fictional event; no QR code, sponsors, prices or unprovided details.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

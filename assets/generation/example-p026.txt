@@ -1,0 +1,4 @@
+Asset: Coffee tasting wheel for beginners. Target aspect ratio: 1:1. Mode: generate.
+Design a beginner tasting diagram with three equal outer sectors labeled "FRUITY", "NUTTY", "COCOA", surrounding the central title "TASTE NOTES". Place small original fruit, almond and cacao illustrations in their corresponding sectors. Cream paper, dark brown type, rust dividers, generous spacing. This is a simplified teaching graphic.
+Constraints: Exactly three sectors; no borrowed official tasting-wheel layout or additional terminology.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

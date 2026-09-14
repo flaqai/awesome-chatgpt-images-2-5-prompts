@@ -1,0 +1,4 @@
+Asset: Botanical ink print. Target aspect ratio: 2:3. Mode: generate.
+Paint an original botanical study of three wind-bent reed stems beside a small pool. Use black ink washes, dry-brush fibers and a single muted vermilion sun on warm rice-paper texture. Keep most of the upper half empty and let fine leaves contrast with soft water reflections.
+Constraints: No seal, calligraphy, artist signature or imitation of a specific artwork.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

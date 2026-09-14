@@ -1,0 +1,4 @@
+Asset: Mechanical coffee grinder cutaway. Target aspect ratio: 3:2. Mode: generate.
+Design a conceptual cutaway of a fictional manual coffee grinder on off-white. Arrange crank, lid, central shaft, conical burr and grounds cup in a vertical exploded stack. Five thin leaders end at the exact labels "Crank", "Lid", "Shaft", "Burr", "Cup". Show brushed steel, dark wood and ceramic with one consistent orthographic-like view. Add small "CONCEPT".
+Constraints: Concept illustration only; do not imply these are verified internals of a real product.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

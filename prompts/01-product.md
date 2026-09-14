@@ -20,11 +20,19 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** generate · **Target:** 3:2 · **Author:** flaq.ai team
 
+**Best for:** Catalog pages and product campaign pitches.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Compare silhouette, material, label spelling and usable crop margins before publication. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
 ![Navy portable lamp on coral plinth with LIGHT, UNPLUGGED headline](../assets/images/tideline-lamp.png)
 
 [Original campaign: exact prompt / 实际提示词](../assets/generation/tideline-lamp.txt)
+
+**Observed review:** Headline and brand are readable. Material appearance is illustrative; recycled content cannot be verified visually.
 
 ### English
 
@@ -64,7 +72,23 @@ Change only the base finish to muted jade; preserve shade, pull tab, framing and
 
 **Mode:** edit · **Target:** 1:1 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Catalog pages and product campaign pitches.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Compare silhouette, material, label spelling and usable crop margins before publication. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/cup-input.png)
+
+![Ceramic cup catalog — original generated example](../assets/images/example-p002.png)
+
+[Ceramic cup catalog — generated example: exact prompt / 实际提示词](../assets/generation/example-p002.txt)
+
+**Observed review:** The mug is isolated on white with a soft contact shadow. Glaze speckles and proportions vary slightly; this is a generated listing concept, not a pixel-exact cutout.
 
 ### English
 
@@ -104,7 +128,19 @@ Soften only the floor shadow; keep all cup pixels as close to the source as poss
 
 **Mode:** generate · **Target:** 4:5 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Catalog pages and product campaign pitches.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Compare silhouette, material, label spelling and usable crop margins before publication. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Skincare ingredient still life — original generated example](../assets/images/example-p003.png)
+
+[Skincare ingredient still life — generated example: exact prompt / 实际提示词](../assets/generation/example-p003.txt)
+
+**Observed review:** Amber bottle, linen and two leaves are present; MOSS HOUR and FACE OIL are readable with calm upper space.
 
 ### English
 
@@ -144,7 +180,19 @@ Replace only the linen with a pale sage cotton cloth, keeping folds similarly po
 
 **Mode:** generate · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Catalog pages and product campaign pitches.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Compare silhouette, material, label spelling and usable crop margins before publication. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Mechanical coffee grinder cutaway — original generated example](../assets/images/example-p004.png)
+
+[Mechanical coffee grinder cutaway — generated example: exact prompt / 实际提示词](../assets/generation/example-p004.txt)
+
+**Observed review:** Five requested labels and CONCEPT are readable and leaders are separated. The mechanism is a conceptual exploded illustration, not validated engineering.
 
 ### English
 
@@ -184,7 +232,23 @@ Increase only the gap between burr and cup; preserve labels and component count.
 
 **Mode:** edit · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Catalog pages and product campaign pitches.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Compare silhouette, material, label spelling and usable crop margins before publication. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/shoe-input.png)
+
+![Sneaker texture detail — original generated example](../assets/images/example-p005.png)
+
+[Sneaker texture detail — generated example: exact prompt / 实际提示词](../assets/generation/example-p005.txt)
+
+**Observed review:** Woven upper and sole texture are visible in the close-up. Fine stitch patterns are reconstructed rather than copied pixel for pixel.
 
 ### English
 
@@ -224,7 +288,19 @@ Reduce only the highlight strength on the rubber, retaining visible grain.
 
 **Mode:** generate · **Target:** 1:1 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Catalog pages and product campaign pitches.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Compare silhouette, material, label spelling and usable crop margins before publication. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Gift box unboxing flat lay — original generated example](../assets/images/example-p006.png)
+
+[Gift box unboxing flat lay — generated example: exact prompt / 实际提示词](../assets/generation/example-p006.txt)
+
+**Observed review:** Four-item overhead arrangement and STILL POST label match the brief; card remains blank.
 
 ### English
 

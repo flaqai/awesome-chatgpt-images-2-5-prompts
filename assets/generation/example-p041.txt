@@ -1,0 +1,4 @@
+Asset: Isometric rooftop garden. Target aspect ratio: 1:1. Mode: generate.
+Draw an isometric game environment of a tiny rooftop greenhouse. Include a glass structure at back, three raised planting beds, one water barrel and a narrow timber walkway. Moss green, warm brick and pale glass palette; detailed hand-painted textures with clear navigable spaces. Keep the whole floating rooftop tile visible.
+Constraints: Consistent isometric angles, no text, no characters and no hidden crop at tile edges.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

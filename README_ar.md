@@ -6,7 +6,10 @@
 
 ![flaq.ai — ChatGPT Images 2.5](assets/images/cover.png)
 
-تضم المكتبة 97 وصفة: 73 وصفة كاملة بالإنجليزية والصينية المبسطة، إضافة إلى 12 وصفة بلغات مختلفة. تتضمن 28 صورة مولّدة حديثاً. هذه الصفحة مدخل بالعربية وليست ترجمة كاملة للمكتبة. تتضمن المكتبة أيضاً 12 وصفة عمل جديدة باللغة الإنجليزية فقط.
+تضم المكتبة 103 وصفة: 73 وصفة كاملة بالإنجليزية والصينية المبسطة، إضافة إلى 12 وصفة بلغات مختلفة. تتضمن 139 صورة مولّدة حديثاً. هذه الصفحة مدخل بالعربية وليست ترجمة كاملة للمكتبة. تتضمن المكتبة أيضاً 18 وصفة عمل جديدة باللغة الإنجليزية فقط.
+
+
+**[معرض الوصفات المصوّرة: 103 وصفات](docs/gallery.md)**
 
 ## طريقة البدء
 
@@ -37,3 +40,5 @@
 روابط Flaq.ai التالية تخص GPT Image 2. لاستخدام Images 2.5 مباشرة عبر OpenAI، راجع [دليل API](docs/api-guide.md).
 
 [GPT Image 2 API](https://flaq.ai/models/openai/gpt-image-2/) · [GPT Image 2 Edit API](https://flaq.ai/models/openai/gpt-image-2-edit/) · [API docs](https://flaq.ai/docs/) · [Model market](https://flaq.ai/model-market/) · [Affiliate program](https://flaq.ai/affiliate-program/)
+
+[X community: 6 English prompts, original posts and source image previews](prompts/15-x-community.md)

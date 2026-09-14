@@ -28,9 +28,25 @@ Scenario inspiration: [Chinese workflow article by 羊羊AI视频](https://mp.we
 
 **Mode:** edit · **Target:** 1:1 · **Author:** flaq.ai team
 
-**Language:** English. Expanded adaptation of the linked workflow; no generated result is claimed.
+**Language:** English. Expanded adaptation; see the result status and source information below.
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Reference-led concept development, editorial design and storyboards.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Inspect every panel or text region separately; a coherent overall layout can hide local errors. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/curve-input.png)
+
+![One sketch, four concept directions — original generated example](../assets/images/example-p074.png)
+
+[One sketch, four concept directions — generated example: exact prompt / 实际提示词](../assets/generation/example-p074.txt)
+
+**Observed review:** Four concept panels translate the curved line into a chair, vessel, pavilion and lamp. The common silhouette is approximate, not a geometric trace.
 
 ### Customize
 
@@ -61,9 +77,25 @@ Develop only the upper-left bench concept into one landscape image. Preserve the
 
 **Mode:** edit · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Language:** English. Expanded adaptation of the linked workflow; no generated result is claimed.
+**Language:** English. Expanded adaptation; see the result status and source information below.
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Reference-led concept development, editorial design and storyboards.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Inspect every panel or text region separately; a coherent overall layout can hide local errors. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/bedroom-plan.png)
+
+![Bedroom plan to interior concept — original generated example](../assets/images/example-p075.png)
+
+[Bedroom plan to interior concept — generated example: exact prompt / 实际提示词](../assets/generation/example-p075.txt)
+
+**Observed review:** Bed, desk, window and wardrobe follow the plan’s broad arrangement. An extra plan inset is included; dimensions and clearances are not certified.
 
 ### Customize
 
@@ -74,7 +106,7 @@ Develop only the upper-left bench concept into one landscape image. Preserve the
 ```text
 Asset: Bedroom plan to interior concept. Target aspect ratio: 3:2. Mode: edit.
 Use the uploaded bedroom plan as the only layout reference. Treat its marked window, door, wardrobe, bed and desk positions as fixed; do not invent a different room arrangement. Turn the plan into a photorealistic interior concept viewed from the entrance toward the window. Translate the drawn furniture footprints into believable proportions, retaining the indicated walking route. Use pale oat walls, light ash timber, an ivory upholstered bed and a muted olive desk chair. Daylight enters only through the window shown in the plan; shadows must agree with its location. Show the bed, wardrobe and desk clearly in one landscape frame. Add only plain bedding and one desk lamp. Do not add a second window, extra furniture, plants, artwork, a computer or a rug. If the plan leaves a dimension ambiguous, keep that area simple rather than implying a measured architectural solution. No visible text.
-Constraints: Attach a labeled sketch with a clear entrance and window. This is a visual concept, not a dimensionally verified construction plan.
+Constraints: Attach a labeled sketch with a clear entrance and window. This is a visual concept, not a dimensionally verified construction plan. Deliver only the interior view: no floor-plan inset, split screen, diagram, labels or reference thumbnail.
 Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
 ```
 
@@ -94,9 +126,25 @@ Change only the wardrobe fronts from pale ash to matte ivory. Preserve all furni
 
 **Mode:** edit · **Target:** 1:1 · **Author:** flaq.ai team
 
-**Language:** English. Expanded adaptation of the linked workflow; no generated result is claimed.
+**Language:** English. Expanded adaptation; see the result status and source information below.
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Reference-led concept development, editorial design and storyboards.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Inspect every panel or text region separately; a coherent overall layout can hide local errors. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/character-input.png)
+
+![Doodle character across four media — original generated example](../assets/images/example-p076.png)
+
+[Doodle character across four media — generated example: exact prompt / 实际提示词](../assets/generation/example-p076.txt)
+
+**Observed review:** Four material/style variants retain coat, satchel and boots. The input has four visible buttons, and this variation propagates into the sheet.
 
 ### Customize
 
@@ -127,9 +175,21 @@ Render only the ceramic interpretation as a single product photograph. Preserve 
 
 **Mode:** generate · **Target:** 3:4 · **Author:** flaq.ai team
 
-**Language:** English. Expanded adaptation of the linked workflow; no generated result is claimed.
+**Language:** English. Expanded adaptation; see the result status and source information below.
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Reference-led concept development, editorial design and storyboards.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Inspect every panel or text region separately; a coherent overall layout can hide local errors. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![English tea collection editorial sheet — original generated example](../assets/images/example-p077.png)
+
+[English tea collection editorial sheet — generated example: exact prompt / 实际提示词](../assets/generation/example-p077.txt)
+
+**Observed review:** Dense copy, three tins, three tasting cards and four-column table are readable at inspection size. Botanical drawings use more than a single ink color; copy still needs a final editorial proof.
 
 ### Customize
 
@@ -174,9 +234,25 @@ Replace only the two-line title with “A LITTLE STILLNESS.” / “IN EVERY CUP
 
 **Mode:** edit · **Target:** 3:4 · **Author:** flaq.ai team
 
-**Language:** English. Expanded adaptation of the linked workflow; no generated result is claimed.
+**Language:** English. Expanded adaptation; see the result status and source information below.
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Reference-led concept development, editorial design and storyboards.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Inspect every panel or text region separately; a coherent overall layout can hide local errors. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/example-p077.png)
+
+![Headline replacement without layout drift — original generated example](../assets/images/example-p078.png)
+
+[Headline replacement without layout drift — generated example: exact prompt / 实际提示词](../assets/generation/example-p078.txt)
+
+**Observed review:** The requested shorter headline is readable while the tea comparison content remains. Small typography and illustration details shift across the edit.
 
 ### Customize
 
@@ -207,9 +283,25 @@ After approval, change only the thin copper divider rules to forest green. Prese
 
 **Mode:** edit · **Target:** 2:3 · **Author:** flaq.ai team
 
-**Language:** English. Expanded adaptation of the linked workflow; no generated result is claimed.
+**Language:** English. Expanded adaptation; see the result status and source information below.
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Reference-led concept development, editorial design and storyboards.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Inspect every panel or text region separately; a coherent overall layout can hide local errors. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/adult-input.png)
+
+![Four-region portrait correction brief — original generated example](../assets/images/example-p079.png)
+
+[Four-region portrait correction brief — generated example: exact prompt / 实际提示词](../assets/generation/example-p079.txt)
+
+**Observed review:** Earrings removed, eyes made hazel, strand moved off the eye and brown satchel added. Shirt folds/buttons and hand position also shift slightly, so preservation is not pixel-exact.
 
 ### Customize
 
@@ -240,9 +332,25 @@ Correct only any remaining earring fragments. Preserve hazel irises, cleared eye
 
 **Mode:** edit · **Target:** 2:3 · **Author:** flaq.ai team
 
-**Language:** English. Expanded adaptation of the linked workflow; no generated result is claimed.
+**Language:** English. Expanded adaptation; see the result status and source information below.
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Reference-led concept development, editorial design and storyboards.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Inspect every panel or text region separately; a coherent overall layout can hide local errors. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/example-p079.png)
+
+![Portrait continuity through three revisions — original generated example](../assets/images/example-p080.png)
+
+[Portrait continuity through three revisions — generated example: exact prompt / 实际提示词](../assets/generation/example-p080.txt)
+
+**Observed review:** The brown leather bag carries over and the person remains recognizable. Small shirt and pose details vary; compare with the linked prior result.
 
 ### Customize
 
@@ -273,9 +381,25 @@ Revision 2, with approved revision 1 attached: change only the overall grading t
 
 **Mode:** edit · **Target:** 1:1 · **Author:** flaq.ai team
 
-**Language:** English. Expanded adaptation of the linked workflow; no generated result is claimed.
+**Language:** English. Expanded adaptation; see the result status and source information below.
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Reference-led concept development, editorial design and storyboards.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Inspect every panel or text region separately; a coherent overall layout can hide local errors. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/logo-input.png)
+
+![Logo redesign with an explicit brand brief — original generated example](../assets/images/example-p081.png)
+
+[Logo redesign with an explicit brand brief — generated example: exact prompt / 实际提示词](../assets/generation/example-p081.txt)
+
+**Observed review:** Readable navy NORTH SIGNAL wordmark and lilac circle on white. The result largely retains the input geometry instead of exploring a substantially different symbol.
 
 ### Customize
 
@@ -306,9 +430,27 @@ Separate the approved symbol and wordmark into a clean horizontal lockup. Preser
 
 **Mode:** edit · **Target:** 3:4 · **Author:** flaq.ai team
 
-**Language:** English. Expanded adaptation of the linked workflow; no generated result is claimed.
+**Language:** English. Expanded adaptation; see the result status and source information below.
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Reference-led concept development, editorial design and storyboards.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Inspect every panel or text region separately; a coherent overall layout can hide local errors. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/adult-input.png)
+
+[Input 2 / 输入 2](../assets/images/example-p081.png)
+
+![Reference-led branded apparel presentation — original generated example](../assets/images/example-p082.png)
+
+[Reference-led branded apparel presentation — generated example: exact prompt / 实际提示词](../assets/generation/example-p082.txt)
+
+**Observed review:** Five panels show model, two shirt colors, print close-up and packaging. NORTH SIGNAL is readable; logo size and proportions vary across surfaces.
 
 ### Customize
 
@@ -339,9 +481,25 @@ Change only the packaging box color from kraft to matte ivory. Preserve model, s
 
 **Mode:** edit · **Target:** 1:1 · **Author:** flaq.ai team
 
-**Language:** English. Expanded adaptation of the linked workflow; no generated result is claimed.
+**Language:** English. Expanded adaptation; see the result status and source information below.
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Reference-led concept development, editorial design and storyboards.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Inspect every panel or text region separately; a coherent overall layout can hide local errors. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/character-input.png)
+
+![Sixteen-pose action reference sheet — original generated example](../assets/images/example-p083.png)
+
+[Sixteen-pose action reference sheet — generated example: exact prompt / 实际提示词](../assets/generation/example-p083.txt)
+
+**Observed review:** Sixteen action poses appear in a 4×4 transparent sheet. Baselines and character size need alignment before animation; edge fringes remain.
 
 ### Customize
 
@@ -352,7 +510,7 @@ Change only the packaging box color from kraft to matte ivory. Preserve model, s
 ```text
 Asset: Sixteen-pose action reference sheet. Target aspect ratio: 1:1. Mode: edit.
 Use the attached original adult cartoon character as the identity reference. Create a square 4-by-4 action reference sheet on a genuinely transparent background. Keep a consistent compact chibi proportion, costume, hair silhouette, colors and handedness in all 16 cells. Use equal invisible cells and enough internal space that no limb or accessory crosses a boundary. Read left to right, top to bottom. Row 1: neutral ready stance, knees bending, weight shifting left, returning to guard. Row 2: right-arm punch preparation, right-arm extension, right-arm recovery, centered guard. Row 3: left-knee lift, controlled left front kick, knee retracting, left foot landing. Row 4: two-arm block, low crouch, rising to stand, relaxed finish. One complete figure per cell. No weapons, impacts, injured opponents, speed-line clutter, captions, frame numbers or visible checkerboard. Keep the camera and baseline consistent so the poses can be extracted.
-Constraints: Requires a character reference. Verify actual alpha transparency after export. These are pose references, not guaranteed evenly timed animation frames or a production-ready sprite atlas.
+Constraints: Requires a character reference. Verify actual alpha transparency after export. These are pose references, not guaranteed evenly timed animation frames or a production-ready sprite atlas. Align standing poses to a shared floor baseline, preserve the reference button count and keep silhouette edges free of colored halos.
 Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
 ```
 
@@ -372,9 +530,25 @@ Regenerate only the left front-kick pose as one transparent image, matching the 
 
 **Mode:** edit · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Language:** English. Expanded adaptation of the linked workflow; no generated result is claimed.
+**Language:** English. Expanded adaptation; see the result status and source information below.
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Reference-led concept development, editorial design and storyboards.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Inspect every panel or text region separately; a coherent overall layout can hide local errors. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/singer-input.png)
+
+![Nine-shot music-video concept board — original generated example](../assets/images/example-p084.png)
+
+[Nine-shot music-video concept board — generated example: exact prompt / 实际提示词](../assets/generation/example-p084.txt)
+
+**Observed review:** Nine cinematic shots maintain the fictional performer’s outfit and notebook. Eye close-up and notebook handling require continuity review before production.
 
 ### Customize
 
@@ -405,9 +579,27 @@ Expand shot 4 into a standalone landscape keyframe. Preserve singer identity, wa
 
 **Mode:** edit · **Target:** 1:1 · **Author:** flaq.ai team
 
-**Language:** English. Expanded adaptation of the linked workflow; no generated result is claimed.
+**Language:** English. Expanded adaptation; see the result status and source information below.
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Reference-led concept development, editorial design and storyboards.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Inspect every panel or text region separately; a coherent overall layout can hide local errors. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/person-a-input.png)
+
+[Input 2 / 输入 2](../assets/images/person-b-input.png)
+
+![Sixteen-shot two-character narrative board — original generated example](../assets/images/example-p085.png)
+
+[Sixteen-shot two-character narrative board — generated example: exact prompt / 实际提示词](../assets/generation/example-p085.txt)
+
+**Observed review:** Sixteen library shots distinguish both adults and two notebooks. Book ownership changes across shots; review the intended swap and return sequence.
 
 ### Customize
 

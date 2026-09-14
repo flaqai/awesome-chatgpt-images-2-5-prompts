@@ -1,0 +1,4 @@
+Asset: Skincare ingredient still life. Target aspect ratio: 4:5. Mode: generate.
+Create a still life for fictional MOSS HOUR face oil: an amber bottle with a cream label reading "MOSS HOUR" and "FACE OIL", one folded linen cloth and two olive leaves on limestone. Use a close three-quarter angle, soft side daylight and controlled glass highlights. Leave the upper quarter calm for later layout.
+Constraints: No medical benefits, certification seals or invented ingredient percentages; exactly one bottle.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

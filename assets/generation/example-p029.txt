@@ -1,0 +1,4 @@
+Asset: Plant life-cycle classroom card. Target aspect ratio: 4:5. Mode: generate.
+Create a botanical learning card showing four stages of a bean plant in a 2×2 grid: seed, germination with root, seedling with two leaves, mature leafy plant. Exact labels "SEED", "ROOT", "SEEDLING", "PLANT". Colored pencil with clean cream margins, consistent scale cues and discreet directional arrows.
+Constraints: Roots below soil, leaves above; do not imply equal time intervals or add unsupported dates.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

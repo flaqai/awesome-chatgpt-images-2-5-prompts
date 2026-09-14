@@ -1,0 +1,4 @@
+Asset: Editorial mobility concept poster. Target aspect ratio: 4:5. Mode: generate.
+Design an editorial concept poster for an unbranded compact electric cargo bicycle. Use a deep aubergine background and a matte cream bicycle viewed from its left side, positioned across the lower half. Show a sturdy front cargo box, two wheels, a visible chain and practical handlebars. Set the title CITY / CARRY in large pale cream condensed lettering in the upper half. Add only DESIGN STUDY in a small aligned footer. Separate the typography from the bicycle silhouette with ample breathing room. Use gentle studio light to reveal painted metal and rubber without a glossy showroom effect.
+Constraints: No vehicle logos, fabricated range or speed figures, QR codes or duplicated wheels. Keep the frame mechanically plausible.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

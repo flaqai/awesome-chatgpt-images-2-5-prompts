@@ -1,0 +1,4 @@
+Asset: Character turnaround sheet. Target aspect ratio: 3:2. Mode: generate.
+Design an original courier character for a cozy adventure game: short adult with curly dark hair, oversized rust raincoat, blue satchel and cream boots. Show front, side and back views at equal scale, standing on one baseline against light gray. Clean hand-painted game concept style with clear costume construction.
+Constraints: Same character and costume in all views; no weapons, text or background props.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

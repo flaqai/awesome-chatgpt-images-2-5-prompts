@@ -6,7 +6,10 @@
 
 ![flaq.ai — ChatGPT Images 2.5](assets/images/cover.png)
 
-В библиотеке 97 рецептов в 14 разделах и 28 новых изображений. 73 основных рецептов доступны на английском и упрощённом китайском; ещё 12 рецептов подготовлены для отдельных языков. README доступен в 16 языковых и региональных версиях. Эта страница — введение на русском, а не перевод всей библиотеки. Также добавлены 12 новых рецептов рабочих процессов только на английском языке.
+В библиотеке 103 рецептов в 15 разделах и 139 новых изображений. 73 основных рецептов доступны на английском и упрощённом китайском; ещё 12 рецептов подготовлены для отдельных языков. README доступен в 16 языковых и региональных версиях. Эта страница — введение на русском, а не перевод всей библиотеки. Также добавлены 18 новых рецептов рабочих процессов только на английском языке.
+
+
+**[Галерея 103 рецептов с примерами](docs/gallery.md)**
 
 ## Как начать
 
@@ -36,6 +39,8 @@
 
 ## Материалы и участие
 
-[97 prompts](prompts/README.md) · [Before / after](docs/launch-examples.md) · [Generation log](docs/generation-log.md) · [OpenAI API guide](docs/api-guide.md) · [Contributing](CONTRIBUTING.md)
+[103 prompts](prompts/README.md) · [Before / after](docs/launch-examples.md) · [Generation log](docs/generation-log.md) · [OpenAI API guide](docs/api-guide.md) · [Contributing](CONTRIBUTING.md)
 
 Проект не связан с OpenAI и не одобрен OpenAI. [MIT License](LICENSE) © 2026 Flaq AI.
+
+[X community: 6 English prompts, original posts and source image previews](prompts/15-x-community.md)

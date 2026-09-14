@@ -1,0 +1,5 @@
+Asset: Linen jacket virtual styling. Target aspect ratio: 4:5. Mode: edit.
+Image 1 is the consenting adult model; Image 2 is the jacket garment reference. Dress the model in that exact unbuttoned linen jacket over their existing top. Match shoulder fit, sleeve length, pockets and fabric drape to the pose, with the original camera and lighting. Deliver a realistic styling preview.
+Constraints: Preserve face, body shape, hands, pose, background and other garments; no slimming.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
+The attached inputs are original synthetic demonstration assets created for this repository, not photographs of actual customers.

@@ -1,0 +1,4 @@
+Asset: Cozy game inventory icons. Target aspect ratio: 1:1. Mode: generate.
+Create nine original inventory icons in a 3×3 evenly spaced grid: acorn, lantern, rolled map, teacup, seed pouch, brass key, folded scarf, wooden spoon and mushroom. Use softly shaded hand-painted forms, one top-left light direction and cream background. Strong silhouettes readable at small size.
+Constraints: One item per cell, no text or UI border; this is an atlas concept requiring extraction.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

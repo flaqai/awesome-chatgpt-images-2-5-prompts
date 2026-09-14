@@ -1,0 +1,5 @@
+Asset: Pet explorer portrait. Target aspect ratio: 1:1. Mode: edit.
+Image 1 is the pet identity reference. Place the same pet sitting beside a tiny canvas backpack in a sunlit fern garden. Add a loose ochre neckerchief while preserving its natural posture. Photograph at the animal’s eye level, soft green bokeh, detailed fur and gentle natural expression.
+Constraints: Keep muzzle shape, eye color, coat patches, ear asymmetry and body size; do not anthropomorphize paws.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
+The attached inputs are original synthetic demonstration assets created for this repository, not photographs of actual customers.

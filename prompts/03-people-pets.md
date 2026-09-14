@@ -20,7 +20,23 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** edit · **Target:** 4:5 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Personal keepsakes, professional portraits and styling concepts.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Compare identity anchors, hands, fur patterns and garment fit with the reference. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/adult-input.png)
+
+![Natural professional portrait — original generated example](../assets/images/example-p013.png)
+
+[Natural professional portrait — generated example: exact prompt / 实际提示词](../assets/generation/example-p013.txt)
+
+**Observed review:** Portrait retains the fictional subject’s recognizable features and skin texture. Clothing, framing and lighting change for the portrait brief.
 
 ### English
 
@@ -60,7 +76,23 @@ Change only the background to a muted olive studio wall.
 
 **Mode:** edit · **Target:** 1:1 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Personal keepsakes, professional portraits and styling concepts.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Compare identity anchors, hands, fur patterns and garment fit with the reference. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/pet-input.png)
+
+![Pet explorer portrait — original generated example](../assets/images/example-p014.png)
+
+[Pet explorer portrait — generated example: exact prompt / 实际提示词](../assets/generation/example-p014.txt)
+
+**Observed review:** Terrier, mustard scarf and backpack read clearly. The distinctive eye patch is retained with some fur-pattern variation.
 
 ### English
 
@@ -100,14 +132,32 @@ Change only the neckerchief to dusty blue, keeping knot size and fur boundary.
 
 **Mode:** edit · **Target:** 4:5 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Personal keepsakes, professional portraits and styling concepts.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Compare identity anchors, hands, fur patterns and garment fit with the reference. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/adult-input.png)
+
+[Input 2 / 输入 2](../assets/images/jacket-input.png)
+
+![Linen jacket virtual styling — original generated example](../assets/images/example-p015.png)
+
+[Linen jacket virtual styling — generated example: exact prompt / 实际提示词](../assets/generation/example-p015.txt)
+
+**Observed review:** Sage linen jacket, three buttons and pockets are recognizable. Sleeves are rolled rather than matching the full-length garment reference; shirt folds and hand details also vary.
 
 ### English
 
 ```text
 Asset: Linen jacket virtual styling. Target aspect ratio: 4:5. Mode: edit.
 Image 1 is the consenting adult model; Image 2 is the jacket garment reference. Dress the model in that exact unbuttoned linen jacket over their existing top. Match shoulder fit, sleeve length, pockets and fabric drape to the pose, with the original camera and lighting. Deliver a realistic styling preview.
-Constraints: Preserve face, body shape, hands, pose, background and other garments; no slimming.
+Constraints: Preserve face, body shape, hands, pose, background and other garments; no slimming. Match the reference cuffs exactly; do not roll or shorten sleeves unless the garment reference already shows them.
 Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
 ```
 
@@ -116,7 +166,7 @@ Render only explicitly requested image text. Do not add unrelated logos, signatu
 ```text
 交付物：亚麻外套虚拟穿搭。目标比例：4:5。模式：编辑。
 图1为获同意的成年模特，图2为外套参考。让模特在原上衣外穿上该亚麻外套并敞开，肩部贴合、袖长、口袋和垂坠对应姿势，沿用原镜头与光照，输出真实穿搭预览。
-约束：保留脸、体型、手、姿势、背景和其他衣物，不瘦身。
+约束：保留脸、体型、手、姿势、背景和其他衣物，不瘦身。 袖口严格匹配服装参考；参考图未卷袖时，不要擅自卷起或缩短袖子。
 只渲染明确要求的图中文字，不添加无关标识、签名或说明。
 ```
 
@@ -140,7 +190,19 @@ Roll only the jacket sleeves once, keeping wrist anatomy and jacket length.
 
 **Mode:** generate · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Personal keepsakes, professional portraits and styling concepts.
+
+**Inputs:** No reference upload is required for this default text-to-image prompt.
+
+**Production check:** Compare identity anchors, hands, fur patterns and garment fit with the reference. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+![Analog weekend portrait — original generated example](../assets/images/example-p016.png)
+
+[Analog weekend portrait — generated example: exact prompt / 实际提示词](../assets/generation/example-p016.txt)
+
+**Observed review:** Two adults share a plausible tea-pouring moment with subdued light and grain; hands and cup contact were visually inspected.
 
 ### English
 
@@ -180,7 +242,23 @@ Warm only the white balance slightly, preserving faces and scene arrangement.
 
 **Mode:** edit · **Target:** 4:5 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Personal keepsakes, professional portraits and styling concepts.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Compare identity anchors, hands, fur patterns and garment fit with the reference. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/couple-input.png)
+
+![Couple illustration keepsake — original generated example](../assets/images/example-p017.png)
+
+[Couple illustration keepsake — generated example: exact prompt / 实际提示词](../assets/generation/example-p017.txt)
+
+**Observed review:** Two fictional adults remain distinct in the pencil illustration; clothes, bench and riverside setting are coherent.
 
 ### English
 
@@ -220,7 +298,23 @@ Add only a closed yellow umbrella beside the bench; keep both people untouched.
 
 **Mode:** edit · **Target:** 4:5 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Personal keepsakes, professional portraits and styling concepts.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Compare identity anchors, hands, fur patterns and garment fit with the reference. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/pet-input.png)
+
+![Pet remembrance watercolor — original generated example](../assets/images/example-p018.png)
+
+[Pet remembrance watercolor — generated example: exact prompt / 实际提示词](../assets/generation/example-p018.txt)
+
+**Observed review:** Pet eye patch and pose remain recognizable in watercolor; flower decoration and paper texture are newly interpreted.
 
 ### English
 

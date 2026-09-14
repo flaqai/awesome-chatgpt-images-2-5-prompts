@@ -1,0 +1,5 @@
+Asset: Three-reference product composite. Target aspect ratio: 3:2. Mode: edit.
+Image 1 is the base dining-room scene; Image 2 is the exact lamp; Image 3 is the desired linen material. Place the lamp from Image 2 on the rear sideboard in Image 1 and replace only the existing table runner with the linen texture from Image 3. Match camera perspective, scale and light.
+Constraints: Image 3 supplies texture only; keep architecture, chairs and all unrelated objects.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
+The attached inputs are original synthetic demonstration assets created for this repository, not photographs of actual customers.

@@ -20,7 +20,23 @@ Copy one language block. For edits, attach the images named in the prompt in tha
 
 **Mode:** edit · **Target:** 1:1 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Extending and localizing approved visual campaigns.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Keep a reviewed master; compare product geometry, identity and lettering after each individual revision. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/tideline-lamp.png)
+
+![Seasonal product series — original generated example](../assets/images/example-p055.png)
+
+[Seasonal product series — generated example: exact prompt / 实际提示词](../assets/generation/example-p055.txt)
+
+**Observed review:** Autumn leaves and knitted fabric support the campaign; headline and lamp stay recognizable. Composition is rearranged for the new square frame.
 
 ### English
 
@@ -60,7 +76,23 @@ For the winter sibling, replace only the autumn props with folded ivory knit; re
 
 **Mode:** edit · **Target:** 2:3 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Extending and localizing approved visual campaigns.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Keep a reviewed master; compare product geometry, identity and lettering after each individual revision. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/tideline-lamp.png)
+
+![Portrait ad reframe — original generated example](../assets/images/example-p056.png)
+
+[Portrait ad reframe — generated example: exact prompt / 实际提示词](../assets/generation/example-p056.txt)
+
+**Observed review:** Portrait campaign layout has clear copy and breathing room. Lamp and plinth proportions shift slightly in the reformatted composition.
 
 ### English
 
@@ -100,7 +132,23 @@ Move only the headline down slightly to increase top safe space.
 
 **Mode:** edit · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Extending and localizing approved visual campaigns.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Keep a reviewed master; compare product geometry, identity and lettering after each individual revision. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/tideline-lamp.png)
+
+![Localized campaign master — original generated example](../assets/images/example-p057.png)
+
+[Localized campaign master — generated example: exact prompt / 实际提示词](../assets/generation/example-p057.txt)
+
+**Observed review:** Chinese headline 把夜晚留给自己 is readable and TIDELINE remains. Minor product texture and framing changes accompany the text edit.
 
 ### English
 
@@ -140,7 +188,27 @@ Fix only any wrong Chinese character; preserve product and approved typesetting.
 
 **Mode:** edit · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Extending and localizing approved visual campaigns.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Keep a reviewed master; compare product geometry, identity and lettering after each individual revision. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/room-input.png)
+
+[Input 2 / 输入 2](../assets/images/tideline-lamp.png)
+
+[Input 3 / 输入 3](../assets/images/linen-input.png)
+
+![Three-reference product composite — original generated example](../assets/images/example-p058.png)
+
+[Three-reference product composite — generated example: exact prompt / 实际提示词](../assets/generation/example-p058.txt)
+
+**Observed review:** Lamp and striped linen are combined with the room reference. Sideboard accessories move to accommodate the lamp, so preservation is not pixel exact.
 
 ### English
 
@@ -180,7 +248,23 @@ Reduce only lamp size by 10% while keeping its base contact on the sideboard.
 
 **Mode:** edit · **Target:** 3:2 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Extending and localizing approved visual campaigns.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Keep a reviewed master; compare product geometry, identity and lettering after each individual revision. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/vintage-input.png)
+
+![Vintage-photo gentle restoration — original generated example](../assets/images/example-p059.png)
+
+[Vintage-photo gentle restoration — generated example: exact prompt / 实际提示词](../assets/generation/example-p059.txt)
+
+**Observed review:** Major scratches are repaired and monochrome grain remains. Facial and foliage details are inferred; this synthetic exercise is not historical evidence.
 
 ### English
 
@@ -220,7 +304,23 @@ Reduce only one remaining scratch; preserve all previously accepted repairs.
 
 **Mode:** edit · **Target:** 16:9 · **Author:** flaq.ai team
 
-**Status / 状态：** Authored template; not rendered in this release / 已编写，当前版本尚未生成实测图。
+**Best for:** Extending and localizing approved visual campaigns.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Keep a reviewed master; compare product geometry, identity and lettering after each individual revision. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
+**Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
+
+**Example inputs, in order / 示例输入顺序：**
+
+[Input 1 / 输入 1](../assets/images/paper-moon-story.png)
+
+![Approved storyboard shot expansion — original generated example](../assets/images/example-p060.png)
+
+[Approved storyboard shot expansion — generated example: exact prompt / 实际提示词](../assets/generation/example-p060.txt)
+
+**Observed review:** A coherent follow-on scene shows the robot, sleeping cat and repaired glowing moon. Scene geometry is reinterpreted across the story.
 
 ### English
 

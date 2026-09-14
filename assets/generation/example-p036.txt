@@ -1,0 +1,4 @@
+Asset: Creator dashboard concept. Target aspect ratio: 16:9. Mode: generate.
+Create a calm desktop dashboard concept for a fictional studio. Left sidebar "Overview", "Projects", "Assets". Main heading "Studio overview"; three project cards labeled "Lamp campaign", "Bakery poster", "Reading room" with small original thumbnails. A right panel "Next review" contains "Friday, 10:00". Off-white canvas, navy typography and orange status dots.
+Constraints: No fabricated live metrics or real customer data; conceptual UI only.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

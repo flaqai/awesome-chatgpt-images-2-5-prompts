@@ -1,0 +1,5 @@
+Asset: Window-light evening relight. Target aspect ratio: 3:2. Mode: edit.
+Use Image 1 as the exact room layout. Change the lighting from midday to early evening: cooler dim light outside the window and warm light from the existing desk lamp. Adjust only illumination, associated shadows and reflections. Maintain realistic exposure without turning the room orange.
+Constraints: Do not move furniture, create new light fixtures, change materials or widen the room.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
+The attached inputs are original synthetic demonstration assets created for this repository, not photographs of actual customers.

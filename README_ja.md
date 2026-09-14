@@ -6,7 +6,10 @@
 
 ![flaq.ai — ChatGPT Images 2.5](assets/images/cover.png)
 
-全97レシピ：英語・簡体字中国語の完全なプロンプト73件と、12言語の専用レシピ。新規生成画像は28枚です。このページは日本語の入口であり、全レシピの日本語訳ではありません。 さらに、英語のみの新しいワークフローレシピ12件を含みます。
+全103レシピ：英語・簡体字中国語の完全なプロンプト73件と、12言語の専用レシピ。新規生成画像は139枚です。このページは日本語の入口であり、全レシピの日本語訳ではありません。 さらに、英語のみの新しいワークフローレシピ18件を含みます。
+
+
+**[全103レシピの画像ギャラリー](docs/gallery.md)**
 
 ## 使い方
 
@@ -22,7 +25,7 @@
 
 ## 注意点
 
-作例は内蔵画像生成ツールで新規生成しました。ツールから基盤モデルIDが返されなかったため、FlareまたはSunburstの比較結果ではありません。未生成のテンプレートも明示しています。文字、人物の特徴、商品の形状を確認してください。
+作例は内蔵画像生成ツールで新規生成しました。ツールから基盤モデルIDが返されなかったため、FlareまたはSunburstの比較結果ではありません。全103レシピに生成例と確認メモを掲載しています。文字、人物の特徴、商品の形状を確認してください。
 
 ## 関連ガイド
 
@@ -37,3 +40,5 @@
 以下のFlaq.aiリンクはGPT Image 2向けです。Images 2.5のOpenAI直接利用については[APIガイド](docs/api-guide.md)をご覧ください。
 
 [GPT Image 2 API](https://flaq.ai/models/openai/gpt-image-2/) · [GPT Image 2 Edit API](https://flaq.ai/models/openai/gpt-image-2-edit/) · [API docs](https://flaq.ai/docs/) · [Model market](https://flaq.ai/model-market/) · [Affiliate program](https://flaq.ai/affiliate-program/)
+
+[X community: 6 English prompts, original posts and source image previews](prompts/15-x-community.md)

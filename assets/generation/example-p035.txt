@@ -1,0 +1,4 @@
+Asset: Tea packaging family. Target aspect ratio: 3:2. Mode: generate.
+Create three matching paper tea cartons for fictional "FIELD LETTER". Same geometry and cream label system; variants "MINT", "ROOIBOS", "OOLONG" use green, rust and blue side panels. Arrange front-facing cartons on a neutral plinth with consistent scale and readable titles. Natural paper fibers, soft studio shadows.
+Constraints: Exactly three cartons; no health promises, weights, certifications or barcodes.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

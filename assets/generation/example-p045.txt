@@ -1,0 +1,4 @@
+Asset: Boutique guest-room styling. Target aspect ratio: 3:2. Mode: generate.
+Create a modest boutique guest room with a low oak bed, rumpled cream linen, one rust cushion, limewashed walls and a small built-in reading niche. Morning light falls across the bed from a tall window at left. Photograph from the doorway with realistic room proportions and a quiet material palette.
+Constraints: No fake sea view, hotel rating, logos or excessive amenities.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.

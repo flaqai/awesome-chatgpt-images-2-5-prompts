@@ -23,15 +23,23 @@ Scenario inspiration: [OpenAI launch article](https://openai.com/index/introduci
 
 **Mode:** edit · **Target:** 1:1 · **Author:** flaq.ai team
 
+**Best for:** Reference-led image-editing exercises.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Check the exact executed prompt and input/result pair; template variations require their own review. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Terrier cape makeover: original input image by flaq.ai](../assets/images/launch-dog-input.png)
+**Example inputs, in order / 示例输入顺序：**
 
-[Terrier cape makeover — input: exact prompt / 实际提示词](../assets/generation/launch-dog-input.txt)
+[Input 1 / 输入 1](../assets/images/launch-dog-input.png)
 
 ![Terrier cape makeover: original edit image by flaq.ai](../assets/images/launch-dog-edit.png)
 
 [Terrier cape makeover — edit: exact prompt / 实际提示词](../assets/generation/launch-dog-edit.txt)
+
+**Observed review:** Green cape and tie added; eye patch, ears and paws remain recognizable. Fine fur detail changes.
 
 ### English
 
@@ -71,15 +79,23 @@ Change only the cape fabric to burgundy. Keep the tie ochre and preserve the dog
 
 **Mode:** edit · **Target:** 2:3 · **Author:** flaq.ai team
 
+**Best for:** Reference-led image-editing exercises.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Check the exact executed prompt and input/result pair; template variations require their own review. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Synthetic child portrait wardrobe edit: original input image by flaq.ai](../assets/images/launch-child-input.png)
+**Example inputs, in order / 示例输入顺序：**
 
-[Synthetic child portrait wardrobe edit — input: exact prompt / 实际提示词](../assets/generation/launch-child-input.txt)
+[Input 1 / 输入 1](../assets/images/launch-child-input.png)
 
 ![Synthetic child portrait wardrobe edit: original edit image by flaq.ai](../assets/images/launch-child-edit.png)
 
 [Synthetic child portrait wardrobe edit — edit: exact prompt / 实际提示词](../assets/generation/launch-child-edit.txt)
+
+**Observed review:** Cardigan and cream shirt appear as requested; face, hands and pose remain visually similar. Fine texture is not identical. Subject is fully synthetic.
 
 ### English
 
@@ -119,15 +135,23 @@ Change only the cardigan buttons to cream. Preserve the approved outfit and port
 
 **Mode:** edit · **Target:** 3:2 · **Author:** flaq.ai team
 
+**Best for:** Reference-led image-editing exercises.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Check the exact executed prompt and input/result pair; template variations require their own review. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Duvet pattern swap: original input image by flaq.ai](../assets/images/launch-bed-input.png)
+**Example inputs, in order / 示例输入顺序：**
 
-[Duvet pattern swap — input: exact prompt / 实际提示词](../assets/generation/launch-bed-input.txt)
+[Input 1 / 输入 1](../assets/images/launch-bed-input.png)
 
 ![Duvet pattern swap: original edit image by flaq.ai](../assets/images/launch-bed-edit.png)
 
 [Duvet pattern swap — edit: exact prompt / 实际提示词](../assets/generation/launch-bed-edit.txt)
+
+**Observed review:** Striped duvet and two oatmeal pillows are present; room arrangement remains similar. Duvet folds drift slightly.
 
 ### English
 
@@ -167,15 +191,23 @@ Change only the stripe color from teal to rust; preserve stripe spacing and the 
 
 **Mode:** edit · **Target:** 3:2 · **Author:** flaq.ai team
 
+**Best for:** Reference-led image-editing exercises.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Check the exact executed prompt and input/result pair; template variations require their own review. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Souvenir city-name replacement: original input image by flaq.ai](../assets/images/launch-ticket-input.png)
+**Example inputs, in order / 示例输入顺序：**
 
-[Souvenir city-name replacement — input: exact prompt / 实际提示词](../assets/generation/launch-ticket-input.txt)
+[Input 1 / 输入 1](../assets/images/launch-ticket-input.png)
 
 ![Souvenir city-name replacement: original edit image by flaq.ai](../assets/images/launch-ticket-edit.png)
 
 [Souvenir city-name replacement — edit: exact prompt / 实际提示词](../assets/generation/launch-ticket-edit.txt)
+
+**Observed review:** LISBON and the other required strings visually match. Illustration details drift slightly. This is a fictional souvenir, not a valid ticket.
 
 ### English
 
@@ -215,15 +247,23 @@ Replace only LISBON with KYOTO. Keep all other wording and illustration unchange
 
 **Mode:** edit · **Target:** 1:1 · **Author:** flaq.ai team
 
+**Best for:** Reference-led image-editing exercises.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Check the exact executed prompt and input/result pair; template variations require their own review. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Symbol-marked cube rotation: original input image by flaq.ai](../assets/images/launch-cube-input.png)
+**Example inputs, in order / 示例输入顺序：**
 
-[Symbol-marked cube rotation — input: exact prompt / 实际提示词](../assets/generation/launch-cube-input.txt)
+[Input 1 / 输入 1](../assets/images/launch-cube-input.png)
 
 ![Symbol-marked cube rotation: original edit image by flaq.ai](../assets/images/launch-cube-edit.png)
 
 [Symbol-marked cube rotation — edit: exact prompt / 实际提示词](../assets/generation/launch-cube-edit.txt)
+
+**Observed review:** Partial result: face identities follow the intended arrangement, but a rigid 90-degree rotation is not established. The top outline has a visible kink. Do not use as validated geometry.
 
 ### English
 
@@ -263,15 +303,23 @@ Repair only the bent top outline into straight cube edges. Preserve each face co
 
 **Mode:** edit · **Target:** 3:2 · **Author:** flaq.ai team
 
+**Best for:** Reference-led image-editing exercises.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Check the exact executed prompt and input/result pair; template variations require their own review. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![One-column itinerary revision: original input image by flaq.ai](../assets/images/launch-travel-input.png)
+**Example inputs, in order / 示例输入顺序：**
 
-[One-column itinerary revision — input: exact prompt / 实际提示词](../assets/generation/launch-travel-input.txt)
+[Input 1 / 输入 1](../assets/images/launch-travel-input.png)
 
 ![One-column itinerary revision: original edit image by flaq.ai](../assets/images/launch-travel-edit.png)
 
 [One-column itinerary revision — edit: exact prompt / 实际提示词](../assets/generation/launch-travel-edit.txt)
+
+**Observed review:** Middle time and heading match; three bowls appear on the workbench. Extra vessels appear on the shelf. Outer columns remain recognizable but fine illustration details drift.
 
 ### English
 
@@ -311,15 +359,23 @@ Change only STUDIO to POTTERY. Preserve 14:00, all three bowls and both outer co
 
 **Mode:** edit · **Target:** 1:1 · **Author:** flaq.ai team
 
+**Best for:** Reference-led image-editing exercises.
+
+**Inputs:** One or more authorized reference images in the order specified by the prompt. See the generated example input links where available.
+
+**Production check:** Check the exact executed prompt and input/result pair; template variations require their own review. Use the target ratio as a framing request; inspect actual pixel dimensions before export.
+
 **Generated example / 已生成示例：** Exact executed prompts and review notes are in the [generation log](../docs/generation-log.md). These examples do not verify every template variation.
 
-![Birthday candle count edit: original input image by flaq.ai](../assets/images/launch-cake-input.png)
+**Example inputs, in order / 示例输入顺序：**
 
-[Birthday candle count edit — input: exact prompt / 实际提示词](../assets/generation/launch-cake-input.txt)
+[Input 1 / 输入 1](../assets/images/launch-cake-input.png)
 
 ![Birthday candle count edit: original edit image by flaq.ai](../assets/images/launch-cake-edit.png)
 
 [Birthday candle count edit — edit: exact prompt / 实际提示词](../assets/generation/launch-cake-edit.txt)
+
+**Observed review:** Exactly five unlit orange candles are visible. Cake, plate and composition are similar; frosting texture changes slightly.
 
 ### English
 

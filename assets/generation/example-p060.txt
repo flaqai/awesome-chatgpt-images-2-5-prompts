@@ -1,0 +1,5 @@
+Asset: Approved storyboard shot expansion. Target aspect ratio: 16:9. Mode: edit.
+Image 1 is the approved six-panel paper-moon storyboard. Expand only the final panel into a standalone wide frame. Preserve the cream one-eyed robot, teal apron, stitched paper moon and attic workshop design. Extend scenery left and right with the same warm light and blue dusk, keeping the original resting pose.
+Constraints: Do not include grid borders, other panels or new characters; this is a still frame, not video.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
+The attached inputs are original synthetic demonstration assets created for this repository, not photographs of actual customers.

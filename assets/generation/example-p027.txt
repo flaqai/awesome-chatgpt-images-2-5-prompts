@@ -1,0 +1,4 @@
+Asset: Transparent demo-data bar chart. Target aspect ratio: 16:9. Mode: generate.
+Create a presentation slide with the title "WORKSHOP ATTENDANCE" and a three-bar chart. Exact fictional values: "April 20", "May 30", "June 40". All bars share a zero baseline and equal width, with heights proportional to 20:30:40. Use ink-blue bars, cream background, a thin gray baseline and small footer "DEMO DATA".
+Constraints: No extrapolation, percentages or invented source. Keep labels outside bars.
+Render only explicitly requested image text. Do not add unrelated logos, signatures or captions.
