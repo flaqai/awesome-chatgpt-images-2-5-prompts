@@ -225,6 +225,22 @@ Eligibility and payouts follow the current [Affiliate Agreement](https://flaq.ai
 
 **[Join the Flaq.ai Affiliate Program →](https://flaq.ai/affiliate-program/)**
 
+## Recommended free ChatGPT Images 2.5 online tools
+
+Ready to try a prompt? These browser-based tools advertise free ChatGPT Images 2.5 generation and editing without signup. Start from a text brief or upload one reference image, choose an aspect ratio, then refine the result. The suggestions below match each tool's published use cases to this library.
+
+| Tool | Introduction | A prompt to try |
+| --- | --- | --- |
+| [Flaq.ai — Free ChatGPT Images 2.5](https://flaq.ai/free-chatgpt-images-2-5/) | A convenient starting point for this collection: create product visuals, posters and realistic scenes, or revise one reference image. The page also connects to Flaq.ai's broader creative tools and model APIs when you want to develop an application workflow. | [P001 · Product campaign](prompts/01-product.md#p001) |
+| [UGC Maker — Free ChatGPT Images 2.5](https://ugcmaker.org/free-chatgpt-images-2-5/) | Geared toward creator content, UGC ad concepts, product stories and social graphics. Use it to explore a campaign image or cover frame before moving into a wider content-production workflow. | [Ads, social & creator covers](prompts/02-social.md) |
+| [Best Image AI — Free ChatGPT Images 2.5](https://bestimage.ai/free-chatgpt-images-2-5/) | A general-purpose image creator and single-reference editor for ecommerce, posters and visual concepts. Its layout options suit experimenting with square, portrait and wide compositions. | [P070 · Collectible packaging](prompts/13-customizable-studio.md#p070) |
+| [HeyDream — Free ChatGPT Images 2.5](https://heydream.im/free-chatgpt-images-2-5/) | Useful for exploring realistic scenes, photo restyling, backgrounds and early storyboard ideas. The page also links to separate image-to-video tools for taking a selected still into a motion workflow. | [P071 · Miniature island](prompts/13-customizable-studio.md#p071) |
+| [AITryOn — Free ChatGPT Images 2.5](https://aitryon.art/free-chatgpt-images-2-5/) | A starting point for outfit concepts, styled portraits, accessories and product imagery. Describe the garment, material, pose and background clearly when developing a fashion direction or editing one photo. | [P079 · Portrait corrections](prompts/14-sketch-to-story.md#p079) |
+
+**Quick workflow:** copy a recipe, replace its fictional details, upload a reference only for an edit, and generate. Save an approved result before applying its follow-up prompt. Recipes requiring multiple reference images need a tool that supports those inputs.
+
+**Availability note:** page descriptions checked on **2026-09-14**; generation was not tested in this review. Free access refers to the linked tools, not every premium feature, video service or API. Current availability and limits follow each site's terms.
+
 ## License
 
 [MIT](LICENSE) © 2026 Flaq AI.

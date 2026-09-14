@@ -176,6 +176,22 @@ README现提供 **16个语言／地区版本**，默认英文。各语言入口�
 
 **[加入 flaq.ai 联盟计划 →](https://flaq.ai/affiliate-program/)**
 
+## 推荐免费 ChatGPT Images 2.5 在线工具
+
+想直接试用本库提示词，可以从以下在线工具开始。各页面均介绍了免费、免注册的 ChatGPT Images 2.5 文生图和单张参考图编辑：输入提示词或上传一张图片，选择比例，再根据结果继续调整。
+
+| 工具 | 简介 | 推荐尝试 |
+| --- | --- | --- |
+| [Flaq.ai 免费 ChatGPT Images 2.5](https://flaq.ai/free-chatgpt-images-2-5/) | 适合从本库配方开始尝试产品图、海报、写实场景和单图修改。页面还连接 flaq.ai 的创作工具与模型 API，方便将确认后的创意进一步接入应用流程。 | [P001 产品广告](prompts/01-product.md#p001) |
+| [UGC Maker 免费 ChatGPT Images 2.5](https://ugcmaker.org/free-chatgpt-images-2-5/) | 面向创作者内容、UGC 广告概念、产品故事和社交媒体图片，可先探索广告主视觉或封面，再继续制作其他内容。 | [广告、社媒与创作者封面](prompts/02-social.md) |
+| [Best Image AI 免费 ChatGPT Images 2.5](https://bestimage.ai/free-chatgpt-images-2-5/) | 通用文生图与单图编辑入口，适合电商、海报和视觉概念探索，可尝试方形、竖版和横版等不同构图。 | [P070 收藏玩具包装](prompts/13-customizable-studio.md#p070) |
+| [HeyDream 免费 ChatGPT Images 2.5](https://heydream.im/free-chatgpt-images-2-5/) | 适合写实场景、照片风格调整、背景编辑与初步分镜构思；页面还提供独立图生视频工具入口，方便继续探索动态内容。 | [P071 灯塔微缩场景](prompts/13-customizable-studio.md#p071) |
+| [AITryOn 免费 ChatGPT Images 2.5](https://aitryon.art/free-chatgpt-images-2-5/) | 适合服装概念、时尚人像、配饰和商品图。生成或编辑时明确服装、材质、姿势与背景，有助于表达具体造型方向。 | [P079 人像局部修改](prompts/14-sketch-to-story.md#p079) |
+
+**使用方法：**复制配方并替换虚构内容；编辑任务上传参考图，生成后检查并保存确认稿，再使用后续修改指令。需要多张参考图的配方，应选择支持相应输入数量的工具。
+
+**可用性说明：**以上介绍于 **2026-09-14** 核对页面，本次未实测生成。免费指所链接的工具，不代表高级功能、视频服务或 API 一并免费；当前可用性与限制以各站规则为准。
+
 ## 许可
 
 [MIT](LICENSE) © 2026 Flaq AI。
