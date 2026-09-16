@@ -25,6 +25,27 @@ Buat poster vertikal 2:3 untuk kedai kopi fiktif. Di atas latar kertas krem, tam
 
 Periksa ejaan, tanda hubung pada TERBURU-BURU, serta keterbacaan judul yang panjang.
 
+## Alat AI GPT Image 2.5 gratis tanpa pendaftaran
+
+12 alat untuk mencoba prompt dengan teks atau satu gambar referensi.
+
+| Alat | Pengantar | Prompt terkait |
+| --- | --- | --- |
+| [Flaq.ai free gpt image 2.5](https://flaq.ai/free-chatgpt-images-2-5/) | Untuk gambar produk, poster, dan adegan realistis. Juga menyediakan tautan ke alat kreatif serta API Flaq.ai. | [P001](prompts/01-product.md#p001) |
+| [UGC Maker free gpt image 2.5](https://ugcmaker.org/free-chatgpt-images-2-5/) | Untuk konsep iklan UGC, cerita produk, dan gambar media sosial. | [Prompt terkait](prompts/02-social.md) |
+| [Best Image AI free gpt image 2.5](https://bestimage.ai/free-chatgpt-images-2-5/) | Untuk ecommerce, poster, dan konsep visual dalam komposisi persegi, vertikal, atau lebar. | [P070](prompts/13-customizable-studio.md#p070) |
+| [HeyDream free gpt image 2.5](https://heydream.im/free-chatgpt-images-2-5/) | Untuk adegan realistis, perubahan gaya foto, dan latar. Ada tautan ke alat gambar-ke-video yang terpisah. | [P071](prompts/13-customizable-studio.md#p071) |
+| [AITryOn free gpt image 2.5](https://aitryon.art/free-chatgpt-images-2-5/) | Untuk konsep pakaian, potret mode, aksesori, dan produk. Jelaskan bahan, pose, dan latar. | [P079](prompts/14-sketch-to-story.md#p079) |
+| [Flyne AI free gpt image 2.5](https://flyne.ai/free-gpt-image-2-5/) | Untuk peluncuran produk, grafis sosial, storyboard ilustrasi, dan moodboard. Halaman menawarkan sembilan rasio aspek. | [Prompt terkait](prompts/01-product.md) |
+| [VideoWeb AI free gpt image 2.5](https://videoweb.ai/free-gpt-image-2-5/) | Untuk pembukaan film, bingkai transisi, kampanye, dan studi lokasi. Tentukan posisi kamera dan pencahayaan. | [Prompt terkait](prompts/07-stories-games.md) |
+| [Sea Imagine AI free gpt image 2.5](https://seaimagine.com/free-gpt-image-2-5/) | Untuk komposisi seni, lingkungan arsitektur, tata letak poster, dan eksplorasi palet warna. | [Prompt terkait](prompts/08-spaces.md) |
+| [Fylia AI free gpt image 2.5](https://fylia.ai/free-gpt-image-2-5/) | Untuk potret ilustrasi, dunia cerita miniatur, adegan keseharian, dan eksperimen kerajinan kertas. | [Prompt terkait](prompts/03-people-pets.md) |
+| [SeeVido AI free gpt image 2.5](https://seevido.com/free-gpt-image-2-5/) | Untuk adegan karakter, teaser produk, ilustrasi perjalanan, dan unggahan musiman. | [Prompt terkait](prompts/02-social.md) |
+| [VO4 AI free gpt image 2.5](https://vo4.org/free-gpt-image-2-5/) | Untuk adegan sinematik, referensi aksi, dunia fiksi ilmiah, dan studi komposisi kamera. | [Prompt terkait](prompts/14-sketch-to-story.md) |
+| [Chat 4O AI free gpt image 2.5](https://chat4o.ai/free-gpt-image-2-5/) | Untuk presentasi, ilustrasi pembelajaran, moodboard, dan cerita visual. Sisakan ruang untuk teks slide. | [Prompt terkait](prompts/05-information.md) |
+
+Salin prompt dan ganti detail fiktif. Untuk pengeditan, lampirkan referensi dan tentukan bagian yang harus dipertahankan. Halaman menawarkan akses gratis tanpa pendaftaran, tetapi alat baru meminta verifikasi sebelum generasi. Deskripsi diperiksa pada 14 dan 16 September 2026, tanpa menguji generasi. Fitur lanjutan, video, dan API dapat berbayar; ikuti ketentuan setiap situs.
+
 ## Status contoh
 
 Prompt berikut merupakan adaptasi L005, tidak dihitung sebagai resep baru, dan belum memiliki gambar hasil. Gambar proyek dibuat dengan alat bawaan Codex yang tidak memberikan ID model. Gambar tersebut bukan perbandingan Flare dan Sunburst yang terverifikasi. Periksa teks, jumlah objek, dan bentuk sebelum publikasi.

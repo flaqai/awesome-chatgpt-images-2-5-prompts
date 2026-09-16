@@ -139,6 +139,37 @@ Try pet styling, a synthetic child’s outfit change, a duvet pattern swap, city
 
 The second edit uses the **green output** as its input. The earlier color decision carries forward while the headline changes. Fine texture still drifts, and the stem changes with the base: this is a useful creative sequence, not a promise of pixel-perfect preservation. [Follow the complete case study](docs/editing-case-study.md).
 
+## X community prompts with original source images
+
+Explore six English adaptations, **P086–P091**, for ingredient lettering, fragrance storyboards, mobility posters, paper travel cards, architectural reveals and picnic announcements. Each includes a linked image from its X author, the original post, an explanation of the adaptation, customization options and a targeted follow-up.
+
+These are third-party reference previews, **not generated results of our rewritten prompts**. Our adapted prompts now have their own newly generated examples, separately labeled and documented among the 139 original image assets. X authors’ model claims are not independent benchmarks.
+
+**[Browse the six prompts and source images →](prompts/15-x-community.md)** · [Source and usage guide](docs/x-community.md)
+
+## Free GPT Image 2.5 AI tool No signup required
+
+Ready to try a prompt? These browser-based tools advertise free ChatGPT Images 2.5 generation and editing without signup. Start from a text brief or upload one reference image, choose an aspect ratio, then refine the result. The suggestions below match each tool's published use cases to this library.
+
+| Tool | Introduction | A prompt to try |
+| --- | --- | --- |
+| [Flaq.ai free gpt image 2.5](https://flaq.ai/free-chatgpt-images-2-5/) | A convenient starting point for this collection: create product visuals, posters and realistic scenes, or revise one reference image. The page also connects to Flaq.ai's broader creative tools and model APIs when you want to develop an application workflow. | [P001 · Product campaign](prompts/01-product.md#p001) |
+| [UGC Maker free gpt image 2.5](https://ugcmaker.org/free-chatgpt-images-2-5/) | Geared toward creator content, UGC ad concepts, product stories and social graphics. Use it to explore a campaign image or cover frame before moving into a wider content-production workflow. | [Ads, social & creator covers](prompts/02-social.md) |
+| [Best Image AI free gpt image 2.5](https://bestimage.ai/free-chatgpt-images-2-5/) | A general-purpose image creator and single-reference editor for ecommerce, posters and visual concepts. Its layout options suit experimenting with square, portrait and wide compositions. | [P070 · Collectible packaging](prompts/13-customizable-studio.md#p070) |
+| [HeyDream free gpt image 2.5](https://heydream.im/free-chatgpt-images-2-5/) | Useful for exploring realistic scenes, photo restyling, backgrounds and early storyboard ideas. The page also links to separate image-to-video tools for taking a selected still into a motion workflow. | [P071 · Miniature island](prompts/13-customizable-studio.md#p071) |
+| [AITryOn free gpt image 2.5](https://aitryon.art/free-chatgpt-images-2-5/) | A starting point for outfit concepts, styled portraits, accessories and product imagery. Describe the garment, material, pose and background clearly when developing a fashion direction or editing one photo. | [P079 · Portrait corrections](prompts/14-sketch-to-story.md#p079) |
+| [Flyne AI free gpt image 2.5](https://flyne.ai/free-gpt-image-2-5/) | Useful for product launch concepts, bold social graphics, illustrated storyboards and mood boards. Start from text or one reference, and use the nine aspect ratios to plan headline space and framing. | [Product campaigns](prompts/01-product.md) |
+| [VideoWeb AI free gpt image 2.5](https://videoweb.ai/free-gpt-image-2-5/) | A starting point for film-opening concepts, transition reference frames, campaign visuals and location studies. Describe camera position and lighting, optionally add one reference, then review the still before using it in a video-planning workflow. | [Stories and storyboards](prompts/07-stories-games.md) |
+| [Sea Imagine AI free gpt image 2.5](https://seaimagine.com/free-gpt-image-2-5/) | Explore artistic composition, architectural environments, poster layouts and color palettes. Text or one reference can guide the image; specify negative space, material and light to compare visual directions across different frame shapes. | [Spaces and architecture](prompts/08-spaces.md) |
+| [Fylia AI free gpt image 2.5](https://fylia.ai/free-gpt-image-2-5/) | Try illustrated portraits, miniature storybook scenes, lifestyle compositions and paper-craft color studies. Use a written brief or one reference, then choose a wide, square or portrait format to suit the story. | [People and pets](prompts/03-people-pets.md) |
+| [SeeVido AI free gpt image 2.5](https://seevido.com/free-gpt-image-2-5/) | Explore character scenes, product teasers, travel illustrations and seasonal social posts. Use text or one reference and specify the expression, product details and background that should carry into a revised image. | [Ads and social graphics](prompts/02-social.md) |
+| [VO4 AI free gpt image 2.5](https://vo4.org/free-gpt-image-2-5/) | Develop cinematic scene concepts, action reference frames, science-fiction environments and camera-composition studies. Define the viewpoint, subject and lighting, then use one of nine aspect ratios to frame a still for shot planning. | [Sketch-to-story workflows](prompts/14-sketch-to-story.md) |
+| [Chat 4O AI free gpt image 2.5](https://chat4o.ai/free-gpt-image-2-5/) | Turn written ideas into presentation visuals, learning illustrations, project mood boards and story graphics. Start from a prompt or one reference and reserve space for slide copy; check that the picture communicates the intended idea. | [Information and learning visuals](prompts/05-information.md) |
+
+**Quick workflow:** copy a recipe, replace its fictional details, upload a reference only for an edit, and generate. Save an approved result before applying its follow-up prompt. Recipes requiring multiple reference images need a tool that supports those inputs.
+
+**Availability note:** the original five page descriptions were checked on **2026-09-14**; the seven additions above were checked on **2026-09-16**. Generation was not tested in this review. The newly added tools describe a verification step before generation; no signup does not mean no verification. Free access refers to the linked tools, not every premium feature, video service or API. Current availability and limits follow each site's terms.
+
 ## Get better results with fewer vague instructions
 
 - **Name the deliverable:** a catalog photo, poster, character sheet or architectural concept.
@@ -236,30 +267,6 @@ Create or sign in to your Flaq.ai account, complete your affiliate profile, and 
 Eligibility and payouts follow the current [Affiliate Agreement](https://flaq.ai/affiliate-agreement/). Refunded, charged-back and otherwise ineligible orders do not qualify; disclose your affiliate relationship when promoting referral links. Terms checked on **2026-09-09** and may change.
 
 **[Join the Flaq.ai Affiliate Program →](https://flaq.ai/affiliate-program/)**
-
-## Recommended free ChatGPT Images 2.5 online tools
-
-Ready to try a prompt? These browser-based tools advertise free ChatGPT Images 2.5 generation and editing without signup. Start from a text brief or upload one reference image, choose an aspect ratio, then refine the result. The suggestions below match each tool's published use cases to this library.
-
-| Tool | Introduction | A prompt to try |
-| --- | --- | --- |
-| [Flaq.ai — Free ChatGPT Images 2.5](https://flaq.ai/free-chatgpt-images-2-5/) | A convenient starting point for this collection: create product visuals, posters and realistic scenes, or revise one reference image. The page also connects to Flaq.ai's broader creative tools and model APIs when you want to develop an application workflow. | [P001 · Product campaign](prompts/01-product.md#p001) |
-| [UGC Maker — Free ChatGPT Images 2.5](https://ugcmaker.org/free-chatgpt-images-2-5/) | Geared toward creator content, UGC ad concepts, product stories and social graphics. Use it to explore a campaign image or cover frame before moving into a wider content-production workflow. | [Ads, social & creator covers](prompts/02-social.md) |
-| [Best Image AI — Free ChatGPT Images 2.5](https://bestimage.ai/free-chatgpt-images-2-5/) | A general-purpose image creator and single-reference editor for ecommerce, posters and visual concepts. Its layout options suit experimenting with square, portrait and wide compositions. | [P070 · Collectible packaging](prompts/13-customizable-studio.md#p070) |
-| [HeyDream — Free ChatGPT Images 2.5](https://heydream.im/free-chatgpt-images-2-5/) | Useful for exploring realistic scenes, photo restyling, backgrounds and early storyboard ideas. The page also links to separate image-to-video tools for taking a selected still into a motion workflow. | [P071 · Miniature island](prompts/13-customizable-studio.md#p071) |
-| [AITryOn — Free ChatGPT Images 2.5](https://aitryon.art/free-chatgpt-images-2-5/) | A starting point for outfit concepts, styled portraits, accessories and product imagery. Describe the garment, material, pose and background clearly when developing a fashion direction or editing one photo. | [P079 · Portrait corrections](prompts/14-sketch-to-story.md#p079) |
-
-**Quick workflow:** copy a recipe, replace its fictional details, upload a reference only for an edit, and generate. Save an approved result before applying its follow-up prompt. Recipes requiring multiple reference images need a tool that supports those inputs.
-
-**Availability note:** page descriptions checked on **2026-09-14**; generation was not tested in this review. Free access refers to the linked tools, not every premium feature, video service or API. Current availability and limits follow each site's terms.
-
-## X community prompts with original source images
-
-Explore six English adaptations, **P086–P091**, for ingredient lettering, fragrance storyboards, mobility posters, paper travel cards, architectural reveals and picnic announcements. Each includes a linked image from its X author, the original post, an explanation of the adaptation, customization options and a targeted follow-up.
-
-These are third-party reference previews, **not generated results of our rewritten prompts**. Our adapted prompts now have their own newly generated examples, separately labeled and documented among the 139 original image assets. X authors’ model claims are not independent benchmarks.
-
-**[Browse the six prompts and source images →](prompts/15-x-community.md)** · [Source and usage guide](docs/x-community.md)
 
 ## License
 

@@ -25,6 +25,27 @@ Tạo áp phích dọc 2:3 cho một quán cà phê hư cấu. Trên nền giấ
 
 Kiểm tra dấu thanh, dấu phụ, chữ PHỐ và khoảng cách dòng để dấu không bị cắt.
 
+## Công cụ AI GPT Image 2.5 miễn phí, không cần đăng ký
+
+12 công cụ để thử prompt bằng văn bản hoặc một ảnh tham chiếu.
+
+| Công cụ | Giới thiệu | Prompt liên quan |
+| --- | --- | --- |
+| [Flaq.ai free gpt image 2.5](https://flaq.ai/free-chatgpt-images-2-5/) | Dành cho ảnh sản phẩm, áp phích và cảnh chân thực. Có liên kết đến các công cụ sáng tạo và API của Flaq.ai. | [P001](prompts/01-product.md#p001) |
+| [UGC Maker free gpt image 2.5](https://ugcmaker.org/free-chatgpt-images-2-5/) | Dành cho ý tưởng quảng cáo UGC, câu chuyện sản phẩm và hình ảnh mạng xã hội. | [Prompt liên quan](prompts/02-social.md) |
+| [Best Image AI free gpt image 2.5](https://bestimage.ai/free-chatgpt-images-2-5/) | Dành cho thương mại điện tử, áp phích và ý tưởng hình ảnh với bố cục vuông, dọc hoặc ngang. | [P070](prompts/13-customizable-studio.md#p070) |
+| [HeyDream free gpt image 2.5](https://heydream.im/free-chatgpt-images-2-5/) | Dành cho cảnh chân thực, đổi phong cách ảnh và phông nền. Có liên kết đến công cụ chuyển ảnh thành video riêng biệt. | [P071](prompts/13-customizable-studio.md#p071) |
+| [AITryOn free gpt image 2.5](https://aitryon.art/free-chatgpt-images-2-5/) | Dành cho ý tưởng trang phục, chân dung thời trang, phụ kiện và sản phẩm. Nêu rõ chất liệu, tư thế và bối cảnh. | [P079](prompts/14-sketch-to-story.md#p079) |
+| [Flyne AI free gpt image 2.5](https://flyne.ai/free-gpt-image-2-5/) | Dành cho ra mắt sản phẩm, đồ họa mạng xã hội, bảng phân cảnh minh họa và bảng cảm hứng. Trang giới thiệu chín tỷ lệ ảnh. | [Prompt liên quan](prompts/01-product.md) |
+| [VideoWeb AI free gpt image 2.5](https://videoweb.ai/free-gpt-image-2-5/) | Dành cho cảnh mở đầu phim, khung hình chuyển cảnh, chiến dịch và nghiên cứu địa điểm. Nêu rõ vị trí máy quay và ánh sáng. | [Prompt liên quan](prompts/07-stories-games.md) |
+| [Sea Imagine AI free gpt image 2.5](https://seaimagine.com/free-gpt-image-2-5/) | Dành cho bố cục nghệ thuật, không gian kiến trúc, áp phích và thử nghiệm bảng màu. | [Prompt liên quan](prompts/08-spaces.md) |
+| [Fylia AI free gpt image 2.5](https://fylia.ai/free-gpt-image-2-5/) | Dành cho chân dung minh họa, thế giới truyện thu nhỏ, cảnh đời thường và nghệ thuật giấy. | [Prompt liên quan](prompts/03-people-pets.md) |
+| [SeeVido AI free gpt image 2.5](https://seevido.com/free-gpt-image-2-5/) | Dành cho cảnh nhân vật, ảnh giới thiệu sản phẩm, minh họa du lịch và bài đăng theo mùa. | [Prompt liên quan](prompts/02-social.md) |
+| [VO4 AI free gpt image 2.5](https://vo4.org/free-gpt-image-2-5/) | Dành cho cảnh điện ảnh, hình tham khảo hành động, thế giới khoa học viễn tưởng và nghiên cứu góc máy. | [Prompt liên quan](prompts/14-sketch-to-story.md) |
+| [Chat 4O AI free gpt image 2.5](https://chat4o.ai/free-gpt-image-2-5/) | Dành cho thuyết trình, minh họa học tập, bảng cảm hứng và kể chuyện bằng hình ảnh. Chừa chỗ cho chữ trên slide. | [Prompt liên quan](prompts/05-information.md) |
+
+Sao chép prompt và thay chi tiết giả định. Khi chỉnh sửa, đính kèm ảnh tham chiếu và nêu phần cần giữ lại. Các trang giới thiệu miễn phí, không cần đăng ký, nhưng công cụ mới yêu cầu xác minh trước khi tạo ảnh. Mô tả được kiểm tra ngày 14 và 16 tháng 9 năm 2026; chưa thử tạo ảnh. Tính năng nâng cao, video và API có thể tính phí theo điều khoản từng trang.
+
 ## Tình trạng ví dụ
 
 Prompt dưới đây là bản điều chỉnh từ L005, không được tính là công thức mới và chưa có ảnh kết quả. Ảnh của dự án được tạo bằng công cụ tích hợp trong Codex, không trả về mã mô hình. Đây không phải phép so sánh đã xác minh giữa Flare và Sunburst. Hãy kiểm tra chữ, số lượng vật thể và hình dạng trước khi đăng.

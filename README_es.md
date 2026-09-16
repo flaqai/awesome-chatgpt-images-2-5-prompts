@@ -23,6 +23,27 @@ Crea un cartel vertical 2:3 para una cafetería ficticia. Sobre papel crema, mue
 
 Revisa las tildes de CAFÉ, la coma y que no aparezcan palabras adicionales.
 
+## Herramientas de IA GPT Image 2.5 gratuitas, sin registro
+
+12 herramientas para probar los prompts de esta biblioteca con texto o una imagen de referencia.
+
+| Herramienta | Descripción | Prompts relacionados |
+| --- | --- | --- |
+| [Flaq.ai free gpt image 2.5](https://flaq.ai/free-chatgpt-images-2-5/) | Para imágenes de producto, carteles y escenas realistas. También enlaza con las herramientas creativas y las API de Flaq.ai. | [P001](prompts/01-product.md#p001) |
+| [UGC Maker free gpt image 2.5](https://ugcmaker.org/free-chatgpt-images-2-5/) | Para conceptos de anuncios UGC, historias de producto y gráficos para redes sociales. | [Prompts relacionados](prompts/02-social.md) |
+| [Best Image AI free gpt image 2.5](https://bestimage.ai/free-chatgpt-images-2-5/) | Para comercio electrónico, carteles y conceptos visuales en composiciones cuadradas, verticales o panorámicas. | [P070](prompts/13-customizable-studio.md#p070) |
+| [HeyDream free gpt image 2.5](https://heydream.im/free-chatgpt-images-2-5/) | Para escenas realistas, cambios de estilo y fondos. Incluye enlaces a herramientas independientes de imagen a vídeo. | [P071](prompts/13-customizable-studio.md#p071) |
+| [AITryOn free gpt image 2.5](https://aitryon.art/free-chatgpt-images-2-5/) | Para ideas de vestuario, retratos de moda, accesorios y productos. Define tejido, postura y fondo. | [P079](prompts/14-sketch-to-story.md#p079) |
+| [Flyne AI free gpt image 2.5](https://flyne.ai/free-gpt-image-2-5/) | Para lanzamientos de producto, gráficos sociales, guiones gráficos ilustrados y tableros de inspiración. Anuncia nueve proporciones. | [Prompts relacionados](prompts/01-product.md) |
+| [VideoWeb AI free gpt image 2.5](https://videoweb.ai/free-gpt-image-2-5/) | Para aperturas de películas, fotogramas de transición, campañas y estudios de localización. Especifica cámara e iluminación. | [Prompts relacionados](prompts/07-stories-games.md) |
+| [Sea Imagine AI free gpt image 2.5](https://seaimagine.com/free-gpt-image-2-5/) | Para composición artística, entornos arquitectónicos, carteles y exploraciones de paletas de color. | [Prompts relacionados](prompts/08-spaces.md) |
+| [Fylia AI free gpt image 2.5](https://fylia.ai/free-gpt-image-2-5/) | Para retratos ilustrados, mundos en miniatura, escenas cotidianas y estudios de manualidades en papel. | [Prompts relacionados](prompts/03-people-pets.md) |
+| [SeeVido AI free gpt image 2.5](https://seevido.com/free-gpt-image-2-5/) | Para personajes, avances de productos, ilustraciones de viajes y publicaciones de temporada. | [Prompts relacionados](prompts/02-social.md) |
+| [VO4 AI free gpt image 2.5](https://vo4.org/free-gpt-image-2-5/) | Para escenas cinematográficas, referencias de acción, entornos de ciencia ficción y estudios de encuadre. | [Prompts relacionados](prompts/14-sketch-to-story.md) |
+| [Chat 4O AI free gpt image 2.5](https://chat4o.ai/free-gpt-image-2-5/) | Para presentaciones, ilustraciones educativas, tableros de inspiración y relatos visuales. Reserva espacio para el texto. | [Prompts relacionados](prompts/05-information.md) |
+
+Copia un prompt y sustituye los detalles ficticios. Para editar, adjunta la referencia e indica qué conservar. Las páginas anuncian acceso gratuito sin registro; las nuevas herramientas piden una verificación antes de generar. Descripciones revisadas el 14 y el 16 de septiembre de 2026, sin probar la generación. Las funciones avanzadas, los vídeos y las API pueden ser de pago; consulta los límites de cada sitio.
+
 ## Estado de los ejemplos
 
 Las imágenes se generaron con la herramienta integrada de Codex, que no devolvió su identificador de modelo. No son pruebas verificadas de Flare o Sunburst. Las plantillas sin imagen se identifican como pendientes de generación. Revisa texto, proporciones y semejanza antes de publicar.

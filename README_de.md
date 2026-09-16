@@ -25,6 +25,27 @@ Gestalte ein Hochformatplakat im Verhältnis 2:3 für eine fiktive offene Werkst
 
 Umlaute in FÜRS und Hände sowie Wortumbrüche prüfen.
 
+## Kostenlose GPT Image 2.5 KI-Tools ohne Anmeldung
+
+12 Tools zum Ausprobieren der Prompts mit Text oder einem Referenzbild.
+
+| Tool | Beschreibung | Passende Prompts |
+| --- | --- | --- |
+| [Flaq.ai free gpt image 2.5](https://flaq.ai/free-chatgpt-images-2-5/) | Für Produktbilder, Plakate und realistische Szenen. Verlinkt auch auf weitere Kreativwerkzeuge und Flaq.ai-APIs. | [P001](prompts/01-product.md#p001) |
+| [UGC Maker free gpt image 2.5](https://ugcmaker.org/free-chatgpt-images-2-5/) | Für UGC-Werbekonzepte, Produktgeschichten und Grafiken für soziale Medien. | [Passende Prompts](prompts/02-social.md) |
+| [Best Image AI free gpt image 2.5](https://bestimage.ai/free-chatgpt-images-2-5/) | Für E-Commerce, Plakate und Bildkonzepte in quadratischen, hohen oder breiten Formaten. | [P070](prompts/13-customizable-studio.md#p070) |
+| [HeyDream free gpt image 2.5](https://heydream.im/free-chatgpt-images-2-5/) | Für realistische Szenen, neue Bildstile und Hintergründe. Separate Bild-zu-Video-Werkzeuge sind verlinkt. | [P071](prompts/13-customizable-studio.md#p071) |
+| [AITryOn free gpt image 2.5](https://aitryon.art/free-chatgpt-images-2-5/) | Für Outfits, Modeporträts, Accessoires und Produktbilder. Material, Pose und Hintergrund konkret angeben. | [P079](prompts/14-sketch-to-story.md#p079) |
+| [Flyne AI free gpt image 2.5](https://flyne.ai/free-gpt-image-2-5/) | Für Produkteinführungen, Social-Media-Grafiken, illustrierte Storyboards und Moodboards. Bewirbt neun Seitenverhältnisse. | [Passende Prompts](prompts/01-product.md) |
+| [VideoWeb AI free gpt image 2.5](https://videoweb.ai/free-gpt-image-2-5/) | Für Filmauftakte, Übergangsbilder, Kampagnen und Ortsstudien. Kameraposition und Licht im Prompt festlegen. | [Passende Prompts](prompts/07-stories-games.md) |
+| [Sea Imagine AI free gpt image 2.5](https://seaimagine.com/free-gpt-image-2-5/) | Für künstlerische Kompositionen, architektonische Umgebungen, Plakatlayouts und Farbpaletten. | [Passende Prompts](prompts/08-spaces.md) |
+| [Fylia AI free gpt image 2.5](https://fylia.ai/free-gpt-image-2-5/) | Für illustrierte Porträts, Miniaturwelten, Alltagsszenen und Papierkunst mit unterschiedlichen Farben. | [Passende Prompts](prompts/03-people-pets.md) |
+| [SeeVido AI free gpt image 2.5](https://seevido.com/free-gpt-image-2-5/) | Für Figurenszenen, Produktankündigungen, Reiseillustrationen und saisonale Beiträge. | [Passende Prompts](prompts/02-social.md) |
+| [VO4 AI free gpt image 2.5](https://vo4.org/free-gpt-image-2-5/) | Für filmische Szenen, Aktionsreferenzen, Science-Fiction-Welten und Studien zum Bildausschnitt. | [Passende Prompts](prompts/14-sketch-to-story.md) |
+| [Chat 4O AI free gpt image 2.5](https://chat4o.ai/free-gpt-image-2-5/) | Für Präsentationen, Lernillustrationen, Moodboards und Bildgeschichten. Platz für Folientext einplanen. | [Passende Prompts](prompts/05-information.md) |
+
+Prompt kopieren und fiktive Angaben ersetzen. Bei einer Bearbeitung das Referenzbild anhängen und festlegen, was erhalten bleiben soll. Die Seiten werben mit kostenloser Nutzung ohne Anmeldung; die neuen Tools verlangen vor der Generierung eine Verifizierung. Beschreibungen am 14. und 16. September 2026 geprüft, keine Generierung getestet. Erweiterte Funktionen, Videos und APIs können kostenpflichtig sein; es gelten die jeweiligen Bedingungen.
+
 ## Stand der Beispiele
 
 Der folgende Prompt ist eine noch nicht gerenderte Vorlage. Die Projektbilder entstanden mit dem integrierten Codex-Bildwerkzeug, das keine Modell-ID zurückgab. Sie sind kein verifizierter Vergleich von Flare und Sunburst. Prüfe Schrift, Mengen und Formen vor der Veröffentlichung.

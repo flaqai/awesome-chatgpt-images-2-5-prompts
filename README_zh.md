@@ -107,6 +107,37 @@ README现提供 **16个语言／地区版本**，默认英文。各语言入口�
 
 第二轮以第一轮绿色成图为输入，能直观看到确认稿如何继续修改。细微表面纹理仍有变化，灯杆也随底座变绿，不能理解为像素级不变。[查看完整过程与验收方法](docs/editing-case-study.md)。
 
+## X 社区提示词与原图来源
+
+新增 **P086–P091 共6条英文配方**，覆盖食材文字、香水分镜、交通工具海报、纸艺旅行卡、建筑草图演变与野餐邀请。每条都附 X 作者、原帖、原图预览、改写说明、微调参数和验收要点。
+
+原图为第三方来源参考，不是改写提示词的生成结果，也不纳入本库 MIT 许可；本库改写后的6条X场景也已单独生成配图，计入139张原创图片资产。模型名称来自原帖作者说明，未经独立验证。
+
+[查看提示词及来源图片](prompts/15-x-community.md) · [英文使用指南](docs/x-community.md)
+
+## 免费 GPT Image 2.5 AI 工具，无需注册
+
+想直接试用本库提示词，可以从以下在线工具开始。各页面均介绍了免费、免注册的 ChatGPT Images 2.5 文生图和单张参考图编辑：输入提示词或上传一张图片，选择比例，再根据结果继续调整。
+
+| 工具 | 简介 | 推荐尝试 |
+| --- | --- | --- |
+| [Flaq.ai free gpt image 2.5](https://flaq.ai/free-chatgpt-images-2-5/) | 适合从本库配方开始尝试产品图、海报、写实场景和单图修改。页面还连接 flaq.ai 的创作工具与模型 API，方便将确认后的创意进一步接入应用流程。 | [P001 产品广告](prompts/01-product.md#p001) |
+| [UGC Maker free gpt image 2.5](https://ugcmaker.org/free-chatgpt-images-2-5/) | 面向创作者内容、UGC 广告概念、产品故事和社交媒体图片，可先探索广告主视觉或封面，再继续制作其他内容。 | [广告、社媒与创作者封面](prompts/02-social.md) |
+| [Best Image AI free gpt image 2.5](https://bestimage.ai/free-chatgpt-images-2-5/) | 通用文生图与单图编辑入口，适合电商、海报和视觉概念探索，可尝试方形、竖版和横版等不同构图。 | [P070 收藏玩具包装](prompts/13-customizable-studio.md#p070) |
+| [HeyDream free gpt image 2.5](https://heydream.im/free-chatgpt-images-2-5/) | 适合写实场景、照片风格调整、背景编辑与初步分镜构思；页面还提供独立图生视频工具入口，方便继续探索动态内容。 | [P071 灯塔微缩场景](prompts/13-customizable-studio.md#p071) |
+| [AITryOn free gpt image 2.5](https://aitryon.art/free-chatgpt-images-2-5/) | 适合服装概念、时尚人像、配饰和商品图。生成或编辑时明确服装、材质、姿势与背景，有助于表达具体造型方向。 | [P079 人像局部修改](prompts/14-sketch-to-story.md#p079) |
+| [Flyne AI free gpt image 2.5](https://flyne.ai/free-gpt-image-2-5/) | 适合产品发布概念图、醒目社交配图、插画分镜和情绪板。可从文字或单张参考图开始，通过九种画幅比例安排主体位置与标题留白。 | [产品广告](prompts/01-product.md) |
+| [VideoWeb AI free gpt image 2.5](https://videoweb.ai/free-gpt-image-2-5/) | 适合影片开场概念、转场参考帧、广告主视觉和场景氛围研究。提示词中明确机位与光线，可添加单张参考图，先确认静态画面，再用于视频前期策划。 | [故事与分镜](prompts/07-stories-games.md) |
+| [Sea Imagine AI free gpt image 2.5](https://seaimagine.com/free-gpt-image-2-5/) | 适合艺术构图、建筑环境、海报布局和配色探索。通过文字或单张参考图引导画面，明确留白、材质与光线，比较不同画幅中的视觉方向。 | [空间与建筑](prompts/08-spaces.md) |
+| [Fylia AI free gpt image 2.5](https://fylia.ai/free-gpt-image-2-5/) | 适合插画人像、微缩绘本场景、生活方式图片及纸艺色彩实验。可输入文字或使用单张参考图，根据故事需要选择横版、方形或竖版构图。 | [人物与宠物](prompts/03-people-pets.md) |
+| [SeeVido AI free gpt image 2.5](https://seevido.com/free-gpt-image-2-5/) | 适合角色场景、产品预热图、旅行插画和季节性社交配图。支持文字或单张参考图引导；修改时明确需要保留的表情、产品细节与背景元素。 | [广告与社交配图](prompts/02-social.md) |
+| [VO4 AI free gpt image 2.5](https://vo4.org/free-gpt-image-2-5/) | 适合电影感场景、动作参考帧、科幻环境和镜头构图研究。先明确视点、主体和照明，再从九种画幅中选择合适比例，为镜头规划制作静态参考图。 | [草图到故事工作流](prompts/14-sketch-to-story.md) |
+| [Chat 4O AI free gpt image 2.5](https://chat4o.ai/free-gpt-image-2-5/) | 适合将文字想法转成演示文稿配图、教学插画、项目情绪板和故事图片。从提示词或单张参考图开始，为幻灯片文案预留空间，并检查图像是否准确表达主题。 | [信息图与教学插图](prompts/05-information.md) |
+
+**使用方法：**复制配方并替换虚构内容；编辑任务上传参考图，生成后检查并保存确认稿，再使用后续修改指令。需要多张参考图的配方，应选择支持相应输入数量的工具。
+
+**可用性说明：**原有5个页面于 **2026-09-14** 核对，新增7个页面于 **2026-09-16** 核对，本次未实测生成。新增工具的页面均说明生成前需完成验证，免注册不代表无需验证。免费指所链接的工具，不代表高级功能、视频服务或 API 一并免费；当前可用性与限制以各站规则为准。
+
 ## 针对 Images 2.5 做了哪些细化？
 
 官方模型文档将 **Flare** 定位为快速日常生图，将 **Sunburst** 用于更重视编辑精度的工作流，均接受文字和图像输入。参见 [Flare 模型页](https://developers.openai.com/api/docs/models/gpt-image-2.5-flare)及 [Sunburst 模型页](https://developers.openai.com/api/docs/models/gpt-image-2.5-sunburst)。
@@ -176,32 +207,8 @@ README现提供 **16个语言／地区版本**，默认英文。各语言入口�
 
 **[加入 flaq.ai 联盟计划 →](https://flaq.ai/affiliate-program/)**
 
-## 推荐免费 ChatGPT Images 2.5 在线工具
-
-想直接试用本库提示词，可以从以下在线工具开始。各页面均介绍了免费、免注册的 ChatGPT Images 2.5 文生图和单张参考图编辑：输入提示词或上传一张图片，选择比例，再根据结果继续调整。
-
-| 工具 | 简介 | 推荐尝试 |
-| --- | --- | --- |
-| [Flaq.ai 免费 ChatGPT Images 2.5](https://flaq.ai/free-chatgpt-images-2-5/) | 适合从本库配方开始尝试产品图、海报、写实场景和单图修改。页面还连接 flaq.ai 的创作工具与模型 API，方便将确认后的创意进一步接入应用流程。 | [P001 产品广告](prompts/01-product.md#p001) |
-| [UGC Maker 免费 ChatGPT Images 2.5](https://ugcmaker.org/free-chatgpt-images-2-5/) | 面向创作者内容、UGC 广告概念、产品故事和社交媒体图片，可先探索广告主视觉或封面，再继续制作其他内容。 | [广告、社媒与创作者封面](prompts/02-social.md) |
-| [Best Image AI 免费 ChatGPT Images 2.5](https://bestimage.ai/free-chatgpt-images-2-5/) | 通用文生图与单图编辑入口，适合电商、海报和视觉概念探索，可尝试方形、竖版和横版等不同构图。 | [P070 收藏玩具包装](prompts/13-customizable-studio.md#p070) |
-| [HeyDream 免费 ChatGPT Images 2.5](https://heydream.im/free-chatgpt-images-2-5/) | 适合写实场景、照片风格调整、背景编辑与初步分镜构思；页面还提供独立图生视频工具入口，方便继续探索动态内容。 | [P071 灯塔微缩场景](prompts/13-customizable-studio.md#p071) |
-| [AITryOn 免费 ChatGPT Images 2.5](https://aitryon.art/free-chatgpt-images-2-5/) | 适合服装概念、时尚人像、配饰和商品图。生成或编辑时明确服装、材质、姿势与背景，有助于表达具体造型方向。 | [P079 人像局部修改](prompts/14-sketch-to-story.md#p079) |
-
-**使用方法：**复制配方并替换虚构内容；编辑任务上传参考图，生成后检查并保存确认稿，再使用后续修改指令。需要多张参考图的配方，应选择支持相应输入数量的工具。
-
-**可用性说明：**以上介绍于 **2026-09-14** 核对页面，本次未实测生成。免费指所链接的工具，不代表高级功能、视频服务或 API 一并免费；当前可用性与限制以各站规则为准。
-
 ## 许可
 
 [MIT](LICENSE) © 2026 Flaq AI。
 
 [默认英文首页](README.md) · [完整索引](prompts/README.md) · [机器可读数据](data/prompts.json) · [更新日志](CHANGELOG.md) · [SEO 发布文案](docs/seo.md)
-
-## X 社区提示词与原图来源
-
-新增 **P086–P091 共6条英文配方**，覆盖食材文字、香水分镜、交通工具海报、纸艺旅行卡、建筑草图演变与野餐邀请。每条都附 X 作者、原帖、原图预览、改写说明、微调参数和验收要点。
-
-原图为第三方来源参考，不是改写提示词的生成结果，也不纳入本库 MIT 许可；本库改写后的6条X场景也已单独生成配图，计入139张原创图片资产。模型名称来自原帖作者说明，未经独立验证。
-
-[查看提示词及来源图片](prompts/15-x-community.md) · [英文使用指南](docs/x-community.md)
